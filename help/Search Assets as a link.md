@@ -1,0 +1,1 @@
+Search Assets as a link
