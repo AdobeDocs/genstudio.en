@@ -1,53 +1,111 @@
-# Search Assets as a link
+# Search Assets in Content Hub 
 
-![Share assets banner image](assets/share-assets-banner.png)
+![Share assets banner image](assets/search-assets-banner.png)
 
-Sharing assets through a link is a convenient way of making the resources available to the Content Hub users. The functionality allows authorized users to access and download the assets shared with them. When downloading assets from a shared link, Content Hub uses an asynchronous service that offers faster and uninterrupted download.
+When you have a large number of assets in your repository, searching for the right asset is time-consuming. Content Hub search provides you with the capability to look for the approved assets so that you can perform additional actions on them, such as download, share, or create collections. You can utilize various capabilities such as performing text-based search, using filters to narrow down your search results, performing tags or smart tags specific search, searching for the particular file format, and so on.
 
-## Share a single asset 
+## What you can search for  
 
-You can share a single asset by executing the following steps: 
+The Content Hub search provides results based on: 
 
-1. Select an asset and click the ![share icon](assets/share.svg) icon to share an asset. 
+* **Matching text:** The Content Hub search allows you to search for an asset using its name or description. You can perform keyword-based search, which compares the keyword to the text available in the properties of an asset. 
 
-![Sharing single asset](assets/sharing-single-asset.png)
+* **Matching context:** Content Hub search results list contains proximate results of assets that you get based on the matching text. For example, if you type `cool` in the search bar, the assets related to `winter`, `snow`, `cold surroundings`, etc. appear in the search list. 
 
-1. Use the Expiration field to specify an expiration date for the link. Select one of the available options, such as, 24 hours, 1 week, 30 days, 90 days, 1 year or specify a custom date.  
+* **Asset information (title, tags, or smart tags):** Content Hub uses smart search algorithm to rank search results accurately and as relevant as possible. Metadata is the collection of all the data available for an asset, but it may not necessarily be contained in that asset. It helps you further categorize assets and is helpful as the amount of digital information grows. 
 
-1. Click Copy share link. You can then share the copied link with the recipient.
- 
-## Share a multiple assets
+* **Last modified date:** The assets that were modified recently appear on the top of search results list. You can also filter the date range as per your requirement. 
 
-Content Hub allows you to share multiple assets via a shared link. Execute the steps below: 
+* **Usage:** The commonly used assets appear on the top of the search list. 
 
-1. Select assets that you want to share with the authorized recipient. You can select multiple assets one by one or click select all to select all available assets at once. 
+## Basic search 
 
-1. Click the ![share icon](assets/share.svg) icon. 
+To perform basic search on Content Hub, navigate to the search bar and specify the keyword that you need to search. Navigate to filters available in the left pane and apply them to narrow down your search results. 
 
-![Sharing multiple assets](assets/sharing-multiple-assets.png)
+For example, search for all the JPEG images with keyword "architect" in it which was modified within the last year. To execute this scenario, follow the steps below: 
 
-1. In preview section, select or delete assets as per the requirement. Use the Expiration field to specify an expiration date for the link. Select one of the available options, such as, 24 hours, 1 week, 30 days, 90 days, 1 year or specify a custom date.  
+1. Specify architect as the search keyword. 
 
-1. Click Copy share link. You can then share the copied link with the recipient. 
+1. Navigate to filters panel > Format > select JPEG. 
 
-## View and manage shared links 
+1. Navigate to Modified > specify the date range. 
 
-You can select one or multiple assets and preview the selected assets before sharing them to the authorized users. 
+![Basic search](assets/basic-search.png)
 
-### Preview assets 
+## Narrow your search results using filters 
 
-You can preview to see how a digital asset that you are going to share looks when it is viewed by a customer into their portal. By default, the embedded viewer can be used to preview an asset. A viewer is a collection of various settings or presets, such as the viewer display size, zoom behavior, previous, next, etc. These presets determine how users view rich-media assets on their computer screens and mobile devices. 
+Use the Filters panel to search for assets based on metadata. You can filter search results based on various search predicates, such as tags, subject, format, and last modified date. The filters have mixed-state checkboxes. You must select all the required predicates to minimize your search results. 
 
-You can preview a selected asset by executing the following steps: 
+<table>
+    <tbody>
+     <tr>
+      <th><strong>Search Predicate</strong></th>
+      <th><strong>Description</strong></th>
+      <th><strong>Properties</strong></th>
+     </tr>
+     <tr>
+      <td>Tags</td>
+      <td>Tags help you categorize assets that can be browsed and searched more efficiently based on hierarchical taxonomies.</td>
+      <td>
+        <ul>
+            <li>Field label</li>
+            <li>Property name</li>
+            <li>Path</li>
+            <li>Description</li>
+        </ul>
+      </td>
+     </tr>
+     <tr>
+      <td>Format</td>
+      <td>Composition of an asset. The supported assets include image, document, video, printable media, etc. formats.</td>
+      <td>
+        <ul>
+            <li>JPEG</li> 
+            <li>Quicktime</li> 
+            <li>PNG</li> 
+            <li>Webp</li> 
+            <li>MP4</li> 
+            <li>Plain</li> 
+            <li>PDF</li>
+            <li>SVG + XML</li>
+        </ul>
+      </td>
+     </tr>
+     <tr>
+      <td>Subject</td>
+      <td>Classification of assets based on their theme. For example, colorful, hiking, outdoors, etc.</td>
+      <td>NA</td>
+     </tr>
+     <tr>
+      <td>Modified</td>
+      <td>Date to search assets based on their last modification. Specify the date range using the Start date and End date fields.</td>
+      <td>
+        <ul>
+            <li>Range text (From)</li> 
+            <li>Range text (To) </li>
+        </ul>
+      </td>
+     </tr>    
+     <tr>
+      <td>Asset ID</td>
+      <td>Unique number that identifies the asset.</td>
+      <td>NA</td>
+     </tr>  
+    </tbody>
+   </table>
 
-1. Select an asset. Double click an asset to open a preview section of the selected asset displaying metadata associated to it. You can maximize, go to the previous or next asset, or download the asset directly from the preview panel. 
+## Do more with search 
 
-1. Before sharing an asset, you can preview the selected asset. Select an asset. The next pop-up shows the preview panel on the left. 
+Content Hub is not limited to search, instead it allows you to download, share and add assets to collection right from the search or preview interface. 
 
-### Access the shared assets 
+### Download asset 
 
-After sharing the link for assets, the recipients can click the link to preview or download the shared assets in a web browser without the need to log in to Content Hub. 
+You can download assets including static and dynamic renditions. Moreover, you can download a single or multiple assets in a single click. See Download Assets in Content Hub. 
 
-Click the link, and then click the asset to preview it. You can select to view the shared assets in a Card View. You can hover the mouse over the shared asset to either select the asset or download it.  
+### Share asset 
 
-You can also select multiple assets and click Download icon. You can choose to download versions of the shared asset. Download original assets or original+renditions of an asset. Content Hub downloads each asset one by one.
+Content Hub lets you share assets with members of your organization including partners and vendors who are the authorized Experience Manager users. See Share Assets in Content Hub. 
+
+### Add asset to Collection 
+
+Content Hub allow users to create public collections that are accessible to all the entitled users. See Collections in Content Hub. 
