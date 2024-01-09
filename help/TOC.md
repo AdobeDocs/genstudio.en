@@ -8,4 +8,5 @@ user-guide-description: Add description for GenStudio Documentation
 
 + [Overview](overview.md)
 + [Search Assets](search-assets.md)
-+ [Share Assets as a link](share-assets-as-a-link)
++ [Share Assets as a link](share-assets-as-a-link.md)
++ [Asset properties](asset-properties.md)
