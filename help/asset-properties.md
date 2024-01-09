@@ -12,7 +12,7 @@ Viewing asset properties help you further categorize assets and is helpful as th
 
 ## Evaluate information for the searched assets  {#evaluate-info}
 
-Assets provides you with the right means of creating, managing, and exchanging information for your digital assets.
+Assets provide you with the right means of creating, managing, and exchanging information for your digital assets.
 
 ### View properties of an asset {#properties-ui}
 
@@ -32,7 +32,7 @@ Before you use, share, or download an asset, you can view it more closely. The p
 
 ## Supported formats {#supported-formats}
 
-Format refers to the composition of an asset. The supported assets can be in image, document, video, printable media, etc. formats. Following table demonstrates the supported file formats in [!DNL Content Hub]: 
+Format refers to the composition of an asset. The supported assets can be in image, document, video, printable media, and so on, formats. Following table demonstrates the supported file formats in [!DNL Content Hub]: 
 
 <table>
     <tbody>
@@ -82,7 +82,7 @@ Format refers to the composition of an asset. The supported assets can be in ima
 
 ### Size {#size-of-an-asset} 
 
-Size demonstrates the logical value of an asset as per its dimensions. It clarifies the space an asset is taking in DAM. [!DNL Content Hub] support assets up to 2GB. 
+Size demonstrates the logical value of an asset as per its dimensions. It clarifies the space that an asset is taking in DAM. [!DNL Content Hub] support assets up to 2GB. 
 
 ### Tags {#tags}
 
@@ -90,7 +90,7 @@ Tags help you categorize assets that can be browsed and searched more efficientl
 
 ### Smart Tags{#smart-tags} 
 
-[!DNL Content Hub] uses Adobe Sensei's smart content services to train assets using recognition algorithm on the tags-based structure. This content intelligence is then used to apply relevant tags on a different set of assets. Smart Tags increase the content velocity of your projects by helping you find relevant assets quickly. The smart tags are an example of asset information that is not contained in the image. [!DNL Content Hub] automatically applies smart tags to assets, by default. 
+[!DNL Content Hub] uses Adobe Sensei's smart content services to train assets using recognition algorithm on the tags-based structure. This content intelligence is then used to apply relevant tags on a different set of assets. Smart Tags increase the content velocity of your projects by helping that you find relevant assets quickly. The smart tags are an example of asset information that is not contained in the image. [!DNL Content Hub] automatically applies smart tags to assets, by default. 
 
 ### Date range {#date-range} 
 

@@ -2,7 +2,7 @@
 
 ![Share assets banner image](assets/search-assets-banner.png)
 
-When you have a large number of assets in your repository, searching for the right asset is time-consuming. [!DNL Content Hub] search provides you with the capability to look for the approved assets so that you can perform additional actions on them, such as download, share, or create collections. You can utilize various capabilities such as performing text-based search, using filters to narrow down your search results, performing tags or smart tags specific search, searching for the particular file format, and so on.
+When you have a large number of assets in your repository, searching for the right asset is time-consuming. [!DNL Content Hub] search provides you with the capability to look for the approved assets so that you can perform additional actions on them, such as download, share, or create collections. You can utilize various capabilities such as performing text-based search, using filters to narrow down your search results, performing tags or smart tags specific search, searching for the particular file format.
 
 ## What you can search for  {#what-you-can-search}
 
@@ -34,7 +34,7 @@ For example, search for all the **[!UICONTROL JPEG]** images with keyword `archi
 
 ## Narrow your search results using filters {#narrow-down-search-results}
 
-Use the Filters panel to search for assets based on metadata. You can filter search results based on various search predicates, such as [!UICONTROL tags], [!UICONTROL subject], [!UICONTROL format], and [!UICONTROL last modified date]. The filters have mixed-state checkboxes. You must select all the required predicates to minimize your search results. 
+Use the Filters panel to search for assets based on metadata. You can filter search results based on various search predicates, such as [!UICONTROL tags], [!UICONTROL subject], [!UICONTROL format], and [!UICONTROL last modified date]. The filters have mixed-state checkboxes. You can select all the required predicates to minimize your search results. 
 
 <table>
     <tbody>
@@ -57,7 +57,7 @@ Use the Filters panel to search for assets based on metadata. You can filter sea
      </tr>
      <tr>
       <td>Format</td>
-      <td>Composition of an asset. The supported assets include image, document, video, printable media, etc. formats.</td>
+      <td>Composition of an asset. The supported assets include image, document, video, printable media, and so on, formats.</td>
       <td>
         <ul>
             <li>[!UICONTROL JPEG]</li> 
@@ -96,7 +96,7 @@ Use the Filters panel to search for assets based on metadata. You can filter sea
 
 ## Do more with search 
 
-[!DNL Content Hub] is not limited to search, instead it allows you to [download](), [share](share-assets-as-a-link.md) and [add assets to collection]() right from the search or preview interface. 
+[!DNL Content Hub] is not limited to search, instead it allows you to [download](), [share](share-assets-as-a-link.md), and [add assets to collection]() right from the search or preview interface. 
 
 ### Download asset 
 
@@ -106,6 +106,6 @@ You can [download assets]() including static and dynamic renditions. Moreover, y
 
 [!DNL Content Hub] lets you share assets with members of your organization including partners and vendors who are the authorized Experience Manager users. See [share assets](share-assets-as-a-link.md) in [!DNL Content Hub]. 
 
-### Add asset to Collection 
+### Add assets to Collection 
 
 [!DNL Content Hub] allow users to create public collections that are accessible to all the entitled users. See [Collections]() in [!DNL Content Hub]. 

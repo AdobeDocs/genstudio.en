@@ -40,7 +40,7 @@ You can preview to see how a digital asset that you are going to share looks whe
 
 You can preview a selected asset by executing the following steps: 
 
-1. Select an asset. Double click an asset to open a preview section of the selected asset displaying metadata associated to it. You can maximize, go to the previous or next asset, or download the asset directly from the preview panel. 
+1. Select an asset. Double-click an asset to open a preview section of the selected asset displaying metadata associated to it. You can maximize, go to the previous or next asset, or download the asset directly from the preview panel. 
 
 1. Before sharing an asset, you can preview the selected asset. Select an asset. The next pop-up shows the preview panel on the left. 
 
