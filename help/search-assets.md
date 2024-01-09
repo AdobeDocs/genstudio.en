@@ -1,3 +1,9 @@
+---
+title: Search assets in Content Hub
+description: Search assets in [!DNL Content Hub]
+role: User
+---
+
 # Search Assets in [!DNL Content Hub] {#search-assets}
 
 ![Share assets banner image](assets/search-assets-banner.png)

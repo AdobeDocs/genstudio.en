@@ -1,3 +1,9 @@
+---
+title: View asset properties in [!DNL Content Hub]
+description: View asset properties in [!DNL Content Hub]
+role: User
+---
+
 # Properties of an asset {#asset-properties}
 
 ![Metadata banner image](assets/metadata-banner-image.jpeg)

@@ -1,4 +1,10 @@
-# Search Assets as a link {#search-assets-as-a-link}
+---
+title: Share Assets as a link in [!DNL Content Hub]
+description: Share Assets as a link in [!DNL Content Hub]
+role: User
+---
+
+# Share Assets as a link {#search-assets-as-a-link}
 
 ![Share assets banner image](assets/share-assets-banner.png)
 
