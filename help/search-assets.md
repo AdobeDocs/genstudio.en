@@ -96,11 +96,11 @@ Use the Filters panel to search for assets based on metadata. You can filter sea
 
 ## Do more with search 
 
-[!DNL Content Hub] is not limited to search, instead it allows you to [download](), [share](share-assets-as-a-link.md), and [add assets to collection]() right from the search or preview interface. 
+[!DNL Content Hub] is not limited to search, instead it allows you to [download](download-assets.md), [share](share-assets-as-a-link.md), and [add assets to collection](manage-collections.md) right from the search or preview interface. 
 
 ### Download asset 
 
-You can [download assets]() including static and dynamic renditions. Moreover, you can download a single or multiple assets in a single click. See Download Assets in [!DNL Content Hub]. 
+You can [download assets](download-assets.md) including static and dynamic renditions. Moreover, you can download a single or multiple assets in a single click. See Download Assets in [!DNL Content Hub]. 
 
 ### Share asset 
 
@@ -108,4 +108,4 @@ You can [download assets]() including static and dynamic renditions. Moreover, y
 
 ### Add assets to Collection 
 
-[!DNL Content Hub] allow users to create public collections that are accessible to all the entitled users. See [Collections]() in [!DNL Content Hub]. 
+[!DNL Content Hub] allow users to create public collections that are accessible to all the entitled users. See [Collections](manage-collections.md) in [!DNL Content Hub]. 
