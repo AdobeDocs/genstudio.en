@@ -1,4 +1,4 @@
-# Search Assets as a link
+# Search Assets as a link {#search-assets-as-a-link}
 
 ![Share assets banner image](assets/share-assets-banner.png)
 

@@ -1,38 +1,38 @@
-# Search Assets in Content Hub 
+# Search Assets in [!DNL Content Hub] {#search-assets}
 
 ![Share assets banner image](assets/search-assets-banner.png)
 
-When you have a large number of assets in your repository, searching for the right asset is time-consuming. Content Hub search provides you with the capability to look for the approved assets so that you can perform additional actions on them, such as download, share, or create collections. You can utilize various capabilities such as performing text-based search, using filters to narrow down your search results, performing tags or smart tags specific search, searching for the particular file format, and so on.
+When you have a large number of assets in your repository, searching for the right asset is time-consuming. [!DNL Content Hub] search provides you with the capability to look for the approved assets so that you can perform additional actions on them, such as download, share, or create collections. You can utilize various capabilities such as performing text-based search, using filters to narrow down your search results, performing tags or smart tags specific search, searching for the particular file format, and so on.
 
-## What you can search for  
+## What you can search for  {#what-you-can-search}
 
-The Content Hub search provides results based on: 
+The [!DNL Content Hub] search provides results based on: 
 
-* **Matching text:** The Content Hub search allows you to search for an asset using its name or description. You can perform keyword-based search, which compares the keyword to the text available in the properties of an asset. 
+* **Matching text:** The [!DNL Content Hub] search allows you to search for an asset using its name or description. You can perform keyword-based search, which compares the keyword to the text available in the properties of an asset. 
 
-* **Matching context:** Content Hub search results list contains proximate results of assets that you get based on the matching text. For example, if you type `cool` in the search bar, the assets related to `winter`, `snow`, `cold surroundings`, etc. appear in the search list. 
+* **Matching context:** [!DNL Content Hub] search results list contains proximate results of assets that you get based on the matching text. For example, if you type `cool` in the search bar, the assets related to `winter`, `snow`, `cold surroundings`, etc. appear in the search list. 
 
-* **Asset information (title, tags, or smart tags):** Content Hub uses smart search algorithm to rank search results accurately and as relevant as possible. Metadata is the collection of all the data available for an asset, but it may not necessarily be contained in that asset. It helps you further categorize assets and is helpful as the amount of digital information grows. 
+* **Asset information (title, tags, or smart tags):** [!DNL Content Hub] uses smart search algorithm to rank search results accurately and as relevant as possible. Metadata is the collection of all the data available for an asset, but it may not necessarily be contained in that asset. It helps you further categorize assets and is helpful as the amount of digital information grows. 
 
 * **Last modified date:** The assets that were modified recently appear on the top of search results list. You can also filter the date range as per your requirement. 
 
 * **Usage:** The commonly used assets appear on the top of the search list. 
 
-## Basic search 
+## Basic search {#basic-search}
 
-To perform basic search on Content Hub, navigate to the search bar and specify the keyword that you need to search. Navigate to filters available in the left pane and apply them to narrow down your search results. 
+To perform basic search on [!DNL Content Hub], navigate to the search bar and specify the keyword that you need to search. Navigate to filters available in the left pane and apply them to narrow down your search results. 
 
-For example, search for all the JPEG images with keyword "architect" in it which was modified within the last year. To execute this scenario, follow the steps below: 
+For example, search for all the **[!UICONTROL JPEG]** images with keyword `architect` in it which was modified within the last year. To execute this scenario, follow the steps below: 
 
-1. Specify architect as the search keyword. 
+1. Specify `architect` as the search keyword. 
 
-1. Navigate to filters panel > Format > select JPEG. 
+1. Navigate to filters panel > **[!UICONTROL Format]** > select **[!UICONTROL JPEG]**. 
 
 1. Navigate to Modified > specify the date range. 
 
-![Basic search](assets/basic-search.png)
+    ![Basic search](assets/basic-search.png)
 
-## Narrow your search results using filters 
+## Narrow your search results using filters {#narrow-down-search-results}
 
 Use the Filters panel to search for assets based on metadata. You can filter search results based on various search predicates, such as tags, subject, format, and last modified date. The filters have mixed-state checkboxes. You must select all the required predicates to minimize your search results. 
 
@@ -96,16 +96,16 @@ Use the Filters panel to search for assets based on metadata. You can filter sea
 
 ## Do more with search 
 
-Content Hub is not limited to search, instead it allows you to download, share and add assets to collection right from the search or preview interface. 
+[!DNL Content Hub] is not limited to search, instead it allows you to download, share and add assets to collection right from the search or preview interface. 
 
 ### Download asset 
 
-You can download assets including static and dynamic renditions. Moreover, you can download a single or multiple assets in a single click. See Download Assets in Content Hub. 
+You can download assets including static and dynamic renditions. Moreover, you can download a single or multiple assets in a single click. See Download Assets in [!DNL Content Hub]. 
 
 ### Share asset 
 
-Content Hub lets you share assets with members of your organization including partners and vendors who are the authorized Experience Manager users. See Share Assets in Content Hub. 
+[!DNL Content Hub] lets you share assets with members of your organization including partners and vendors who are the authorized Experience Manager users. See Share Assets in [!DNL Content Hub]. 
 
 ### Add asset to Collection 
 
-Content Hub allow users to create public collections that are accessible to all the entitled users. See Collections in Content Hub. 
+[!DNL Content Hub] allow users to create public collections that are accessible to all the entitled users. See Collections in [!DNL Content Hub]. 
