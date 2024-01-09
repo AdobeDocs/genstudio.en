@@ -28,13 +28,13 @@ For example, search for all the **[!UICONTROL JPEG]** images with keyword `archi
 
 1. Navigate to filters panel > **[!UICONTROL Format]** > select **[!UICONTROL JPEG]**. 
 
-1. Navigate to Modified > specify the date range. 
+1. Navigate to **[!UICONTROL Modified]** > specify the date range. 
 
     ![Basic search](assets/basic-search.png)
 
 ## Narrow your search results using filters {#narrow-down-search-results}
 
-Use the Filters panel to search for assets based on metadata. You can filter search results based on various search predicates, such as tags, subject, format, and last modified date. The filters have mixed-state checkboxes. You must select all the required predicates to minimize your search results. 
+Use the Filters panel to search for assets based on metadata. You can filter search results based on various search predicates, such as [!UICONTROL tags], [!UICONTROL subject], [!UICONTROL format], and [!UICONTROL last modified date]. The filters have mixed-state checkboxes. You must select all the required predicates to minimize your search results. 
 
 <table>
     <tbody>
@@ -60,14 +60,14 @@ Use the Filters panel to search for assets based on metadata. You can filter sea
       <td>Composition of an asset. The supported assets include image, document, video, printable media, etc. formats.</td>
       <td>
         <ul>
-            <li>JPEG</li> 
-            <li>Quicktime</li> 
-            <li>PNG</li> 
-            <li>Webp</li> 
-            <li>MP4</li> 
-            <li>Plain</li> 
-            <li>PDF</li>
-            <li>SVG + XML</li>
+            <li>[!UICONTROL JPEG]</li> 
+            <li>[!UICONTROL Quicktime]</li> 
+            <li>[!UICONTROL PNG]</li> 
+            <li>[!UICONTROL Webp]</li> 
+            <li>[!UICONTROL MP4]</li> 
+            <li>[!UICONTROL Plain]</li> 
+            <li>[!UICONTROL PDF]</li>
+            <li>[!UICONTROL SVG + XML]</li>
         </ul>
       </td>
      </tr>
@@ -96,16 +96,16 @@ Use the Filters panel to search for assets based on metadata. You can filter sea
 
 ## Do more with search 
 
-[!DNL Content Hub] is not limited to search, instead it allows you to download, share and add assets to collection right from the search or preview interface. 
+[!DNL Content Hub] is not limited to search, instead it allows you to [download](), [share](share-assets-as-a-link.md) and [add assets to collection]() right from the search or preview interface. 
 
 ### Download asset 
 
-You can download assets including static and dynamic renditions. Moreover, you can download a single or multiple assets in a single click. See Download Assets in [!DNL Content Hub]. 
+You can [download assets]() including static and dynamic renditions. Moreover, you can download a single or multiple assets in a single click. See Download Assets in [!DNL Content Hub]. 
 
 ### Share asset 
 
-[!DNL Content Hub] lets you share assets with members of your organization including partners and vendors who are the authorized Experience Manager users. See Share Assets in [!DNL Content Hub]. 
+[!DNL Content Hub] lets you share assets with members of your organization including partners and vendors who are the authorized Experience Manager users. See [share assets](share-assets-as-a-link.md) in [!DNL Content Hub]. 
 
 ### Add asset to Collection 
 
-[!DNL Content Hub] allow users to create public collections that are accessible to all the entitled users. See Collections in [!DNL Content Hub]. 
+[!DNL Content Hub] allow users to create public collections that are accessible to all the entitled users. See [Collections]() in [!DNL Content Hub]. 
