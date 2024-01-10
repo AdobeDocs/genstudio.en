@@ -1,6 +1,6 @@
 ---
-title: View asset properties in [!DNL Content Hub]
-description: View asset properties in [!DNL Content Hub]
+title: View asset properties in [!DNL the content module of Adobe GenStudio]
+description: View asset properties in [!DNL the content module of Adobe GenStudio]
 role: User
 ---
 
@@ -8,7 +8,7 @@ role: User
 
 ![Metadata banner image](assets/metadata-banner-image.jpeg)
 
-[!DNL Content Hub] allows you to view information about the asset which is critical for efficient asset management. It is the collection of all the data available for an asset but it may not necessarily be contained in that asset.
+[!DNL The content module of Adobe GenStudio] allows you to view information about the asset which is critical for efficient asset management. It is the collection of all the data available for an asset but it may not necessarily be contained in that asset.
 
 Viewing asset properties help you further categorize assets and is helpful as the amount of digital information grows. It is possible to manage a few hundred files based on just the filenames, thumbnails, and memory. However, this approach is not scalable. It falls short when the number of people involved and the number of managed assets increase. In addition, the value of a digital asset grows, because the asset becomes,
 
@@ -38,7 +38,7 @@ Before you use, share, or download an asset, you can view it more closely. The p
 
 ## Supported formats {#supported-formats}
 
-Format refers to the composition of an asset. The supported assets can be in image, document, video, printable media, and so on, formats. Following table demonstrates the supported file formats in [!DNL Content Hub]: 
+Format refers to the composition of an asset. The supported assets can be in image, document, video, printable media, and so on, formats. Following table demonstrates the supported file formats in [!DNL the content module of Adobe GenStudio]: 
 
 <table>
     <tbody>
@@ -88,7 +88,7 @@ Format refers to the composition of an asset. The supported assets can be in ima
 
 ### Size {#size-of-an-asset} 
 
-Size demonstrates the logical value of an asset as per its dimensions. It clarifies the space that an asset is taking in DAM. [!DNL Content Hub] support assets up to 2GB. 
+Size demonstrates the logical value of an asset as per its dimensions. It clarifies the space that an asset is taking in DAM. [!DNL The content module of Adobe GenStudio] support assets up to 2GB. 
 
 ### Tags {#tags}
 
@@ -96,7 +96,7 @@ Tags help you categorize assets that can be browsed and searched more efficientl
 
 ### Smart Tags{#smart-tags} 
 
-[!DNL Content Hub] uses Adobe Sensei's smart content services to train assets using recognition algorithm on the tags-based structure. This content intelligence is then used to apply relevant tags on a different set of assets. Smart Tags increase the content velocity of your projects by helping that you find relevant assets quickly. The smart tags are an example of asset information that is not contained in the image. [!DNL Content Hub] automatically applies smart tags to assets, by default. 
+[!DNL The content module of Adobe GenStudio] uses Adobe Sensei's smart content services to train assets using recognition algorithm on the tags-based structure. This content intelligence is then used to apply relevant tags on a different set of assets. Smart Tags increase the content velocity of your projects by helping that you find relevant assets quickly. The smart tags are an example of asset information that is not contained in the image. [!DNL The content module of Adobe GenStudio] automatically applies smart tags to assets, by default. 
 
 ### Date range {#date-range} 
 
