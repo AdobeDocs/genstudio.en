@@ -6,7 +6,7 @@ role: User
 
 # Properties of an asset {#asset-properties}
 
-![Metadata banner image](assets/metadata-banner-image.jpeg)
+![Metadata banner image](assets/metadata-banner-image.png)
 
 [!DNL The content module of Adobe GenStudio] allows you to view information about the asset which is critical for efficient asset management. It is the collection of all the data available for an asset but it may not necessarily be contained in that asset.
 
