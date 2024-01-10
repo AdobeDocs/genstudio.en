@@ -1,24 +1,24 @@
 ---
-title: Search assets in Content Hub
-description: Search assets in [!DNL Content Hub]
+title: Search assets in the content module of Adobe GenStudio
+description: Search assets in [!DNL the content module of Adobe GenStudio]
 role: User
 ---
 
-# Search Assets in [!DNL Content Hub] {#search-assets}
+# Search Assets in [!DNL the content module of Adobe GenStudio] {#search-assets}
 
-![Share assets banner image](assets/search-assets-banner.png)
+![Share assets banner image](assets/search.jpeg)
 
-When you have a large number of assets in your repository, searching for the right asset is time-consuming. [!DNL Content Hub] search provides you with the capability to look for the approved assets so that you can perform additional actions on them, such as download, share, or create collections. You can utilize various capabilities such as performing text-based search, using filters to narrow down your search results, performing tags or smart tags specific search, searching for the particular file format.
+When you have a large number of assets in your repository, searching for the right asset is time-consuming. [!DNL The content module of Adobe GenStudio] search provides you with the capability to look for the approved assets so that you can perform additional actions on them, such as download, share, or create collections. You can utilize various capabilities such as performing text-based search, using filters to narrow down your search results, performing tags or smart tags specific search, searching for the particular file format.
 
 ## What you can search for  {#what-you-can-search}
 
-The [!DNL Content Hub] search provides results based on: 
+The [!DNL content module of Adobe GenStudio] search provides results based on: 
 
-* **Matching text:** The [!DNL Content Hub] search allows you to search for an asset using its name or description. You can perform keyword-based search, which compares the keyword to the text available in the properties of an asset. 
+* **Matching text:** The [!DNL content module of Adobe GenStudio] search allows you to search for an asset using its name or description. You can perform keyword-based search, which compares the keyword to the text available in the properties of an asset. 
 
-* **Matching context:** [!DNL Content Hub] search results list contains proximate results of assets that you get based on the matching text. For example, if you type `cool` in the search bar, the assets related to `winter`, `snow`, `cold surroundings`, etc. appear in the search list. 
+* **Matching context:** [!DNL content module of Adobe GenStudio] search results list contains proximate results of assets that you get based on the matching text. For example, if you type `cool` in the search bar, the assets related to `winter`, `snow`, `cold surroundings`, etc. appear in the search list. 
 
-* **Asset information (title, tags, or smart tags):** [!DNL Content Hub] uses smart search algorithm to rank search results accurately and as relevant as possible. Metadata is the collection of all the data available for an asset, but it may not necessarily be contained in that asset. It helps you further categorize assets and is helpful as the amount of digital information grows. 
+* **Asset information (title, tags, or smart tags):** [!DNL content module of Adobe GenStudio] uses smart search algorithm to rank search results accurately and as relevant as possible. [Metadata](#asset-properties.md) is the collection of all the data available for an asset, but it may not necessarily be contained in that asset. It helps you further categorize assets and is helpful as the amount of digital information grows. 
 
 * **Last modified date:** The assets that were modified recently appear on the top of search results list. You can also filter the date range as per your requirement. 
 
@@ -26,7 +26,7 @@ The [!DNL Content Hub] search provides results based on:
 
 ## Basic search {#basic-search}
 
-To perform basic search on [!DNL Content Hub], navigate to the search bar and specify the keyword that you need to search. Navigate to filters available in the left pane and apply them to narrow down your search results. 
+To perform basic search on [!DNL the content module of Adobe GenStudio], navigate to the search bar and specify the keyword that you need to search. Navigate to filters available in the left pane and apply them to narrow down your search results. 
 
 For example, search for all the **[!UICONTROL JPEG]** images with keyword `architect` in it which was modified within the last year. To execute this scenario, follow the steps below: 
 
@@ -100,18 +100,18 @@ Use the Filters panel to search for assets based on metadata. You can filter sea
     </tbody>
    </table>
 
-## Do more with search 
+## Do more with search {#do-more-with-search}
 
-[!DNL Content Hub] is not limited to search, instead it allows you to [download](download-assets.md), [share](share-assets-as-a-link.md), and [add assets to collection](manage-collections.md) right from the search or preview interface. 
+[!DNL The content module of Adobe GenStudio] is not limited to search, instead it allows you to [download](download-assets.md), [share](share-assets-as-a-link.md), and [add assets to collection](manage-collections.md) right from the search or preview interface. 
 
-### Download asset 
+### Download asset {#download-asset}
 
-You can [download assets](download-assets.md) including static and dynamic renditions. Moreover, you can download a single or multiple assets in a single click. See Download Assets in [!DNL Content Hub]. 
+You can download assets including static and dynamic renditions. Moreover, you can download a single or multiple assets in a single click. See [download assets](download-assets.md) in [!DNL the content module of Adobe GenStudio]. 
 
-### Share asset 
+### Share asset {#share-asset}
 
-[!DNL Content Hub] lets you share assets with members of your organization including partners and vendors who are the authorized Experience Manager users. See [share assets](share-assets-as-a-link.md) in [!DNL Content Hub]. 
+[!DNL The content module of Adobe GenStudio] lets you share assets with members of your organization including partners and vendors who are the authorized Experience Manager users. See [share assets](share-assets-as-a-link.md) in [!DNL the content module of Adobe GenStudio]. 
 
-### Add assets to Collection 
+### Add assets to Collection {#add-assets-to-collection}
 
-[!DNL Content Hub] allow users to create public collections that are accessible to all the entitled users. See [Collections](manage-collections.md) in [!DNL Content Hub]. 
+[!DNL The content module of Adobe GenStudio] allow users to create public collections that are accessible to all the entitled users. See [Collections](manage-collections.md) in [!DNL the content module of Adobe GenStudio]. 

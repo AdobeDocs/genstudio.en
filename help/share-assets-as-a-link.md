@@ -1,5 +1,5 @@
 ---
-title: Share Assets as a link in [!DNL Content Hub]
+title: Share Assets as a link in [!DNL the content module of Adobe GenStudio]
 description: Share Assets as a link in [!DNL Content Hub]
 role: User
 ---
@@ -8,7 +8,7 @@ role: User
 
 ![Share assets banner image](assets/share-assets-banner.png)
 
-Sharing assets through a link is a convenient way of making the resources available to the [!DNL Content Hub] users. The functionality allows authorized users to access and download the assets shared with them. When downloading assets from a shared link, [!DNL Content Hub] uses an asynchronous service that offers faster and uninterrupted download.
+Sharing assets through a link is a convenient way of making the resources available to the [!DNL the content module of Adobe GenStudio] users. The functionality allows authorized users to access and download the assets shared with them. When downloading assets from a shared link, [!DNL the content module of Adobe GenStudio] uses an asynchronous service that offers faster and uninterrupted download.
 
 ## Share a single asset {#share-a-single-asset}
 
@@ -24,7 +24,7 @@ You can share a single asset by executing the following steps:
  
 ## Share multiple assets {#share-multiple-assets}
 
-[!DNL Content Hub] allows you to share multiple assets via a shared link. Execute the steps below: 
+[!DNL the content module of Adobe GenStudio] allows you to share multiple assets via a shared link. Execute the steps below: 
 
 1. Select assets that you want to share with the authorized recipient. You can select multiple assets one by one or click select all to select all available assets at once. 
 
@@ -52,10 +52,10 @@ You can preview a selected asset by executing the following steps:
 
 ### Access the shared assets {#access-shared-assets}
 
-After sharing the link for assets, the recipients can click the link to preview or download the shared assets in a web browser without the need to log in to [!DNL Content Hub]. 
+After sharing the link for assets, the recipients can click the link to preview or download the shared assets in a web browser without the need to log in to [!DNL the content module of Adobe GenStudio]. 
 
 Click the link, and then click the asset to preview it. You can select to view the shared assets in a Card View. You can hover the mouse over the shared asset to either select the asset or download it.  
 
-You can also select multiple assets and click Download icon. You can choose to download versions of the shared asset. Download original assets or original+renditions of an asset. [!DNL Content Hub] downloads each asset one by one.
+You can also select multiple assets and click Download icon. You can choose to download versions of the shared asset. Download original assets or original+renditions of an asset. [!DNL the content module of Adobe GenStudio] downloads each asset one by one.
 
 ![Access shared assets](assets/access-shared-assets.png)
