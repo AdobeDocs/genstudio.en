@@ -4,7 +4,7 @@ description: Share Assets as a link in [!DNL the content module of Adobe GenStud
 role: User
 ---
 
-# Share Assets as a link {#search-assets-as-a-link}
+# Share assets as a link in content module of GenStudio {#search-assets-as-a-link}
 
 ![Share assets banner image](assets/share-assets-banner.png)
 
@@ -42,7 +42,7 @@ You can select one or multiple assets and preview the selected assets before sha
 
 ### Preview assets {#preview-assets}
 
-You can preview to see how a digital asset that you are going to share looks when it is viewed by a link recipient. Click the asset that you need to preview. [!DNL content module of Adobe GenStudio] displays the detailed view for the asset. 
+You can preview to see how a digital asset that you are going to share looks when it is viewed by a link recipient. Click the asset that you need to preview. The [!DNL content module of Adobe GenStudio] displays the detailed view for the asset. 
 
 ![Asset details](assets/view-asset.jpg)
 
@@ -52,7 +52,7 @@ You can preview to see how a digital asset that you are going to share looks whe
 
 After sharing the link for assets, the authorized recipients can click the link to preview or download the shared assets in a web browser. 
 
-Click the shared link, and then click the asset to preview it. You can hover the mouse over the shared asset to select and then download it.  
+Click the shared link, and then click the asset to [preview](#preview-assets) it. You can hover the mouse over the shared asset to select and then download it.  
 
 You can also select multiple assets and click **[!UICONTROL Download]**. You can either download original assets or Original+Renditions of an asset. [!DNL the content module of Adobe GenStudio] downloads each asset one-by-one to the local file system.
 
