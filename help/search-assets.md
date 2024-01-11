@@ -8,7 +8,7 @@ role: User
 
 ![Share assets banner image](assets/search.png)
 
-When you have a large number of assets in your repository, searching for the right asset is time-consuming. [!DNL The content module of Adobe GenStudio] search provides you with the capability to look for the approved assets so that you can perform additional actions on them, such as download, share, or create collections. You can utilize various capabilities such as performing text-based search, using filters to narrow down your search results, performing tags or smart tags specific search, searching for the particular file format.
+When you have a large number of assets in your repository, searching for the right asset is time-consuming. [!DNL The content module of Adobe GenStudio] search provides you with the capability to look for the approved assets so that you can perform additional actions on them, such as download, share, or create collections. You can utilize various capabilities to narrow down your search results, such as, performing text-based search, using filters, performing tags or smart tags specific search, searching for the particular file format, and so on.
 
 ## What you can search for  {#what-you-can-search}
 
@@ -16,7 +16,7 @@ The [!DNL content module of Adobe GenStudio] search provides results based on:
 
 * **Matching text:** The [!DNL content module of Adobe GenStudio] search allows you to search for an asset using its name or description. You can perform keyword-based search, which compares the keyword to the text available in the properties of an asset. 
 
-* **Matching context:** [!DNL content module of Adobe GenStudio] search results list contains proximate results of assets that you get based on the matching text. For example, if you type `cool` in the search bar, the assets related to `winter`, `snow`, `cold surroundings`, etc. appear in the search list. 
+* **Matching context:** [!DNL content module of Adobe GenStudio] search results list contains proximate results of assets that you get based on the matching context. For example, if you type `cool` in the search bar, the assets related to `winter`, `snow`, `cold surroundings`, display in the search list. 
 
 * **Asset information (title, tags, or smart tags):** [!DNL content module of Adobe GenStudio] uses smart search algorithm to rank search results accurately and as relevant as possible. [Metadata](#asset-properties.md) is the collection of all the data available for an asset, but it may not necessarily be contained in that asset. It helps you further categorize assets and is helpful as the amount of digital information grows. 
 
@@ -28,7 +28,7 @@ The [!DNL content module of Adobe GenStudio] search provides results based on:
 
 To perform basic search on [!DNL the content module of Adobe GenStudio], navigate to the search bar and specify the keyword that you need to search. Navigate to filters available in the left pane and apply them to narrow down your search results. 
 
-For example, search for all the **[!UICONTROL JPEG]** images with keyword `architect` in it which was modified within the last year. To execute this scenario, follow the steps below: 
+For example, search for all the **[!UICONTROL JPEG]** images with keyword `architect` in it, which is modified within the last year. To execute this scenario, execute the following steps: 
 
 1. Specify `architect` as the search keyword. 
 
@@ -63,7 +63,7 @@ Use the Filters panel to search for assets based on metadata. You can filter sea
      </tr>
      <tr>
       <td>Format</td>
-      <td>Composition of an asset. The supported assets include image, document, video, printable media, and so on, formats.</td>
+      <td>Composition of an asset. The supported assets include image, document, video, printable media, and so on.</td>
       <td>
         <ul>
             <li>[!UICONTROL JPEG]</li> 
@@ -79,12 +79,12 @@ Use the Filters panel to search for assets based on metadata. You can filter sea
      </tr>
      <tr>
       <td>Subject</td>
-      <td>Classification of assets based on their theme. For example, colorful, hiking, outdoors, etc.</td>
+      <td>Classification of assets based on their theme. For example, colorful, hiking, outdoors.</td>
       <td>NA</td>
      </tr>
      <tr>
       <td>Modified</td>
-      <td>Date to search assets based on their last modification. Specify the date range using the Start date and End date fields.</td>
+      <td>Search assets based on their last modification. Specify the date range using the Start date and End date fields.</td>
       <td>
         <ul>
             <li>Range text (From)</li> 
@@ -102,16 +102,4 @@ Use the Filters panel to search for assets based on metadata. You can filter sea
 
 ## Do more with search {#do-more-with-search}
 
-[!DNL The content module of Adobe GenStudio] is not limited to search, instead it allows you to [download](download-assets.md), [share](share-assets-as-a-link.md), and [add assets to collection](manage-collections.md) right from the search or preview interface. 
-
-### Download asset {#download-asset}
-
-You can download assets including static and dynamic renditions. Moreover, you can download a single or multiple assets in a single click. See [download assets](download-assets.md) in [!DNL the content module of Adobe GenStudio]. 
-
-### Share asset {#share-asset}
-
-[!DNL The content module of Adobe GenStudio] lets you share assets with members of your organization including partners and vendors who are the authorized Experience Manager users. See [share assets](share-assets-as-a-link.md) in [!DNL the content module of Adobe GenStudio]. 
-
-### Add assets to Collection {#add-assets-to-collection}
-
-[!DNL The content module of Adobe GenStudio] allow users to create public collections that are accessible to all the entitled users. See [Collections](manage-collections.md) in [!DNL the content module of Adobe GenStudio]. 
+[!DNL The content module of Adobe GenStudio] is not limited to search, instead it allows you to perform additional actions, such as, [download](download-assets.md), [share](share-assets-as-a-link.md), and [add assets to collection](manage-collections.md) right from the search or preview interface. Select the assets on the search results page to view these options. 
