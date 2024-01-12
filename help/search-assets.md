@@ -24,9 +24,9 @@ The [!DNL content module of Adobe GenStudio] search provides results based on:
 
 * **Usage:** The commonly used assets appear on the top of the search list.
 
-* **Search history:** Click inside the search box without typing a character to get your search history. You can also decide to remove particular keyword to remove from history. The search history is saved in the cache memory of a web browser; which means, if you use access the [!DNL content module of Adobe GenStudio] search in different browser or clear cache memory of the browser, you will not be able to use the searched keywords.
+* **Search history:** Click inside the search box without typing a character to get your search history. You can also remove any particular keyword from history. The search history is saved in the cache memory of a web browser; which means, if you access the [!DNL content module of Adobe GenStudio] search in a different browser or clear cache memory of the browser, you cannot view the search history anymore.
 
-* **Search while you type:** The [!DNL content module of Adobe GenStudio] search allows you to faster your search by autocompleting the keyword as you start typing. The search algorithm suggests you the best defined word before you press search.
+* **Search while you type:** The [!DNL content module of Adobe GenStudio] search enhances your search experience by providing autocomplete suggestions as you start typing.
 
 ## Basic search {#basic-search}
 
