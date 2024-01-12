@@ -8,7 +8,7 @@ role: User
 
 ![Share assets banner image](assets/search.png)
 
-When you have a large number of assets in your repository, searching for the right asset is time-consuming. [!DNL The content module of Adobe GenStudio] search provides you with the capability to look for the approved assets so that you can perform additional actions on them, such as download, share, or create collections. You can utilize various capabilities to narrow down your search results, such as, performing text-based search, using filters, performing tags or smart tags specific search, searching for the particular file format, and so on.
+When you have a large number of assets in your repository, searching for the right asset is time-consuming. [!DNL The content module of Adobe GenStudio] search provides you with the capability to look for the approved assets so that you can perform additional actions on them, such as download, share, or create collections. You can utilize various capabilities to narrow down your search results, such as, performing text-based search, using filters, performing tags or smart tags-specific search, searching for the particular file format, and so on.
 
 ## What you can search for  {#what-you-can-search}
 
@@ -22,7 +22,11 @@ The [!DNL content module of Adobe GenStudio] search provides results based on:
 
 * **Last modified date:** The assets that were modified recently appear on the top of search results list. You can also filter the date range as per your requirement. 
 
-* **Usage:** The commonly used assets appear on the top of the search list. 
+* **Usage:** The commonly used assets appear on the top of the search list.
+
+* **Search history:** Click inside the search box without typing a character to get your search history. You can also decide to remove particular keyword to remove from history. The search history is saved in the cache memory of a web browser; which means, if you use access the [!DNL content module of Adobe GenStudio] search in different browser or clear cache memory of the browser, you will not be able to use the searched keywords.
+
+* **Search while you type:** The [!DNL content module of Adobe GenStudio] search allows you to faster your search by autocompleting the keyword as you start typing. The search algorithm suggests you the best defined word before you press search.
 
 ## Basic search {#basic-search}
 
@@ -30,7 +34,7 @@ To perform basic search on [!DNL the content module of Adobe GenStudio], navigat
 
 For example, search for all the **[!UICONTROL JPEG]** images with keyword `architect` in it, which is modified within the last year. To execute this scenario, execute the following steps: 
 
-1. Specify `architect` as the search keyword. 
+1. Specify `architect` as the search keyword.
 
 1. Navigate to filters panel > **[!UICONTROL Format]** > select **[!UICONTROL JPEG]**. 
 
