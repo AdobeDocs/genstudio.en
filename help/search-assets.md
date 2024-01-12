@@ -22,7 +22,11 @@ The [!DNL content module of Adobe GenStudio] search provides results based on:
 
 * **Last modified date:** The assets that were modified recently appear on the top of search results list. You can also filter the date range as per your requirement. 
 
-* **Usage:** The commonly used assets appear on the top of the search list. 
+* **Usage:** The commonly used assets appear on the top of the search list.
+
+* **Search history:** Click inside the search box without typing a character to get your search history. You can also decide to remove particular keyword to remove from history. The search history is saved in the cache memory of a web browser; which means, if you use access the [!DNL content module of Adobe GenStudio] search in different browser or clear cache memory of the browser, you will not be able to use the searched keywords.
+
+* **Search while you type:** The [!DNL content module of Adobe GenStudio] search allows you to faster your search by autocompleting the keyword as you start typing. The search algorithm suggests you the best defined word before you press search.
 
 ## Basic search {#basic-search}
 
@@ -30,7 +34,7 @@ To perform basic search on [!DNL the content module of Adobe GenStudio], navigat
 
 For example, search for all the **[!UICONTROL JPEG]** images with keyword `architect` in it, which is modified within the last year. To execute this scenario, execute the following steps: 
 
-1. Specify `architect` as the search keyword. 
+1. Specify `architect` as the search keyword.
 
 1. Navigate to filters panel > **[!UICONTROL Format]** > select **[!UICONTROL JPEG]**. 
 
