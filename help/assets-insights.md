@@ -3,7 +3,7 @@ title: View assets insights in Content Hub
 description: View assets insights in [!DNL Content Hub]
 role: User
 ---
-# Assets insights in [!DNL Content Hub] {#assets-insights}
+# Assets Insights in [!DNL Content Hub] {#assets-insights}
 
  ![Assets insights](assets/asset-insights-banner.jpg)
 
