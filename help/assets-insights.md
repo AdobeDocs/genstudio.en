@@ -23,7 +23,7 @@ To view the statistics of your uploaded assets, follow the below steps:
 
 2. Select the desired time frame to view the statistics; you can opt for either the last 30 days or the last 12 months.
 
-   ![Uploaded Assets Statistics](assets/upload-assets-insights.jpg)
+   ![Upload assets statistics](assets/upload-assets-insights.jpg)
    
    The data for the selected time frame is displayed, including the upload count for the specified duration.
 
@@ -37,6 +37,6 @@ The table presents a detailed overview of various asset types, including their c
 
 <!-- This interactive table facilitates a deeper understanding of the composition of assets in the repository. -->
 
- ![Upload assets statistics](assets/asset-type-insights.jpg)
+ ![Asset count by asset type statistics](assets/asset-type-insights.jpg)
 
 The pie chart visually represents the total count of the assets, providing a clear illustration of individual asset counts and their corresponding percentages. With the insights feature, you can efficiently analyze, organize, and make informed decisions regarding the assets within the system.
