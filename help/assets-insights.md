@@ -30,7 +30,7 @@ To view the statistics of your uploaded assets, follow the below steps:
 
 ## View statistics for asset count by [!UICONTROL Asset Type]
 
-Content Hub lets you view the statistics of the count of assets based on their types. This feature allows you to access data for the last 30 days or the last 12 months, offering a comprehensive overview of the various types of uploaded assets. 
+Content Hub lets you view the statistics of the count of assets based on their types. It allows you to access data for the last 30 days or the last 12 months, offering a comprehensive overview of the various types of uploaded assets. 
 With this feature, you can gain valuable insights into asset distribution over specific time frames, facilitating informed decision-making and strategic planning.
 
 The table presents a detailed overview of various asset types, including their count and the respective percentage within the repository. You can adjust column sizes and sort assets by asset name, count, and percentage.
