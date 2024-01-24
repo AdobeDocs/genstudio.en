@@ -31,7 +31,7 @@ To view statistics of your uploaded assets, follow the below steps:
 ## View statistics for asset count by [!UICONTROL Asset Type]
 
 Content Hub lets you view statistics of the count of assets based on their types. It allows you to access data for last 30 days or last 12 months, offering a comprehensive overview of the various types of uploaded assets. 
-With this feature, you can gain valuable insights into asset distribution over specific time frames, facilitating informed decision-making and strategic planning.
+You can gain valuable insights into asset distribution over specific time frames, facilitating informed decision-making and strategic planning.
 
 The table presents a detailed overview of various asset types, including their count and the respective percentage within the repository. You can adjust column sizes and sort assets by asset name, count, and percentage.
 
@@ -39,4 +39,4 @@ The table presents a detailed overview of various asset types, including their c
 
  ![Asset count by asset type statistics](assets/asset-type-insights.jpg)
 
-The pie chart visually represents the total count of assets, providing a clear illustration of individual asset counts and their corresponding percentages. With the insights feature, you can efficiently analyze, organize, and make informed decisions regarding assets within the system.
+The pie chart visually represents the total count of assets, providing a clear illustration of individual asset counts and their corresponding percentages.
