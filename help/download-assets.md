@@ -5,7 +5,9 @@ role: User
 ---
 # Download assets from the content module of Adobe GenStudio {#download-assets}
 
- ![Download assets](assets/download-asset.jpg)
+<!-- ![Download assets](assets/download-asset.jpg) -->
+![Download assets](assets/download-asset-genstudio.jpeg)
+
 
 The content module of Adobe GenStudio lets you download and share your assets. You can also download multiple asset renditions. These assets may include images, videos, or any other digital content. Users can download assets in various file formats catering to diverse preferences. The content module of Adobe GenStudio enhances accessibility and adaptability for effective asset management and distribution.  
 
