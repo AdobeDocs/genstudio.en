@@ -13,4 +13,4 @@ user-guide-description: Add description for GenStudio Documentation
 + [Asset properties](asset-properties.md)
 + [Download assets](download-assets.md)
 + [Manage collections](manage-collections.md)
-+ [Assets Insights in Content Hub](assets-insights.md)
++ [Assets Insights](assets-insights.md)

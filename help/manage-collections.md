@@ -5,7 +5,8 @@ role: User
 ---
 # Manage collections in [!DNL content module of Adobe GenStudio] {#manage-collections}
 
-![Manage collections](assets/manage-collections.jpg)
+<!-- ![Manage collections](assets/manage-collections.jpg) -->
+![Manage collections](assets/manage-collection.png)
 
 A collection refers to a set of assets that can be shared among users. A collection can include assets from different locations while maintaining their referential integrity.
 
