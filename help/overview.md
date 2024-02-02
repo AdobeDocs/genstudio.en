@@ -5,17 +5,22 @@ description: Add overview description
 
 # Content module of Adobe GenStudio
 
-Welcome to the something something user guide.
+The Content module of Adobe GenStudio is the hub to discover and remix approved content in GenStudio, accelerating the customer's content supply chain.  Use the content module to discover approved content, empower more users to edit content within brand guidelines, and gain visibility of campaign performance.
 
-MORE...
+The following are some of the key benefits of Content module of Adobe GenStudio:
 
-<!--
-This is the landing page of the user guide. It should be the first list item in the TOC.md file.
+* Gather content from various repositories in to one central place.
 
-See other user landing pages to get ideas.
--->
+* Find and share all brand approved assets available in an intuitive portal.
 
-## Learn more on key capabilities {#key-capabilities}
+* Empower non-creatives to edit and remix content while staying on brand.
+
+* Gain insights on how content is used across teams.
+
+**Overview Graphic**
+
+
+## Learn more on key capabilities {#key-capabilities-content-module}
 
 <table>
 <td>
