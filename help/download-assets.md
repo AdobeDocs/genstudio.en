@@ -17,7 +17,7 @@ You can download single asset or multiple assets in different versions using the
 1. Select the asset(s) you need to download.
  ![Download single asset](assets/download-assets-new.jpg)
 1. Click **[!UICONTROL Download]**. <br> Alternatively, you can click the download icon available on the asset card.
-The assets is downloaded in its original form or file type.
+The selected assets are downloaded in the original rendition.
 
 <!-- Select the rendition you need to download. You can either select the original asset or the **[!UICONTROL Originals + Renditions]** option, and then click **[!UICONTROL Download]**.  -->
 
