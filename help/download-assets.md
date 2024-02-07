@@ -18,27 +18,3 @@ You can download single asset or multiple assets in different versions using the
  ![Download single asset](assets/download-assets-new.jpg)
 1. Click **[!UICONTROL Download]**. <br> Alternatively, you can click the download icon available on the asset card.
 The selected assets are downloaded in the original rendition.
-
-<!-- Select the rendition you need to download. You can either select the original asset or the **[!UICONTROL Originals + Renditions]** option, and then click **[!UICONTROL Download]**.  -->
-
-<!-- ## View and download renditions of an asset {#view-download-renditions} 
-
-You can view and download the renditions of an asset available on the content module of Adobe GenStudio. To download different renditions of the assets, execute the following steps: 
-
-1. Click the download icon available on the asset card. The icon is visible only when you do not select the asset.
-1. Click **[!UICONTROL Download]**. 
-1. Select the rendition you need to download. <br> You can download single or multiple renditions, as per your requirements. 
- ![Download single asset](assets/select-single-rendition.jpg)
-
-1. Click **[!UICONTROL Download]**.  -->
-
-<!-- 
-## Download multiple assets {#download-multiple-assets} 
-
-To download multiple assets, follow these steps: 
-
-1. Select the assets you need to download. 
- ![Download multiple assets](assets/multiple-assets.jpg)
-1. Click **[!UICONTROL Download]**. 
-1. You can either select **[!UICONTROL Only Originals]** or the **[!UICONTROL Originals + Renditions]** option, and then click **[!UICONTROL Download]**. 
- ![Select renditions](assets/select-rendition.jpg) -->
