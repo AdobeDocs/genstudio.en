@@ -15,6 +15,7 @@ role: User
 
 You can effortlessly view statistics of the uploaded assets in the [!DNL Insights] page of Content Hub.
 
+You can track the upload history of your assets.
 <!-- You can track the upload history of your assets over the past 30 days or gain a more comprehensive view with data spanning the last 12 months. This feature enables you to evaluate the upload count of assets.  -->
 
 To view statistics of your uploaded assets, follow the below steps:
