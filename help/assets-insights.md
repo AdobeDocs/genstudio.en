@@ -13,7 +13,7 @@ role: User
 
 ## View statistics for uploaded assets
 
-You can effortlessly view statistics of the uploaded assets and collections. You can track the upload history of your assets with the yearly, monthly and daily asset uploads view.
+You can effortlessly view statistics of the uploaded assets and collections. Track the upload history of your assets with the yearly, monthly and daily asset uploads view.
    
    ![Upload assets statistics](assets/assets-insights.jpg)
 
