@@ -36,10 +36,7 @@ To create a new collection, click **[!UICONTROL Create new collection]**, enter 
 
 ### Add assets to an existing collection 
 
-To add assets to an existing collection:
-
-1. Select the assets you need to add to the existing collection and click **[!UICONTROL Add to collection]**.
-1. Select the collection to which you need to add the assets and click **[!UICONTROL Add to collection]**.
+To add assets to an existing collection, select the assets you need to add to the existing collection and click **[!UICONTROL Add to collection]**. <br>Select the collection to which you need to add the assets and click **[!UICONTROL Add to collection]**.
 
 ## View collections 
 
