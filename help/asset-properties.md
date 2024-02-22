@@ -40,7 +40,7 @@ Before you use, share, or download an asset, you can view it more closely. The p
 
 The following table demonstrates the supported file formats in [!DNL the content module of Adobe GenStudio]: 
 
-<table>
+<table> 
     <tbody>
      <tr>
       <th><strong>File type</strong></th>
