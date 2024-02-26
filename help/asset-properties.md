@@ -27,14 +27,16 @@ Before you use, share, or download an asset, you can view it more closely. The p
 ![Properties of an asset UI](assets/properties-ui.png)
 
 * **A:** Title of an asset 
-* **B:** Proceed to previous or next asset 
-* **C:** Preview asset more closely by zooming in or out 
-* **D:** Percentage of zoom 
-* **E:** Close preview screen 
-* **F:** Collapse or preview information of an asset 
-* **G:** Download the asset 
+* **B:** Percentage of zoom or preview asset more closely by zooming in or out 
+* **C:** Undo zoom to the previously selected percentage 
+* **D:** Proceed to previous or next asset 
+* **E:** Assets count
+* **F:** Download the asset 
+* **G:** Collapse or preview information of an asset 
 * **H:** Share the asset 
-* **I:** Information of an asset which includes title, format, size, resolution, tags, and smart tags. 
+* **I:** Add asset to [!DNL Collection] 
+* **J:** Close preview screen
+* **K:** Information of an asset which includes title, format, size, resolution, tags, color tags, and smart tags. 
 
 ## Supported formats {#supported-formats}
 
