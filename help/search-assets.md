@@ -66,7 +66,7 @@ Use the Filters panel to search for assets based on metadata. You can filter sea
       </td>
      </tr>
      <tr>
-      <td>Format</td>
+      <td>File format</td>
       <td>Composition of an asset. The supported assets include image, document, video, printable media, and so on.</td>
       <td>
         <ul>
@@ -87,7 +87,7 @@ Use the Filters panel to search for assets based on metadata. You can filter sea
       <td>NA</td>
      </tr>
      <tr>
-      <td>Modified</td>
+      <td>Last modified</td>
       <td>Search assets based on their last modification. Specify the date range using the Start date and End date fields.</td>
       <td>
         <ul>
@@ -99,6 +99,36 @@ Use the Filters panel to search for assets based on metadata. You can filter sea
      <tr>
       <td>Asset ID</td>
       <td>Unique number that identifies the asset.</td>
+      <td>NA</td>
+     </tr>
+     <tr>
+      <td> Campaigns </td>
+      <td> Allows you to search using planned activity performed to take any particular action. For example, advertisement campaign run on Ferrari to know the understand the interest of people using number of clicks people perform.</td>
+      <td>NA</td>
+     </tr>
+     <tr>
+      <td> Channels </td>
+      <td> Helps you to understand the path from where the asset is coming from. For example, web, social media, book, catalog, etc.</td>
+      <td>NA</td>
+     </tr>
+     <tr>
+      <td> Region </td>
+      <td> Helps you to understand the location from where the asset is coming from. For example, Japan, EMEA, Worldwide, etc.</td>
+      <td>NA</td>
+     </tr>
+     <tr>
+      <td> Keywords </td>
+      <td> Keyword helps you search using terms or the words that you enter based on the topic. For example, images, low-resolution, etc.</td>
+      <td>NA</td>
+     </tr>
+     <tr>
+      <td> Timeframe </td>
+      <td> Helps you search assets using timeline. For example, search by year 2024, Q3 2023, etc.</td>
+      <td>NA</td>
+     </tr>
+     <tr>
+      <td> Colors </td>
+      <td> Helps you search assets using colors that are automatically identified in an asset using Adobe's Sensei AI capabilities.</td>
       <td>NA</td>
      </tr>  
     </tbody>
