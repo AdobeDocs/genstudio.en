@@ -28,7 +28,8 @@ You can choose to create a new collection or add assets to an existing collectio
 ### Create a new collection 
 
 Select the assets you need to add to a collection, and click **[!UICONTROL Add To collection]**.
-![Create collection](assets/add-assets-collection.jpg)
+
+ ![Create collection](assets/add-assets-collection.jpg)
 
 To create a new collection, click **[!UICONTROL Create new collection]**. Enter the **[!UICONTROL Title]** and provide a **[!UICONTROL Description]** for the assets. Then, click **[!UICONTROL Create]**.
 
