@@ -54,54 +54,6 @@ Use the Filters panel to search for assets based on metadata. You can filter sea
       <th><strong>Properties</strong></th>
      </tr>
      <tr>
-      <td>Tags</td>
-      <td>Tags help you categorize assets that can be browsed and searched more efficiently based on hierarchical taxonomies.</td>
-      <td>
-        <ul>
-            <li>Field label</li>
-            <li>Property name</li>
-            <li>Path</li>
-            <li>Description</li>
-        </ul>
-      </td>
-     </tr>
-     <tr>
-      <td>File format</td>
-      <td>Composition of an asset. The supported assets include image, document, video, printable media, and so on.</td>
-      <td>
-        <ul>
-            <li>[!UICONTROL JPEG]</li> 
-            <li>[!UICONTROL Quicktime]</li> 
-            <li>[!UICONTROL PNG]</li> 
-            <li>[!UICONTROL Webp]</li> 
-            <li>[!UICONTROL MP4]</li> 
-            <li>[!UICONTROL Plain]</li> 
-            <li>[!UICONTROL PDF]</li>
-            <li>[!UICONTROL SVG + XML]</li>
-        </ul>
-      </td>
-     </tr>
-     <tr>
-      <td>Subject</td>
-      <td>Classification of assets based on their theme. For example, colorful, hiking, outdoors.</td>
-      <td>NA</td>
-     </tr>
-     <tr>
-      <td>Last modified</td>
-      <td>Search assets based on their last modification. Specify the date range using the Start date and End date fields.</td>
-      <td>
-        <ul>
-            <li>Range text (From)</li> 
-            <li>Range text (To) </li>
-        </ul>
-      </td>
-     </tr>    
-     <tr>
-      <td>Asset ID</td>
-      <td>Unique number that identifies the asset.</td>
-      <td>NA</td>
-     </tr>
-     <tr>
       <td> Campaigns </td>
       <td> Allows you to search using planned activity performed to take any particular action. For example, advertisement campaign run on Ferrari to know the understand the interest of people using number of clicks people perform.</td>
       <td>NA</td>
@@ -126,6 +78,56 @@ Use the Filters panel to search for assets based on metadata. You can filter sea
       <td> Helps you search assets using timeline. For example, search by year 2024, Q3 2023, etc.</td>
       <td>NA</td>
      </tr>
+     <tr>
+      <td>File format</td>
+      <td>Composition of an asset. The supported assets include image, document, video, printable media, and so on.</td>
+      <td>
+        <ul>
+            <li>[!UICONTROL JPEG]</li> 
+            <li>[!UICONTROL Quicktime]</li> 
+            <li>[!UICONTROL PNG]</li> 
+            <li>[!UICONTROL Webp]</li> 
+            <li>[!UICONTROL MP4]</li> 
+            <li>[!UICONTROL Plain]</li> 
+            <li>[!UICONTROL PDF]</li>
+            <li>[!UICONTROL SVG + XML]</li>
+        </ul>
+      </td>
+     </tr>
+     <tr>
+      <td>Tags</td>
+      <td>Tags help you categorize assets that can be browsed and searched more efficiently based on hierarchical taxonomies.</td>
+      <td>
+        <ul>
+            <li>Field label</li>
+            <li>Property name</li>
+            <li>Path</li>
+            <li>Description</li>
+        </ul>
+      </td>
+     </tr>
+     <!--<tr>
+      <td>Subject</td>
+      <td>Classification of assets based on their theme. For example, colorful, hiking, outdoors.</td>
+      <td>NA</td>
+     </tr>
+     -->
+     <tr>
+      <td>Last modified</td>
+      <td>Search assets based on their last modification. Specify the date range using the Start date and End date fields.</td>
+      <td>
+        <ul>
+            <li>Range text (From)</li> 
+            <li>Range text (To) </li>
+        </ul>
+      </td>
+     </tr>    
+     <!--<tr>
+      <td>Asset ID</td>
+      <td>Unique number that identifies the asset.</td>
+      <td>NA</td>
+     </tr>
+     -->
      <tr>
       <td> Colors </td>
       <td> Helps you search assets using colors that are automatically identified in an asset using Adobe's Sensei AI capabilities.</td>
