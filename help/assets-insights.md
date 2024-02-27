@@ -36,8 +36,8 @@ The pie chart visually represents the total count of assets by file format, prov
 
 You can also view:
 
-* **[!UICONTROL Assets by File format]**: Asset count and the respective percentage on the basis of file format.
-* **[!UICONTROL Assets by Campaigns]**: Asset count and the respective percentage on the basis of campaigns.
-* **[!UICONTROL Assets by Channels]**: Asset count and the respective percentage on the basis of channels used.
-* **[!UICONTROL Assets by Regions]**: Asset count and the respective percentage on the basis of regions of asset usage.
+* **[!UICONTROL Assets by File format]**: Asset count and respective percentage on the basis of file format.
+* **[!UICONTROL Assets by Campaigns]**: Asset count and respective percentage on the basis of campaigns.
+* **[!UICONTROL Assets by Channels]**: Asset count and respective percentage on the basis of channels used.
+* **[!UICONTROL Assets by Regions]**: Asset count and respective percentage on the basis of regions of asset usage.
 
