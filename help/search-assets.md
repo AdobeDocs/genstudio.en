@@ -8,7 +8,7 @@ role: User
 
 ![Share assets banner image](assets/search.png)
 
-When you have a large number of assets in your repository, searching for the right asset is time-consuming. [!DNL The content module of Adobe GenStudio] search provides you with the capability to look for the approved assets so that you can perform additional actions on them, such as download, share, or create collections. You can utilize various capabilities to narrow down your search results, such as, performing text-based search, using filters, performing tags or smart tags-specific search, searching for the particular file format, and so on.
+When you have a large number of assets in your repository, searching for the right asset is time-consuming. [!DNL The content module of Adobe GenStudio] search provides you with the capability to look for the approved assets so that you can perform additional actions on them, such as download, share, or create collections. You can utilize various capabilities to narrow down your search results, such as, performing text-based search, using filters, performing tags or smart tags-specific search, searching for a particular file format, and so on.
 
 ## What you can search for  {#what-you-can-search}
 
