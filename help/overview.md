@@ -20,7 +20,7 @@ The following are some of the key benefits of Content module of Adobe GenStudio:
 **Overview Graphic**
 
 
-## Learn more on key capabilities {#key-capabilities-content-module}
+## Dive more into key capabilitiess {#key-capabilities-content-module}
 
 <table>
 <td>
