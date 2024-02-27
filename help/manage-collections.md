@@ -10,12 +10,12 @@ role: User
 
 A collection refers to a set of assets that can be shared among users. A collection can include assets from different locations while maintaining their referential integrity.
 
-[!DNL content module of Adobe GenStudio] lets you create public collections. These collections are accessible to all the entitled users, creating a shared space where multiple users can efficiently access and utilize content. Collections promote collaborative use of resources for increased efficiency and convenience. Within the collection browse page, you can: 
+[!DNL Content module of Adobe GenStudio] lets you create public collections. These collections are accessible to all the entitled users, creating a shared space where multiple users can efficiently access and utilize content. Collections promote collaborative use of resources for increased efficiency and convenience. Within the collection browse page, you can: 
 
 * **Create**: Create one or more collections.
 * **View**: View the assets and their properties.  
 * **Share**: Share assets as a link with others. 
-* **Download**: Download the assets in different renditions. 
+* **Download**: Download the assets.
 * **Remove**: Remove specific assets from a collection. 
 * **Delete**: Delete the entire collection. 
 
@@ -30,34 +30,36 @@ You can choose to create a new collection or add assets to an existing collectio
 Select the assets you need to add to a collection, and click **[!UICONTROL Add To collection]**.
 ![Create collection](assets/add-assets-collection.jpg)
 
-To create a new collection, click **[!UICONTROL Create new collection]**, enter the **[!UICONTROL Title]** and click **[!UICONTROL Create]**.
+To create a new collection, click **[!UICONTROL Create new collection]**. Enter the **[!UICONTROL Title]** and provide a **[!UICONTROL Description]** for the assets. Then, click **[!UICONTROL Create]**.
 
 ![Create a new collection](assets/create-add-collection.jpg)
 
+
 ### Add assets to an existing collection 
 
-To add assets to an existing collection, select the assets you need to add to the existing collection and click **[!UICONTROL Add to collection]**. <br>Select the collection to which you need to add the assets and click **[!UICONTROL Add to collection]**.
+To add assets to an existing collection, select the assets you need to add to the collection. Click **[!UICONTROL Add to collection]**. You are prompted to select the collection. 
+<br>Choose the collection where you need to add the asset. You can also search the existing collection(s) in the search bar. <br>Select the collection to which you need to add the assets and click **[!UICONTROL Add to collection]**.
 
 ## View collections 
 
-Navigate to the [!UICONTROL Collections] tab. To view the list of assets available in a collection, click the collection name. <br> Click the asset that you need to view within a collection. [!DNL content module of Adobe GenStudio] displays the detailed view for the asset. 
+Navigate to the **[!UICONTROL Collections]** tab. To view the list of assets available in a collection, click the collection name. <br> Click the asset that you need to view within a collection. [!DNL Content module of Adobe GenStudio] displays the detailed view for the asset. 
 
-![Asset details](assets/view-asset.jpg)
+![Asset details](assets/view-collection.jpg)
 
-**A**: Details and metadata of the asset **B**: Download the asset **C**: Share the asset as a link **D**: View the asset in the full screen **E**: View the previous or next asset **F**: Close preview screen 
+**A**: Details and metadata of the asset **B**: Zoom In or Zoom Out the asset **C**: Reset Zoom view **D**: View the previous or next asset **E**: Download the asset **F**: Open the asset in Adobe Express **G**: Hide the metadata of the asset **H**: Share the asset as a link 
 
 ## Share assets available within a collection 
 
-You can also share the assets available within a collection. Navigate to the [!UICONTROL Collections] tab. Select the ![share icon](assets/share.svg) icon on the collection card. The share link is copied. You can share the copied link with the recepient. Learn more about [sharing assets in the [!DNL content module of Adobe GenStudio]](share-assets-as-a-link.md).
+You can also share the assets available within a collection. Navigate to the **[!UICONTROL Collections]** tab. Select the ![share icon](assets/share.svg) icon on the collection card. The share link is copied. You can share the copied link with the recepient. Learn more about [sharing assets in the [!DNL content module of Adobe GenStudio]](share-assets-as-a-link.md).
 
 ## Download assets available within a collection 
 
-To download assets available within a collection, navigate to the [!UICONTROL Collections] tab.  
-Click download icon on the collection card. 
+To download assets available within a collection, navigate to the **[!UICONTROL Collections]** tab.  
+Click ![download icon](assets/download-icon.svg) icon on the collection card. 
 
 ![Collection tab](assets/download-collection.jpg)
 
-All the assets in the collection is downloaded.
+All the assets in the collection are downloaded.
 
 You can also open the collection to download the assets individually. Click the collection containing the assets that you need to download. Select the assets and click **[!UICONTROL Download]**. 
 Learn how to [download an asset from the [!DNL content module of Adobe GenStudio]](download-assets.md). 
@@ -73,7 +75,4 @@ The selected assets are successfully removed from the collection.
 
 ## Delete collections 
 
-To delete a collection:
-
-1. Navigate to the [!UICONTROL Collections] tab and click the collection name that you need to delete.
-1. Click remove icon.
+To delete a collection, navigate to the **[!UICONTROL Collections]** tab and click the collection that you need to delete. Click ![remove icon](assets/remove-icon.svg) icon to delete the collection.
