@@ -7,11 +7,11 @@ role: User
 
  ![Assets insights](assets/asset-insights-banner.jpg)
 
-[!DNL Content Hub] provides valuable insights into assets, addressing a common challenge that marketing stakeholders often encounter - asset usage statitics used in marketing campaigns, channels and different regions. By gaining a clear understanding of the performance and popularity of the assets, it delivers actionable insights essential for enhancing user experience.
+[!DNL Content Hub] provides valuable insights into assets, addressing a common challenge that marketing stakeholders often encounter - asset usage statistics used in marketing campaigns, channels, and different regions. By gaining a clear understanding of the performance and popularity of the assets, it delivers actionable insights essential for enhancing user experience.
 
-## View statistics for uploaded assets
+## View statistics for uploaded assets{#view-statistics-for-uploaded-assets}
 
-You can view statistics of the uploaded assets and collections by navigating to the **[!UICONTROL Insights]** tab. Track the upload history of your assets with the yearly, monthly and daily asset uploads view.
+You can view statistics of the uploaded assets and collections by navigating to the **[!UICONTROL Insights]** tab. Track the upload history of your assets with the yearly, monthly, and daily asset upload's view.
    
    ![Upload assets statistics](assets/assets-insights.jpg)
 
@@ -23,9 +23,9 @@ You can view statistics of the uploaded assets and collections by navigating to 
 
 Data for the selected time frame is displayed, including the upload count for the specified duration. -->
 
-## View detailed statistics analysis
+## View detailed statistical analysis{#view-detailed-statistical-analysis}
 
-Content Hub lets you view statistics of the asset counts based on their file format, campaigns, channels and regions. You can gain valuable insights into asset distribution facilitating informed decision-making and strategic planning.
+Content Hub lets you view statistics of the asset counts based on their file format, campaigns, channels, and regions. You can gain valuable insights into asset distribution facilitating informed decision-making and strategic planning.
 
 The table presents a detailed overview of various assets, including their count and the respective percentage within the repository. You can adjust column sizes and sort assets by asset name, count, and percentage.
 
@@ -35,8 +35,8 @@ The pie chart visually represents the total count of assets by file format, prov
 
 You can also view:
 
-* **[!UICONTROL Assets by File format]**: Asset count and respective percentage on the basis of file format.
-* **[!UICONTROL Assets by Campaigns]**: Asset count and respective percentage on the basis of campaigns.
-* **[!UICONTROL Assets by Channels]**: Asset count and respective percentage on the basis of channels used.
-* **[!UICONTROL Assets by Regions]**: Asset count and respective percentage on the basis of regions of asset usage.
+* **[!UICONTROL Assets by File format]**: Asset count and respective percentage based on file format.
+* **[!UICONTROL Assets by Campaigns]**: Asset count and respective percentage based on campaigns.
+* **[!UICONTROL Assets by Channels]**: Asset count and respective percentage based on channels used.
+* **[!UICONTROL Assets by Regions]**: Asset count and respective percentage based on regions of asset usage.
 
