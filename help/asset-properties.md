@@ -88,17 +88,17 @@ The following table demonstrates the supported file formats in [!DNL the content
     </tbody>
    </table>
 
-### Terminology used in asset's properties {#properties-terminology}
+### Derived properties after uploading an asset {#derived-properties}
 
-Following are the terminologies that is shown when you open an asset's properties:
+Once you upload an asset, the content module of Adobe GenStudio derives some properties that are generated automatically. The following is a list of some of them:
 
 * **Size:** Size demonstrates the logical value of an asset as per its dimensions. It clarifies the space that an asset is taking in a repository. [!DNL The content module of Adobe GenStudio] supports assets up to 2GB. 
 
-* **Tags:** Tags help you categorize assets that can be browsed and searched more efficiently. Tagging helps in propagating the appropriate taxonomy to other users and workflows. 
+<!--* **Tags:** Tags help you categorize assets that can be browsed and searched more efficiently. Tagging helps in propagating the appropriate taxonomy to other users and workflows. -->
 
 * **Smart Tags:** [!DNL The content module of Adobe GenStudio] uses Adobe Sensei's smart content services to train assets using recognition algorithm on the tags-based structure. This content intelligence is then used to apply relevant tags on a different set of assets. Smart Tags increase the content velocity of your projects by helping that you find relevant assets quickly. The smart tags are an example of asset information that is not contained in the image. [!DNL The content module of Adobe GenStudio] automatically applies smart tags to assets, by default. 
 
-* **Color Tags:** [Color tags](#https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/color-tag-images.html?lang=en) helps you recognize an asset using colors that are automatically identified in an asset using Adobe's Sensei AI capabilities. 
+* **Color Tags:** [Color tags](#https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/color-tag-images.html?lang=en) help you recognize an asset using colors that are automatically identified in an asset using Adobe's Sensei AI capabilities. 
 
 See more at [search predicates](#search-assets.md#narrow-down-search-results).
 

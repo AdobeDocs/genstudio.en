@@ -25,8 +25,7 @@ Data for the selected time frame is displayed, including the upload count for th
 
 ## View detailed statistics analysis
 
-Content Hub lets you view statistics of the asset counts based on their file format, campaigns, channels and regions.
-You can gain valuable insights into asset distribution facilitating informed decision-making and strategic planning.
+Content Hub lets you view statistics of the asset counts based on their file format, campaigns, channels and regions. You can gain valuable insights into asset distribution facilitating informed decision-making and strategic planning.
 
 The table presents a detailed overview of various assets, including their count and the respective percentage within the repository. You can adjust column sizes and sort assets by asset name, count, and percentage.
 
