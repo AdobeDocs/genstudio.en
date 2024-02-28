@@ -8,9 +8,9 @@ role: User
 <!-- ![Download assets](assets/download-asset.jpg) -->
 ![Download assets](assets/download-asset-genstudio.jpeg)
 
-The content module of Adobe GenStudio lets you download and share your assets. You can also download multiple asset renditions. These assets may include images, videos, or any other digital content. Users can download assets in various file formats catering to diverse preferences. The content module of Adobe GenStudio enhances accessibility and adaptability for effective asset management and distribution.  
+The content module of Adobe GenStudio lets you download and share your assets. These assets may include images, videos, or any other digital content. The content module of Adobe GenStudio enhances accessibility and adaptability for effective asset management and distribution.  
 
-You can download single asset or multiple assets in different versions using the content module of Adobe GenStudio. The versions can include the originals and other renditions of the original asset.
+You can download single asset or multiple assets using the content module of Adobe GenStudio. The original versions  of the asset are downloaded.
 
 ## Download asset {#download-single-asset} 
 

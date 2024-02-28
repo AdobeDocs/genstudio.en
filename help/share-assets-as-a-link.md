@@ -54,6 +54,6 @@ After sharing the link for assets, the authorized recipients can click the link 
 
 Click the shared link, and then click the asset to [preview](#preview-assets) it. You can hover the mouse over the shared asset to select and then download it.  
 
-You can also select multiple assets and click **[!UICONTROL Download]**. You can either download original assets or Original+Renditions of an asset. [!DNL the content module of Adobe GenStudio] downloads each asset one-by-one to the local file system.
+You can also select multiple assets and click **[!UICONTROL Download]**. <!--You can either download original assets or Original+Renditions of an asset.--> [!DNL the content module of Adobe GenStudio] downloads each asset one-by-one to the local file system.
 
-![Access shared assets](assets/access-shared-assets.png)
+<!--![Access shared assets](assets/access-shared-assets.png)-->
