@@ -10,7 +10,7 @@ role: User
 
 [!DNL The content module of Adobe GenStudio] allows you to view information about the asset which is critical for efficient asset management. It is the collection of all the data available for an asset.
 
-Viewing asset properties help you further categorize assets and is helpful as the amount of digital information grows. It is possible to manage a few hundred files based on just the filenames, thumbnails, and memory. However, this approach is not scalable when the number of people involved and the number of managed assets increase. In addition, the value of a digital asset grows, as the asset becomes:
+Viewing asset properties help you further categorize assets and is helpful as the amount of digital information grows. It is possible to manage a few hundred files based on just the filenames, thumbnails, and memory. However, this approach is not scalable when the number of people involved, and the number of managed assets increase. In addition, the value of a digital asset grows, as the asset becomes:
 
 * More accessible - systems and users can find it easily.
 * Easier to manage - you can find assets with the same set of properties easily and apply changes to them.

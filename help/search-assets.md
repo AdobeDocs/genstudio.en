@@ -24,7 +24,7 @@ The [!DNL content module of Adobe GenStudio] search provides results based on:
 
 * **Usage:** The commonly used assets appear on the top of the search list.
 
-* **Search history:** Click inside the search box without typing a character to get your search history. You can also remove any particular keyword from history. The search history is saved in the cache memory of a web browser; which means, if you access the [!DNL content module of Adobe GenStudio] search in a different browser or clear cache memory of the browser, you cannot view the search history anymore.
+* **Search history:** Click inside the search box without typing a character to get your search history. You can also remove any particular keyword from history. The search history is saved in the cache memory of a web browser, which means, if you access the [!DNL content module of Adobe GenStudio] search in a different browser or clear cache memory of the browser, you cannot view the search history anymore.
 
 * **Search while you type:** The [!DNL content module of Adobe GenStudio] search enhances your search experience by providing autocomplete suggestions as you start typing.
 
@@ -55,12 +55,12 @@ Use the Filters panel to search for assets based on metadata. You can filter sea
      </tr>
      <tr>
       <td> Campaigns </td>
-      <td> Allows you to search using planned activity performed to take any particular action. For example, advertisement campaign run on Ferrari to know the understand the interest of people using number of clicks people perform.</td>
+      <td> Allows you to search using planned activity performed to take any particular action. For example, advertisement campaign run on Ferrari to know the understand the interests of people using number of clicks people perform.</td>
       <td>NA</td>
      </tr>
      <tr>
       <td> Channels </td>
-      <td> Helps you to understand the path from where the asset is coming from. For example, web, social media, book, catalog, etc.</td>
+      <td> Helps you to understand the path from where the asset is coming from. For example, web, social media, books, catalog, etc.</td>
       <td>NA</td>
      </tr>
      <tr>
@@ -86,7 +86,7 @@ Use the Filters panel to search for assets based on metadata. You can filter sea
             <li>[!UICONTROL JPEG]</li> 
             <li>[!UICONTROL Quicktime]</li> 
             <li>[!UICONTROL PNG]</li> 
-            <li>[!UICONTROL Webp]</li> 
+            <li>[!UICONTROL WebP]</li> 
             <li>[!UICONTROL MP4]</li> 
             <li>[!UICONTROL Plain]</li> 
             <li>[!UICONTROL PDF]</li>
@@ -138,4 +138,4 @@ Use the Filters panel to search for assets based on metadata. You can filter sea
 
 ## Do more with search {#do-more-with-search}
 
-[!DNL The content module of Adobe GenStudio] is not limited to search, instead it allows you to perform additional actions, such as, [download](download-assets.md), [share](share-assets-as-a-link.md), and [add assets to collection](manage-collections.md) right from the search or preview interface. Select the assets on the search results page to view these options. 
+[!DNL The content module of Adobe GenStudio] is not limited to search, instead it allows you to perform additional actions, such as [download](download-assets.md), [share](share-assets-as-a-link.md), and [add assets to collection](manage-collections.md) right from the search or preview interface. Select the assets on the search results page to view these options. 

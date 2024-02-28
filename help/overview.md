@@ -5,7 +5,7 @@ description: Add overview description
 
 # Content module of Adobe GenStudio
 
-The Content module of Adobe GenStudio is the hub to discover and remix approved content in GenStudio, accelerating the customer's content supply chain.  Use the content module to discover approved content, empower more users to edit content within brand guidelines, and gain visibility of campaign performance.
+The Content module of Adobe GenStudio is the hub to discover and remix approved content in GenStudio, accelerating the customer's content supply chain. Use the content module to discover approved content, empower more users to edit content within brand guidelines, and gain visibility of campaign performance.
 
 The following are some of the key benefits of Content module of Adobe GenStudio:
 
@@ -74,7 +74,7 @@ The following are some of the key benefits of Content module of Adobe GenStudio:
       </a>
    </div>
    <p>
-      <em>Learn the basics of downloading brand approved assets and their renditions from Content module of Adobe GenStudio.</em>
+      <em>Learn the basics of downloading brand-approved assets and their renditions from Content module of Adobe GenStudio.</em>
    </p>
 </td>
 <td>
