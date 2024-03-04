@@ -51,7 +51,7 @@ Navigate to the **[!UICONTROL Collections]** tab. To view the list of assets ava
 
 ## Share assets available within a collection 
 
-You can also share the assets available within a collection. Navigate to the **[!UICONTROL Collections]** tab. Select the ![share icon](assets/share.svg) icon on the collection card. The share link is copied. You can share the copied link with the recepient. Learn more about [sharing assets in the [!DNL content module of Adobe GenStudio]](share-assets-as-a-link.md).
+You can also share the assets available within a collection. Navigate to the **[!UICONTROL Collections]** tab. Select the ![share icon](assets/share.svg) icon on the collection card. The share link is copied. You can share the copied link with the recipient. Learn more about [sharing assets in the [!DNL content module of Adobe GenStudio]](share-assets-as-a-link.md).
 
 ## Download assets available within a collection 
 
@@ -62,7 +62,7 @@ Click ![download icon](assets/download-icon.svg) icon on the collection card.
 
 All the assets in the collection are downloaded.
 
-You can also open the collection to download the assets individually. Click the collection containing the assets that you need to download. Select the assets and click **[!UICONTROL Download]**. 
+You can also open the collection to download the assets individually. Click the collection containing the assets that you need to download. Select the assets, and click **[!UICONTROL Download]**. 
 Learn how to [download an asset from the [!DNL content module of Adobe GenStudio]](download-assets.md). 
 
 ## Remove assets from a collection

@@ -7,11 +7,11 @@ role: User
 
  ![Assets insights](assets/asset-insights-banner.jpg)
 
-[!DNL Content Hub] provides valuable insights into assets, addressing a common challenge that marketing stakeholders often encounter - asset usage statitics used in marketing campaigns, channels and different regions. By gaining a clear understanding of the performance and popularity of the assets, it delivers actionable insights essential for enhancing user experience.
+[!DNL Content Hub] provides valuable insights into assets, addressing a common challenge that marketing stakeholders often encounter - asset usage statistics used in marketing campaigns, channels and different regions. By gaining a clear understanding of the performance and popularity of the assets, it delivers actionable insights essential for enhancing user experience.
 
 ## View statistics for uploaded assets
 
-You can view statistics of the uploaded assets and collections by navigating to the **[!UICONTROL Insights]** tab. Track the upload history of your assets with the yearly, monthly and daily asset uploads view.
+You can view statistics of the uploaded assets and collections by navigating to the **[!UICONTROL Insights]** tab. Track the upload history of your assets with the yearly, monthly, and daily asset uploads view.
    
    ![Upload assets statistics](assets/assets-insights.jpg)
 
@@ -25,8 +25,8 @@ Data for the selected time frame is displayed, including the upload count for th
 
 ## View detailed statistics analysis
 
-Content Hub lets you view statistics of the asset counts based on their file format, campaigns, channels and regions.
-You can gain valuable insights into asset distribution facilitating informed decision-making and strategic planning.
+Content Hub lets you view statistics of the asset counts based on their file format, campaigns, channels, and regions.
+You can gain valuable insights into asset distribution, facilitating informed decision-making and strategic planning.
 
 The table presents a detailed overview of various assets, including their count and the respective percentage within the repository. You can adjust column sizes and sort assets by asset name, count, and percentage.
 
