@@ -24,7 +24,7 @@ The [!DNL content module of Adobe GenStudio] search provides results based on:
 
 * **Usage:** The commonly used assets appear on the top of the search list.
 
-* **Search history:** Click inside the search box without typing a character to get your search history. You can also remove any particular keyword from history. The search history is saved in the cache memory of a web browser; which means, if you access the [!DNL content module of Adobe GenStudio] search in a different browser or clear cache memory of the browser, you cannot view the search history anymore.
+* **Search history:** Click inside the search box without typing a character to get your search history. You can also remove any particular keyword from history. The search history is saved in the cache memory of a web browser, which means, if you access the [!DNL content module of Adobe GenStudio] search in a different browser or clear cache memory of the browser, you cannot view the search history anymore.
 
 * **Search while you type:** The [!DNL content module of Adobe GenStudio] search enhances your search experience by providing autocomplete suggestions as you start typing.
 
@@ -54,61 +54,13 @@ Use the Filters panel to search for assets based on metadata. You can filter sea
       <th><strong>Properties</strong></th>
      </tr>
      <tr>
-      <td>Tags</td>
-      <td>Tags help you categorize assets that can be browsed and searched more efficiently based on hierarchical taxonomies.</td>
-      <td>
-        <ul>
-            <li>Field label</li>
-            <li>Property name</li>
-            <li>Path</li>
-            <li>Description</li>
-        </ul>
-      </td>
-     </tr>
-     <tr>
-      <td>File format</td>
-      <td>Composition of an asset. The supported assets include image, document, video, printable media, and so on.</td>
-      <td>
-        <ul>
-            <li>[!UICONTROL JPEG]</li> 
-            <li>[!UICONTROL Quicktime]</li> 
-            <li>[!UICONTROL PNG]</li> 
-            <li>[!UICONTROL Webp]</li> 
-            <li>[!UICONTROL MP4]</li> 
-            <li>[!UICONTROL Plain]</li> 
-            <li>[!UICONTROL PDF]</li>
-            <li>[!UICONTROL SVG + XML]</li>
-        </ul>
-      </td>
-     </tr>
-     <tr>
-      <td>Subject</td>
-      <td>Classification of assets based on their theme. For example, colorful, hiking, outdoors.</td>
-      <td>NA</td>
-     </tr>
-     <tr>
-      <td>Last modified</td>
-      <td>Search assets based on their last modification. Specify the date range using the Start date and End date fields.</td>
-      <td>
-        <ul>
-            <li>Range text (From)</li> 
-            <li>Range text (To) </li>
-        </ul>
-      </td>
-     </tr>    
-     <tr>
-      <td>Asset ID</td>
-      <td>Unique number that identifies the asset.</td>
-      <td>NA</td>
-     </tr>
-     <tr>
       <td> Campaigns </td>
-      <td> Allows you to search using planned activity performed to take any particular action. For example, advertisement campaign run on Ferrari to know the understand the interest of people using number of clicks people perform.</td>
+      <td> Allows you to search using planned activity performed to take any particular action. For example, advertisement campaign run on Ferrari to know the understand the interests of people using number of clicks people perform.</td>
       <td>NA</td>
      </tr>
      <tr>
       <td> Channels </td>
-      <td> Helps you to understand the path from where the asset is coming from. For example, web, social media, book, catalog, etc.</td>
+      <td> Helps you to understand the path from where the asset is coming from. For example, web, social media, books, catalog, etc.</td>
       <td>NA</td>
      </tr>
      <tr>
@@ -127,6 +79,56 @@ Use the Filters panel to search for assets based on metadata. You can filter sea
       <td>NA</td>
      </tr>
      <tr>
+      <td>File format</td>
+      <td>Composition of an asset. The supported assets include image, document, video, printable media, and so on.</td>
+      <td>
+        <ul>
+            <li>[!UICONTROL JPEG]</li> 
+            <li>[!UICONTROL Quicktime]</li> 
+            <li>[!UICONTROL PNG]</li> 
+            <li>[!UICONTROL WebP]</li> 
+            <li>[!UICONTROL MP4]</li> 
+            <li>[!UICONTROL Plain]</li> 
+            <li>[!UICONTROL PDF]</li>
+            <li>[!UICONTROL SVG + XML]</li>
+        </ul>
+      </td>
+     </tr>
+     <tr>
+      <td>Tags</td>
+      <td>Tags help you categorize assets that can be browsed and searched more efficiently based on hierarchical taxonomies.</td>
+      <td>
+        <ul>
+            <li>Field label</li>
+            <li>Property name</li>
+            <li>Path</li>
+            <li>Description</li>
+        </ul>
+      </td>
+     </tr>
+     <!--<tr>
+      <td>Subject</td>
+      <td>Classification of assets based on their theme. For example, colorful, hiking, outdoors.</td>
+      <td>NA</td>
+     </tr>
+     -->
+     <tr>
+      <td>Last modified</td>
+      <td>Search assets based on their last modification. Specify the date range using the Start date and End date fields.</td>
+      <td>
+        <ul>
+            <li>Range text (From)</li> 
+            <li>Range text (To) </li>
+        </ul>
+      </td>
+     </tr>    
+     <!--<tr>
+      <td>Asset ID</td>
+      <td>Unique number that identifies the asset.</td>
+      <td>NA</td>
+     </tr>
+     -->
+     <tr>
       <td> Colors </td>
       <td> Helps you search assets using colors that are automatically identified in an asset using Adobe's Sensei AI capabilities.</td>
       <td>NA</td>
@@ -136,4 +138,4 @@ Use the Filters panel to search for assets based on metadata. You can filter sea
 
 ## Do more with search {#do-more-with-search}
 
-[!DNL The content module of Adobe GenStudio] is not limited to search, instead it allows you to perform additional actions, such as, [download](download-assets.md), [share](share-assets-as-a-link.md), and [add assets to collection](manage-collections.md) right from the search or preview interface. Select the assets on the search results page to view these options. 
+[!DNL The content module of Adobe GenStudio] is not limited to search, instead it allows you to perform additional actions, such as [download](download-assets.md), [share](share-assets-as-a-link.md), and [add assets to collection](manage-collections.md) right from the search or preview interface. Select the assets on the search results page to view these options. 

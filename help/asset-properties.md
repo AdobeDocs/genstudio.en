@@ -10,7 +10,7 @@ role: User
 
 [!DNL The content module of Adobe GenStudio] allows you to view information about the asset which is critical for efficient asset management. It is the collection of all the data available for an asset.
 
-Viewing asset properties help you further categorize assets and is helpful as the amount of digital information grows. It is possible to manage a few hundred files based on just the filenames, thumbnails, and memory. However, this approach is not scalable when the number of people involved and the number of managed assets increase. In addition, the value of a digital asset grows, as the asset becomes:
+Viewing asset properties help you further categorize assets and is helpful as the amount of digital information grows. It is possible to manage a few hundred files based on just the filenames, thumbnails, and memory. However, this approach is not scalable when the number of people involved, and the number of managed assets increase. In addition, the value of a digital asset grows, as the asset becomes:
 
 * More accessible - systems and users can find it easily.
 * Easier to manage - you can find assets with the same set of properties easily and apply changes to them.
@@ -88,18 +88,19 @@ The following table demonstrates the supported file formats in [!DNL the content
     </tbody>
    </table>
 
-### Size {#size-of-an-asset} 
+### Derived properties after uploading an asset {#derived-properties}
 
-Size demonstrates the logical value of an asset as per its dimensions. It clarifies the space that an asset is taking in a repository. [!DNL The content module of Adobe GenStudio] supports assets up to 2GB. 
+Once you upload an asset, the content module of Adobe GenStudio derives some properties that are generated automatically. The following is a list of some of them:
 
-### Tags {#tags}
+* **Size:** Size demonstrates the logical value of an asset as per its dimensions. It clarifies the space that an asset is taking in a repository. [!DNL The content module of Adobe GenStudio] supports assets up to 2GB. 
 
-Tags help you categorize assets that can be browsed and searched more efficiently. Tagging helps in propagating the appropriate taxonomy to other users and workflows. 
+<!--* **Tags:** Tags help you categorize assets that can be browsed and searched more efficiently. Tagging helps in propagating the appropriate taxonomy to other users and workflows. -->
 
-### Smart Tags{#smart-tags} 
+* **Smart Tags:** [!DNL The content module of Adobe GenStudio] uses Adobe Sensei's smart content services to train assets using recognition algorithm on the tags-based structure. This content intelligence is then used to apply relevant tags on a different set of assets. Smart Tags increase the content velocity of your projects by helping that you find relevant assets quickly. The smart tags are an example of asset information that is not contained in the image. [!DNL The content module of Adobe GenStudio] automatically applies smart tags to assets, by default. 
 
-[!DNL The content module of Adobe GenStudio] uses Adobe Sensei's smart content services to train assets using recognition algorithm on the tags-based structure. This content intelligence is then used to apply relevant tags on a different set of assets. Smart Tags increase the content velocity of your projects by helping that you find relevant assets quickly. The smart tags are an example of asset information that is not contained in the image. [!DNL The content module of Adobe GenStudio] automatically applies smart tags to assets, by default. 
+* **Color Tags:** [Color tags](#https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/color-tag-images.html?lang=en) help you recognize an asset using colors that are automatically identified in an asset using Adobe's Sensei AI capabilities. 
 
+See more at [search predicates](#search-assets.md#narrow-down-search-results).
 
 <!--
 

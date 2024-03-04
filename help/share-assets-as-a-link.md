@@ -24,9 +24,9 @@ You can share a single asset by executing the following steps:
  
 ## Share multiple assets {#share-multiple-assets}
 
-[!DNL the content module of Adobe GenStudio] allows you to share multiple assets via a shared link. Execute the steps below: 
+[!DNL The content module of Adobe GenStudio] allows you to share multiple assets via a shared link. Execute the steps below: 
 
-1. Select assets that you need to share with the authorized recipient. You can select multiple assets one by one or click **[!UICONTROL Select All]** to select all available assets at once. The **[!UICONTROL Select All]** option displays only when you select atleast one asset.
+1. Select assets that you need to share with the authorized recipient. You can select multiple assets one by one or click **[!UICONTROL Select All]** to select all available assets at once. The **[!UICONTROL Select All]** option displays only when you select at least one asset.
 
 1. Click the ![share icon](assets/share.svg) icon. 
 
@@ -46,7 +46,12 @@ You can preview to see how a digital asset that you are going to share looks whe
 
 ![Asset details](assets/view-asset.jpg)
 
-**A**: Details and metadata of the asset **B**: Download the asset **C**: Share the asset as a link **D**: View the asset in the full screen **E**: View the previous or next asset **F**: Close preview screen  
+* **A**: Details and metadata of the asset 
+* **B**: Download the asset 
+* **C**: Share the asset as a link 
+* **D**: View the asset in the full screen 
+* **E**: View the previous or next asset 
+* **F**: Close preview screen  
 
 ### Access the shared assets {#access-shared-assets}
 
@@ -54,6 +59,6 @@ After sharing the link for assets, the authorized recipients can click the link 
 
 Click the shared link, and then click the asset to [preview](#preview-assets) it. You can hover the mouse over the shared asset to select and then download it.  
 
-You can also select multiple assets and click **[!UICONTROL Download]**. You can either download original assets or Original+Renditions of an asset. [!DNL the content module of Adobe GenStudio] downloads each asset one-by-one to the local file system.
+You can also select multiple assets and click **[!UICONTROL Download]**. <!--You can either download original assets or Original+Renditions of an asset.--> [!DNL The content module of Adobe GenStudio] downloads each asset one-by-one to the local file system.
 
-![Access shared assets](assets/access-shared-assets.png)
+<!--![Access shared assets](assets/access-shared-assets.png)-->
