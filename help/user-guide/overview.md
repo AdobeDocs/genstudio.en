@@ -1,6 +1,6 @@
 ---
 title: Adobe GenStudio User Guide
-description: 
+description: Learn how to quickly find and generate assets, create variations, and optimize experiences based on real-time content performance insights.
 ---
 
 # GenStudio User Guide
