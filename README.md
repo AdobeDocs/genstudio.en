@@ -14,7 +14,7 @@ Minor corrections or clarifications you submit for documentation and code exampl
 
 ### Major changes
 
-If you are part of the Adobe community and you want to create an article or submit major changes, submit an issue on the _Issues_ tab to start a conversation with the documentation team. Once you agree to a plan, work with an employee to build and place the content.
+If you are part of the Adobe community and you want to create an article or submit major changes, submit an issue on the _Issues_ tab to start a conversation with the documentation team. Once you and the writer agree on a plan, build and place the content together.
 
 ### Major changes from Adobe Employees
 

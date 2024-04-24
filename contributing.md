@@ -30,15 +30,14 @@ you are good to go!
 
 ## Code Reviews
 
-All submissions should come in the form of a pull request and participate in a peer-review process by project maintainers. Read [About pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) in _GitHub Docs_.
+All submissions should be submitted as a pull request. The PR assignee must participate in a peer-review process with project maintainers. Read [About pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) in _GitHub Docs_.
 
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
 submitting a pull request!
 
 ## From Contributor To Maintainer
 
-We love contributions from the community! If you would like to become a maintainer with full write access, you must be invited to the project. The existing maintainers employ an internal nomination process that must reach a consensus (silence is approval) before issuing an invitation. If you are qualified and want to get more deeply involved,
-feel free to reach out to existing maintainers to discuss your interest.
+We love contributions from the community! If you would like to become a maintainer with full write access, you must be invited to the project. The existing maintainers employ an internal nomination process that must reach a consensus (silence is approval) before issuing an invitation. If you are qualified and want to get more deeply involved, contact existing maintainers to discuss your interest.
 
 ## Security Issues
 
