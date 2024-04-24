@@ -10,9 +10,9 @@ labels: 'bug'
 
 Be sure to:
 
-- [ ] Provide link(s) to affected content
+- [ ] Provide links to affected content
 - [ ] Add screenshots
-- [ ] Describe expected outcome
+- [ ] Describe the expected outcome
 
 ## Possible solutions
 

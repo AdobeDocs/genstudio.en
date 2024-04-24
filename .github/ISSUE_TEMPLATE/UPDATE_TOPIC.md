@@ -9,7 +9,7 @@ about: Request to clarify or correct a documentation topic
 
 Be sure to:
 
-- [ ] Provide link(s) to affected content
+- [ ] Provide links to affected content
 - [ ] Add screenshots
 - [ ] Describe the incorrect or missing information
 - [ ] Provide links to sources

@@ -7,11 +7,9 @@ about: Create a pull request to contribute changes that help us improve
 
 This pull request ...
 
-### Related Issue(s)
+### Related Issues
 
-Provide links to related issue(s) or code:
-
-- ..
+Provide links to related issues or code:
 
 ### Additional Context
 
