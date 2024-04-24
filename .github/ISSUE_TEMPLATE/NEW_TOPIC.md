@@ -8,7 +8,7 @@ labels: 'enhancement'
 
 ## Description
 
-<!-- (REQUIRED) Describe the new content. Provide as much detail and resources as you can. -->
+<!-- (REQUIRED) Describe the new content. Provide as much detail and as many resources as you can. -->
 
 Include the following:
 
