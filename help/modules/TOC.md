@@ -1,6 +1,6 @@
 ---
 user-guide-title: Content Module Guide 
-breadcrumb-title: GenStudio
+breadcrumb-title: GenStudio Modules
 user-guide-description: Discover approved content, empower more users to edit content within brand guidelines, and gain visibility of campaign performance.
 ---
 
