@@ -9,11 +9,11 @@ Adobe GenStudio is a generative AI-first product that lets your marketing team q
 
 <table style="table-layout:fixed">
 <td valign="top">
-   <a href="link to topic">
+   <a href="../user-guide/create/overview.md">
    <img alt="" src="../assets/card-create-assets.png"/>
    </a>
    <div>
-      <a href="">
+      <a href="../user-guide/create/overview.md">
       <strong>Create Experiences</strong>
       </a>
    </div>
@@ -22,11 +22,11 @@ Adobe GenStudio is a generative AI-first product that lets your marketing team q
    </p>
 </td>
 <td valign="top">
-   <a href="">
+   <a href="../user-guide/content/overview.md">
    <img alt="" src="../assets/card-manage-content.png"/>
    </a>
    <div>
-      <a href="">
+      <a href="../user-guide/content/overview.md">
       <strong>Manage Content</strong>
       </a>
    </div>
@@ -35,11 +35,11 @@ Adobe GenStudio is a generative AI-first product that lets your marketing team q
    </p>
 </td>
 <td valign="top">
-   <a href="">
+   <a href="../user-guide/insights/overview.md">
    <img alt="" src="../assets/card-insights.png"/>
    </a>
    <div>
-      <a href="">
+      <a href="../user-guide/insights/overview.md">
       <strong>Investigate Performance</strong>
       </a>
    </div>

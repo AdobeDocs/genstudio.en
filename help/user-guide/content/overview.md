@@ -16,44 +16,4 @@ description: Learn how to find, edit, reuse, and share brand-approved assets in 
 
 ## [!DNL Content] capabilities
 
-<table>
-<td>
-   <a href="">
-   <img alt="" src=""/>
-   </a>
-   <div>
-      <a href="">
-      <strong></strong>
-      </a>
-   </div>
-   <p>
-      <em></em>
-   </p>
-</td>
-<td>
-   <a href="">
-   <img alt="" src=""/>
-   </a>
-   <div>
-      <a href="">
-      <strong></strong>
-      </a>
-   </div>
-   <p>
-      <em></em>
-   </p>
-</td>
-<td>
-   <a href="">
-   <img alt="" src=""/>
-   </a>
-   <div>
-      <a href="">
-      <strong></strong>
-      </a>
-   </div>
-   <p>
-      <em></em>
-   </p>
-</td>
-</table>
+
