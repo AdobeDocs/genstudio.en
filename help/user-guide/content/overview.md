@@ -1,15 +1,59 @@
 ---
-title: Overview of [!DNL Content Hub]
-description: Learn how to find, edit, reuse, and share assets.
+title: Overview of [!DNL Content]
+description: Learn how to find, edit, reuse, and share brand-approved assets in one, intuitive portal.
 ---
 
-# GenStudio [!DNL Content Hub]
+# [!DNL Content Hub]
 
-Content Hub makes it easy to find and prepare assets for campaigns.
+[!DNL Content] makes it easy to discover and remix approved content in GenStudio, accelerating your content supply chain. Use [!DNL Content Hub] to discover approved content, empower more users to edit content within brand guidelines, and gain visibility of campaign performance.
 
-- Find, manage, and store content with generative AI.
+[!DNL Content Hub] benefits include:
+
+- Store, find, and share all brand-approved assets in one, intuitive portal.
+- Empower non-creatives to edit and remix content while staying true to your brand.
+- Gain insights on how content is used across teams.
 - Use generative AI to create, edit, or repurpose existing assets.
-- Easily search, filter, share, and download final approved content, ready for activation.
-- Get AI-powered brand guardrails to ensure that generated content meets brand guidelines.
 
-This is the GenStudio [!DNL Content Hub] documentation. Looking for [Content Module](/help/modules/overview.md)?
+## [!DNL Content] capabilities
+
+<table>
+<td>
+   <a href="">
+   <img alt="" src=""/>
+   </a>
+   <div>
+      <a href="">
+      <strong></strong>
+      </a>
+   </div>
+   <p>
+      <em></em>
+   </p>
+</td>
+<td>
+   <a href="">
+   <img alt="" src=""/>
+   </a>
+   <div>
+      <a href="">
+      <strong></strong>
+      </a>
+   </div>
+   <p>
+      <em></em>
+   </p>
+</td>
+<td>
+   <a href="">
+   <img alt="" src=""/>
+   </a>
+   <div>
+      <a href="">
+      <strong></strong>
+      </a>
+   </div>
+   <p>
+      <em></em>
+   </p>
+</td>
+</table>
