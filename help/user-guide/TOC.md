@@ -6,14 +6,12 @@ user-guide-description: Learn how to quickly find and generate on-brand assets, 
 
 # Adobe GenStudio Guide {#user-guide}
 
-+ [Overview](overview.md)
++ [GenStudio Guide](home.md)
++ Introduction {#intro}
+    + [GenStudio Concepts](concepts.md)
 + Create {#create}
     + [Create overview](create/overview.md)
 + Content Hub {#content-hub}
     + [Content Hub overview](content/overview.md)
-+ Campaigns {#campaigns}
-    + [Campaigns overview](campaigns/overview.md)
-+ Activation {#activation}
-    + [Activation overview](activation/overview.md)
 + Insights {#insights}
     + [Insights overview](insights/overview.md)
