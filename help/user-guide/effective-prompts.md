@@ -1,6 +1,7 @@
 ---
 title: Write effective prompts
 description: Learn how to write effective prompts with GenStudio.
+feature: Prompt
 ---
 
 # Write effective prompts
