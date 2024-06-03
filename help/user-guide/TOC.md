@@ -11,7 +11,7 @@ feature: Generative AI
 + Introduction {#intro}
     + [GenStudio Concepts](concepts.md)
 + Create {#create}
-    + [Create overview](create/overview.md)
+    + [[!DNL Create] overview](create/overview.md)
 + Content {#content}
     + [Content overview](content/overview.md)
 + Insights {#insights}
