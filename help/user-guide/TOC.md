@@ -2,6 +2,7 @@
 user-guide-title: GenStudio User Guide 
 breadcrumb-title: GenStudio
 user-guide-description: Learn how to quickly find and generate on-brand assets, create variations, and optimize experiences based on real-time content performance insights.
+feature-set: GenStudio
 feature: Generative AI
 ---
 
