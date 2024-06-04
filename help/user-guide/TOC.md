@@ -11,6 +11,7 @@ feature: Generative AI
 + [GenStudio Guide](home.md)
 + Introduction {#intro}
     + [GenStudio Concepts](concepts.md)
+    + [Effective prompts](effective-prompts.md)
 + Create {#create}
     + [[!DNL Create] overview](create/overview.md)
 + Content {#content}
