@@ -6,7 +6,7 @@ feature: Workflow
 
 # Introduction to GenStudio
 
-An enterprise content supply chain must keep pace with an ever-changing market. It is challenging to build personalized, brand-approved content at scale, monitor effectiveness, and adapt quickly to the changes. GenStudio brings the best tools together in one application to be a performance multiplier for enterprise marketing teams.
+GenStudio is a standalone enterprise product that embodies Adobe's Content Supply Chain to streamline marketing campaigns. It is challenging to build personalized, brand-approved content at scale, monitor effectiveness, and adapt quickly to the ever-changing market. GenStudio brings Creative Cloud, Express with Firefly, and Experience Cloud together in one application that leverages generative AI as a performance multiplier for enterprise marketing teams.
 
 With GenStudio you can:
 
@@ -16,7 +16,7 @@ With GenStudio you can:
 
 ## Workflow
 
-Show the general workflow here.
+
 
 ## Terminology
 
