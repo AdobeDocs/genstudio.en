@@ -23,10 +23,10 @@ Your prompt guides the AI to generate images that complement your vision. The mo
 The following prompt builds upon the earlier basic prompt and includes details about the contents of the water:
 
 ```text
-A health spa photograph of a shampoo bottle in the water, surrounded with floating orchid petals and lavender blossoms.
+A photograph of a shampoo bottle with a gold cap, standing in water with floating orchids and lavender blossoms.
 ```
 
-![Spa detailed bottle in water](../assets/prompt-shampoo-spa.jpg "A spa-style photo of a bottle in water with orchids and lavender flowers."){width="300"}
+![Spa detailed bottle in water](../assets/prompt-shampoo-descriptive.jpg "A spa-style photo of a bottle in water with orchids and lavender flowers."){width="300"}
 
 Continue to experiment with descriptive language and produce variations until an image meets your requirements. The following are examples of detailed prompts:
 
