@@ -1,6 +1,6 @@
 ---
 cloud: Experience Cloud
-solution: Experience Cloud
+solution: GenStudio
 product: GenStudio
 type: Documentation
 mini-toc-levels: 2

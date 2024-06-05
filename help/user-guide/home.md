@@ -5,7 +5,7 @@ description: Learn how to use GenStudio and generative AI to personalize your co
 
 # GenStudio User Guide
 
-Adobe GenStudio, infused with generative AI, unites the content supply chain so you can rapidly create, activate, and manage personalized experiences that are true to your brand.
+Adobe GenStudio is a self-service application infused with generative AI to help you and your team create, activate, and manage personalized experiences that are true to your brand. 
 
 ## Capabilities
 
@@ -20,7 +20,7 @@ Adobe GenStudio, infused with generative AI, unites the content supply chain so 
       </a>
    </div>
    <p>
-      <em>Learn how to create performant, on-brand images and content.</em>
+      <em>Create performant, on-brand images and content.</em>
    </p>
 </td>
 <td valign="top">
@@ -33,7 +33,7 @@ Adobe GenStudio, infused with generative AI, unites the content supply chain so 
       </a>
    </div>
    <p>
-      <em>Learn how to find, manage, and repurpose content while maintaining brand guidelines.</em>
+      <em>Find, manage, and repurpose content while maintaining brand guidelines.</em>
    </p>
 </td>
 <td valign="top">
@@ -46,7 +46,7 @@ Adobe GenStudio, infused with generative AI, unites the content supply chain so 
       </a>
    </div>
    <p>
-      <em>Learn how to optimize content performance based on real-time usage.</em>
+      <em>Optimize content performance based on real-time usage.</em>
    </p>
 </td>
 </table>
@@ -61,7 +61,7 @@ Adobe GenStudio, infused with generative AI, unites the content supply chain so 
       </a>
    </div>
    <p>
-      <em>Learn how to create a performant, on-brand Email experience.</em>
+      <em>Learn how to create an on-brand Email experience.</em>
    </p>
 </td>
 <td valign="top">
@@ -71,7 +71,7 @@ Adobe GenStudio, infused with generative AI, unites the content supply chain so 
       </a>
    </div>
    <p>
-      <em>Learn how to create an on-brand image and experiment with variants.</em>
+      <em>Learn how to create an image and experiment with variants.</em>
    </p>
 </td>
 <td valign="top">
@@ -81,7 +81,7 @@ Adobe GenStudio, infused with generative AI, unites the content supply chain so 
       </a>
    </div>
    <p>
-      <em>Learn how to evaluate content performance and repurpose content to stay relevant.</em>
+      <em>Learn how to evaluate performance and repurpose content to stay relevant.</em>
    </p>
 </td>
 </table>
