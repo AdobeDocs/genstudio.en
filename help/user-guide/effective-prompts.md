@@ -42,4 +42,4 @@ The following example builds upon the earlier prompt by selecting and applying t
 
 ![Brand-styled bottle in water](../assets/prompt-shampoo-brand.jpg "Brand-styled photo of a bottle in water."){width="300"}
 
-Once you have an image that you like, you have the option of opening Adobe Express to add any last touches or effects.
+Once you have an image that you like, you have the option of selecting the edit icon to use an editor—powered by Adobe Express—to add any touches or effects.
