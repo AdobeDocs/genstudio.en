@@ -16,7 +16,7 @@ Adobe GenStudio is a self-service application infused with generative AI to help
       <img alt="Right chevron" src="../assets/icons/icon-chevronRight.svg" width="35">
       </a>
       <div>
-         <a href="../user-guide/effective-prompts.md.md">
+         <a href="../user-guide/effective-prompts.md">
          <strong>Write Effective Prompts</strong>
          </a>
       </div>
