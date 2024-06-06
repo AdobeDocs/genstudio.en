@@ -29,7 +29,7 @@ Adobe GenStudio is a self-service application infused with generative AI to help
       <img alt="Checkmark" src="../assets/icons/icon-checkmarkCircle.svg" width="35">
       </a>
       <div>
-         <a href="../user-guide/content/overview.md">
+         <a href="../user-guide/activation/review-process.md">
          <strong>Review & Approve</strong>
          </a>
       </div>
