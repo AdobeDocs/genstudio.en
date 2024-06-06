@@ -5,12 +5,25 @@ description: Learn how to use GenStudio and generative AI to personalize your co
 
 # GenStudio User Guide
 
-Adobe GenStudio is a self-service application infused with generative AI to help you and your team create, activate, and manage personalized experiences that are true to your brand. 
+Adobe GenStudio is a self-service application infused with generative AI to help you and your team create, activate, and manage personalized experiences that are true to your brand.
 
 ## Explore GenStudio Capabilities
 
 <table style="table-layout:fixed">
 <tr style="border: 0;">
+   <td valign="top">
+      <a href="../user-guide/effective-prompts.md">
+      <img alt="Right chevron" src="../assets/icons/icon-chevronRight.svg" width="35">
+      </a>
+      <div>
+         <a href="../user-guide/effective-prompts.md.md">
+         <strong>Write Effective Prompts</strong>
+         </a>
+      </div>
+      <p>
+         <em>Craft prompts with descriptive language, brand assets, and other criteria.</em>
+      </p>
+   </td>
    <td valign="top">
       <a href="../user-guide/create/overview.md">
       <img alt="Paintbrush" src="../assets/icons/icon-create.svg" width="35">
@@ -39,7 +52,7 @@ Adobe GenStudio is a self-service application infused with generative AI to help
    </td>
    <td valign="top">
       <a href="../user-guide/content/overview.md">
-      <img alt="Grid" src="../assets/icons/icon-collection.svg" width="35">
+      <img alt="Grid" src="../assets/icons/icon-images.svg" width="35">
       </a>
       <div>
          <a href="../user-guide/content/overview.md">
