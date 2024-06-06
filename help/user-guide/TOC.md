@@ -14,6 +14,8 @@ feature: Generative AI
     + [Effective prompts](effective-prompts.md)
 + Create {#create}
     + [[!DNL Create] overview](create/overview.md)
++ Reviews & Approvals {#approve}
+    + [Review asset](activation/review-process.md)
 + Content {#content}
     + [Content overview](content/overview.md)
 + Insights {#insights}
