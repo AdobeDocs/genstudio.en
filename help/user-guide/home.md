@@ -30,7 +30,7 @@ Adobe GenStudio is a self-service application infused with generative AI to help
       </a>
       <div>
          <a href="../user-guide/content/overview.md">
-         <strong>Reviews & Approval</strong>
+         <strong>Review & Approve</strong>
          </a>
       </div>
       <p>
