@@ -18,41 +18,41 @@ The [!DNL Content] provides a central location to find, use, and reuse approved 
 <table style="table-layout:fixed">
 <tr>
    <td valign="top" width="100">
-      <a href="../user-guide/content/overview.md">
+      <a href="../content/overview.md">
       <img alt="Add content" src="../../assets/icons/icon-addContent.svg" width="35">
       </a>
       <div>
-         <a href="../user-guide/content/overview.md">
+         <a href="../content/overview.md">
          <strong>Add Content</strong>
          </a>
       </div>
    </td>
    <td valign="top" width="100">
-      <a href="../user-guide/content/overview.md">
+      <a href="../content/overview.md">
       <img alt="Add content" src="../../assets/icons/icon-template.svg" width="35">
       </a>
       <div>
-         <a href="../user-guide/content/overview.md">
+         <a href="../content/overview.md">
          <strong>Add Template</strong>
          </a>
       </div>
    </td>
    <td valign="top" width="100">
-      <a href="../user-guide/content/overview.md">
+      <a href="../content/overview.md">
       <img alt="Add content" src="../../assets/icons/icon-refresh.svg" width="35">
       </a>
       <div>
-         <a href="../user-guide/content/overview.md">
+         <a href="../content/overview.md">
          <strong>Reuse Content</strong>
          </a>
       </div>
    </td>
    <td valign="top" width="100">
-      <a href="../user-guide/content/overview.md">
+      <a href="../content/overview.md">
       <img alt="Add content" src="../../assets/icons/icon-AIVariation.svg" width="35">
       </a>
       <div>
-         <a href="../user-guide/content/overview.md">
+         <a href="../content/overview.md">
          <strong>Refresh Content</strong>
          </a>
       </div>
