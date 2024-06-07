@@ -16,11 +16,11 @@ Your prompt guides the AI to generate images that complement your vision. The mo
 
 For example, experiment with descriptive language and produce variations until an image meets your requirements:
 
-  - "_A serene beach scene at dawn with soft pastel colors, gentle waves, and a clear sky with a few scattered clouds, in a hand-drawn style._"
+- "_A serene beach scene at dawn with soft pastel colors, gentle waves, and a clear sky with a few scattered clouds, in a hand-drawn style._"
 
-  - "_A bustling cityscape at night with neon lights, tall skyscrapers, and busy streets, in a hyper-realistic style._"
+- "_A bustling cityscape at night with neon lights, tall skyscrapers, and busy streets, in a hyper-realistic style._"
 
-  - "_A fantasy forest with towering trees, glowing mushrooms, and mystical creatures, in a vibrant, colorful style._"
+- "_A fantasy forest with towering trees, glowing mushrooms, and mystical creatures, in a vibrant, colorful style._"
 
 ## Prompt criteria
 
