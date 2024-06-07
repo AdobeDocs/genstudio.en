@@ -19,6 +19,16 @@ The [!DNL Content] provides a central location to find, use, and reuse approved 
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
       <a href="../content/overview.md">
+      <img alt="magnifier" src="../../assets/icons/icon-search.svg" width="35">
+      </a>
+      <div>
+         <a href="../content/overview.md">
+         <strong>Find Content</strong>
+         </a>
+      </div>
+   </td>
+   <td align="center" valign="top" width="100">
+      <a href="../content/overview.md">
       <img alt="Add content" src="../../assets/icons/icon-addContent.svg" width="35">
       </a>
       <div>
@@ -39,11 +49,11 @@ The [!DNL Content] provides a central location to find, use, and reuse approved 
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/overview.md">
-      <img alt="Add content" src="../../assets/icons/icon-refresh.svg" width="35">
+      <img alt="Add content" src="../../assets/icons/icon-dataAnalytics.svg" width="35">
       </a>
       <div>
          <a href="../content/overview.md">
-         <strong>Reuse Content</strong>
+         <strong>View Insights</strong>
          </a>
       </div>
    </td>
@@ -54,16 +64,6 @@ The [!DNL Content] provides a central location to find, use, and reuse approved 
       <div>
          <a href="../content/overview.md">
          <strong>Refresh Content</strong>
-         </a>
-      </div>
-   </td>
-   <td align="center" valign="top" width="100">
-      <a href="../content/overview.md">
-      <img alt="Add content" src="../../assets/icons/icon-collection.svg" width="35">
-      </a>
-      <div>
-         <a href="../content/overview.md">
-         <strong>View collections</strong>
          </a>
       </div>
    </td>
