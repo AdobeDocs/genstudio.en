@@ -9,10 +9,62 @@ feature: Content Hub
 The [!DNL Content] provides a central location to find, use, and reuse approved content in GenStudio.
 
 - Store, find, and share all brand-approved assets in one hub.
-- Empower non-creatives to edit and remix content while staying true to your brand.
-- Gain insights on how content is used across teams.
+- Edit and remix content that aligns with brand guidelines.
+- Gain insight on how content is used across teams.
 - Use generative AI to create, edit, or repurpose existing content.
 
 ## [!DNL Content] use cases
 
+<table style="table-layout:fixed">
+<tr>
+   <td valign="top" width="100">
+      <a href="../user-guide/content/overview.md">
+      <img alt="Add content" src="../../assets/icons/icon-addContent.svg" width="35">
+      </a>
+      <div>
+         <a href="../user-guide/content/overview.md">
+         <strong>Add Content</strong>
+         </a>
+      </div>
+   </td>
+   <td valign="top" width="100">
+      <a href="../user-guide/content/overview.md">
+      <img alt="Add content" src="../../assets/icons/icon-template.svg" width="35">
+      </a>
+      <div>
+         <a href="../user-guide/content/overview.md">
+         <strong>Add Template</strong>
+         </a>
+      </div>
+   </td>
+   <td valign="top" width="100">
+      <a href="../user-guide/content/overview.md">
+      <img alt="Add content" src="../../assets/icons/icon-refresh.svg" width="35">
+      </a>
+      <div>
+         <a href="../user-guide/content/overview.md">
+         <strong>Reuse Content</strong>
+         </a>
+      </div>
+   </td>
+   <td valign="top" width="100">
+      <a href="../user-guide/content/overview.md">
+      <img alt="Add content" src="../../assets/icons/icon-AIVariation.svg" width="35">
+      </a>
+      <div>
+         <a href="../user-guide/content/overview.md">
+         <strong>Refresh Content</strong>
+         </a>
+      </div>
+   </td>
+</tr>
+</table>
+
+TBD—
+
 Content Refresh—In this Use Case, use GenStudio to refresh the content of long-running or evergreen campaigns.
+
+
+## Content insights
+
+TBD
