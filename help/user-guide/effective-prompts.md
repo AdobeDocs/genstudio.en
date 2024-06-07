@@ -6,40 +6,34 @@ feature: Prompt, Brands Service
 
 # Write effective prompts
 
-Communicating with the generative AI is essential to working effectively in GenStudio. You can use natural language to articulate your ideas and create new experiences.
+Communicating with the generative AI is essential to working effectively in GenStudio.
 
-The following is a basic text-to-image prompt:
-
-```text
-A photograph of a shampoo bottle in the water.
-```
-
-![Simple bottle in water](../assets/prompt-shampoo-simple.jpg "A simple photo of a bottle in water."){width="300"}
+GenStudio provides a generative AI prompt each time there is an opportunity to create or modify an asset. You can use natural language to articulate your ideas and create new experiences.
 
 ## Descriptive language
 
 Your prompt guides the AI to generate images that complement your vision. The more details that you provide, the greater the chance of producing an image that meets your needs. Use clear and descriptive language to provide as much detail as possible. Use words that describe ambiance, mood, color, composition, and style.
 
-The following prompt builds upon the earlier basic prompt and includes details about the contents of the water:
+For example, experiment with descriptive language and produce variations until an image meets your requirements:
 
-```text
-A photograph of a shampoo bottle with a gold cap, standing in water with floating orchids and lavender blossoms.
-```
+  - "_A serene beach scene at dawn with soft pastel colors, gentle waves, and a clear sky with a few scattered clouds, in a hand-drawn style._"
 
-![Spa detailed bottle in water](../assets/prompt-shampoo-descriptive.jpg "A spa-style photo of a bottle in water with orchids and lavender flowers."){width="300"}
+  - "_A bustling cityscape at night with neon lights, tall skyscrapers, and busy streets, in a hyper-realistic style._"
 
-Continue to experiment with descriptive language and produce variations until an image meets your requirements. The following are examples of detailed prompts:
-
-- "_A serene beach scene at dawn with soft pastel colors, gentle waves, and a clear sky with a few scattered clouds, in a hand-drawn style._"
-- "_A bustling cityscape at night with neon lights, tall skyscrapers, and busy streets, in a hyper-realistic style._"
-- "_A fantasy forest with towering trees, glowing mushrooms, and mystical creatures, in a vibrant, colorful style._"
+  - "_A fantasy forest with towering trees, glowing mushrooms, and mystical creatures, in a vibrant, colorful style._"
 
 ## Prompt criteria
 
 In the GenStudio [Create](./create/overview.md) mode, you can use **[!UICONTROL Prompt criteria]** to add details through selection to improve the AI interpretation. You can choose from your company references, such as **[!DNL Brand]** or a specific **[!DNL Persona]** or **[!DNL Product]**, and specify image characteristics, such as aspect ratio.
 
-The following example builds upon the earlier prompt by selecting and applying the **[!DNL Brand]** reference.
+>[!BEGINTABS]
 
-![Brand-styled bottle in water](../assets/prompt-shampoo-brand.jpg "Brand-styled photo of a bottle in water."){width="300"}
+>[!TAB Email]
 
-Once you have an image that you like, you have the option of selecting the edit icon to use an editor—powered by Adobe Express—to add any touches or effects.
+Test. Email Prompt guide begins here.
+
+>[!TAB Image]
+
+Image Prompt guidance begins here.
+
+>[!ENDTABS]
