@@ -21,7 +21,7 @@ GenStudio Brands, Products, and Personas:
 * Ensure that your defined brand identity informs the creation of each piece of content
 * Operate as a brand identity framework that GenStudio checks against with each piece of generated or [validated content](#brand-validation)
 
-By incorporating Brand, Product, and Personas data into GenStudio, you can significantly enhance the quality and effectiveness of the content generated using its AI functionality. You can generate assets without uploading any brand reference material but adding them to GenStudio ensures a comprehensive and tailored brand identity, resulting in more impactful content upon implementation.
+By incorporating Brand, Product, and Personas data into GenStudio, you can significantly enhance the quality and effectiveness of the content generated using the AI functionality. You can generate assets without uploading any brand reference material but adding them to GenStudio ensures a comprehensive and tailored brand identity, resulting in more impactful content upon implementation.
 
 ## Use cases
 
@@ -36,7 +36,7 @@ Brands, Products, and Personas ([Parameters in the prompt drawer](/help/user-gui
 
 ## Brand validation
 
-In collaboration with generative AI functionality, Brands, Products, and Personas play a crucial role in ensuring that all of your GenStudio content aligns with your brand identity. GenStudio conducts brand validation on various brand aspects, including:
+In collaboration with the generative AI functionality, Brands, Products, and Personas play a crucial role in ensuring that all of your GenStudio content aligns with your brand identity. GenStudio conducts brand validation on various brand aspects, including:
 
 * **Customer-specific** - Brand guidelines
 * **Channel platform** - Copy guidelines
@@ -45,7 +45,7 @@ In collaboration with generative AI functionality, Brands, Products, and Persona
 
 While in [Create mode](/help/user-guide/create/overview.md), brand validation information is available for any generated content.
 
-A Brand Validation icon is displayed for each generated email or image, indicating its compliance with brand guidelines.
+A Brand Validation icon displays for each generated email or image, indicating its compliance with brand guidelines.
 
 IMG
 
