@@ -14,7 +14,7 @@ GenStudio provides a generative AI prompt each time there is an opportunity to c
 
 Your prompt guides the AI to generate images that complement your vision. The more details that you provide, the greater the chance of producing an image that meets your needs. Use clear and descriptive language to provide as much detail as possible. Use words that describe ambiance, mood, color, composition, and style.
 
-For example, experiment with descriptive language and produce variations until an image meets your requirements:
+For example, the following image prompts use descriptive language:
 
 - "_A serene beach scene at dawn with soft pastel colors, gentle waves, and a clear sky with a few scattered clouds, in a hand-drawn style._"
 
@@ -30,10 +30,24 @@ In the GenStudio [Create](./create/overview.md) mode, you can use **[!UICONTROL 
 
 >[!TAB Email]
 
-Test. Email Prompt guide begins here.
+Characteristics that influence email composition:
+
+| Category | Factor |
+| -------- | ------ |
+| Email fragment | <ul><li>Preheader</li><li>Headline</li><li>Subject</li><li>Body</li><li>CTA (Call to Action)</li></ul>
+| Brand traits | <ul><li>Voice and tone</li><li>Core values</li><li>Frequent keywords</li><li>Blocklist</li></ul>
+|Brand information | <ul><li>Channel</li><li>Audience</li><li>Product</li><li>Concepts</li></ul>
+| Campaign information | <ul><li>Marketing strategy</li><li>Objective</li><li>Key message</li><li>Themes</li></ul>
 
 >[!TAB Image]
 
-Image Prompt guidance begins here.
+Characteristics that influence image composition:
+
+- **Background** —Set the stage.
+- **Colors** —Specify color or color theme.
+- **Composition** —Define objects, object count, position, and depth-of-field.
+- **Content type** —Describe the style and medium.
+- **Lighting** —Describe how highlights and shadows affect different objects.
+- **Subject** —Describe the subject matter.
 
 >[!ENDTABS]
