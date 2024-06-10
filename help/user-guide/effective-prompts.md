@@ -24,31 +24,61 @@ For example, the following image prompts use descriptive language:
 
 ## Prompt criteria
 
-In the GenStudio [Create](./create/overview.md) mode, you can use **[!UICONTROL Prompt criteria]** to add details through selection to improve the AI interpretation. You can choose from your company references, such as **[!DNL Brand]** or a specific **[!DNL Persona]** or **[!DNL Product]**, and specify image characteristics, such as aspect ratio.
+In the GenStudio [Create](./create/overview.md) mode, you can use **[!UICONTROL Prompt criteria]** to add details through selection to improve the AI interpretation. You can choose from your company references **[!DNL Brand]** or a specific **[!DNL Persona]** or **[!DNL Product]**, and use descriptive language to articulate certain characteristics.
+
+For example, the following text prompt to compose an email:
+
+```text
+Write an email to motivate users of Photoshop to follow an in-app tutorial that teaches them to combine elements of two photos into a beautiful work of art. Use references to majestic, natural imagery.
+```
+
+The example prompt includes specific Email characteristics:
+
+- **Audience**—users of Photoshop
+- **Product**—Photoshop
+- **Objective**—teach them how to combine elements from two photos into art
+- **Voice and tone**—motivation
 
 >[!BEGINTABS]
 
 >[!TAB Email]
 
+Use a text prompt to generate marketing emails.
+
 Characteristics that influence email composition:
 
-| Email fragments | Brand traits   | Brand information | Campaign information |
-| --------------- | -------------- | ----------------- | -------------------- |
-| Preheader       | Voice and tone | Channel           | Marketing strategy   |
-| Headline        | Core values    | Audience          | Objective            |
-| Subject         | Frequent keywords | Product        | Key message          |
-| Body            | Blocklist      | Concepts          | Themes               |
-| CTS (Call to Action) ||||
+| Email fragments | Brand traits     | Brand information | Campaign information |
+| --------------- | ---------------- | ----------------- | -------------------- |
+| Preheader       | Voice and tone   | Channel           | Marketing strategy   |
+| Headline        | Core values      | Audience          | Objective            |
+| Subject         | Frequent keywords | Product          | Key message          |
+| Body            | Restrictions     | Concepts          | Themes               |
+| CTA (Call to Action) | Unique attributes |||
 
 >[!TAB Image]
 
 Characteristics that influence image composition:
 
-- **Background** —Set the stage.
-- **Colors** —Specify color or color theme.
-- **Composition** —Define objects, object count, position, and depth-of-field.
-- **Content type** —Describe the style and medium.
-- **Lighting** —Describe how highlights and shadows affect different objects.
-- **Subject** —Describe the subject matter.
+|   | Description |
+| -------------- | :---------- |
+| **Background** | Set the stage by describing layouts, location, places |
+| **Color and tone** |Specify color or color theme, palette, color interpretation and accessibility |
+| **Composition** | Define objects, focal point, position, and depth-of-field, framing |
+| **Lighting** | Describe how highlights and shadows affect different objects|
+| **Restrictions** | List requirements or avoidances |
+
+>[!TAB Social]
+
+Facebook and Instagram...TBD
+
+Characteristics that influence social media composition:
+
+| Site fragments      |
+| ------------------- |
+| Headline            |
+| Body                |
+| On-Image Text       |
+| CTA (Call to Action) |
+| Image               |
 
 >[!ENDTABS]
