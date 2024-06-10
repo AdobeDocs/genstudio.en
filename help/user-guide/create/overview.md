@@ -69,7 +69,7 @@ In the _Recent work_ section of the [!DNL Create] home, access and manage all re
 
 ### Templates
 
-Access brand-approved templates to generate content across multiple channels in the _Recently used templates_ section of [!DNL Create] home. Use templates to jump start the content creation process and stay aligned with defined brand identity.
+Access brand-approved templates to generate content across multiple channels in the _Recently used templates_ section of [!DNL Create] home. Use templates to jump start the content creation process and stay aligned with a defined brand identity.
 
 Templates are [created and stored in [!DNL Content]](/help/user-guide/content/overview.md) but are accessible in [!DNL Create].
 

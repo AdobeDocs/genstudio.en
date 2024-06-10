@@ -16,15 +16,20 @@ IMG
 GenStudio Brands, Products, and Personas:
 
 * Define the complexities of your brand identity
-* Create the base repository of brand information, from discreet elements such as logos and fonts to pixel spacing and the subtlety of messaging guidelines
-* Ensure that each piece of created content is informed by and respects your brand identity
+
+* Create the base repository of brand information with guidelines for discreet elements such as logos and fonts, pixel spacing, and the subtlety of messaging guidelines
+* Ensure that your defined brand identity informs the creation of each piece of content
 * Operate as a brand identity framework that GenStudio checks against with each piece of generated or [validated content](#brand-validation)
 
 By incorporating Brand, Product, and Personas data into GenStudio, you can significantly enhance the quality and effectiveness of the content generated using its AI functionality. You can generate assets without uploading any brand reference material but adding them to GenStudio ensures a comprehensive and tailored brand identity, resulting in more impactful content upon implementation.
 
 ## Use cases
 
-Brands, Products, and Personas, ([Parameters in the prompt drawer](/help/user-guide/create/overview.md#prompts)), enable two main use cases to ensure any generated content adheres to a brand's desired representation---**content generation**, via GenStudio's [Create](/help/user-guide/create/overview.md) or [Content](/help/user-guide/content/overview.md) modes, and [**brand validation**](#brand-validation), which happens as part the content creation process.
+Brands, Products, and Personas ([Parameters in the prompt drawer](/help/user-guide/create/overview.md#prompts)), enable two main use cases to ensure any generated content adheres to a brand's desired representation:
+
+* **Content generation** in GenStudio's [Create](/help/user-guide/create/overview.md) or [Content](/help/user-guide/content/overview.md) modes
+* [**Brand validation**](#brand-validation), which happens as part of the content creation process
+
 <!-- ## Governance
 
 ## Limitations -->
