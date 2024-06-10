@@ -8,19 +8,33 @@ feature: Prompt, Brands Service
 
 Communicating with the generative AI is essential to working effectively in GenStudio.
 
-GenStudio provides a generative AI prompt each time there is an opportunity to create or modify an asset. You can use natural language to articulate your ideas and create new experiences.
+GenStudio provides a generative AI prompt each time there is an opportunity to create or modify an asset. You can use natural language to articulate your ideas to create new experiences. The components of an effective prompt include using descriptive language, uploading brand guidelines, providing examples, and restrictions.
 
 ## Descriptive language
 
 Your prompt guides the AI to generate images that complement your vision. The more details that you provide, the greater the chance of producing an image that meets your needs. Use clear and descriptive language to provide as much detail as possible. Use words that describe ambiance, mood, color, composition, and style.
 
-For example, the following image prompts use descriptive language:
+For example, the following prompts use descriptive language:
 
-- "_A serene beach scene at dawn with soft pastel colors, gentle waves, and a clear sky with a few scattered clouds, in a hand-drawn style._"
+- **Image prompts**
 
-- "_A bustling cityscape at night with neon lights, tall skyscrapers, and busy streets, in a hyper-realistic style._"
+  - _An image of a serene beach scene at dawn with soft pastel colors, gentle waves, and a clear sky with a few scattered clouds, in a hand-drawn style._
 
-- "_A fantasy forest with towering trees, glowing mushrooms, and mystical creatures, in a vibrant, colorful style._"
+  - _A bustling cityscape at night with neon lights, tall skyscrapers, and busy streets, in a hyper-realistic style._
+
+  - _A fantasy forest with towering trees, glowing mushrooms, and mystical creatures, in a vibrant, colorful style._
+
+- **Text prompt**
+
+  ```text
+  Write an email that would help users understand the value of the Text-to-Vector Graphics feature. This email should inspire users to experiment with new GenAI features. What is Text-to-Vector Graphic? Text to Vector Graphic is a revolutionary Generative AI feature where you can quickly and more easily create scalable vector graphics with a simple text prompt, including icons, scenes, and patterns. How does Text-to-Vector Graphic work? With a placeholder graphic selected or not, in the Properties panel, taskbar, or Text-to-Vector Graphic panel, select a type, enter a prompt, and generate amazing art! Do not use "generate art" or "create art". Do not use the words "new" and "create" in the same sentence.
+  ```
+
++++See the results of the sample text prompt:
+
+![Example generated email](../assets/text-prompt.png){width="200"}
+
++++
 
 ## Prompt criteria
 
