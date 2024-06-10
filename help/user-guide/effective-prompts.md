@@ -32,12 +32,34 @@ In the GenStudio [Create](./create/overview.md) mode, you can use **[!UICONTROL 
 
 Characteristics that influence email composition:
 
-| Category | Factor |
-| -------- | ------ |
-| Email fragment | <ul><li>Preheader</li><li>Headline</li><li>Subject</li><li>Body</li><li>CTA (Call to Action)</li></ul> |
-| Brand traits | <ul><li>Voice and tone</li><li>Core values</li><li>Frequent keywords</li><li>Blocklist</li></ul> |
-|Brand information | <ul><li>Channel</li><li>Audience</li><li>Product</li><li>Concepts</li></ul> |
-| Campaign information | <ul><li>Marketing strategy</li><li>Objective</li><li>Key message</li><li>Themes</li></ul> |
+- **Email fragment**
+
+  - Preheader
+  - Headline
+  - Subject
+  - Body
+  - CTA (Call to Action)
+
+- **Brand traits**
+
+  - Voice and tone
+  - Core values
+  - Frequent keywords
+  - Blocklist
+
+- **Brand information**
+
+  - Channel
+  - Audience
+  - Product
+  - Concepts
+
+- **Campaign information**
+
+  - Marketing strategy
+  - Objective
+  - Key message
+  - Themes
 
 >[!TAB Image]
 
