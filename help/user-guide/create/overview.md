@@ -1,6 +1,6 @@
 ---
 title: Overview of [!DNL Create]
-description: Quickly generate high-performing, on-brand content with generative AI in GenStudio Create.
+description: Quickly generate high-performing, on-brand content with generative AI in GenStudio [!DNL Create].
 ---
 
 # GenStudio [!DNL Create]

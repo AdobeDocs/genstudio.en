@@ -1,6 +1,7 @@
 ---
 title: Overview of [!DNL Products]
 description: GenStudio Products incorporate all aspects of your product—imagery, descriptions, and value propositions to create relevant content that highlights product strengths and maintains consistency in product messaging.
+feature: Products Service
 ---
 
 # Overview of Products
