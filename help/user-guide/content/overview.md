@@ -69,16 +69,6 @@ The [!DNL Content] provides a central location to find, use, and reuse approved 
          </a>
       </div>
    </td>
-   <td align="center" valign="top" width="100">
-      <a href="../content/metadata.md">
-      <img alt="View details" src="../../assets/icons/icon-template.svg" width="35">
-      </a>
-      <div>
-         <a href="../content/templates.md">
-         <strong>Add Template</strong>
-         </a>
-      </div>
-   </td>
 </tr>
 </table>
 
