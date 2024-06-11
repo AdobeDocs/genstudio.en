@@ -38,26 +38,6 @@ The [!DNL Content] provides a central location to find, use, and reuse approved 
       </div>
    </td>
    <td align="center" valign="top" width="100">
-      <a href="../content/templates.md">
-      <img alt="Add content" src="../../assets/icons/icon-template.svg" width="35">
-      </a>
-      <div>
-         <a href="../content/templates.md">
-         <strong>Add Template</strong>
-         </a>
-      </div>
-   </td>
-   <td align="center" valign="top" width="100">
-      <a href="../content/overview.md">
-      <img alt="Add content" src="../../assets/icons/icon-dataAnalytics.svg" width="35">
-      </a>
-      <div>
-         <a href="../content/overview.md">
-         <strong>View Insights</strong>
-         </a>
-      </div>
-   </td>
-   <td align="center" valign="top" width="100">
       <a href="../content/overview.md">
       <img alt="Add content" src="../../assets/icons/icon-AIVariation.svg" width="35">
       </a>
@@ -67,9 +47,42 @@ The [!DNL Content] provides a central location to find, use, and reuse approved 
          </a>
       </div>
    </td>
+   <td align="center" valign="top" width="100">
+      <a href="../content/templates.md">
+      <img alt="Add content" src="../../assets/icons/icon-template.svg" width="35">
+      </a>
+      <div>
+         <a href="../content/templates.md">
+         <strong>Add Template</strong>
+         </a>
+      </div>
+   </td>
+</tr>
+<tr>
+   <td align="center" valign="top" width="100">
+      <a href="../insights/overview.md">
+      <img alt="Add content" src="../../assets/icons/icon-dataAnalytics.svg" width="35">
+      </a>
+      <div>
+         <a href="../content/overview.md">
+         <strong>View Insights</strong>
+         </a>
+      </div>
+   </td>
+   <td align="center" valign="top" width="100">
+      <a href="../content/metadata.md">
+      <img alt="View details" src="../../assets/icons/icon-template.svg" width="35">
+      </a>
+      <div>
+         <a href="../content/templates.md">
+         <strong>Add Template</strong>
+         </a>
+      </div>
+   </td>
 </tr>
 </table>
 
 TBD—
 
 Content Refresh—In this Use Case, use GenStudio to refresh the content of long-running or evergreen campaigns.
+
