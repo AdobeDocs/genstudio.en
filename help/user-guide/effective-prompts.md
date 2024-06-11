@@ -42,7 +42,7 @@ Characteristics include traits and information extracted from References guideli
 | Restrictions     | Concepts          | Themes               |
 | Unique attributes | | |
 
-See the References overview for details on uploading your brand guidelines.
+See the [References overview](./references/overview.md) for details on uploading your brand guidelines.
 
 ## Channel guidelines
 
