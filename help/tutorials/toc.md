@@ -9,4 +9,4 @@ feature: Generative AI
 # Adobe [!DNL GenStudio] Tutorials {#tutorials}
 
 + [[!DNL GenStudio] Tutorials](tutorials.md)
-+ [[!DNL GenStudio] User Guide](/help/user-guide/home.md)
++ [[!DNL GenStudio] User Guide](https://experienceleague-review.corp.adobe.com/docs/genstudio/user-guide/home.html)
