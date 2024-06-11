@@ -30,7 +30,7 @@ For example, the following prompts use descriptive language:
 
 ## Prompt criteria
 
-In the GenStudio [Create](./create/overview.md) mode, you can use **[!UICONTROL Prompt criteria]** to add details through selection to improve the AI interpretation. You can add one of your References guides, **[!DNL Brands]**, a specific **[!DNL Persona]**, or  a **[!DNL Product]**, and use descriptive language to articulate certain characteristics.
+In the GenStudio [[!DNL Create]](./create/overview.md) mode, you can use **[!UICONTROL Prompt criteria]** to add details through selection to improve the AI interpretation. You can add one of your References guides, **[!DNL Brands]**, a specific **[!DNL Persona]**, or  a **[!DNL Product]**, and use descriptive language to articulate certain characteristics.
 
 Characteristics include traits and information extracted from References guidelines and Campaign briefs that you provide.
 
