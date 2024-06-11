@@ -25,8 +25,14 @@ Here's why approvals matter:
 
 Each draft is identified by a unique draft ID. All approvals and comments are associated with this ID. 
 
-approval status
 
+
+
+### Approval status
+
+
+Needs work
+Approve
 
 ## Notifications
 
@@ -35,17 +41,18 @@ GenStudio's in-product notifications keeps reviewers and content creators update
 Actions taken by review participants triggers automatic in-product notifications and email notifications. When an asset creator starts a review, designated reviewers receive both email and in-product notifications. Creators are kept in the loop with in-product notifications whwhenever a reviewer adds review comments or approves. 
 
 
+Request a review
+Review and edit content
+Approve content
+Publish approved content
+
+
 Review and edit content 
 
 
-* add comments to a review
-* request changes to content
-* make in-process edits to content (you can make edits in response to review comments. When you save your changes, all approvers are notified that the asset has been changed.
 
 Approve content
 
-* approve content
-* self approvals
 
 
 Manage approvals
@@ -54,14 +61,13 @@ Manage approvals
 
 
 
+Post-approval publication
+
+Publish approved content
+
 Complete the approval process
 
 The content creator must finalize the approved asset by publishing, or saving it, to Content Hub. 
 
-Post approval 
-
-
-
-Notifications
 
 
