@@ -6,9 +6,9 @@ feature: Prompt, Brands Service
 
 # Write effective prompts
 
-Communicating with the Generative AI is essential to working effectively in GenStudio.
+Communicating with the generative AI is essential to working effectively in GenStudio.
 
-GenStudio provides a Generative AI prompt each time there is an opportunity to create or modify an asset. You can use natural language to articulate your ideas to create new experiences. The components of an effective prompt include using descriptive language, uploading brand guidelines, providing examples, and restrictions.
+GenStudio provides a generative AI prompt each time there is an opportunity to create or modify an asset. You can use natural language to articulate your ideas to create new experiences. The components of an effective prompt include using descriptive language, uploading brand guidelines, providing examples, and referencing specific channel characteristics.
 
 ## Descriptive language
 
@@ -26,13 +26,7 @@ For example, the following prompts use descriptive language:
 
 - **Text prompt**
 
-  - _Write an email that would help users understand the value of the Text-to-Vector Graphics feature. This email should inspire users to experiment with new GenAI features. What is Text-to-Vector Graphic? Text to Vector Graphic is a revolutionary Generative AI feature where you can quickly and more easily create scalable vector graphics with a simple text prompt, including icons, scenes, and patterns. How does Text-to-Vector Graphic work? With a placeholder graphic selected or not, in the Properties panel, taskbar, or Text-to-Vector Graphic panel, select a type, enter a prompt, and generate amazing art! Do not use "generate art" or "create art." Do not use the words "new" and "create" in the same sentence._
-
-+++See the results of the sample text prompt:
-
-![Example generated email](../assets/text-prompt.png){width="250"}
-
-+++
+  - _Write an email that would help users understand the value of the Text to Vector Graphic feature. This email should inspire users to experiment with Illustrator's new generative AI features. What is Text to Vector Graphic? Text to Vector Graphic is a revolutionary generative AI feature where you can quickly and more easily create scalable vector graphics with a simple text prompt, including icons, scenes, and patterns. How does Text to Vector Graphic work? With a placeholder graphic selected or not, in the Properties panel, taskbar, or Text to Vector Graphic panel, select a type, enter a prompt, and generate amazing art! Do not use "generate art" or "create art." Do not use the words "new" and "create" in the same sentence._
 
 ## Prompt criteria
 
@@ -60,19 +54,19 @@ Each channel has certain inherent characteristics, or fragments, that you can ca
 
 Characteristics that influence email composition:
 
-- `preheader`—A second subject line or email preview text.
-- `subject`—A compelling and interesting title to summarize the content of an email.
-- `headline`—A title or phrase to grab the reader's attention.
-- `body`—Marketing content that includes message, links, and images.
-- `cta` (Call to Action)—An instruction given to the reader that inspires a response. Usually one or two words, such as `Get started`.
+| Email fragments | Description |
+| ----------------| ----------- |
+| `preheader`     | A second subject line or email preview text |
+| `subject`       | A compelling and interesting title to summarize the content of an email |
+| `headline`      | A title or phrase to grab the reader's attention |
+| `body`          | Marketing content that includes message, links, and images |
+| `cta`           | (Call to Action) An instruction given to the reader that inspires a response. Usually one or two words, such as `Get started` |
 
 Use a text prompt to generate marketing emails. The more details that you provide by way of characteristics, the more effective the results generated. The following prompt references the `subject` of the email:
 
-```text
-Write an email to motivate infrequent users of Photoshop to follow an in-app tutorial that teaches them to combine elements of two photos into a beautiful work of art. Highlight the AI capabilities of Photoshop and use references to majestic, natural imagery. Use "Experience the power of generative AI in Photoshop" as the subject.
-```
+_Write an email to motivate infrequent users of Photoshop to follow an in-app tutorial that teaches them to combine elements of two photos into a beautiful work of art. Highlight the generative AI capabilities of Photoshop and use references to natural imagery. Use "Experience the power of generative AI in Photoshop" as the subject._
 
-This prompt might include specific characteristics extracted from:
+This prompt might include specific characteristics extracted from the following References:
 
 - Brand guidelines
 
@@ -89,42 +83,41 @@ This prompt might include specific characteristics extracted from:
 
 Characteristics that influence image composition:
 
-|   | Description |
-| -------------- | :---------- |
-| **Background** | Set the stage by describing layouts, location, places |
+| Image fragments    | Description |
+| ------------------ | :---------- |
+| **Background**     | Set the stage by describing layouts, location, places |
 | **Color and tone** |Specify color or color theme, palette, color interpretation and accessibility |
-| **Composition** | Define objects, focal point, position, and depth-of-field, framing |
-| **Lighting** | Describe how highlights and shadows affect different objects|
-| **Restrictions** | List requirements or avoidances |
+| **Composition**    | Define objects, focal point, position, and depth-of-field, framing |
+| **Lighting**       | Describe how highlights and shadows affect different objects|
+| **Restrictions**   | List requirements or avoidances |
 
 For better results, state your most important ideas first.
 
->[!TAB Social Ads]
+>[!TAB Social ads]
 
 Characteristics that influence social media composition:
 
-- `headline`—A title or phrase to grab the reader's attention.
-- `body`—Marketing content that includes message, links, and images.
-- `cta` (Call to Action)—An instruction given to the reader that inspires a response.
-
-| Site fragments      |
-| ------------------- |
-| Headline            |
-| Body                |
-| On-Image Text       |
-| CTA (Call to Action) |
-| Image               |
+| Site fragments  | Description |
+| ----------------| ----------- |
+| `headline`      | A title or phrase to grab the reader's attention |
+| `body`          | Marketing content that includes message, links, and images |
+| `on-image-text` |  |
+| `cta`           | (Call to Action) An instruction given to the reader that inspires a response. Usually one or two words, such as `Get started` |
+| `image`         |  |
 
 Facebook and Instagram...TBD
 
->[!TAB Display Ad]
+>[!TAB Display ads]
 
 Characteristics that influence display ad composition:
 
-- `headline`—A title or phrase to grab the reader's attention.
-- `body`—Marketing content that includes message, links, and images.
-- `cta` (Call to Action)—An instruction given to the reader that inspires a response.
-- `caption`—
+| Site fragments  | Description |
+| ----------------| ----------- |
+| `headline`      | A title or phrase to grab the reader's attention |
+| `body`          | Marketing content that includes message, links, and images |
+| `cta`           | (Call to Action) An instruction given to the reader that inspires a response. Usually one or two words, such as `Get started` |
+| `image`         |  |
+| `caption`       |  |
 
 TBD?
 
