@@ -75,7 +75,7 @@ Templates are [created and stored in [!DNL Content]](/help/user-guide/content/ov
 
 ### Prompts
 
-[Crafting effective prompts](/help/user-guide/effective-prompts.md) is an important part of the generation process in [!DNL Create]. To create new content or generate variants of content, write a prompt that describes the content (or experience) you desire to generate.
+[Crafting effective prompts](/help/user-guide/effective-prompts.md) is an important part of the generation process in [!DNL Create]. To create new content or generate variants of content, write a prompt that describes the content (or experience) you intend to generate.
 
 Write prompts, add Parameters and Content, and use guided prompt suggestions from within the prompt drawer, then click **Generate**.
 
