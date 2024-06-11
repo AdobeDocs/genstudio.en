@@ -86,7 +86,7 @@ Using GenStudio, marketers and teams can effortlessly generate and refine high-q
 <table style="table-layout:fixed">
 <td valign="top">
    <div>
-      <a href="../user-guide/create/overview.md">
+      <a href="../tutorials/create-email-experience.md">
       <img alt="Ideas, books, pencil, computer" src="../assets/card-create-assets.png">
       <strong>Create an Email Experience</strong>
       </a>
