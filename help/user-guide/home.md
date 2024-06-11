@@ -5,7 +5,9 @@ description: Learn how to use GenStudio and generative AI to personalize your co
 
 # GenStudio User Guide
 
-Adobe GenStudio is a self-service application infused with generative AI to help you and your team create, activate, and manage personalized experiences that are true to your brand.
+Adobe GenStudio, powered by generative AI, revolutionizes the content supply chain, enabling you to create, measure, and manage personalized experiences that embody your brand essence.
+
+Using GenStudio, marketers and teams can effortlessly generate and refine high-quality content that aligns with brand guidelines. GenStudio accelerates the marketing lifecycle, saving valuable time and resources.
 
 ## Explore GenStudio Capabilities
 
