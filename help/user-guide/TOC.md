@@ -12,6 +12,7 @@ feature: Generative AI
 + Introduction {#intro}
     + [GenStudio Concepts](concepts.md)
     + [Effective prompts](effective-prompts.md)
+    + [Tutorials](https://experienceleague-review.corp.adobe.com/docs/genstudio/learning/tutorials.md)
 + Create {#create}
     + [[!DNL Create] overview](create/overview.md)
 + Reviews & Approvals {#approve}
