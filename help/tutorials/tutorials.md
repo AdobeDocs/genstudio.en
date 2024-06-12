@@ -5,7 +5,7 @@ description: Adobe GenStudio is an end-to-end solution to accelerate and simplif
 
 # Adobe [!DNL GenStudio] Tutorials
 
-Text here.
+This collection of GenStudio tutorials follows basic step-by-step workflows that contain links to deeper concepts in the user guide.
 
 <table style="table-layout:fixed">
 <td valign="top">

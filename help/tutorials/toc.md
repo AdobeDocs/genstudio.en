@@ -6,7 +6,7 @@ feature-set: GenStudio
 feature: Generative AI
 ---
 
-# Adobe [!DNL GenStudio] Tutorials {#tutorials}
+# Adobe [!DNL GenStudio] Tutorials {#learning}
 
 + [[!DNL GenStudio] Tutorials](tutorials.md)
 + [Create an Email experience](create-email-experience.md)

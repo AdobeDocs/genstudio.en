@@ -5,7 +5,6 @@ feature: Content Hub, Brands Service
 role: User
 level: Beginner
 type: Tutorial
-hidefromtoc: yes
 recommendations: noDisplay
 ---
 
