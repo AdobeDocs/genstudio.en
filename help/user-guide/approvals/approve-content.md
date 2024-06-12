@@ -7,6 +7,8 @@ hide: yes
 
 # Approve content
 
+## Approval pane
+
 ## Content approval
 
 ## Self approvals
