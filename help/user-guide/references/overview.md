@@ -55,3 +55,11 @@ Click the icon to see the Brand Validation pane, which provides brand analysis i
 * For images - Application photography restrictions and Other considerations
 
 This pane highlights areas where guidelines can be improved to adhere to your defined brand guidelines.
+
+<!-- ## Sample guides
+
+## Brands
+
+## Products
+
+## Personas -->
