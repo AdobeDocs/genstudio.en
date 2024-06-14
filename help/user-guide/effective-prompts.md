@@ -51,6 +51,8 @@ This prompt might include specific characteristics extracted from the following 
   - **Audience**—users of Photoshop
   - **Product**—Photoshop
   - **Voice and tone**—motivation, imagery
+  - **Keywordss**—AI
+  - **Unique attributes**—infrequent
 
 - Campaign brief
 
