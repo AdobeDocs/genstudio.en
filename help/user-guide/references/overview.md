@@ -5,7 +5,7 @@ description: Add Brands, Products, and Personas to GenStudio to create a compreh
 
 # GenStudio [!DNL References]
 
-GenStudio References consist of **Brands**, **Products**, and **Personas**. These References can be uploaded or manually added to GenStudio to create a References library, which serves as a comprehensive representation of a brand's identity. This user-defined References library ensures that any AI-generated content in GenStudio is customized to align with the specific brand identity, enabling effective personalization of content.
+GenStudio References consist of **Brands**, **Products**, and **Personas**. These References can be uploaded or manually added to GenStudio to create a References library of guides, which serves as a comprehensive representation of a brand's identity. This user-defined References ensure that any AI-generated content in GenStudio is customized to align with the specific brand identity, enabling effective personalization of content.
 
 To create compelling marketing content using GenStudio, start by building a comprehensive brand profile in References by adding [Brands](/help/user-guide/references/brands.md), [Products](/help/user-guide/references/products.md), and [Personas](/help/user-guide/references/personas.md).
 
