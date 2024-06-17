@@ -14,13 +14,13 @@ References are a collection of user-defined brand guidelines—brands, products,
 
 See the [GenStudio brand references Overview](/help/user-guide/references/overview.md) for more information.
 
-Adding brand references to GenStudio is an important step in the creation process. Brands, Products, and Personas inform the content creation process, along with user inputted prompts and Adobe generative AI technology, to craft impactful assets.
+Adding brand references to GenStudio is an important step in the creation process. Brands, Products, and Personas inform the content creation process, along with user-inputted prompts and Adobe generative AI technology, to craft impactful assets.
 
 ## Add brands
 
 To add a brand to GenStudio, you can [**upload a brand guide**](#upload-brand-guidelines) or [**manually create a brand**](#manually-add-brand) by inputting the needed details.
 
-In the left navigation area click **Brands**. In the _Brands_ panel select **Add brand**.
+In the left navigation area, click **Brands**. In the _Brands_ panel, select **Add brand**.
 
 ### Upload brand guidelines
 
@@ -31,13 +31,13 @@ See [Brands](/help/user-guide/references/brands.md) to view a sample brand guide
 1. Select the **Add brand** button and choose **Use brand guidelines**.
 1. In the _Add new brand_ popup, enter a brand name and attach or drag in your brand guide(s).
 
-   You can attach up to three .pdf or .doc files.
+   You can attach up to three PDF or DOC files.
 
 1. Select **Add brand**.
 
-GenStudio extracts information from your uploaded documents and begins building your brand. You see brand information, such as brand voice, channel, and image guidelines, populated as GenStudio assembles each guideline from your brand documents.
+GenStudio extracts information from your uploaded documents and begins building your brand. You see brand information, such as brand voice, channel, and image guidelines, populate as GenStudio assembles each guideline from your brand documents.
 
-A popup appears reminding you to review the extracted content before you [publish the brand](#publish-brand).
+A popup reminds you to review the extracted content before you [publish the brand](#publish-brand).
 
 ### Manually add brand
 
@@ -83,7 +83,7 @@ You can manually add brand details, instead of uploading existing brand document
 
 Navigate back to the _Brands_ home to see available brands populated with information that was manually added.
 
-You do not have to [publish](#publish-brand) your brand to see added information populated. Any manually added information is available immediately after it is added. For others in your organization to use the brand info in GenStudio, you must publish it.
+You do not have to [publish](#publish-brand) your brand to make the information accessible. Any manually added information is available immediately after it is added. For others in your organization to use the brand info in GenStudio, you must publish it.
 
 ### Publish brand
 
@@ -93,11 +93,11 @@ To publish the brand:
 
 1. Select **Publish**.
 
-   In the _Publish brand_ popup that appears, see who has access (to view and use) to the published brand.
+   In the _Publish brand_ popup, verify who has access (to view and use) to the published brand.
 
 1. Select **Publish**.
 
-When the brand is published, a banner will appear confirming that your brand is ready to use: "*Brand published and available to use*".
+When the brand is published, a banner appears confirming that your brand is ready to use: "*Brand published and available to use*".
 
 The published brand is now available for use.
 
@@ -111,15 +111,15 @@ In the _Brands_ home, you can click to **open an already-created brand** to edit
 
 ## Add personas
 
-You can add a new persona in GenStudio to help target the content you create to your ideal audience. <!-- Add Rename, display, reposition functionality -->
+You can add a persona in GenStudio to help target the content you create to your ideal audience. <!-- Add Rename, display, reposition functionality -->
 
-See [Personas](/help/user-guide/references/personas.md) for more information.
+See [Personas](/help/user-guide/references/personas.md).
 
 1. Click **Create persona**.
 1. Click **Untitled** and enter a name for the persona.
 1. Click into _Description_ and enter a description of this persona.
 1. Click into _Messaging preferences_ and enter messaging details for the persona.
-1. To edit the thumbnail, hover over the image thumbnail and from the Thumbnail actions menu select **Edit thumbnail**.
+1. To edit the thumbnail, hover over the image thumbnail and from the _Thumbnail actions_ menu select **Edit thumbnail**.
    1. Upload a new image or remove the existing uploaded image in the _Upload_ tab.
    1. Choose an image from the gallery in the _Gallery_ tab.
 1. Click **Use image**.
@@ -128,16 +128,16 @@ See [Personas](/help/user-guide/references/personas.md) for more information.
 
 ### Manage personas
 
-In the _Personas_ home, you can **open an already-created persona** to edit or review it or **delete a persona** from the list.
+In the _Personas_ home, you can **open an already-created persona** to edit or review it or **delete a persona** from the list:
 
 * Select **Open** from the Personas action menu to revise and review an existing persona.
 * Select **Delete** from the Personas action menu to **Delete** a persona.
 
 ## Add products
 
-You can add a new products in GenStudio to specify individual product focus areas when creating content. <!-- Add Rename, display, reposition functionality -->
+You can add products in GenStudio to specify individual product focus areas when creating content. <!-- Add Rename, display, reposition functionality -->
 
-See [Products](/help/user-guide/references/products.md) for more information.
+See [Products](/help/user-guide/references/products.md).
 
 1. Click **Create product**.
 1. Click **Untitled** and enter a name for the product.
@@ -152,7 +152,7 @@ See [Products](/help/user-guide/references/products.md) for more information.
 
 ### Manage products
 
-In _Products_ home, you can **open an already-created product** to edit or review it or **delete a persona** from the list.
+In _Products_ home, you can **open an already-created product** to edit or review it or **delete a persona** from the list:
 
 * Select **Open** from the Personas action menu to revise and review an existing persona.
 * Select **Delete** from the Personas action menu to **Delete** a persona.
