@@ -86,7 +86,7 @@ Using GenStudio, marketers and teams can effortlessly generate and refine high-q
 <table style="table-layout:fixed">
 <td valign="top">
    <div>
-      <a href="https://experienceleague-review.corp.adobe.com/docs/genstudio/learning/add-references.html">
+      <a href="https://experienceleague.adobe.com/docs/genstudio/learning/add-references.html">
       <img alt="Add brand references" src="../assets/card-create-assets.png">
       <strong>Add brand references</strong>
       </a>
@@ -97,7 +97,7 @@ Using GenStudio, marketers and teams can effortlessly generate and refine high-q
 </td>
 <td valign="top">
    <div>
-      <a href="https://experienceleague-review.corp.adobe.com/docs/genstudio/learning/create-email-experience.md">
+      <a href="https://experienceleague.adobe.com/docs/genstudio/learning/create-email-experience.md">
       <img alt="Ideas, books, pencil, computer" src="../assets/card-create-assets.png">
       <strong>Create an Email Experience</strong>
       </a>
