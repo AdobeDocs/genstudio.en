@@ -10,7 +10,7 @@ This collection of GenStudio tutorials follows basic step-by-step workflows that
 <table style="table-layout:fixed">
 <td valign="top">
    <div>
-      <a href=add-references.md">
+      <a href="add-references.md"">
       <img alt="Add brand references to GenStudio" src="../assets/card-create-assets.png">
       <strong>Add brand references</strong>
       </a>
