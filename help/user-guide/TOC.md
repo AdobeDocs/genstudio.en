@@ -21,8 +21,8 @@ feature: Generative AI
     + [Content overview](content/overview.md)
 + Insights {#insights}
     + [Insights overview](insights/overview.md)
-+ References {#references}
-    + [References overview](references/overview.md)
++ Brand references {#references}
+    + [Brand references overview](references/overview.md)
     + [Brands](references/brands.md)
     + [Products](references/products.md)
     + [Personas](references/personas.md)

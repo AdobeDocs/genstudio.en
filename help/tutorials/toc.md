@@ -10,5 +10,5 @@ feature: Generative AI
 
 + [[!DNL GenStudio] Tutorials](tutorials.md)
 + [Create an Email experience](create-email-experience.md)
-+ [Add References to GenStudio](add-references.md)
++ [Add brand references to GenStudio](add-references.md)
 + [[!DNL GenStudio] User Guide](https://experienceleague-review.corp.adobe.com/docs/genstudio/user-guide/home.html)
