@@ -7,37 +7,20 @@ hide: no
 
 # GenStudio Campaigns
 
-GenStudio Campaigns accelerates the development and deployment of marketing initiatives, or _campaigns_. Marketing managers can use GenStudio's generative AI-enhanced Campaigns workflow to orchestrate the elements of a marketing initiative that can be created and enhanced by GenStudio stakeholders -- image and text content. The Campaigns workflow provides transparency into campaign goals, brand-aligned content, designated channels, and campaign schedules. 
+The GenStudio Campaigns feature accelerates the development and deployment of marketing initiatives, or _campaigns_. This generative AI-enhanced Campaigns workflow enhances the development of campaign assets that lend themselves to creation and management by AI-generated workflows. It also provides transparency into campaign goals, brand-aligned content, designated channels, and campaign schedules. 
 
-Create a Campaign
+Marketing managers use the Campaigns workflow to create a _campaign brief_ that defines campaign features for all stakeholders who are involved in the creation, review, approval, and deployment of Campaign assets.
 
-Edit a Campaign
+## Campaign brief
 
-<table style="table-layout:fixed">
-<td valign="top">
-   <a href="../user-guide/campaigns/overview.md">
-   <img alt="Create a Campaign" src="../assets/card-create-assets.png"/>
-   </a>
-   <div>
-      <a href="../user-guide/campaigns/overview.md">
-      <strong>Create a Campaign</strong>
-      </a>
-   </div>
-   <p>
-      <em>Create a brand-aligned marketing Campaign.</em>
-   </p>
-</td>
-<td valign="top">
-   <a href="../user-guide/campaigns/overview.md">
-   <img alt="Edit a Campaign" src="../assets/card-manage-content.png"/>
-   </a>
-   <div>
-      <a href="../user-guide/campaigns/overview.md">
-      <strong>Edit a Campaign</strong>
-      </a>
-   </div>
-   <p>
-      <em>Add brand-aligned, approved content to a Campaign.</em>
-   </p>
-</td>
-</table>
+A GenStudio Campaign brief describes the essential aspects of a campaign as defined by the Campaign creator. Campaign stakeholders use this brief to create and evaluate content. Campaign briefs are dynamic. They change as individual stages of the campaign are deployed and as marketers evaluate the success of each stage. 
+
+## Campaign content
+
+Campaign content consists of approved assets and experiences. 
+
+Once a GenStudio asset has been approved, it can be included in multiple Campaigns. You can add content to a Campaign by adding a Campaign label to an approved asset while taking one of these actions:
+
+* Saving an approved asset to Content
+* Uploading or importing a file
+* Saving an asset during content creation.
