@@ -12,7 +12,7 @@ recommendations: noDisplay
 
 References are a collection of user-defined brand guidelines—brands, products, and personas—added to GenStudio that ensure any AI-generated content is customized to align with the specific brand identity, enabling effective personalization of content.
 
-See the [GenStudio References Overview](/help/user-guide/references/overview.md) for more information.
+See the [GenStudio brand references Overview](/help/user-guide/references/overview.md) for more information.
 
 Adding brand references to GenStudio is an important step in the creation process. Brands, Products, and Personas inform the content creation process, along with user inputted prompts and Adobe generative AI technology, to craft impactful assets.
 
