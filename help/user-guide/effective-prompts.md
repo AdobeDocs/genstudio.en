@@ -8,7 +8,7 @@ feature: Prompt, Brands Service
 
 Communicating with the generative AI is essential to working effectively in GenStudio.
 
-GenStudio provides a generative AI prompt each time there is an opportunity to create or modify an asset. You can use natural language to articulate your ideas to create new experiences. The components of an effective prompt include using descriptive language, uploading brand guidelines, providing examples, and referencing specific channel characteristics.
+GenStudio provides a generative AI prompt each time there is an opportunity to create or modify an asset. You can use natural language to articulate your ideas to create new experiences. The components of an effective prompt include using descriptive language, uploading [!DNL Brands] guidelines, providing examples, and referencing specific channel characteristics.
 
 ## Descriptive language
 
@@ -24,11 +24,11 @@ For example, the following image prompts use descriptive language:
 
 ## Prompt criteria
 
-In the GenStudio [[!DNL Create]](./create/overview.md) mode, you can use **[!UICONTROL Prompt criteria]** to add details through selection to improve the AI interpretation. You can add one of your References guides, **[!DNL Brands]**, a specific **[!DNL Persona]**, or a **[!DNL Product]**, and use descriptive language to articulate certain characteristics.
+In the GenStudio [[!DNL Create]](./create/overview.md) mode, you can use **[!UICONTROL Prompt criteria]** to add details through selection to improve the AI interpretation. For on-brand images, the prompt criteria might include general settings related to images, such as aspect ratio. For channels, you might select a template, or choose one of the **[!DNL Brands]**, a specific **[!DNL Persona]**, or a **[!DNL Product]** from references guides.
 
-### Brand and Campaign references
+### [!DNL Brands] and Campaign references
 
-Characteristics include traits and information extracted from [!UICONTROL References] guidelines and Campaign briefs that you provide.
+Use descriptive language to articulate certain characteristics with your prompt. Characteristics include traits and information extracted from [!DNL Brands] guidelines and Campaign briefs that you provide.
 
 | Brand traits     | Brand information | Campaign information |
 | ---------------- | ----------------- | -------------------- |
@@ -42,9 +42,9 @@ See the [References overview](./references/overview.md) for details on uploading
 
 ### Example: How Brand guidelines influence email composition
 
-_Write an email to motivate infrequent users of Photoshop to follow an in-app tutorial that teaches them to combine elements of two photos into a beautiful work of art. Highlight the generative AI capabilities of Photoshop and use references to natural imagery. Use "Experience the power of generative AI in Photoshop" as the subject._
+The following prompt might extract specific characteristics based on [!DNL Brands] guidelines:
 
-This prompt might include specific characteristics extracted from the following References:
+_Write an email to motivate infrequent users of Photoshop to follow an in-app tutorial that teaches them to combine elements of two photos into a beautiful work of art. Highlight the generative AI capabilities of Photoshop and use references to natural imagery. Use "Experience the power of generative AI in Photoshop" as the subject._
 
 - Brand guidelines
 
