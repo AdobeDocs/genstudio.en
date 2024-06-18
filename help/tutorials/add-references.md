@@ -10,7 +10,7 @@ recommendations: noDisplay
 
 # Add brand references to GenStudio
 
-Brand references are a collection of user-defined brand guidelines—brands, products, and personas—in GenStudio. Brand references ensure any AI-generated content is customized to align with the specific brand identity, enabling effective personalization of content.
+Brand references are a collection of user-defined brand guidelines—for brands, products, and personas—in GenStudio. Brand references ensure any AI-generated content is customized to align with the specific brand identity, enabling effective personalization of content.
 
 See the [GenStudio brand references overview](/help/user-guide/references/overview.md).
 
