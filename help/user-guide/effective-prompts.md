@@ -19,7 +19,7 @@ Your prompt guides the AI to generate images that complement your vision. The mo
 
 ### [!DNL Brands] and Campaign references
 
-You can use descriptive language related to articulate certain Brand characteristics or campaign objectives with your prompt.
+You can use descriptive language to articulate certain Brand characteristics or campaign objectives with your prompt.
 
 | Brand traits     | Brand information | Campaign information |
 | ---------------- | ----------------- | -------------------- |
