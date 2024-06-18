@@ -38,7 +38,7 @@ Use descriptive language to articulate certain characteristics with your prompt.
 | Restrictions     | Concepts          | Themes               |
 | Unique attributes | | |
 
-See the [References overview](./references/overview.md) for details on uploading your [[!DNL Brands]](../user-guide/references/brands.md), [[!DNL Personas]](../user-guide/references/personas.md), and [[!DNL Products]](../user-guide/references/products.md) guidelines.
+See the [References overview](./references/overview.md) for details on building and uploading your [[!DNL Brands]](../user-guide/references/brands.md), [[!DNL Personas]](../user-guide/references/personas.md), and [[!DNL Products]](../user-guide/references/products.md) guidelines.
 
 ### Example: Use Brand and Campaign information
 
@@ -59,9 +59,9 @@ _Write an email to motivate infrequent users of Photoshop to follow an in-app tu
   - **Objective**—encourage users to follow the tutorial
   - **Strategy**—target infrequent users, highlight AI capabilities
 
-## Channel guidelines
+## Channel characteristics
 
-Each channel has certain inherent characteristics, or _fragments_, that you can call out in your prompt. For example, you can reference the subject line of an email or the headline of a social media asset.
+Each channel has certain inherent characteristics, or _fragments_, that you can reference in your prompt. For example, you can directly mention the subject line of an email or the headline of a social media asset.
 
 Characteristics that influence channel asset composition:
 
@@ -84,6 +84,8 @@ Characteristics that influence channel asset composition:
 
 _Write an email in a conversational tone that thanks our customers for their recent purchase. Limit the Subject to 35 characters, but infer a sense of appreciation. In the body of the email, remind customers of our dedication to innovation and creativity. Ask kindly to complete a short survey of their purchase experience. Do not use contractions._
 
+TBD
+
 >[!TAB Social ads]
 
 **Prompt for Social ads**
@@ -94,7 +96,7 @@ _Write an email in a conversational tone that thanks our customers for their rec
 
 >[!ENDTABS]
 
-## On-brand image guidelines
+## On-brand image characteristics
 
 Images have certain inherent characteristics, or _fragments_, that you can call out in your prompt.
 
