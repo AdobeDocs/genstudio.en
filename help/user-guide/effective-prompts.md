@@ -15,11 +15,11 @@ GenStudio provides a generative AI prompt each time there is an opportunity to c
 Your prompt guides the AI to generate images that complement your vision. The more details that you provide, the greater the chance of producing an image or an experience that meets your needs. Use clear and descriptive language to provide as much detail as possible:
 
 - For **images**, use words that describe ambiance, mood, color, composition, and style.
-- For **copy**, use words that describe audience, voice and tone, purpose, and actions.
+- For **copy**, use words that describe the audience, voice and tone, purpose, and actions.
 
 ### [!DNL Brands] and Campaign references
 
-You can use descriptive language related to articulate certain Brand characteristics or campaing objectives with your prompt.
+You can use descriptive language related to articulate certain Brand characteristics or campaign objectives with your prompt.
 
 | Brand traits     | Brand information | Campaign information |
 | ---------------- | ----------------- | -------------------- |
@@ -75,7 +75,9 @@ Characteristics that influence channel asset composition:
 
 **Prompt for Email**
 
-_Write an email in a conversational tone that thanks our customers for their recent purchase. Limit the Subject to 35 characters, but infer a sense of appreciation. In the body of the email, remind customers of our dedication to innovation and creativity. Ask kindly to complete a short survey of their purchase experience. Do not use contractions._
+```terminal
+Write an email in a conversational tone that thanks our customers for their recent purchase. Limit the Subject to 35 characters, but infer a sense of appreciation. In the body of the email, remind customers of our dedication to innovation and creativity. Ask kindly to complete a short survey of their purchase experience. Do not use contractions.
+```
 
 TBD
 
@@ -103,6 +105,3 @@ Characteristics that influence image composition:
 | **Lighting**       | Describe how highlights and shadows affect different objects| <ul><li>Use natural light</li></ul> |
 | **Restrictions**   | List requirements or avoidances | <ul><li>Avoid images that include children</li><li>Do not use clip art</li></ul> |
 
-For better results, make sure that you articulate your most important ideas first:
-
-_A woman in MyBrand attire using a digital tablet while standing indoors, use warm yellow and green tones_
