@@ -28,12 +28,14 @@ You can upload your own brand guidelines documents to populate a new brand in Ge
 
 See [Brands](/help/user-guide/references/brands.md) to view a sample brand guide.
 
-1. Select the **Add brand** button and choose **Use brand guidelines**.
-1. In the _Add new brand_ popup, enter a brand name and attach or drag in your brand guide(s).
+**To upload brand guidelines**:
+
+1. Select the **[!UICONTROL Add brand]** button and choose **Use brand guidelines**.
+1. In the _Add new brand_ popup, enter a brand name and attach or drag in your brand guide.
 
    You can attach up to three PDF or DOC files.
 
-1. Select **Add brand**.
+1. Select **[!UICONTROL Add brand]**.
 
 GenStudio extracts information from your uploaded documents and begins building your brand. You see brand information, such as brand voice, channel, and image guidelines, populate as GenStudio assembles each guideline from your brand documents.
 
@@ -43,7 +45,9 @@ A popup reminds you to review the extracted content before you [publish the bran
 
 You can manually add brand details, instead of uploading existing brand documents, to populate a new [brand](/help/user-guide/references/brands.md) in GenStudio.
 
-1. Select the **Add brand** button and choose **Manually add brand**.
+**To manually add a brand**:
+
+1. Select the **[!UICONTROL Add brand]** button and choose **[!UICONTROL Manually add brand]**.
 
    You can populate various optional guidelines and imagery to build out your brand.
 
@@ -57,7 +61,7 @@ You can manually add brand details, instead of uploading existing brand document
 1. Add brand logos in the _Logos_ section.
 1. Click into the _New brand_ title and enter a descriptive brand name.
 
-To see your created brands, click the back arrow near the top of the _Brand__ pane to navigate back to the _Brands_ home.
+To see your created brands, click the back arrow near the top of the _Brand_ pane to navigate back to the _Brands_ home.
 
 You do not have to [publish](#publish-brand) your brand to make the information accessible. Any manually added information is available immediately after it is added. For others in your organization to use the brand info in GenStudio, you must publish it.
 
@@ -65,13 +69,13 @@ You do not have to [publish](#publish-brand) your brand to make the information 
 
 Before publishing your brand, click through the _Brand voice guidelines_, _Channel guidelines_, _Image guidelines_, and _Logos_ sections to review all the populated information. Make changes to the brand guidelines as needed.
 
-To publish the brand:
+**To publish the brand**:
 
-1. Select **Publish**.
+1. Select **[!UICONTROL Publish]**.
 
    In the _Publish brand_ popup, verify who has access (to view and use) to the published brand.
 
-1. Select **Publish**.
+1. Select **[!UICONTROL Publish]**.
 
 When the brand is published, a banner appears confirming that your brand is ready to use: "*Brand published and available to use*".
 
@@ -82,8 +86,8 @@ The published brand is now available for use.
 In the _Brands_ home, you can click to **open an already-created brand** to edit or review it, or **rename** or **delete a brand** from the list from the Brands action menu:
 
 * Click a brand tile to open a brand.
-* Select **Rename** from the Brands action menu to rename an existing persona.
-* Select **Delete** from the Brands action menu to **Delete** a brand.
+* Select **[!UICONTROL Rename]** from the Brands action menu to rename an existing persona.
+* Select **[!UICONTROL Delete]** from the Brands action menu to delete a brand.
 
 ## Add personas
 
@@ -91,14 +95,16 @@ You can add a persona in GenStudio to help target the content you create to your
 
 See [Personas](/help/user-guide/references/personas.md).
 
-1. Click **Create persona**.
-1. Click **Untitled** and enter a name for the persona.
+**To add a persona**:
+
+1. Click **[!UICONTROL Create persona]**.
+1. Click **[!UICONTROL Untitled]** and enter a name for the persona.
 1. Click into _Description_ and enter a description of this persona.
 1. Click into _Messaging preferences_ and enter messaging details for the persona.
-1. To edit the thumbnail, hover over the image thumbnail and from the _Thumbnail actions_ menu select **Edit thumbnail**.
+1. To edit the thumbnail, hover over the image thumbnail and from the _Thumbnail actions_ menu select **[!UICONTROL Edit thumbnail]**.
    1. Upload a new image or remove the existing uploaded image in the _Upload_ tab.
    1. Choose an image from the gallery in the _Gallery_ tab.
-1. Click **Use image**.
+1. Click **[!UICONTROL Use image]**.
 
   To see your created personas, click the back arrow near the top of the _Persona_ pane to navigate back to the _Personas_ home.
 
@@ -106,8 +112,8 @@ See [Personas](/help/user-guide/references/personas.md).
 
 In the _Personas_ home, you can **open an already-created persona** to edit or review it or **delete a persona** from the list:
 
-* Select **Open** from the Personas action menu to revise and review an existing persona.
-* Select **Delete** from the Personas action menu to **Delete** a persona.
+* Select **[!UICONTROL Open]** from the Personas action menu to revise and review an existing persona.
+* Select **[!UICONTROL Delete]** from the Personas action menu to delete a persona.
 
 ## Add products
 
@@ -115,14 +121,16 @@ You can add products in GenStudio to specify individual product focus areas when
 
 See [Products](/help/user-guide/references/products.md).
 
-1. Click **Create product**.
-1. Click **Untitled** and enter a name for the product.
+**To add a product**:
+
+1. Click **[!UICONTROL Create product]**.
+1. Click **[!UICONTROL Untitled]** and enter a name for the product.
 1. Click into _Description_ and enter a description of this product.
 1. Click into _Value proposition_ and enter details about the product's value.
-1. To edit the thumbnail, hover over the image thumbnail and from the Thumbnail actions menu select **Edit thumbnail**.
+1. To edit the thumbnail, hover over the image thumbnail and from the Thumbnail actions menu select **[!UICONTROL Edit thumbnail]**.
    1. Upload a new image or remove the existing uploaded image in the _Upload_ tab.
    1. Choose an image from the gallery in the _Gallery_ tab.
-1. Click **Use image**.
+1. Click **[!UICONTROL Use image]**.
 
    To see your created products, click the back arrow near the top of the _Product_ pane to navigate back to the _Products_ home.
 
@@ -130,5 +138,6 @@ See [Products](/help/user-guide/references/products.md).
 
 In _Products_ home, you can **open an already-created product** to edit or review it, or **delete a persona** from the list:
 
-* Select **Open** from the Personas action menu to revise and review an existing persona.
-* Select **Delete** from the Personas action menu to **Delete** a persona.
+* Select **[!UICONTROL Open]** from the Personas action menu to revise and review an existing persona.
+* Select **[!UICONTROL Delete]** from the Personas action menu to **Delete** a persona.
+
