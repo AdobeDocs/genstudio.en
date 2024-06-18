@@ -10,15 +10,15 @@ recommendations: noDisplay
 
 # Add brand references to GenStudio
 
-References are a collection of user-defined brand guidelines—brands, products, and personas—added to GenStudio that ensure any AI-generated content is customized to align with the specific brand identity, enabling effective personalization of content.
+Brand references are a collection of user-defined brand guidelines—brands, products, and personas—in GenStudio. Brand references ensure any AI-generated content is customized to align with the specific brand identity, enabling effective personalization of content.
 
-See the [GenStudio brand references Overview](/help/user-guide/references/overview.md) for more information.
+See the [GenStudio brand references overview](/help/user-guide/references/overview.md).
 
 Adding brand references to GenStudio is an important step in the creation process. Brands, Products, and Personas inform the content creation process, along with user-inputted prompts and Adobe generative AI technology, to craft impactful assets.
 
 ## Add brands
 
-To add a brand to GenStudio, you can [**upload a brand guide**](#upload-brand-guidelines) or [**manually create a brand**](#manually-add-brand) by inputting the needed details.
+To add a brand to GenStudio, you can [**upload a brand guide**](#upload-brand-guidelines) or [**manually create a brand**](#manually-add-brand) by selecting guidelines and entering your brand details.
 
 In the left navigation area, click **Brands**. In the _Brands_ panel, select **Add brand**.
 
@@ -45,43 +45,19 @@ You can manually add brand details, instead of uploading existing brand document
 
 1. Select the **Add brand** button and choose **Manually add brand**.
 
-   A new empty brand is created. You can populate various optional guidelines and imagery to build out your brand.
+   You can populate various optional guidelines and imagery to build out your brand.
 
 1. Add information about your brand in the _About_ section.
-1. Add the following guidelines in the _Brand voice guidelines_ section:
-
-   * Tone of voice
-   * Brand values
-   * Unique attributes
-   * Frequent keywords
-   * Messaging guidelines
-   * Messaging restrictions
-   * Additional guidelines
-
-1. Add the following guidelines in the _Channel guidelines_ section, for each applicable channel (Email, Facebook, Instagram, Display ads):
-
-   * General
-   * Subject
-   * Preheader
-   * Header
-   * Body
-   * CTA
-   * Imagery
-
-1. Add the following guidelines in the _Image guidelines_ section:
-
-   * Description
-   * Background
-   * Color and tone
-   * Composition
-   * Lighting
-   * Restrictions
+1. Enter _Brand voice guidelines_.
+1. Enter _Channel guidelines_, for each applicable channel (Email, Facebook, Instagram, Display ads).
+1. Enter _Image guidelines_.
 
    Optionally, add a guidelines category for Imagery to add your own guidelines.
 
 1. Add brand logos in the _Logos_ section.
+1. Click into the _New brand_ title and enter a descriptive brand name.
 
-Navigate back to the _Brands_ home to see available brands populated with information that was manually added.
+To see your created brands, click the back arrow near the top of the _Brand__ pane to navigate back to the _Brands_ home.
 
 You do not have to [publish](#publish-brand) your brand to make the information accessible. Any manually added information is available immediately after it is added. For others in your organization to use the brand info in GenStudio, you must publish it.
 
@@ -103,7 +79,7 @@ The published brand is now available for use.
 
 ### Manage brands
 
-In the _Brands_ home, you can click to **open an already-created brand** to edit or review it, or **rename** or **delete a persona** from the list from the Brands action menu.
+In the _Brands_ home, you can click to **open an already-created brand** to edit or review it, or **rename** or **delete a brand** from the list from the Brands action menu:
 
 * Click a brand tile to open a brand.
 * Select **Rename** from the Brands action menu to rename an existing persona.
@@ -124,7 +100,7 @@ See [Personas](/help/user-guide/references/personas.md).
    1. Choose an image from the gallery in the _Gallery_ tab.
 1. Click **Use image**.
 
-   Navigate back to Personas to see all available personas.
+  To see your created personas, click the back arrow near the top of the _Persona_ pane to navigate back to the _Personas_ home.
 
 ### Manage personas
 
@@ -148,11 +124,11 @@ See [Products](/help/user-guide/references/products.md).
    1. Choose an image from the gallery in the _Gallery_ tab.
 1. Click **Use image**.
 
-   Navigate back to Products to see all available products.
+   To see your created products, click the back arrow near the top of the _Product_ pane to navigate back to the _Products_ home.
 
 ### Manage products
 
-In _Products_ home, you can **open an already-created product** to edit or review it or **delete a persona** from the list:
+In _Products_ home, you can **open an already-created product** to edit or review it, or **delete a persona** from the list:
 
 * Select **Open** from the Personas action menu to revise and review an existing persona.
 * Select **Delete** from the Personas action menu to **Delete** a persona.
