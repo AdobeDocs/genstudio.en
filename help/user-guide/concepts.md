@@ -1,7 +1,7 @@
 ---
 title: Introduction to GenStudio
 description: Learn Adobe GenStudio concepts and terminology.
-feature: Workflow
+feature: Workflow, Generative AI
 ---
 
 # Introduction to GenStudio
@@ -14,19 +14,25 @@ With GenStudio you can:
 - Generate variants to personalize across channels or freshen an ongoing campaign
 - Evaluate content performance with insights about campaigns and content attributes
 
-## Adobe Content Supply Chain
+## Generative AI technology
+
+GenStudio harnesses the power of generative AI to accelerate the content creation process and ensure high-quality content generation. The iterative lifecycle of your creative assets results in increasingly accurate and brand-aligned content that resonates with your target audience.
+
+Begin by effectively training GenStudio on your organization's branding, customer personas, and product descriptions through the powerful Brand guidelines feature. See the [Brand references overview](../user-guide/references/overview.md) to learn how to prepare and upload these guidelines.
+
+## GenStudio Content lifecycle
 
 ![Adobe Content Supply Chain](../assets/csc.png)
 
 GenStudio simplifies the content supply chain workflow and allows marketers to do the following in one application:
 
-- set up campaigns
-- find and reuse approved content
-- generate new content
-- create content for all channels
+- set up brand guidelines and campaigns
+- create brand-aligned content and experiences for all channels
 - activate seamlessly with Adobe and non-Adobe applications and platforms
 - measure campaign performance
 - derive insights for performance optimization
+- find and reuse approved content
+- generate new content
 
 ## Adobe tools
 
@@ -41,8 +47,3 @@ The following Adobe tools make up the GenStudio feature matrix:
 
 ## Terminology
 
-## Generative AI technology
-
-GenStudio harnesses the power of its [!DNL Create], [!DNL Activation], [!DNL Content], and [!DNL References] functionalities to drive the content creation process and ensure high-quality content generation.
-
-By using GenStudio to create content that aligns with your brand, you effectively train the platform's generative AI on your organization's branding, customer personas, product descriptions, and content sentiment. This iterative process results in increasingly accurate and brand-aligned content that resonates with your target audience.
