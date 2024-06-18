@@ -12,7 +12,7 @@ recommendations: noDisplay
 
 Brand references are a collection of user-defined brand guidelines—for brands, products, and personas—in GenStudio. Brand references ensure any AI-generated content is customized to align with the specific brand identity, enabling effective personalization of content.
 
-See the [GenStudio brand references overview](/help/user-guide/references/overview.md).
+See the [GenStudio references overview](/help/user-guide/references/overview.md).
 
 Adding brand references to GenStudio is an important step in the creation process. Brands, Products, and Personas inform the content creation process, along with user-inputted prompts and Adobe generative AI technology, to craft impactful assets.
 
@@ -37,7 +37,7 @@ See [Brands](/help/user-guide/references/brands.md) to view a sample brand guide
 
 1. Select **[!UICONTROL Add brand]**.
 
-GenStudio extracts information from your uploaded documents and begins building your brand. You see brand information, such as brand voice, channel, and image guidelines, populate as GenStudio assembles each guideline from your brand documents.
+Using Adobe's generative AI technology, GenStudio extracts information from your uploaded documents and begins building your brand. You see brand information, such as brand voice, channel, and image guidelines, populate as GenStudio assembles each guideline from your brand documents.
 
 A popup reminds you to review the extracted content before you [publish the brand](#publish-brand).
 
@@ -54,9 +54,9 @@ You can manually add brand details, instead of uploading existing brand document
 1. Add information about your brand in the _About_ section.
 1. Enter _Brand voice guidelines_.
 1. Enter _Channel guidelines_, for each applicable channel (Email, Facebook, Instagram, Display ads).
-1. Enter _Image guidelines_.
+1. Enter _Image guidelines_. Expand each category in the Image guidelines section to see all guidelines.
 
-   Optionally, add a guidelines category for Imagery to add your own guidelines.
+   Optionally, click **[!UICONTROL Add category]** to add a custom guidelines category.
 
 1. Add brand logos in the _Logos_ section.
 1. Click into the _New brand_ title and enter a descriptive brand name.
@@ -75,7 +75,7 @@ Before publishing your brand, click through the _Brand voice guidelines_, _Chann
 
    In the _Publish brand_ popup, verify who has access (to view and use) to the published brand.
 
-1. Select **[!UICONTROL Publish]**.
+1. Click **[!UICONTROL Publish]**.
 
 When the brand is published, a banner appears confirming that your brand is ready to use: "*Brand published and available to use*".
 
@@ -136,8 +136,7 @@ See [Products](/help/user-guide/references/products.md).
 
 ### Manage products
 
-In _Products_ home, you can **open an already-created product** to edit or review it, or **delete a persona** from the list:
+In _Products_ home, you can **open an already-created product** to edit or review it, or **delete a product** from the list:
 
 * Select **[!UICONTROL Open]** from the Personas action menu to revise and review an existing persona.
 * Select **[!UICONTROL Delete]** from the Personas action menu to **Delete** a persona.
-
