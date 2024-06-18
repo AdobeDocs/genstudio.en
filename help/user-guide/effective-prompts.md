@@ -1,7 +1,7 @@
 ---
 title: Write effective prompts
 description: Learn how to write effective prompts for GenStudio.
-feature: Prompt, Brands Service
+feature: Prompt, Brands Service, Personas Service, Products Service
 ---
 
 # Write effective prompts
@@ -12,23 +12,14 @@ GenStudio provides a generative AI prompt each time there is an opportunity to c
 
 ## Descriptive language
 
-Your prompt guides the AI to generate images that complement your vision. The more details that you provide, the greater the chance of producing an image that meets your needs. Use clear and descriptive language to provide as much detail as possible. Use words that describe ambiance, mood, color, composition, and style.
+Your prompt guides the AI to generate images that complement your vision. The more details that you provide, the greater the chance of producing an image or an experience that meets your needs. Use clear and descriptive language to provide as much detail as possible:
 
-### Example: Use descriptive language
-
-- _An image of a serene beach scene at dawn with soft pastel colors, gentle waves, and a clear sky with a few scattered clouds, in a hand-drawn style._
-
-- _A bustling cityscape at night with neon lights, tall skyscrapers, and busy streets, in a hyper-realistic style._
-
-- _A fantasy forest with towering trees, glowing mushrooms, and mystical creatures, in a vibrant, colorful style._
-
-## Prompt criteria
-
-In the GenStudio [[!DNL Create]](./create/overview.md) mode, you can use **[!UICONTROL Prompt criteria]** to add details through selection to improve the AI interpretation. For on-brand images, the prompt criteria might include general settings related to images, such as aspect ratio. For channels, you might select a template, or choose one of the **[!DNL Brands]**, a specific **[!DNL Persona]**, or a **[!DNL Product]** from references guides.
+- For **images**, use words that describe ambiance, mood, color, composition, and style.
+- For **copy**, use words that describe audience, voice and tone, purpose, and actions.
 
 ### [!DNL Brands] and Campaign references
 
-Use descriptive language to articulate certain characteristics with your prompt. Characteristics include traits and information extracted from [!DNL Brands] guidelines and Campaign briefs that you provide.
+You can use descriptive language related to articulate certain Brand characteristics or campaing objectives with your prompt.
 
 | Brand traits     | Brand information | Campaign information |
 | ---------------- | ----------------- | -------------------- |
@@ -38,13 +29,11 @@ Use descriptive language to articulate certain characteristics with your prompt.
 | Restrictions     | Concepts          | Themes               |
 | Unique attributes | | |
 
-See the [References overview](./references/overview.md) for details on building and uploading your [[!DNL Brands]](../user-guide/references/brands.md), [[!DNL Personas]](../user-guide/references/personas.md), and [[!DNL Products]](../user-guide/references/products.md) guidelines.
+For example, the following prompt might include specific characteristics that the AI can equate to your [!DNL Brands] guidelines:
 
-### Example: Use Brand and Campaign information
-
-The following prompt might include specific characteristics that the AI can equate to your [!DNL Brands] guidelines:
-
-_Write an email to motivate infrequent users of Photoshop to follow an in-app tutorial that teaches them to combine elements of two photos into a beautiful work of art. Highlight the generative AI capabilities of Photoshop and use references to natural imagery. Use "Experience the power of generative AI in Photoshop" as the subject._
+```terminal
+Write an email to motivate infrequent users of Photoshop to follow an in-app tutorial that teaches them to combine elements of two photos into a beautiful work of art. Highlight the generative AI capabilities of Photoshop and use references to natural imagery. Use "Experience the power of generative AI in Photoshop" as the subject.
+```
 
 - Brand guidelines:
 
@@ -58,6 +47,10 @@ _Write an email to motivate infrequent users of Photoshop to follow an in-app tu
 
   - **Objective**—encourage users to follow the tutorial
   - **Strategy**—target infrequent users, highlight AI capabilities
+
+## Prompt criteria
+
+In the GenStudio [[!DNL Create]](./create/overview.md) mode, you can use **[!UICONTROL Prompt criteria]** to add details through selection to improve the AI interpretation. For on-brand images, the prompt criteria might include general settings related to images, such as aspect ratio. For channels, you might select a template, or choose a [[!DNL Brand]](../user-guide/references/brands.md), a [[!DNL Persona]](../user-guide/references/personas.md), or [[!DNL Product]](../user-guide/references/products.md) from references guides.
 
 ## Channel characteristics
 
