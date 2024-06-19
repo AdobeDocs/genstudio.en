@@ -41,3 +41,8 @@ The following Adobe tools make up the GenStudio feature matrix:
 
 ## Terminology
 
+## Generative AI technology
+
+GenStudio harnesses the power of its [!DNL Create], [!DNL Activation], [!DNL Content], and [!DNL References] functionalities to drive the content creation process and ensure high-quality content generation.
+
+By using GenStudio to create content that aligns with your brand, you effectively train the platform's generative AI on your organization's branding, customer personas, product descriptions, and content sentiment. This iterative process results in increasingly accurate and brand-aligned content that resonates with your target audience.
