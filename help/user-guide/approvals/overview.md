@@ -22,7 +22,7 @@ GenStudio's review and approvals workflow ensures that all stakeholders—  from
 
 ## About GenStudio [!DNL Content] drafts 
 
-_Drafts_ are preliminary versions of assets or experiences that have not undergone the review and approval process. Drafts are identified by unique draft IDs, which are valid until a draft is approved and saved to [!DNL Content]. Review comments and approvals for a draft are associated with thisthe individual draft ID. 
+_Drafts_ are preliminary versions of assets or experiences that have not undergone the review and approval process. Drafts are identified by unique draft IDs, which are valid until a draft is approved and published to [!DNL Content]. Review comments and approvals for a draft are associated with the individual draft ID. 
 
 When a draft completes the review and approval process and is published to [!DNL Content], the draft ID expires, and GenStudio does not save associated comments and approval statuses. The draft URL is no longer valid.
 
