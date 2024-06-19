@@ -10,13 +10,13 @@ This collection of GenStudio tutorials follows basic step-by-step workflows that
 <table style="table-layout:fixed">
 <td valign="top">
    <div>
-      <a href="create-email-experience.md">
-      <img alt="Ideas, books, pencil, computer" src="../assets/card-create-assets.png">
-      <strong>Create an Email Experience</strong>
+      <a href="add-references.md"">
+      <img alt="Add brand references to GenStudio" src="../assets/card-create-assets.png">
+      <strong>Add brand references</strong>
       </a>
    </div>
    <p>
-      <em>Learn how to create an on-brand Email experience.</em>
+      <em>Learn how to add brand references to GenStudio.</em>
    </p>
 </td>
 <td valign="top">
