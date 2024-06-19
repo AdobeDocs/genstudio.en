@@ -86,24 +86,24 @@ Using GenStudio, marketers and teams can effortlessly generate and refine high-q
 <table style="table-layout:fixed">
 <td valign="top">
    <div>
-      <a href="https://experienceleague-review.corp.adobe.com/docs/genstudio/learning/create-email-experience.md">
+      <a href="https://experienceleague.adobe.com/docs/genstudio/learning/add-references.html">
+      <img alt="Add brand references" src="../assets/card-create-assets.png">
+      <strong>Add brand references</strong>
+      </a>
+   </div>
+   <p>
+      <em>Learn how to add brand references to GenStudio.</em>
+   </p>
+</td>
+<td valign="top">
+   <div>
+      <a href="https://experienceleague.adobe.com/docs/genstudio/learning/create-email-experience.html">
       <img alt="Ideas, books, pencil, computer" src="../assets/card-create-assets.png">
       <strong>Create an Email Experience</strong>
       </a>
    </div>
    <p>
       <em>Learn how to create an on-brand Email experience.</em>
-   </p>
-</td>
-<td valign="top">
-   <div>
-      <a href="../user-guide/content/overview.md">
-      <img alt="Social media" src="../assets/card-insights.png">
-      <strong>Create Images for Social Media</strong>
-      </a>
-   </div>
-   <p>
-      <em>Learn how to create an image and experiment with variants.</em>
    </p>
 </td>
 <td valign="top">

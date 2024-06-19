@@ -2,6 +2,7 @@
 title: Overview of [!DNL Personas]
 description: GenStudio Personas are a true representation of your customer segments, capturing their interests, pain points, preferences, and behavioral traits.
 feature: Personas Service
+hidefromtoc: yes
 ---
 
 # Overview of Personas
