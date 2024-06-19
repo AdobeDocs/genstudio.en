@@ -7,7 +7,7 @@ hide: no
 
 # GenStudio Campaigns
 
-The GenStudio Campaigns feature accelerates the development and deployment of marketing initiatives, or _campaigns_. This generative AI-enhanced Campaigns workflow enhances the development of campaign assets that lend themselves to creation and management by AI-generated workflows. It also provides transparency into campaign goals, brand-aligned content, designated channels, and campaign schedules. 
+The GenStudio Campaigns feature accelerates the development and deployment of marketing initiatives, or _campaigns_. The Campaigns workflow enhances the development of campaign assets that lend themselves to creation and management by AI-generated workflows, including brand-complaint images and text. It also provides transparency into campaign goals, brand-aligned content, designated channels, and campaign schedules. 
 
 Marketing managers use the Campaigns workflow to create a _campaign brief_ that defines campaign features for all stakeholders who are involved in the creation, review, approval, and deployment of Campaign assets.
 
@@ -19,7 +19,7 @@ A GenStudio Campaign brief describes the essential aspects of a campaign as defi
 
 Campaign content consists of approved assets and experiences. 
 
-Once a GenStudio asset has been approved, it can be included in multiple Campaigns. You can add content to a Campaign by adding a Campaign label to an approved asset while taking one of these actions:
+Once a GenStudio asset or experience has been approved, it can be included in multiple Campaigns. You can add content to a Campaign by adding a Campaign label to an approved asset while
 
 * Saving an approved asset to Content
 * Uploading or importing a file
