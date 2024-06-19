@@ -52,7 +52,7 @@ Click the icon to see the Brand Validation pane, which provides brand analysis i
 This pane highlights areas where guidelines can be improved to adhere to your defined brand guidelines.
 <!-- ## Tutorials
 
-See [Add brand references](/help/tutorials/add-references.md) to learn how to add brands, products, and personas to GenStudio.
+See Add brand references to learn how to add brands, products, and personas to GenStudio.
 
 ## Sample guides
 
