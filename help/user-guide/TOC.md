@@ -26,3 +26,4 @@ feature: Generative AI
     + [Brands](references/brands.md)
     + [Products](references/products.md)
     + [Personas](references/personas.md)
+    + [Add brand references](references/add-references.md)
