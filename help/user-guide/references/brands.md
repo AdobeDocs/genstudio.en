@@ -2,6 +2,7 @@
 title: Overview of [!DNL Brands]
 description: GenStudio Brands are a comprehensive collection of brand assets—marketing copy, imagery, experiences, and more—to inform the creation of brand-aligned content in GenStudio.
 feature: Brands Service
+hidefromtoc: yes
 ---
 
 # Overview of Brands

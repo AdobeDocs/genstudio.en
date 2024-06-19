@@ -7,24 +7,32 @@ hide: no
 
 # Publish approved content
 
-The final stage of creating brand-aligned, approved content is saving it to Content with appropriate metadata. You (the content creator) must finalize the approved asset by publishing, or saving it, to [!DNL Content].
+The final stage of creating brand-aligned, approved content is saving it to [!DNL Content] with appropriate metadata. You (the content creator) must finalize the approved asset by publishing, or saving it, to [!DNL Content].
 
-Draft status changes to **Approved** when all designated reviewers approve it. In-product notifications alert the content creator that an asset has been approved. The draft is then ready to be finalized, or saved to [!DNL Content] with appropriate metadata.
+## Approved content
+
+When all designated reviewers approve a draft, GenStudio changes the draft status to **Approved**. This change in status launches the publishing process by alerting the content creator to the draft's approved status with the **Approved variants ready to publish** pop-up and email. 
+
+You can then finalize the draft by saving it to [!DNL Content] with appropriate metadata. The approved draft is not available to other GenStudio users until you publish the draft to [!DNL Content].
 
 **To publish approved content**:
 
-1) Access the approved draft from either the approval notification email or the in-app notification.
+1. Access the approved draft from either the approval notification email or the **Approved variants ready to publish** pop-up. This pop-up includes a **Close** button to postpone publication of the approved asset and a **Publish** button to start the publication process.
 
-2) Click Publish to save the asset or experience to [!DNL Content]. GenStudio then prompts you to add relevant information about the asset or experience. This information is saved as metadata that adds value to [!DNL Content] filter and search operations.
+1. Click **Publish** to save the asset or experience to [!DNL Content]. GenStudio displays the **Confirm details for your approved content** window, which displays thumbnails of the approved assets. GenStudio then prompts you to add relevant information about the asset or experience. This information is saved as metadata that adds value to [!DNL Content] filter and search operations. You can add the asset to a GenStudio Campaign at this point in the publication process. 
 
-Draft URLs are invalid after a draft asset or experience are saved to [!DNL Content].
+1. After the content publication process has completed, GenStudio displays the **Approved variations have been published** popup. From this popup widnow, you can:
+
+   * Click **Open in Content** to view the published asset or experience
+
+   * Click **Create something new** to create new content.
 
 ## After publication
 
-All GenStudio users can access approved assets or experiences that are saved in [!DNL Content].
+All GenStudio users can access approved assets or experiences in [!DNL Content]. The Asset details pane identifies the asset's upload and approval history. Saved content is identified by these attributes:
 
-Saved content is identified by these attributes:
+* **date** and **username**: Identifies the date that the content was uploaded or created in the GenStudio canvas. **username** identifies the content creator.
 
-* date and username. Identifies the date that the content was uploaded or created in the GenStudio canvas. user name identifies the content creator.
+* **approved** and **username**: Identifies the date of approval and name of the final approver.
 
-* approved and username. date of approval. username identifies the final approver.
+Draft URLs are invalid after a draft asset or experience are saved to [!DNL Content].
