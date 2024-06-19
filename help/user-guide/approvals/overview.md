@@ -19,66 +19,10 @@ GenStudio's review and approvals workflow ensures that all stakeholders—  from
 
 ## Review and approval life cycle
 
-## GenStudio [!DNL Review and Approval] use cases
-
-<table style="table-layout:fixed">
-<tr style="border: 0;">
-   <td align="center" valign="top" width="100">
-      <a href="../approvals/overview.md">
-      <img alt="Request review of content" src="../../assets/icons/icon-create.svg" width="35">
-      </a>
-      <div>
-         <a href="../approvals/overview.md">
-         <strong>Request review of content</strong>
-         </a>
-      </div>
-   </td>
-   <td align="center" valign="top" width="100">
-      <a href="../approvals/overview.md">
-      <img alt="Review and edit content" src="../../assets/icons/icon-addContent.svg" width="35">
-      </a>
-      <div>
-         <a href="../approvals/overview.md">
-         <strong>Review and edit content</strong>
-         </a>
-      </div>
-   </td>
-   <td align="center" valign="top" width="100">
-      <a href="../approvals/overview.md">
-      <img alt="Request review of content" src="../../assets/icons/icon-template.svg" width="35">
-     </a>
-      <div>
-         <a href="../approvals/overview.md">
-         <strong>Request review of content</strong>
-         </a>
-      </div>
-   </td>
-     <td align="center" valign="top" width="100">
-      <a href="../approvals/overview.md">
-      <img alt="Approve content" src="../../assets/icons/icon-AIVariation.svg" width="35">
-      </a>
-      <div>
-         <a href="../approvals/overview.md">
-         <strong>Approve content</strong>
-         </a>
-      </div>
-   </td>
-      <td align="center" valign="top" width="100">
-      <a href="../approvals/overview.md">
-      <img alt="Publish approved content" src="../../assets/icons/icon-AIVariation.svg" width="35">
-      </a>
-      <div>
-         <a href="../approvals/overview.md">
-         <strong>Publish approved content</strong>
-         </a>
-      </div>
-   </td>
-</tr>
-</table>
 
 ## About GenStudio [!DNL Content] drafts 
 
-_Drafts_ are preliminary versions of assets or experiences that have not undergone the review and approval process. Drafts are identified by unique draft IDs. Review comments and approvals for a draft are associated with the individual draft ID. 
+_Drafts_ are preliminary versions of assets or experiences that have not undergone the review and approval process. Drafts are identified by unique draft IDs, which are valid until a draft is approved and published to [!DNL Content]. Review comments and approvals for a draft are associated with the individual draft ID. 
 
 When a draft completes the review and approval process and is published to [!DNL Content], the draft ID expires, and GenStudio does not save associated comments and approval statuses. The draft URL is no longer valid.
 
@@ -89,7 +33,7 @@ Draft status captures the state of the content draft as it moves through the rev
 Available draft statuses:
 
 **Active** -- Content creator has started the review process by identifying reviewers and notifying them that a draft is ready for review.
-**Needs work** -- Indicates that one or more reviewers has requested changes to the content draft. Content with this status cannot be saved to Content.
+**Needs work** -- Indicates that one or more reviewers has requested changes to the content draft. Content with this status cannot be saved to [!DNL Content].
 **Approved** -- Content has been reviewed and approved by all designated reviewers. The content creator can now add metadata to the asset or experience and save it to [!DNL Content].
 
 ## Notifications
