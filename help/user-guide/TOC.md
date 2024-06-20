@@ -16,5 +16,7 @@ feature: Generative AI
     + [[!DNL Create] overview](create/overview.md)
 + Content {#content}
     + [Content overview](content/overview.md)
++ Campaigns {#campaigns}
+    + [Campaigns overview](campaigns/overview.md)    
 + Insights {#insights}
     + [Insights overview](insights/overview.md)
