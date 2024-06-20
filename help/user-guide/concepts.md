@@ -34,16 +34,15 @@ GenStudio simplifies the content supply chain workflow and allows marketers to d
 - find and reuse approved content
 - generate new content
 
-## Adobe tools
+### Adobe tools
 
-The following Adobe tools make up the GenStudio feature matrix:
+The following Adobe Content Supply Chain tools make up the GenStudio feature matrix:
 
 |                | Functionality |
 | -------------- | ------------- |
 | **AEM Assets Content Hub** | Find and reuse approved content. |
 | **Customer Journey Analytics** | View insights into Content performance. |
-| **Express with Firefly**  | Directly create variants and edit content.  |
+| **Customer Journey Optimizer** | |
+| **Express with Firefly**  | Directly create variants and edit content. |
+| **Firefly**    | Custom models and services. |
 | **Workfront**  | Review and approve content. |
-
-## Terminology
-
