@@ -4,8 +4,6 @@ description: Learn how to add brand referencesâ€”Brands, Products, and Personasâ
 feature: Content Hub, Brands Service
 role: User
 level: Beginner
-type: Tutorial
-recommendations: noDisplay
 ---
 
 # Add brand references to GenStudio

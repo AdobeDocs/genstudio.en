@@ -14,7 +14,7 @@ With GenStudio [!DNL Create], you can generate content for the following channel
 * Display ads
 * Marketing images
 
-Along with the power of GenStudio [References](/help/user-guide/references/overview.md), [Content](/help/user-guide/content/overview.md), and [Reviews and Approvals](/help/user-guide/activation/review-process.md), [!DNL Create] facilitates the creation of impactful brand-aligned marketing content.
+Along with the power of GenStudio [brand references](/help/user-guide/references/overview.md), [Content](/help/user-guide/content/overview.md), and [Reviews and Approvals](/help/user-guide/activation/review-process.md), [!DNL Create] facilitates the creation of impactful brand-aligned marketing content.
 
 ## [!DNL Create] use cases
 
@@ -55,7 +55,7 @@ Along with the power of GenStudio [References](/help/user-guide/references/overv
 
 GenStudio [!DNL Create] satisfies three main use cases:
 
-* **Create new content** - In this use case, use defined [References](/help/user-guide/references/overview.md) (Brands, Products, and Personas) and inspiration content to inform the creation of brand-aligned content.
+* **Create new content** - In this use case, use defined [brand references](/help/user-guide/references/overview.md) (Brands, Products, and Personas) and inspiration content to inform the creation of brand-aligned content.
 * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio and use the power of Adobe generative AI technology to revise and improve existing content.
 * **Generate variants of content** - In this use case, generate variations of content based on a target [customer persona](/help/user-guide/references/personas.md). This functionality allows for experimentation and discovery of high-performing content and allows for cross-channel conversion of content (for example, converting an email to a display ad).
 
@@ -83,13 +83,13 @@ IMG
 
 ### Parameters
 
-In the prompt drawer, you can add **Parameters** such as Brands, Products, and Personas to shape the generated experience. These Parameters inject [References](/help/user-guide/references/overview.md) into the generation process, ensuring that the content is customized to align with a brand's comprehensive identity. Adding Parameters is highly recommended as they greatly enhance the creation of suitable on-brand content.
+In the prompt drawer, you can add **Parameters** such as Brands, Products, and Personas (all brand references) to shape the generated experience. These added parameters inject [brand references](/help/user-guide/references/overview.md) into the generation process, ensuring that the content is customized to align with a brand's comprehensive identity. Adding brand references, in _Parameters_ in the prompt drawer or in the individual references of GenStudio's home, is highly recommended as they greatly enhance the creation of suitable on-brand content.
 
 ### Brand validation
 
-GenStudio conducts brand validation on various aspects of a brand's identity (as defined in [References](/help/user-guide/references/overview.md)). Brand validation information is available for any generated content, indicating its compliance with brand guidelines. You can use this information to revise or improve your generated experience to better align with your brand.
+GenStudio conducts brand validation on various aspects of a brand's identity (as defined in [brand references](/help/user-guide/references/overview.md)). Brand validation information is available for any generated content, indicating its compliance with brand guidelines. You can use this information to revise or improve your generated experience to better align with your brand.
 
-See [References documentation](/help/user-guide/references/overview.md) to learn more about brand validation.
+See [Brand references documentation](/help/user-guide/references/overview.md) to learn more about brand validation.
 
 
 ### Reviews and approvals
