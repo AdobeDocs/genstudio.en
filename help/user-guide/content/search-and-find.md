@@ -7,4 +7,3 @@ description: Find relevant
 
 GenStudio makes is easy to search and find perfomant and relavant content to use as a starting point for the creation of experiences for marketing campaigns.
 
-use as a reference for variant generation
