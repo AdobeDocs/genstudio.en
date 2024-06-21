@@ -13,21 +13,21 @@ GenStudio [!DNL Content] provides a central location to store, find, and share a
 <table style="table-layout:fixed">
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
-      <a href="../content/search-and-find.md">
+      <a href="../content/manage-assets.md#search">
       <img alt="magnifier" src="../../assets/icons/icon-search.svg" width="35">
       </a>
       <div>
-         <a href="../content/search-and-find.md">
+         <a href="../content/manage-assets.md#search">
          <strong>Find Content</strong>
          </a>
       </div>
    </td>
    <td align="center" valign="top" width="100">
-      <a href="../content/overview.md">
+      <a href="../content/manage-assets.md#add">
       <img alt="images with plus sign" src="../../assets/icons/icon-addContent.svg" width="35">
       </a>
       <div>
-         <a href="../content/overview.md">
+         <a href="../content/manage-assets.md#add">
          <strong>Add Content</strong>
          </a>
       </div>
@@ -62,8 +62,6 @@ GenStudio makes it easy to manage your approved assets and accelerate the conten
 ### Upload assets
 
 The **[!UICONTROL Add assets]** panel allows you to drag-and-drop or browse for assets in your local files. Optionally, you can import assets from an external source, such as OneDrive or Dropbox. A [!UICONTROL Campaign] or Project name is the only required detail before upload. Providing more details such as Keywords, enables everyone on your team to identify and retrieve relevant content quickly.
-
-See Asset details for an in-depth look at metadata used in GenStudio.
 
 ### Search and find approved content
 

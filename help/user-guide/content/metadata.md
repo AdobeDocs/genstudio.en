@@ -1,14 +1,13 @@
 ---
 title: Asset details
-description: Learn about asset details for GenStudio.
+description: GenStudio stores approved content with rich metadata for searchability and performance tracking.
 feature: Content Hub
 ---
 
 # Asset details
 
-GenStudio stores information about each asset
+GenStudio stores approved content with rich metadata for searchability and performance tracking.
 
-For Search and Filter, these Metadata fields include:
 
 - Default: *campaign name, channel, keywords, timeframe, region
 - AI/ML: smart tags, color tags

@@ -25,7 +25,7 @@ feature: Generative AI
 + Content {#content}
     + [Content overview](content/overview.md)
     + [Asset metadata](content/metadata.md)
-    + [Find assets](content/search-and-find.md)
+    + [Manage assets](content/manage-assets.md)
     + [Templates](content/templates.md)
 + Campaigns {#campaigns}
     + [Campaigns overview](campaigns/overview.md)    
