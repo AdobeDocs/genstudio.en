@@ -1,8 +1,6 @@
 ---
 title: Search and find
 description: Find relevant
-hidefromtoc: yes
-hide: yes
 ---
 
 # Search and find content
