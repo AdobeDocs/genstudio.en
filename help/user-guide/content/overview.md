@@ -57,7 +57,7 @@ GenStudio [!DNL Content] provides a central location to store, find, and share a
 
 ## Content capabilities
 
-Content is a hub for managing and tracking your creative assets and experiences, but content has a shelf life. GenStudio provides an easy way for you to manage your approved assets and accelerate the content lifecycle.
+GenStudio makes it easy to manage your approved assets and accelerate the your content lifecycle. Use the **[!UICONTROL Content]** panel to find and reuse performant content or select an asset or experience to jumpstart the creation of new variants for an evergreen campaign.
 
 ### Upload assets
 
@@ -71,7 +71,7 @@ GenStudio AI automatically identifies certain details, such as color. Searching 
 
 See Asset details for an in-depth look at metadata used in GenStudio.
 
-### Work with templates
+## Work with templates
 
 Templates speed up the creation process so that you can generate consistent content across multiple channels.
 
