@@ -57,19 +57,15 @@ GenStudio [!DNL Content] provides a central location to store, find, and share a
 
 ## Content capabilities
 
-GenStudio makes it easy to manage your approved assets and accelerate the your content lifecycle. Use the **[!UICONTROL Content]** panel to find and reuse performant content or select an asset or experience to jumpstart the creation of new variants for an evergreen campaign.
+GenStudio makes it easy to manage your approved assets and accelerate the content lifecycle. In **[!UICONTROL Content]** mode, you can search, find, and reuse performant content or select an asset or experience to jumpstart the creation of new variants for an evergreen campaign.
 
 ### Upload assets
 
-The **[!UICONTROL Add assets]** panel allows you to drag-and-drop or browse for assets in your local files. Optionally, you can import assets from an external source, such as OneDrive or Dropbox. A [!UICONTROL Campaign] or Project name is the only required detail before upload. It is important to note that providing more details such as Channels, Region, and Keywords, enables everyone on your team to quickly identify and retrieve relevant content.
+The **[!UICONTROL Add assets]** panel allows you to drag-and-drop or browse for assets in your local files. Optionally, you can import assets from an external source, such as OneDrive or Dropbox. A [!UICONTROL Campaign] or Project name is the only required detail before upload. Providing more details such as Keywords, enables everyone on your team to identify and retrieve relevant content quickly.
 
 ### Search and find approved content
 
-When you save approved content with generation context and rich metadata, it becomes easier to narrow search results quickly. GenStudio Content provides filtering on asset details and matching search text.
-
-GenStudio AI automatically identifies certain details, such as color. Searching for `blue` in the search field narrows the content list to assets tagged as blue.
-
-See Asset details for an in-depth look at metadata used in GenStudio.
+When you save approved assets, [!DNL Content] maintains the rich metadata, generation context, and history. Asset details help to narrow search results quickly using filter and search strings. GenStudio AI automatically identifies and stores certain details, such as color. Searching for `blue` in the search field narrows the content list to assets tagged as blue.
 
 ## Work with templates
 
