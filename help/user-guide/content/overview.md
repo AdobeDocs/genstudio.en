@@ -63,9 +63,11 @@ GenStudio makes it easy to manage your approved assets and accelerate the conten
 
 The **[!UICONTROL Add assets]** panel allows you to drag-and-drop or browse for assets in your local files. Optionally, you can import assets from an external source, such as OneDrive or Dropbox. A [!UICONTROL Campaign] or Project name is the only required detail before upload. Providing more details such as Keywords, enables everyone on your team to identify and retrieve relevant content quickly.
 
+See Asset details for an in-depth look at metadata used in GenStudio.
+
 ### Search and find approved content
 
-When you save approved assets, [!DNL Content] maintains the rich metadata, generation context, and history. Asset details help to narrow search results quickly using filter and search strings. GenStudio AI automatically identifies and stores certain details, such as color. Searching for `blue` in the search field narrows the content list to assets tagged as blue.
+When you save approved assets, [!DNL Content] maintains the rich metadata, generation context, and audit history. Asset details help to narrow search results quickly using filter and search strings. GenStudio AI automatically identifies and stores certain details, such as color. Searching for `blue` in the search field narrows the content list to assets tagged as blue.
 
 ## Work with templates
 
