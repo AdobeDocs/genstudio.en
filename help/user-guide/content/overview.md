@@ -4,32 +4,27 @@ description: Learn how to find, edit, reuse, and share brand-approved assets in 
 feature: Content Hub
 ---
 
-# [!DNL Content]
+# GenStudio [!DNL Content]
 
-The [!DNL Content] provides a central location to find, use, and reuse approved content in GenStudio.
-
-- Store, find, and share all brand-approved assets in one hub.
-- Edit and remix content that aligns with brand guidelines.
-- Gain insight on how content is used across teams.
-- Use generative AI to create, edit, or repurpose existing content.
+GenStudio [!DNL Content] provides a central location to store, find, and share all brand-approved assets, experiences, and templates. You can edit and remix content, gain insight on content usage and sentiment, and refresh and repurpose existing assets using generative AI.
 
 ## [!DNL Content] use cases
 
 <table style="table-layout:fixed">
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
-      <a href="../content/overview.md">
+      <a href="../content/search-and-find.md">
       <img alt="magnifier" src="../../assets/icons/icon-search.svg" width="35">
       </a>
       <div>
-         <a href="../content/overview.md">
+         <a href="../content/search-and-find.md">
          <strong>Find Content</strong>
          </a>
       </div>
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/overview.md">
-      <img alt="Add content" src="../../assets/icons/icon-addContent.svg" width="35">
+      <img alt="images with plus sign" src="../../assets/icons/icon-addContent.svg" width="35">
       </a>
       <div>
          <a href="../content/overview.md">
@@ -39,7 +34,7 @@ The [!DNL Content] provides a central location to find, use, and reuse approved 
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/overview.md">
-      <img alt="Add content" src="../../assets/icons/icon-AIVariation.svg" width="35">
+      <img alt="sparkle and new asset" src="../../assets/icons/icon-AIVariation.svg" width="35">
       </a>
       <div>
          <a href="../content/overview.md">
@@ -49,7 +44,7 @@ The [!DNL Content] provides a central location to find, use, and reuse approved 
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/templates.md">
-      <img alt="Add content" src="../../assets/icons/icon-template.svg" width="35">
+      <img alt="lightening bolt on asset" src="../../assets/icons/icon-template.svg" width="35">
       </a>
       <div>
          <a href="../content/templates.md">
@@ -58,21 +53,26 @@ The [!DNL Content] provides a central location to find, use, and reuse approved 
       </div>
    </td>
 </tr>
-<tr>
-   <td align="center" valign="top" width="100">
-      <a href="../insights/overview.md">
-      <img alt="Add content" src="../../assets/icons/icon-dataAnalytics.svg" width="35">
-      </a>
-      <div>
-         <a href="../content/overview.md">
-         <strong>View Insights</strong>
-         </a>
-      </div>
-   </td>
-</tr>
 </table>
 
-TBD—
+## Content capabilities
 
-Content Refresh—In this Use Case, use GenStudio to refresh the content of long-running or evergreen campaigns.
+Content is a hub for managing and tracking your creative assets and experiences, but content has a shelf life. GenStudio provides an easy way for you to manage your approved assets and accelerate the content lifecycle.
 
+### Upload assets
+
+The **[!UICONTROL Add assets]** panel allows you to drag-and-drop or browse for assets in your local files. Optionally, you can import assets from an external source, such as OneDrive or Dropbox. A [!UICONTROL Campaign] or Project name is the only required detail before upload. It is important to note that providing more details such as Channels, Region, and Keywords, enables everyone on your team to quickly identify and retrieve relevant content.
+
+### Search and find approved content
+
+When you save approved content with generation context and rich metadata, it becomes easier to narrow search results quickly. GenStudio Content provides filtering on asset details and matching search text.
+
+GenStudio AI automatically identifies certain details, such as color. Searching for `blue` in the search field narrows the content list to assets tagged as blue.
+
+See Asset details for an in-depth look at metadata used in GenStudio.
+
+### Work with templates
+
+Templates speed up the creation process so that you can generate consistent content across multiple channels.
+
+See GenStudio templates...TBD.
