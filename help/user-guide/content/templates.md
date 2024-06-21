@@ -14,7 +14,7 @@ view details, delete
 
 Upload HTML file
 See what fields are extracted
-Save with *filename, *channel, and optional metadata.
+Save with filename, channel, and optional metadata.
 
 - Meta: aspect ratio
 - Display ads: dimensions
