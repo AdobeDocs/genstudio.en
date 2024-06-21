@@ -22,8 +22,6 @@ Your prompt guides the AI to generate channel content that is personalized and i
 - For **images**, use words that describe ambiance, mood, color, composition, and style.
 - For **copy**, use words that describe the audience, voice and tone, purpose, examples, and actions.
 
-### 
-
 The following is a sample prompt that articulates information about your intent, target audience, style, 
 
 ```terminal
