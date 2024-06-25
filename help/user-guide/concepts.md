@@ -26,9 +26,9 @@ The demand is high for quality experiences in multiple channels at a faster pace
 
 <table style="table-layout:fixed">
 <tr style="border: 0;">
-    <td style="width: 100px;">
-        <a href="../user-guide/insights/overview.md">
-        <img alt="Chart" src="../assets/csc-workflow-planning.svg" width="80">
+    <td style="width: 120px;">
+        <a>
+        <img alt="calendar" src="../assets/csc-workflow-planning.svg" width="100">
         </a>
     </td>
     <td>
@@ -36,9 +36,9 @@ The demand is high for quality experiences in multiple channels at a faster pace
     </td>
 </tr>
 <tr style="border: 0;">
-    <td style="width: 100px;">
-        <a href="../user-guide/insights/overview.md">
-        <img alt="Chart" src="../assets/csc-creation-production.svg" width="80">
+    <td style="width: 120px;">
+        <a>
+        <img alt="brush and canvas" src="../assets/csc-creation-production.svg" width="100">
         </a>
     </td>
     <td>
@@ -46,9 +46,9 @@ The demand is high for quality experiences in multiple channels at a faster pace
     </td>
 </tr>
 <tr style="border: 0;">
-    <td style="width: 100px;">
-        <a href="../user-guide/insights/overview.md">
-        <img alt="Chart" src="../assets/csc-content-mgmt.svg" width="80">
+    <td style="width: 120px;">
+        <a>
+        <img alt="images and more" src="../assets/csc-content-mgmt.svg" width="100">
         </a>
     </td>
     <td>
@@ -56,9 +56,9 @@ The demand is high for quality experiences in multiple channels at a faster pace
     </td>
 </tr>
 <tr style="border: 0;">
-    <td style="width: 100px;">
-        <a href="../user-guide/insights/overview.md">
-        <img alt="Chart" src="../assets/csc-delivery-activation.svg" width="80">
+    <td style="width: 120px;">
+        <a>
+        <img alt="paper airplane" src="../assets/csc-delivery-activation.svg" width="100">
         </a>
     </td>
     <td>
@@ -66,9 +66,9 @@ The demand is high for quality experiences in multiple channels at a faster pace
     </td>
 </tr>
 <tr style="border: 0;">
-    <td style="width: 100px;">
-        <a href="../user-guide/insights/overview.md">
-        <img alt="Chart" src="../assets/csc-reporting-insights.svg" width="80">
+    <td style="width: 120px;">
+        <a>
+        <img alt="chart" src="../assets/csc-reporting-insights.svg" width="100">
         </a>
     </td>
     <td>
