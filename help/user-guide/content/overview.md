@@ -70,5 +70,3 @@ When you save approved assets, [!DNL Content] maintains the rich metadata, gener
 ## Work with templates
 
 Templates speed up the creation process so that you can generate consistent content across multiple channels.
-
-See GenStudio templates...TBD.
