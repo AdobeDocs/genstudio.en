@@ -13,7 +13,9 @@ To [create your own brand in GenStudio](add-references.md#add-brands), you eithe
 
 In GenStudio's **Brands**, click into a defined brand to see its brand overview. [View or revise](add-references.md#manage-brands) any brand guidelines by clicking **[!UICONTROL Brand voice guidelines]**, **[!UICONTROL Channel guidelines]**, **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
 
-![Brand overview in GenStudio](/help/assets/brand-overview.png){width="650" zoomable="yes"}
+![Brand overview in GenStudio](/help/assets/brand-overview-home.png){width="650" zoomable="yes"}
+
+See [Add references](add-references.md) to learn how to add a brand to GenStudio, modify it, publish it, and more.
 
 ## Brand references guidelines
 
@@ -34,6 +36,8 @@ The following table shows each category of brand voice guideline and guideline e
 | Messaging guidelines | `Use inclusive terms, Avoid using the word "utilize", Incorporate simple phrasing, Make CTAs clear and concise` |
 | Messaging restrictions | `Avoid repeating adjectives or adverbs, Avoid colloquialisms` |
 
+![Brand voice guidelines in GenStudio](/help/assets/brand-voice-guidelines.png){width="650" zoomable="yes"}
+
 ### Channel guidelines
 
 Each channel has certain inherent guidelines that influence channel asset composition.
@@ -48,6 +52,8 @@ The following table shows each channel fragment, channels for which it is availa
 | Headline          | email, social ads, display ads | A title or phrase to grab the reader's attention | `Mimic the vibe of the subject, Continue the story` | "Take a teen under your wing, and watch them fly!" |
 | Body              | email, social ads, display ads | Marketing content that includes message, links, and images | `Limit to 2 to 4 sentences, Mix sentence length and phrasing to keep attention, Avoid slang, Maintain smart and respectful tone` | "Guiding a teen through life's ups and downs changes them... and you. Spend a little time helping your community and watch your neighborhood garden grow." |
 | CTA               | email, social ads, display ads | (Call to Action) An instruction given to the reader that inspires a response. Usually one or two words, such as `Get started` | `Use 1-3 words, Use clear verbiage` | "Mentor today" |
+
+![Channel guidelines in GenStudio](/help/assets/channel-guidelines.png){width="650" zoomable="yes"}
 
 ### Image guidelines
 
@@ -64,3 +70,11 @@ You can create your own categories, like Photos, Product, or Illustration imager
 | Restrictions   | List requirements or avoidances | `Avoid political imagery or topics, Avoid black and gray imagery, Avoid images displaying extreme strife or stress` |
 | Color and tone | Specify color or color theme, palette, color interpretation and accessibility | `Use bright and bold color palette, Ensure high contrast` |
 | Lighting   | Describe how highlights and shadows affect different objects| `Use natural light, Avoid using shadows` |
+
+![Image guidelines in GenStudio](/help/assets/image-guidelines.png){width="650" zoomable="yes"}
+
+### Logos
+
+Add logos to your brand guide in the **[UICONTROL Logos]* tab.
+
+![Logo guidelines in GenStudio](/help/assets/logos.png){width="650" zoomable="yes"}
