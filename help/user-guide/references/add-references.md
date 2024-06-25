@@ -26,7 +26,7 @@ In the left navigation area, click **Brands**. In the _Brands_ panel, select **A
 
 You can upload your own brand guidelines documents to populate a new brand in GenStudio.
 
-See [Brands](/help/user-guide/references/brands.md) to view a sample brand guide.
+See [Brands](/help/user-guide/references/brands#sample-brand-guide.md) to view a sample brand guide.
 
 **To upload brand guidelines**:
 
@@ -52,11 +52,11 @@ You can manually add brand details, instead of uploading existing brand document
    You can populate various optional guidelines and imagery to build out your brand.
 
 1. Add information about your brand in the _About_ section.
-1. Enter _Brand voice guidelines_.
-1. Enter _Channel guidelines_, for each applicable channel (Email, Facebook, Instagram, Display ads).
-1. Enter _Image guidelines_. Expand each category in the Image guidelines section to see all guidelines.
+1. Enter [_Brand voice guidelines_](/help/user-guide/references/brands#brand-voice-guidelines.md).
+1. Enter [_Channel guidelines_](/help/user-guide/references/brands#channel-guidelines.md), for each applicable channel.
+1. Enter [_Image guidelines_](/help/user-guide/references/brands#image-guidelines.md). Expand each category in the Image guidelines section to see all guidelines.
 
-   Optionally, click **[!UICONTROL Add category]** to add a custom guidelines category.
+   Optionally, click **[!UICONTROL Add category]** to add a custom guidelines category, such as Photos or Illustrations.
 
 1. Add brand logos in the _Logos_ section.
 1. Click into the _New brand_ title and enter a descriptive brand name.
