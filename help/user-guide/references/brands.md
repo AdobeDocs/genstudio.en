@@ -7,16 +7,14 @@ hidefromtoc: yes
 
 # Overview of Brands
 
-A brand distinguishes an organization, product, service or concept from others. Some aspects of a brand are objective, like a logo, while others are subjective, like tone of voice. GenStudio uses the wealth of brand information from your brand, partners it with product and persona information, and builds out a comprehensive brand identity. This brand identity, called [brand references](/help/user-guide/references/overview.md) in GenStudio, is used to inform the creation of on-brand content using Adobe's generative AI technology.
+A brand distinguishes an organization, product, service or concept from others. Some aspects of a brand are objective, like a logo, while others are subjective, like tone of voice. GenStudio uses the wealth of brand information from your brand, partners it with product and persona information, and builds out a comprehensive brand identity. This brand identity, called [brand references](overview.md) in GenStudio, is used to inform the creation of on-brand content using Adobe's generative AI technology.
 <!-- GenStudio builds on a hierarchy of brand libraries that can inherit from another brand library, adding to or overriding aspects of it. For example, a campaign for a product can inherit the general brand guidelines for the product, while also adding campaign-specific context. The following example illustrates this brand hierarchy: -->
 
-To [create your own brand in GenStudio](/help/user-guide/references/add-references#add-brands.md), you either upload brand guideline documents or manually add brand details right into GenStudio.
+To [create your own brand in GenStudio](add-references#add-brands.md), you either upload brand guideline documents or manually add brand details right into GenStudio.
 
-In GenStudio's **Brands**, click into a defined brand to see its brand overview. [View or revise](/help/user-guide/references/add-references#manage-brands.md) any brand guidelines by clicking **[!UICONTROL Brand voice guidelines]**, **[!UICONTROL Channel guidelines]**, **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
+In GenStudio's **Brands**, click into a defined brand to see its brand overview. [View or revise](add-references#manage-brands.md) any brand guidelines by clicking **[!UICONTROL Brand voice guidelines]**, **[!UICONTROL Channel guidelines]**, **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
 
 ![Brand overview in GenStudio](/help/assets/brand-overview.png){width="650" zoomable="yes"}
-
-<!-- ## Sample brand guide -->
 
 ## Brand references guidelines
 
