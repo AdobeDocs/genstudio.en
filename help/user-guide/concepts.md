@@ -6,7 +6,7 @@ feature: Workflow, Generative AI
 
 # Introduction to GenStudio
 
-GenStudio is a standalone enterprise product that embodies Adobe's Content Supply Chain to streamline marketing campaigns. It is challenging to build personalized, brand-approved content at scale, monitor effectiveness, and adapt quickly to the ever-changing market. GenStudio brings Creative Cloud and Experience Cloud together in one application that leverages generative AI as a performance multiplier for enterprise marketing teams.
+GenStudio is a standalone enterprise product that embodies Adobe's content supply chain to streamline marketing campaigns. It is challenging to build personalized, brand-approved content at scale, monitor effectiveness, and adapt quickly to the ever-changing market. GenStudio brings Creative Cloud and Experience Cloud together in one application that leverages generative AI as a performance multiplier for enterprise marketing teams.
 
 With GenStudio you can:
 
@@ -22,27 +22,63 @@ Begin by effectively training GenStudio on your organization's branding, custome
 
 ## GenStudio Content lifecycle
 
-![Adobe Content Supply Chain](../assets/csc.png)
+The demand is high for quality experiences in multiple channels at a faster pace. GenStudio simplifies the content supply chain into a well-organized workflow for marketers.
 
-GenStudio simplifies the content supply chain workflow and allows marketers to do the following in one application:
-
-- set up brand guidelines and campaigns
-- create brand-aligned content and experiences for all channels
-- activate seamlessly with Adobe and non-Adobe applications and platforms
-- measure campaign performance
-- derive insights for performance optimization
-- find and reuse approved content
-- generate new content
+<table style="table-layout:fixed">
+<tr style="border: 0;">
+    <td>
+        <a href="../user-guide/insights/overview.md">
+        <img alt="Chart" src="../assets/csc-workflow-planning.svg" width="80">
+        </a>
+    </td>
+    <td>
+        <p>Brainstorm ideas, define guidelines, and build a strategy around content to engage your audience.</p>
+    </td>
+</tr>
+<tr style="border: 0;">
+    <td>
+        <a href="../user-guide/insights/overview.md">
+        <img alt="Chart" src="../assets/csc-creation-production.svg" width="80">
+        </a>
+    </td>
+    <td>
+        <p>Produce the content based on the plan. Collaborate in real time, receive feedback, make edits, and approve content.</p>
+    </td>
+</tr>
+<tr style="border: 0;">
+    <td>
+        <a href="../user-guide/insights/overview.md">
+        <img alt="Chart" src="../assets/csc-content-mgmt.svg" width="80">
+        </a>
+    </td>
+    <td>
+        <p>Store, share, and find creative assets in the centralized repository. Reuse and revitalize content based on performance.</p>
+    </td>
+</tr>
+<tr style="border: 0;">
+    <td>
+        <a href="../user-guide/insights/overview.md">
+        <img alt="Chart" src="../assets/csc-delivery-activation.svg" width="80">
+        </a>
+    </td>
+    <td>
+        <p>Activate content and publish across multiple marketing channels.</P>
+    </td>
+</tr>
+<tr style="border: 0;">
+    <td>
+        <a href="../user-guide/insights/overview.md">
+        <img alt="Chart" src="../assets/csc-reporting-insights.svg" width="80">
+        </a>
+    </td>
+    <td>
+        <p>Collect data and derive insights for asset performance optimization.</p>
+    </td>
+</tr>
+</table>
 
 ### Adobe tools
 
 The following Adobe Content Supply Chain tools make up the GenStudio feature matrix:
 
-|                | Functionality |
-| -------------- | ------------- |
-| **AEM Assets Content Hub** | Find and reuse approved content. |
-| **Customer Journey Analytics** | View insights into Content performance. |
-| **Customer Journey Optimizer** | |
-| **Express with Firefly**  | Directly create variants and edit content. |
-| **Firefly**    | Custom models and services. |
-| **Workfront**  | Review and approve content. |
+![Adobe tools used in GenStudio](../assets/adobe-tools.png)
