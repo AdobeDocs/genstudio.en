@@ -1,124 +1,67 @@
 ---
 title: Write effective prompts
 description: Learn how to write effective prompts for GenStudio.
-feature: Prompt, Brands Service
+feature: Prompt, Brands Service, Personas Service, Products Service
 ---
 
 # Write effective prompts
 
 Communicating with the generative AI is essential to working effectively in GenStudio.
 
-GenStudio provides a generative AI prompt each time there is an opportunity to create or modify an asset. You can use natural language to articulate your ideas to create new experiences. The components of an effective prompt include using descriptive language, uploading brand guidelines, providing examples, and referencing specific channel characteristics.
+GenStudio provides a generative AI prompt each time there is an opportunity to create or modify an asset. The components of an effective prompt should include descriptive language, examples, and information not provided through your configured guidelines.
+
+As a best practice, supply GenStudio with your brand information using [Brand references](./references/overview.md), then you can fully leverage the generative AI to produce brand-aligned content.
 
 ## Descriptive language
 
-Your prompt guides the AI to generate images that complement your vision. The more details that you provide, the greater the chance of producing an image that meets your needs. Use clear and descriptive language to provide as much detail as possible. Use words that describe ambiance, mood, color, composition, and style.
+You can use natural language to articulate your ideas to create new experiences. Your prompt guides the AI to generate channel content that is personalized and images that complement your vision. The more details that you provide, the greater the chance of producing an image or an experience that meets your needs. Use clear and descriptive language to provide as much detail as possible:
 
-For example, the following prompts use descriptive language:
+- For **images**, use words that describe ambiance, mood, color, composition, and style.
+- For **copy**, use words that describe the audience, purpose, new feature descriptions, examples, and actions.
 
-- **Image prompts**
+The following is a sample prompt that articulates information about your intent, target audience, and style.
 
-  - _An image of a serene beach scene at dawn with soft pastel colors, gentle waves, and a clear sky with a few scattered clouds, in a hand-drawn style._
+```terminal
+Write an email to motivate infrequent users of Photoshop to follow an in-app tutorial that teaches them to combine elements of two photos into a beautiful work of art. Highlight the generative AI capabilities of Photoshop and use references to natural imagery.
+```
 
-  - _A bustling cityscape at night with neon lights, tall skyscrapers, and busy streets, in a hyper-realistic style._
++++See sample results
 
-  - _A fantasy forest with towering trees, glowing mushrooms, and mystical creatures, in a vibrant, colorful style._
+![three generated emails](../assets/sample-email.png)
 
-- **Text prompt**
-
-  - _Write an email that would help users understand the value of the Text to Vector Graphic feature. This email should inspire users to experiment with Illustrator's new generative AI features. What is Text to Vector Graphic? Text to Vector Graphic is a revolutionary generative AI feature where you can quickly and more easily create scalable vector graphics with a simple text prompt, including icons, scenes, and patterns. How does Text to Vector Graphic work? With a placeholder graphic selected or not, in the Properties panel, taskbar, or Text to Vector Graphic panel, select a type, enter a prompt, and generate amazing art! Do not use "generate art" or "create art." Do not use the words "new" and "create" in the same sentence._
++++
 
 ## Prompt criteria
 
-In the GenStudio [[!DNL Create]](./create/overview.md) mode, you can use **[!UICONTROL Prompt criteria]** to add details through selection to improve the AI interpretation. You can add one of your References guides, **[!DNL Brands]**, a specific **[!DNL Persona]**, or a **[!DNL Product]**, and use descriptive language to articulate certain characteristics.
+In the GenStudio [[!DNL Create]](./create/overview.md) mode, you can use **[!UICONTROL Prompt criteria]** to add details through selection to improve the AI interpretation. For on-brand images, the prompt criteria might include [[!DNL Brand]](../user-guide/references/brands.md) and general settings related to images, such as aspect ratio. For channels, you might use a template, choose from the guidelines, and select or upload existing assets. The real power begins with configuring your brand guidelines.
 
-Characteristics include traits and information extracted from References guidelines and Campaign briefs that you provide.
+### Guidelines
 
-| Brand traits     | Brand information | Campaign information |
-| ---------------- | ----------------- | -------------------- |
-| Voice and tone   | Channel           | Marketing strategy   |
-| Core values      | Audience          | Objective            |
-| Frequent keywords | Product          | Key message          |
-| Restrictions     | Concepts          | Themes               |
-| Unique attributes | | |
+Guidelines help the generative AI to personalize your GenStudio asset composition. When presented with prompt criteria, you can choose a [[!DNL Brand]](./references/brands.md), a [[!DNL Persona]](./references/personas.md), and a [[!DNL Product]](./references/products.md) from your configured guidelines.
 
-See the [References overview](./references/overview.md) for details on uploading your brand guidelines.
+>[!TIP]
+>
+>You control how and when GenStudio uses your [!DNL Brand] guidelines. See [References](./references/overview.md) to learn how to configure and manage your guidelines.
 
-## Channel guidelines
+## Try again
 
-Each channel has certain inherent characteristics, or fragments, that you can call out in your prompt. For example, you can reference the subject line of an email or the headline of a social media asset.
+Prompting is an iterative process. If the results are not meeting your expectations, review your prompt and make some changes or add more details. You can refine your prompt by providing a URL as an example or a source for further information.
 
->[!BEGINTABS]
+```terminal
+Write an email to motivate infrequent users of Photoshop to follow an in-app tutorial that teaches them to combine elements of two photos into a beautiful work of art. Highlight the generative AI capabilities of Photoshop and use references to natural imagery.
 
->[!TAB Email]
+Use information from https://www.adobe.com/products/photoshop.html to inspire users with the latest features.
+```
 
-Characteristics that influence email composition:
+Or, you can paste in sections from a campaign brief. You can even request that GenStudio avoid certain words, elements, or themes.
 
-| Email fragments | Description |
-| ----------------| ----------- |
-| `preheader`     | A second subject line or email preview text |
-| `subject`       | A compelling and interesting title to summarize the content of an email |
-| `headline`      | A title or phrase to grab the reader's attention |
-| `body`          | Marketing content that includes message, links, and images |
-| `cta`           | (Call to Action) An instruction given to the reader that inspires a response. Usually one or two words, such as `Get started` |
+## Best practices
 
-Use a text prompt to generate marketing emails. The more details that you provide by way of characteristics, the more effective the results generated. The following prompt references the `subject` of the email:
+Some simple best practices for crafting effective prompts in GenStudio:
 
-_Write an email to motivate infrequent users of Photoshop to follow an in-app tutorial that teaches them to combine elements of two photos into a beautiful work of art. Highlight the generative AI capabilities of Photoshop and use references to natural imagery. Use "Experience the power of generative AI in Photoshop" as the subject._
-
-This prompt might include specific characteristics extracted from the following References:
-
-- Brand guidelines
-
-  - **Audience**—users of Photoshop
-  - **Product**—Photoshop
-  - **Voice and tone**—motivation, imagery
-
-- Campaign brief
-
-  - **Objective**—encourage users to follow the tutorial
-  - **Strategy**—target infrequent users, highlight AI capabilities
-
->[!TAB Image]
-
-Characteristics that influence image composition:
-
-| Image fragments    | Description |
-| ------------------ | :---------- |
-| **Background**     | Set the stage by describing layouts, location, places |
-| **Color and tone** |Specify color or color theme, palette, color interpretation and accessibility |
-| **Composition**    | Define objects, focal point, position, and depth-of-field, framing |
-| **Lighting**       | Describe how highlights and shadows affect different objects|
-| **Restrictions**   | List requirements or avoidances |
-
-For better results, state your most important ideas first.
-
->[!TAB Social ads]
-
-Characteristics that influence social media composition:
-
-| Site fragments  | Description |
-| ----------------| ----------- |
-| `headline`      | A title or phrase to grab the reader's attention |
-| `body`          | Marketing content that includes message, links, and images |
-| `on-image-text` |  |
-| `cta`           | (Call to Action) An instruction given to the reader that inspires a response. Usually one or two words, such as `Get started` |
-| `image`         |  |
-
-Facebook and Instagram...TBD
-
->[!TAB Display ads]
-
-Characteristics that influence display ad composition:
-
-| Site fragments  | Description |
-| ----------------| ----------- |
-| `headline`      | A title or phrase to grab the reader's attention |
-| `body`          | Marketing content that includes message, links, and images |
-| `cta`           | (Call to Action) An instruction given to the reader that inspires a response. Usually one or two words, such as `Get started` |
-| `image`         |  |
-| `caption`       |  |
-
-TBD?
-
->[!ENDTABS]
+- Be specific and provide details about what to do and not do.
+- Provide context using external references.
+- Leverage the [!DNL Brand] guidelines feature of GenStudio.
+- Review and adjust [!DNL Brand] guidelines regularly.
+- Iterate and refine.
+- Learn through experimentation.
