@@ -75,6 +75,6 @@ You can create your own categories, like Photos, Product, or Illustration imager
 
 ### Logos
 
-Add logos to your brand guide in the **[UICONTROL Logos]* tab.
+Add logos to your brand guide in the **[!UICONTROL Logos]** tab.
 
 ![Logo guidelines in GenStudio](/help/assets/logos.png){width="650" zoomable="yes"}
