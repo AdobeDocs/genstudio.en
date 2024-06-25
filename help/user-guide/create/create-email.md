@@ -10,45 +10,81 @@ level: Beginner
 
 In GenStudio's [!DNL Create] mode, you have the ability to create marketing content that aligns perfectly with your brand's identity. By leveraging Adobe's generative AI, customizable brand references, and efficient prompt creation, you can quickly generate top-notch email experiences.
 
-Creating a new email experience in GenStudio is a streamlined process.[**Select an existing template**](#choose-template) and [**customize the email**](#customize-email) to align with your message, brand, and purpose. [**Employ the built-in brand validation**](#brand-validation) to ensure consistency. [**Seek reviews and approvals**](#review-and-approval) before [**publishing the email experience**](#publish-experience) to [!DNL Content] and [**exporting it for use**](#export-experience).
+Creating a new email experience in GenStudio is a streamlined process:
+
+1. [**Select an existing template**](#choose-template).
+1. [**Customize the content generation process**](#customize-content-generation) to align with your message, brand, and purpose.
+1. [**Modify the generated email experiences**](#modify-generated-experiences) or create variants of the initial results.
+1. [**Employ the built-in brand validation**](#brand-validation) to ensure consistency and brand adherence.
+1. [**Seek reviews and approvals**](#review-and-approval) from stakeholders.
+1. [**Publish the email experience**](#publish-experience) to [!DNL Content] and [**export it for use**](#export-experience).
 
 In the left navigation area, click **Create** to begin creating an email experience.
 
-## Choose template
+## Choose a template
+
+To get started creating a new email experience, use an available template to provide the framework for your content.
 
 To choose an email template:
 
-1. Click **[!UICONTROL Email]** in the "_What do you want to create today?" options.
+1. Click **[!UICONTROL Email]** in the "_What do you want to create today?" section.
 1. Click to open a template in the _Recent templates_ section, or click **[!UICONTROL View all templates]** to see more available templates.
    1. In the _Select template_ pane, toggle the _Channels_ filter to **[!UICONTROL Email]**.
 
    Use the search option, adjacent to _Filter_, to find a specific email template.
 
-   1. Click to select an email template, or toggle select multiple email templates, and click **[!UICONTROL Use]**.
+   1. Click to select an email template, or toggle select multiple email templates, and click **[!UICONTROL Use]**. If you select multiple templates, when the variants are generated all selected templates will be used to provide you options.
 
    The Canvas, the epicenter of content creation, appears.
 
-## Customize email
+## Customize content generation
 
-In the Canvas you use the prompt bar to add content to and customize an email experience.
+In the Canvas use the prompt bar, references parameters, and images to inform and customize the content generation process.
 
-prompt, guidelines, media
+### Add parameters
 
-To customize an email template:
+Adding reference parameters supercharges the content generation process and is an integral preparatory step for creating a new email experience.
 
-1. Click the plus sign to fully open the prompt drawer.
-1. Click **[!UICONTROL Guidelines]** to begin adding brand references.
-   1. Select a brand from the _Apply these brand guidelines_ menu.
-   1. Select a persona from the _Tailor content to this persona_ menu.
-   1. Select a product from the _Feature this product_ menu.
+To customize content generation for your new email experience:
 
-      If there are no brands, personas, or products available from these menus, [add these brand references to your GenStudio](/help/user-guide/references/add-references.md).
+1. Click the _Parameters_ icon IMG to begin adding references parameters and image content.
+1. In the _Parameters_ section, add brand references to inform content creation.
+   1. Choose a **Brand**.
+   1. Choose a **Persona**.
+   1. Choose a **Product**.
 
-1. Click **[!UICONTROL Media]** to begin adding images for use in your new email experience.
-   1. Click **[!UICONTROL Select assets]** to access images already saved in [!DNL Content]. Toggle select the image(s) you want to use and click **[!UICONTROL Use]**.
-   1. 
+   If there are no brands, personas, or products available from these menus, [add brand references to your GenStudio](/help/user-guide/references/add-references.md).
 
-## Modify experience
+1. In the _Content_ section, add content to be used in the experience *and* to influence content generation.
+   1. Click **[!UICONTROL Select content]** or drop files in the _Content_ section.
+   1. **[!UICONTROL Browse your device]** or **[!UICONTROL Select from GenStudio content]** to choose images to use.
+
+   When you select images from GenStudio content, you are choosing from images already saved to [[!DNL Content]](/help/user-guide/content/overview.md). You can filter by channel, product, language, and more, to find the needed images quickly.
+
+When you are done adding parameters, you can collapse the *Parameters* and *Content* sections by clicking the _Parameters_ icon again.
+
+### Use a prompt
+
+After brand references are selected, craft a prompt using natural language to start generating content for your new email experience.
+
+See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn more about writing prompts.
+
+To create a prompt:
+
+1. Enter a prompt in the _"Describe the experiences you want to generate"_ prompt box.
+
+   If the prompt box is not visible, click **[UICONTROL Open to prompt]** to expand it.
+
+1. Optionally, click one of the prompt suggestions visible just above the prompt text box. Clicking a suggestion auto-fills the suggested prompt in the prompt box.
+1. Click **[!UICONTROL Generate]**.
+
+By default, four generated variations—all fueled by the prompt, reference parameters, and images you added—are shown in the Canvas.
+
+## Modify generated experiences
+
+The four email variants that are generated can be manually modified or regenerated using another prompt, different references parameters, or images.
+
+
 
 ## Brand validation
 
