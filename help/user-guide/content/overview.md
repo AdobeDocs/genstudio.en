@@ -43,11 +43,11 @@ GenStudio [!DNL Content] provides a central location to store, find, and share a
       </div>
    </td>
    <td align="center" valign="top" width="100">
-      <a href="../content/templates.md">
+      <a href="../content/use-templates.md">
       <img alt="lightening bolt on asset" src="../../assets/icons/icon-template.svg" width="35">
       </a>
       <div>
-         <a href="../content/templates.md">
+         <a href="../content/use-templates.md">
          <strong>Add Template</strong>
          </a>
       </div>
