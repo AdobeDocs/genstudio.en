@@ -73,7 +73,7 @@ See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn mo
 
 1. Enter a prompt in the _"Describe the experiences you want to generate"_ prompt box.
 
-   If the prompt box is not visible, click **[UICONTROL Open to prompt]** to expand it.
+   If the prompt box is not visible, click **[!UICONTROL Open to prompt]** to expand it.
 
 1. Optionally, click one of the prompt suggestions visible just above the prompt text box. Clicking a suggestion auto-fills the suggested prompt in the prompt box.
 1. Click **[!UICONTROL Generate]**.
