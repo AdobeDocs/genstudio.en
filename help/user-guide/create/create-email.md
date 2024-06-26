@@ -10,11 +10,11 @@ level: Beginner
 
 In GenStudio's [!DNL Create] mode, you have the ability to create marketing content that aligns perfectly with your brand's identity. By leveraging Adobe's generative AI, customizable brand references, and efficient prompt creation, you can quickly generate top-notch email experiences.
 
-Creating a new email experience in GenStudio is a streamlined process:
+**To create a new email experience in GenStudio:**
 
 1. [**Select an existing template**](#choose-template).
 1. [**Customize the content generation process**](#customize-content-generation) to align with your message, brand, and purpose.
-1. [**Modify the generated email experiences**](#modify-generated-experiences) or create variants of the initial results.
+1. [**Create variants of the generated email experiences**](#create-variants) to fine-tune the result.
 1. [**Employ the built-in brand validation**](#brand-validation) to ensure consistency and brand adherence.
 1. [**Seek reviews and approvals**](#review-and-approval) from stakeholders.
 1. [**Publish the email experience**](#publish-experience) to [!DNL Content] and [**export it for use**](#export-experience).
@@ -25,7 +25,7 @@ In the left navigation area, click **Create** to begin creating an email experie
 
 To get started creating a new email experience, use an available template to provide the framework for your content.
 
-To choose an email template:
+**To choose an email template:**
 
 1. Click **[!UICONTROL Email]** in the "_What do you want to create today?" section.
 1. Click to open a template in the _Recent templates_ section, or click **[!UICONTROL View all templates]** to see more available templates.
@@ -45,7 +45,7 @@ In the Canvas use the prompt bar, references parameters, and images to inform an
 
 Adding reference parameters supercharges the content generation process and is an integral preparatory step for creating a new email experience.
 
-To customize content generation for your new email experience:
+**To customize content generation for your new email experience:**
 
 1. Click the _Parameters_ icon IMG to begin adding references parameters and image content.
 1. In the _Parameters_ section, add brand references to inform content creation.
@@ -69,7 +69,7 @@ After brand references are selected, craft a prompt using natural language to st
 
 See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn more about writing prompts.
 
-To create a prompt:
+**To create a prompt:**
 
 1. Enter a prompt in the _"Describe the experiences you want to generate"_ prompt box.
 
@@ -80,11 +80,20 @@ To create a prompt:
 
 By default, four generated variations—all fueled by the prompt, reference parameters, and images you added—are shown in the Canvas.
 
-## Modify generated experiences
+## Create variants
 
-The four email variants that are generated can be manually modified or regenerated using another prompt, different references parameters, or images.
+The four email variants that are generated can be manually modified or regenerated using another prompt, different references parameters, or images—or a mix of all the brand references and content in _Parameters_.
 
+**To modify generated email variants:**
 
+1. With generated email variants visible, click **[!UICONTROL Open to prompt]** near the bottom of the screen to expand the prompt bar.
+1. Modify _Parameters_:
+   1. Choose a **[!UICONTROL Brand]**, **[!UICONTROL Persona]**, or **[!UICONTROL Product]** [brand references](/help/user-guide/references/overview.md).
+   1. Add or delete images in the _[!UICONTROL Content]_ section.
+   1. Add a new prompt in the prompt bar.
+1. Click **[!UICONTROL Generate]**.
+
+A new set of variants are generated. You can continue to modify, generate, and iterate on variants until you're ready to [publish to [!DNL Content]](#publish-experience) and [export for use](#export-experience).
 
 ## Brand validation
 
@@ -93,5 +102,3 @@ The four email variants that are generated can be manually modified or regenerat
 ## Publish experience
 
 ## Export experience
-
-## Generate variants
