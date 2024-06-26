@@ -10,11 +10,11 @@ Templates are used to generate consistent content for email messages, social med
 
 ## Use a template
 
- There are several out-of-the-box templates that you can use to experiment with and create experiences.
+There are several out-of-the-box templates that you can use to experiment with and create experiences.
 
 ![Content template list](../../assets/content-templates.png)
 
-**To create and experience with a template**:
+**To create an experience with a template**:
 
 1. In _[!DNL Content]_ mode, select the **[!UICONTROL Templates]** section.
 
