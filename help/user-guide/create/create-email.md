@@ -10,12 +10,13 @@ level: Beginner
 
 In GenStudio's [!DNL Create] mode, you have the ability to create marketing content that aligns perfectly with your brand's identity. By leveraging Adobe's generative AI, customizable brand references, and efficient prompt creation, you can quickly generate top-notch email experiences.
 
-**To create a new email experience in GenStudio:**
+Creating a new email experience in GenStudio is a seamless and comprehensive process that combines efficiency with powerful features.
 
 1. [**Select an existing template**](#choose-template).
 1. [**Customize the content generation process**](#customize-content-generation) to align with your message, brand, and purpose.
-1. [**Create variants of the generated email experiences**](#create-variants) to fine-tune the result.
-1. [**Employ the built-in brand validation**](#brand-validation) to ensure consistency and brand adherence.
+1. [**Manually modify email content**](#modify-email-content) to fine-tune the generated results.
+1. [**Create variants**](#create-variants) of the generated emails.
+1. [**Employ the built-in brand validation**](#verify-brand-alignment) to ensure consistency and brand adherence.
 1. [**Seek reviews and approvals**](#review-and-approval) from stakeholders.
 1. [**Publish the email experience**](#publish-experience) to [!DNL Content] and [**export it for use**](#export-experience).
 
@@ -80,7 +81,9 @@ See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn mo
 
 By default, four generated variations—all fueled by the prompt, reference parameters, and images you added—are shown in the Canvas.
 
-## Create variants
+## Modify email content
+
+### Create variants
 
 The four email variants that are generated can be manually modified or regenerated using another prompt, different references parameters, or images—or a mix of all the brand references and content in _Parameters_.
 
@@ -95,7 +98,17 @@ The four email variants that are generated can be manually modified or regenerat
 
 A new set of variants are generated. You can continue to modify, generate, and iterate on variants until you're ready to [publish to [!DNL Content]](#publish-experience) and [export for use](#export-experience).
 
-## Brand validation
+## Verify brand alignment
+
+Use the built-in brand verification tool to verify that all variants are checked against, and agree with, your brand references.
+
+See [Brands](/help/user-guide/references/brands.md) to learn more about brand verification.
+
+**To verify your email variants are aligned with your brand:**
+
+1. Click the brand verification logo for an individual email _or_ click the brand verification logo in the top menu bar.
+1. In the brand verification panel, toggle through each email to see how the generated content is checked against the **[!UICONTROL Brand voice]** and **[!UICONTROL Channel guidelines]**.
+1. Using brand verification suggestions, [manually revise emails](#modify-email-content), or fragments (sections) of emails, to achieve the strongest alignment to your brand.
 
 ## Review and approval
 

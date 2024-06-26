@@ -24,3 +24,5 @@ GenStudio builds on a hierarchy of brand libraries that can inherit from another
 ## Brand review process
 
 ## Brand verification
+
+A green brand verification logo indicts that the content in that particular email was verified against your brand information and passed verification. An orange brand verification logo indicates there are some potential improvements to be made to ensure the email is aligned with your brand.
