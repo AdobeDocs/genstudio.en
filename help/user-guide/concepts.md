@@ -27,9 +27,7 @@ The demand is high for quality experiences in multiple channels at a faster pace
 <table style="table-layout:fixed">
 <tr style="border: 0;">
     <td style="width: 120px;">
-        <a>
-        <img alt="calendar" src="../assets/csc-workflow-planning.svg" width="100">
-        </a>
+       <img alt="calendar" src="../assets/csc-workflow-planning.svg" width="100">
     </td>
     <td>
         <p>Brainstorm ideas, define guidelines, and build a strategy around content to engage your audience.</p>
@@ -37,22 +35,16 @@ The demand is high for quality experiences in multiple channels at a faster pace
 </tr>
 <tr style="border: 0;">
     <td style="width: 120px;">
-        <a>
         <img alt="brush and canvas" src="../assets/csc-creation-production.svg" width="100">
-        </a>
     </td>
     <td>
         <p>Produce the content based on the plan. Collaborate in real time, receive feedback, make edits, and approve content.</p>
-        <p>
-            <a><img alt="Adobe Express" src="../assets/logo-AdobeExpress.png" width="100"></a>
-        </p>
+        <p><img alt="Adobe Express" src="../assets/logo-AdobeExpress.png" width="150"></p>
     </td>
 </tr>
 <tr style="border: 0;">
     <td style="width: 120px;">
-        <a>
         <img alt="images and more" src="../assets/csc-content-mgmt.svg" width="100">
-        </a>
     </td>
     <td>
         <p>Store, share, and find creative assets in the centralized repository. Reuse and revitalize content based on performance.</p>
@@ -60,9 +52,7 @@ The demand is high for quality experiences in multiple channels at a faster pace
 </tr>
 <tr style="border: 0;">
     <td style="width: 120px;">
-        <a>
         <img alt="paper airplane" src="../assets/csc-delivery-activation.svg" width="100">
-        </a>
     </td>
     <td>
         <p>Activate content and publish across multiple marketing channels.</P>
@@ -70,9 +60,7 @@ The demand is high for quality experiences in multiple channels at a faster pace
 </tr>
 <tr style="border: 0;">
     <td style="width: 120px;">
-        <a>
         <img alt="chart" src="../assets/csc-reporting-insights.svg" width="100">
-        </a>
     </td>
     <td>
         <p>Collect data and derive insights for asset performance optimization.</p>
