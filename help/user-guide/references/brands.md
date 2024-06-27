@@ -80,4 +80,6 @@ Add logos to your brand guide in the **[!UICONTROL Logos]** tab.
 
 ## Brand validation
 
-A green brand verification logo indicts that the content in that particular email was verified against your brand information and passed verification. An orange brand verification logo indicates there are some potential improvements to be made to ensure the email is aligned with your brand.
+In GenStudio, brand validation plays a crucial role in conjunction with the generative AI functionality of Brands, Products, and Personas. It ensures that all your content remains consistent with your brand identity.
+
+See [Brand validation](/help/user-guide/references/brand-validation.md) for more information.
