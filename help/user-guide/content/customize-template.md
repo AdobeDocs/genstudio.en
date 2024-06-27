@@ -7,7 +7,7 @@ level: Intermediate
 
 # Build a custom template
 
-While templates provide a base structure, you can adapt them to specific needs and preferences.
+While templates provide a base structure, you can adapt them to your specific needs and preferences.
 
 ## Templating language
 
@@ -29,7 +29,6 @@ GenStudio recognizes and interprets certain fields automatically based on the na
 
 | Field          | Role                   | Source     | Channel template     |
 | -------------- | ---------------------- | ---------- | -------------------- |
-| `subject`      | Subject-not used in template | generated  | -- |
 | `pre_header`   | Pre header             | generated  | email       |
 | `headline`     | Headline               | generated  | email<br>social ad<br>display ad |
 | `body`         | Body copy              | generated  | email<br>social ad<br>display ad |
@@ -43,12 +42,14 @@ GenStudio recognizes and interprets certain fields automatically based on the na
 
 ### Sections or groups
 
-_Sections_ provide a way to inform GenStudio that fields belonging to a section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section. Use a prefix to group the fields of a section.
+_Sections_ provide a way to inform GenStudio that fields belonging to a section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section. A template can include up to three sections.
+
+Use a prefix to group the fields of a section:
 
 - `group1_headline`
 - `group1_body`
 
-Each section can have only one of a field type. For example, Group 1 can only have one `group1_headline` field. A template can include up to three sections.
+Each section can have only one of a field type. For example, Group 1 can only have one `group1_headline` field.
 
 ### Background image
 
