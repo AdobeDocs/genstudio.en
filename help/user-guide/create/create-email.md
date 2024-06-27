@@ -81,23 +81,9 @@ See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn mo
 
 By default, four generated variations—all fueled by the prompt, reference parameters, and images you added—are shown in the Canvas.
 
-## Modify email content
-
-### Generate variants
-
-Once the initial email experience variants are generated, you have the option to iterate on them by generating another set of variants.
-
-1. Click **[!UICONTROL Open to prompt]**.
-1. Select new [brand references](/help/user-guide/references/overview.md), add new images, or enter a new prompt in the prompt bar.
-1. Click **[!UICONTROL Generate]**.
-
-When generating variants, you have the option to add new brand references, images, or prompts. These steps are optional will affect the regenerated result based on what you choose to alter.
-
-See [Generate variants](/help/user-guide/create/generate-variants.md) for more information.
-
 ## Verify brand alignment
 
-Use the built-in brand verification tool to verify that all variants are checked against, and agree with, your brand references.
+To optimize the generated emails and ensure strict adherence to brand identity, leverage the power of the [Brand Validation pane](/help/user-guide/references/brand-validation.md#brand-validation-panel). The Brand Validation pane illuminate areas for improvement. You can manually edit individual email fragments or [generate refined variants](/help/user-guide/create/generate-variants.md) of the initial result to achieve unparalleled alignment with your brand.
 
 1. Open the brand validation panel and toggle through each email to see how the generated content is checked against your brand references and other GenStudio guidelines.
 1. [Manually revise emails](#modify-email-content), or [generate variants](/help/user-guide/create/generate-variants.md), to ensure your emails are closely aligned with your brand.

@@ -41,7 +41,7 @@ A popup reminds you to review the extracted content before you [publish the bran
 
 ### Manually add brand
 
-You can manually add brand details, instead of uploading existing brand documents, to populate a new [brand](/help/user-guide/references/brands.md) in GenStudio.
+You can manually add brand details, instead of uploading existing brand documents, to populate a new [brand](brands.md) in GenStudio.
 
 **To manually add a brand**:
 
@@ -50,11 +50,11 @@ You can manually add brand details, instead of uploading existing brand document
    You can populate various optional guidelines and imagery to build out your brand.
 
 1. Add information about your brand in the _About_ section.
-1. Enter _Brand voice guidelines_.
-1. Enter _Channel guidelines_, for each applicable channel (Email, Facebook, Instagram, Display ads).
-1. Enter _Image guidelines_. Expand each category in the Image guidelines section to see all guidelines.
+1. Enter [_Brand voice guidelines_](brands.md#brand-voice-guidelines).
+1. Enter [_Channel guidelines_](brands.md#channel-guidelines), for each applicable channel.
+1. Enter [_Image guidelines_](brands.md#image-guidelines). Expand each category in the Image guidelines section to see all guidelines.
 
-   Optionally, click **[!UICONTROL Add category]** to add a custom guidelines category.
+   Optionally, click **[!UICONTROL Add category]** to add a custom guidelines category, such as Photos or Illustrations.
 
 1. Add brand logos in the _Logos_ section.
 1. Click into the _New brand_ title and enter a descriptive brand name.
@@ -91,7 +91,7 @@ In the _Brands_ home, you can click to **open an already-created brand** to edit
 
 You can add a persona in GenStudio to help target the content you create to your ideal audience. <!-- Add Rename, display, reposition functionality -->
 
-See [Personas](/help/user-guide/references/personas.md).
+See [Personas](personas.md).
 
 **To add a persona**:
 
@@ -117,7 +117,7 @@ In the _Personas_ home, you can **open an already-created persona** to edit or r
 
 You can add products in GenStudio to specify individual product focus areas when creating content. <!-- Add Rename, display, reposition functionality -->
 
-See [Products](/help/user-guide/references/products.md).
+See [Products](products.md).
 
 **To add a product**:
 

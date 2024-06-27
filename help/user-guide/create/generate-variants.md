@@ -8,6 +8,8 @@ level: Beginner
 
 # Generate variants
 
+When generating variants, you have the option to add new brand references, images, or prompts. These steps are optional will affect the regenerated result based on what you choose to alter.
+
 ## Email
 
 The four email variants that are generated can be manually modified or regenerated using another prompt, different references parameters, or images—or a mix of all the brand references and content in _Parameters_.

@@ -21,7 +21,7 @@ The Brand Validation pane has different areas of focus for each content channel:
 * Email - brand voice and channel compliance
 * Images - application photography restrictions and other considerations
 
-## Brand Verification panel
+## Brand Validation panel
 
 The Brand Validation panel helps you identify areas where guidelines can be improved to adhere to your defined brand guidelines.
 
@@ -35,7 +35,7 @@ The Brand Validation panel makes it easy to ensure your generated content is inf
 
 ### For emails
 
-**To verify the alignment of your email variants with your brand:**
+**To verify brand alignment of emails:**
 
 1. Click the brand verification logo for an individual email _or_ click the brand verification logo in the top menu bar.
 1. In the brand verification panel, toggle through each email to see how the generated content is checked against the **[!UICONTROL Brand voice]** and **[!UICONTROL Channel guidelines]**.
