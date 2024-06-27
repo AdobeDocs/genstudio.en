@@ -9,7 +9,7 @@ feature: Brands Service
 A brand distinguishes an organization, product, service or concept from others. Some aspects of a brand are objective, like a logo, while others are subjective, like tone of voice. GenStudio uses the wealth of brand information from your brand, partners it with product and persona information, and builds out a comprehensive brand identity. This brand identity, called [brand references](overview.md) in GenStudio, is used to inform the creation of on-brand content using Adobe's generative AI technology.
 <!-- GenStudio builds on a hierarchy of brand libraries that can inherit from another brand library, adding to or overriding aspects of it. For example, a campaign for a product can inherit the general brand guidelines for the product, while also adding campaign-specific context. The following example illustrates this brand hierarchy: -->
 
-To [create your own brand in GenStudio](add-references.md#add-brands), you either upload brand guideline documents or manually add brand details right into GenStudio.
+To [create your own brand in GenStudio](add-references.md#add-brands), you can either upload brand guideline documents or manually add brand details right into GenStudio.
 
 In GenStudio's **Brands**, click into a defined brand to see its brand overview. [View or revise](add-references.md#manage-brands) any brand guidelines by clicking **[!UICONTROL Brand voice guidelines]**, **[!UICONTROL Channel guidelines]**, **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
 
@@ -19,7 +19,7 @@ See [Add references](add-references.md) to learn how to add a brand to GenStudio
 
 ## Brand references guidelines
 
-Your brand consists of multitudes of guidelines that give GenStudio a clear picture of your specific approach, tone, visual feeling, and more.
+Guidelines give GenStudio a clear picture of your brand-specific approach, tone, visual feeling, and more.
 
 The following guidelines sections detail each guidelines category, examples guidelines, and potential results. The guideline examples are sample inputs that shape the results output (result examples below)—use them to inform your own brand guidelines!
 
