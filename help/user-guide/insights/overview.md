@@ -6,7 +6,15 @@ feature: Insights
 
 # GenStudio [!DNL Insights]
 
-GenStudio makes it easy to understand how content is performing. It also gives you the ability to react to insights using generative AI to create content variations immediately.
+GenStudio [!DNL Insights] provides advanced analytics so that you can evaluate content performance and make data-driven decisions.
 
-- Get real-time insights into content usage and performance across channels.
-- Quickly optimize campaign performance by creating more high-performing content and remix low-performing content from the insights dashboard.
+- Identify high-performing content and create variants to revitalize experiences and campaign performance.
+
+- Identify low-performing content and optimize it using generative AI to create content variations immediately.
+
+## Dashboard
+
+The [!DNL Insights] dashboard has a configurable grid for each content type: Channels, Experiences, Assets, and Attributes.
+
+Content _attributes_ are used to personalize an experience, such as color, headline, subject, fonts, and asset tags. [!DNL Insights] can help you identify which attributes perform better with certain audiences, channels, or regions.
+
