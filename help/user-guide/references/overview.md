@@ -3,7 +3,7 @@ title: Overview of brand references—Brands, Products, and Personas
 description: Add brands, products, and personas to GenStudio to create a comprehensive brand profile that includes all aspects of a brand's representation.
 ---
 
-# GenStudio references
+# GenStudio brand references overview
 
 GenStudio references consist of **Brands**, **Products**, and **Personas**. These brand references can be uploaded or manually added to GenStudio to create a references library of guides, which serves as a comprehensive representation of a brand's identity. This user-defined brand references ensure that any AI-generated content in GenStudio is customized to align with the specific brand identity, enabling effective personalization of content.
 
@@ -33,23 +33,11 @@ Brand references enable two main use cases to ensure any generated content adher
 
 ## Brand validation
 
-In collaboration with the generative AI functionality, Brands, Products, and Personas play a crucial role in ensuring that all of your GenStudio content aligns with your brand identity. GenStudio conducts brand validation on various brand aspects, including:
+In collaboration with the generative AI functionality, Brands, Products, and Personas play a crucial role in ensuring that all of your GenStudio content aligns with your brand identity.
 
-* **Customer-specific** - Brand guidelines
-* **Channel platform** - Copy guidelines
-* **Ethical AI** - Gender, ethnicity and race, disability status, age
-* **Quality** - Plagiarism, grammar rules, correctness of human features in imagery, GenAI hallucinations (factuality)
+GenStudio conducts brand validation on various brand aspects and provides a checklist for generated content to highlight improvements areas to better align with your brand identity.
 
-While in [Create mode](/help/user-guide/create/overview.md), brand validation information is available for any generated content.
-
-A Brand Validation icon displays for each generated email or image, indicating its compliance with brand guidelines.
-
-Click the icon to see the Brand Validation pane, which provides brand analysis information for key brand areas:
-
-* For emails - Brand voice and Channel
-* For images - Application photography restrictions and Other considerations
-
-This pane highlights areas where guidelines can be improved to adhere to your defined brand guidelines.
+See [Brand validation](/help/user-guide/references/brand-validation.md) for more information.
 <!-- ## Tutorials
 
 See Add brand references to learn how to add brands, products, and personas to GenStudio.

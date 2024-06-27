@@ -15,6 +15,7 @@ feature: Generative AI
     + [Tutorials](https://experienceleague.adobe.com/docs/genstudio/learning/tutorials.html)
 + Create {#create}
     + [[!DNL Create] overview](create/overview.md)
+    + [Generate variants](create/generate-variants.md)
     + [Create an email experience](create/create-email.md)
 + Reviews & Approvals {#approve}
     + [Review asset](activation/review-process.md)
@@ -28,3 +29,4 @@ feature: Generative AI
     + [Products](references/products.md)
     + [Personas](references/personas.md)
     + [Add brand references](references/add-references.md)
+    + [Brand validation](references/brand-validation.md)
