@@ -22,7 +22,7 @@ Begin by effectively training GenStudio on your organization's branding, custome
 
 ## GenStudio Content lifecycle
 
-The demand is high for quality experiences in multiple channels at a faster pace. GenStudio simplifies the content supply chain into a well-organized workflow for marketers.
+The demand is high for quality experiences in multiple channels at a faster pace. GenStudio simplifies the content supply chain into a well-organized workflow for marketers. GenStudio leverages Adobe technology at each stage of the lifecycle.
 
 <table style="table-layout:fixed">
 <tr style="border: 0;">
@@ -43,6 +43,9 @@ The demand is high for quality experiences in multiple channels at a faster pace
     </td>
     <td>
         <p>Produce the content based on the plan. Collaborate in real time, receive feedback, make edits, and approve content.</p>
+        <p>
+            <a><img alt="Adobe Express" src="../assets/logo-AdobeExpress.png" width="100"></a>
+        </p>
     </td>
 </tr>
 <tr style="border: 0;">
@@ -76,9 +79,3 @@ The demand is high for quality experiences in multiple channels at a faster pace
     </td>
 </tr>
 </table>
-
-### Adobe tools
-
-The following Adobe Content Supply Chain tools make up the GenStudio feature matrix:
-
-![Adobe tools used in GenStudio](../assets/adobe-tools.png)
