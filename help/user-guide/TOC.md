@@ -16,7 +16,6 @@ feature: Generative AI
 + Create {#create}
     + [[!DNL Create] overview](create/overview.md)
     + [Generate variants](create/generate-variants.md)
-    + [Create an email experience](create/create-email.md)
 + Reviews & Approvals {#approve}
     + [Review asset](activation/review-process.md)
 + Content {#content}

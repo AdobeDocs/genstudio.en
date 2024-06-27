@@ -21,7 +21,7 @@ Along with the power of GenStudio [brand references](/help/user-guide/references
 <table style="table-layout:fixed">
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
-      <a href="../create/overview.md">
+      <a href="/help/tutorials/create-email-experience.md">
       <img alt="Create new content" src="../../assets/icons/icon-create.svg" width="35">
       </a>
       <div>
@@ -41,7 +41,7 @@ Along with the power of GenStudio [brand references](/help/user-guide/references
       </div>
    </td>
    <td align="center" valign="top" width="100">
-      <a href="../create/overview.md">
+      <a href="/help/user-guide/create/generate-variants.md">
       <img alt="Generate variants of content" src="../../assets/icons/icon-template.svg" width="35">
       </a>
       <div>
@@ -79,8 +79,6 @@ Templates are [created and stored in [!DNL Content]](/help/user-guide/content/ov
 
 Write prompts, add Parameters and Content, and use guided prompt suggestions from within the prompt drawer, then click **Generate**.
 
-IMG
-
 ### Parameters
 
 In the prompt drawer, you can add **Parameters** such as Brands, Products, and Personas (all brand references) to shape the generated experience. These added parameters inject [brand references](/help/user-guide/references/overview.md) into the generation process, ensuring that the content is customized to align with a brand's comprehensive identity. Adding brand references, in _Parameters_ in the prompt drawer or in the individual references of GenStudio's home, is highly recommended as they greatly enhance the creation of suitable on-brand content.
@@ -89,7 +87,7 @@ In the prompt drawer, you can add **Parameters** such as Brands, Products, and P
 
 GenStudio conducts brand validation on various aspects of a brand's identity (as defined in [brand references](/help/user-guide/references/overview.md)). Brand validation information is available for any generated content, indicating its compliance with brand guidelines. You can use this information to revise or improve your generated experience to better align with your brand.
 
-See [Brand references documentation](/help/user-guide/references/overview.md) to learn more about brand validation.
+See [Brand validation](/help/user-guide/references/brand-validation.md) for more information.
 
 
 ### Reviews and approvals

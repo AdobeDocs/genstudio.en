@@ -12,7 +12,7 @@ This collection of GenStudio tutorials follows basic step-by-step workflows that
    <div>
       <a href="create-email-experience.md">
       <img alt="Ideas, books, pencil, computer" src="../assets/card-create-assets.png">
-      <strong>Create an Email Experience</strong>
+      <strong>Create an email experience</strong>
       </a>
    </div>
    <p>
@@ -23,7 +23,7 @@ This collection of GenStudio tutorials follows basic step-by-step workflows that
    <div>
       <a href="create-email-experience.md">
       <img alt="Ideas, books, pencil, computer" src="../assets/card-create-assets.png">
-      <strong>Create an Email Experience</strong>
+      <strong>Create an email experience</strong>
       </a>
    </div>
    <p>
@@ -34,7 +34,7 @@ This collection of GenStudio tutorials follows basic step-by-step workflows that
    <div>
       <a href="create-email-experience.md">
       <img alt="Ideas, books, pencil, computer" src="../assets/card-create-assets.png">
-      <strong>Create an Email Experience</strong>
+      <strong>Create an email experience</strong>
       </a>
    </div>
    <p>
