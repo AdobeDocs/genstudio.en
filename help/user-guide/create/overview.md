@@ -10,11 +10,11 @@ GenStudio [!DNL Create] leverages the power of Adobe GenAI to empower marketers 
 With GenStudio [!DNL Create], you can generate content for the following channels:
 
 * Emails
-* Social media images and ads
-* Display ads
 * Marketing images
+<!-- * Social media images and ads
+* Display ads -->
 
-Along with the power of GenStudio [brand references](/help/user-guide/references/overview.md), [Content](/help/user-guide/content/overview.md), and [Reviews and Approvals](/help/user-guide/activation/review-process.md), [!DNL Create] facilitates the creation of impactful brand-aligned marketing content.
+Along with the power of GenStudio [Brand references](/help/user-guide/references/overview.md), [Content](/help/user-guide/content/overview.md), and [Reviews and Approvals](/help/user-guide/activation/review-process.md), [!DNL Create] facilitates the creation of impactful brand-aligned marketing content.
 
 ## [!DNL Create] use cases
 
@@ -45,7 +45,7 @@ Along with the power of GenStudio [brand references](/help/user-guide/references
       <img alt="Generate variants of content" src="../../assets/icons/icon-template.svg" width="35">
       </a>
       <div>
-         <a href="../create/overview.md">
+         <a href="../create/generate-variants.md">
          <strong>Generate variants of content</strong>
          </a>
       </div>
@@ -55,7 +55,7 @@ Along with the power of GenStudio [brand references](/help/user-guide/references
 
 GenStudio [!DNL Create] satisfies three main use cases:
 
-* **Create new content** - In this use case, use defined [brand references](/help/user-guide/references/overview.md) (Brands, Products, and Personas) and inspiration content to inform the creation of brand-aligned content.
+* **Create new content** - In this use case, use defined [Brand references](/help/user-guide/references/overview.md) (Brands, Products, and Personas) and inspiration content to inform the creation of brand-aligned content.
 * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio and use the power of Adobe generative AI technology to revise and improve existing content.
 * **Generate variants of content** - In this use case, generate variations of content based on a target [customer persona](/help/user-guide/references/personas.md). This functionality allows for experimentation and discovery of high-performing content and allows for cross-channel conversion of content (for example, converting an email to a display ad).
 
@@ -65,23 +65,27 @@ GenStudio [!DNL Create] integrates various components of GenStudio to assist use
 
 ### Drafts
 
-In the _Recent work_ section of the [!DNL Create] home, access and manage all recent drafts. Generate variants of previous drafts or complete your work and ready it for publishing to [[!DNL Content]](/help/user-guide/content/overview.md).
+In the _Recent work_ section of [!DNL Create], access and manage all recent drafts. [Generate variants](/help/user-guide/create/generate-variants.md) of previous drafts or complete your work and ready it for publishing to [[!DNL Content]](/help/user-guide/content/overview.md).
 
 ### Templates
 
-Access brand-approved templates to generate content across multiple channels in the _Recently used templates_ section of [!DNL Create] home. Use templates to jump start the content creation process and stay aligned with a defined brand identity.
+Access brand-approved templates to generate content across multiple channels in the _Recently used templates_ section of [!DNL Create]. Use templates to jump start the content creation process and stay aligned with a defined brand identity.
 
 Templates are [created and stored in [!DNL Content]](/help/user-guide/content/overview.md) but are accessible in [!DNL Create].
+
+See [[!DNL Content]](/help/user-guide/content/overview.md) for more information.
 
 ### Prompts
 
 [Crafting effective prompts](/help/user-guide/effective-prompts.md) is an important part of the generation process in [!DNL Create]. To create new content or generate variants of content, write a prompt that describes the content (or experience) you intend to generate.
 
-Write prompts, add Parameters and Content, and use guided prompt suggestions from within the prompt drawer, then click **Generate**.
+Write prompts, add Parameters, and use guided prompt suggestions from within the prompt drawer, then click **Generate**.
+
+See [Effective prompts](/help/user-guide/effective-prompts.md) for more information.
 
 ### Parameters
 
-In the prompt drawer, you can add **Parameters** such as Brands, Products, and Personas (all brand references) to shape the generated experience. These added parameters inject [brand references](/help/user-guide/references/overview.md) into the generation process, ensuring that the content is customized to align with a brand's comprehensive identity. Adding brand references, in _Parameters_ in the prompt drawer or in the individual references of GenStudio's home, is highly recommended as they greatly enhance the creation of suitable on-brand content.
+In the prompt drawer, you can add _Parameters_ such as Brands, Products, and Personas (all brand references) or Content (images) to shape the generated experience. These added parameters inject [Brand references](/help/user-guide/references/overview.md) and images into the generation process, ensuring that the content is customized to align with a brand's comprehensive identity and using applicable imagery. Adding Brand references to your GenStudio, and using them during the content generation process, is highly recommended as they greatly enhance the creation of suitable on-brand content.
 
 ### Brand validation
 
@@ -94,7 +98,11 @@ See [Brand validation](/help/user-guide/references/brand-validation.md) for more
 
 Meticulously review and validate content against brand guidelines, product documentation, and selected customer segments with [!DNL Create's] built-in reviews and approvals process. Solicit reviews, track review comments, and obtain approvals during the creation process.
 
-See the [Activation documentation](/help/user-guide/activation/review-process.md) to learn more about Reviews and Approvals.
+See [Activation](/help/user-guide/activation/review-process.md) for more information.
+
+## Tutorials
+
+See [Create an email experience](/help/tutorials/create-email-experience.md) for more information.
 
 <!-- ### Anatomy of an email experience
 

@@ -33,15 +33,15 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 ## Prompt criteria
 
-In the GenStudio [[!DNL Create]](./create/overview.md) mode, you can use **[!UICONTROL Prompt criteria]** to add details through selection to improve the AI interpretation. For on-brand images, the prompt criteria might include [[!DNL Brand]](../user-guide/references/brands.md) and general settings related to images, such as aspect ratio. For channels, you might use a template, choose from the guidelines, and select or upload existing assets. The real power begins with configuring your brand guidelines.
+In the GenStudio [[!DNL Create]](./create/overview.md) mode, you can use **[!UICONTROL Prompt criteria]** to add details through selection to improve the AI interpretation. For on-brand images, the prompt criteria might include [[!DNL Brand]](../user-guide/references/brands.md) and general settings related to images, such as aspect ratio. For channels, you might use a template, choose from the [Brand references](/help/user-guide/references/overview.md), and select or upload existing assets. The real power begins with [configuring your brand guidelines](/help/user-guide/references/add-references.md).
 
-### Guidelines
+### Brand references
 
-Guidelines help the generative AI to personalize your GenStudio asset composition. When presented with prompt criteria, you can choose a [[!DNL Brand]](./references/brands.md), a [[!DNL Persona]](./references/personas.md), and a [[!DNL Product]](./references/products.md) from your configured guidelines.
+Brand references—brand guidelines you add to GenStudio—help the generative AI to personalize your GenStudio asset composition. When presented with prompt criteria, you can choose a [[!DNL Brand]](./references/brands.md), a [[!DNL Persona]](./references/personas.md), and a [[!DNL Product]](./references/products.md) from your configured guidelines.
 
 >[!TIP]
 >
->You control how and when GenStudio uses your [!DNL Brand] guidelines. See [References](./references/overview.md) to learn how to configure and manage your guidelines.
+>You control how and when GenStudio uses your [!DNL Brand] guidelines. See [Brand references](./references/overview.md) to learn how to configure and manage your brand guidelines.
 
 ## Try again
 
@@ -61,7 +61,7 @@ Some simple best practices for crafting effective prompts in GenStudio:
 
 - Be specific and provide details about what to do and not do.
 - Provide context using external references.
-- Leverage the [!DNL Brand] guidelines feature of GenStudio.
-- Review and adjust [!DNL Brand] guidelines regularly.
+- Leverage the [!DNL Brand] references feature of GenStudio.
+- Review and adjust [!DNL Brand] references regularly.
 - Iterate and refine.
 - Learn through experimentation.

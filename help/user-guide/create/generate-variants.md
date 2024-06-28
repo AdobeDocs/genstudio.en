@@ -8,17 +8,17 @@ level: Beginner
 
 # Generate variants
 
-When generating variants, you have the option to add new brand references, images, or prompts. These steps are optional will affect the regenerated result based on what you choose to alter.
+When generating variants, you have the option to add new [Brand references](/help/user-guide/references/overview.md), images, or [prompts](/help/user-guide/effective-prompts.md). These steps are optional but will affect the regenerated result based on what you choose to alter.
 
 ## Email
 
-The four email variants that are generated can be manually modified or regenerated using another prompt, different references parameters, or images—or a mix of all the brand references and content in _Parameters_.
+By default, GenStudio generates four email variations. They can be manually modified or regenerated using a mix of new prompts and _Parameters_ to achieve stylistic goals or brand adherence.
 
 **To modify generated email variants:**
 
-1. With generated email variants visible, click **[!UICONTROL Open to prompt]** near the bottom of the screen to expand the prompt bar.
+1. With the generated email variants visible, click **[!UICONTROL Open to prompt]** near the bottom of the screen to expand the prompt bar.
 1. Modify _Parameters_:
-   1. Choose a **[!UICONTROL Brand]**, **[!UICONTROL Persona]**, or **[!UICONTROL Product]** [brand references](/help/user-guide/references/overview.md).
+   1. Choose **[!UICONTROL Brand]**, **[!UICONTROL Persona]**, or **[!UICONTROL Product]** [Brand references](/help/user-guide/references/overview.md).
    1. Add or delete images in the _[!UICONTROL Content]_ section.
    1. Enter a new prompt in the _"Describe the experiences you want to generate"_ prompt box.
 1. Click **[!UICONTROL Generate]**.
