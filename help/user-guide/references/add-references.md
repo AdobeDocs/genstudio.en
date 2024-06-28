@@ -8,7 +8,7 @@ level: Beginner
 
 # Add brand references to GenStudio
 
-Brand references are a collection of user-defined brand guidelines—[Brands](/help/user-guide/references/brands.md[), [Products](/help/user-guide/references/products.md), and [Personas](/help/user-guide/references/personas.md—in GenStudio. Brand references ensure any AI-generated content is customized to align with the specific brand identity, enabling effective personalization of content.
+Brand references are a collection of user-defined brand guidelines—[Brands](/help/user-guide/references/brands.md), [Products](/help/user-guide/references/products.md), and [Personas](/help/user-guide/references/personas.md)—in GenStudio. Brand references ensure any AI-generated content is customized to align with the specific brand identity, enabling effective personalization of content.
 
 See the [GenStudio Brand references overview](/help/user-guide/references/overview.md).
 
