@@ -2,6 +2,7 @@
 title: Overview of Activation
 description: Learn how to activate content with Adobe Experience Cloud and third-party applications.
 hidefromtoc: no
+hide: no
 ---
 
 # GenStudio Activation
@@ -10,20 +11,20 @@ _Activation_ is the process of making GenStudio-generated assets and experiences
 
 The GenStudio activation feature is natively integrated into Adobe's experience delivery products: Journey Optimizer, Journey Optimizer B2B edition, Experience Manager, Marketo, and Target.
 
-**To activate an approved asset**
+**To activate an approved asset**:
 
 1. Select the asset from [!DNL Content].
 
-1. Click the **Download** button on the asset's Details pane. GenStudio begins the download process. 
+1. Click the **[!UICONTROL Download]** button on the asset's Details pane. GenStudio begins the download process. 
 
 The asset is downloaded as an zip file to your local Downloads folder.
 
-**To activate an approved experience**
+**To activate an approved experience**:
 
 1. Select the experience from [!DNL Content]. 
 
-1. Click the **Export for activation** button on the experience's Details pane. GenStudio displays the **Export for activation** popup. GenStudio provides two download formats: CSV and HTML.
+1. Click the **[!UICONTROL Export for activation]** button on the experience's Details pane. GenStudio displays the **[!UICONTROL Export for activation]** popup and provides two download formats: CSV and HTML.
 
-1. Select your preferred download format by clicking the **Export CVS** or **Export HTML** button on the popup.
+1. Select your preferred download format by clicking the **[!UICONTROL Export CVS]** or **[!UICONTROL Export HTML]** button on the popup.
 
-The export process creates a .zip package in your local Downloads folder. This folder name is the same as the GenStudio experience name.
+The export process creates a ZIP package in your local _Downloads_ folder. This folder name is the same as the GenStudio experience name.
