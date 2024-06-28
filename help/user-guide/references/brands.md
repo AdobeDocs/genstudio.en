@@ -6,7 +6,7 @@ feature: Brands Service
 
 # Overview of Brands
 
-A brand distinguishes an organization, product, service or concept from others. Some aspects of a brand are objective, like a logo, while others are subjective, like tone of voice. GenStudio your brand's information, partners it with [Product](/help/user-guide/references/products.md) and [Persona](/help/user-guide/references/personas.md) information, and builds out a comprehensive brand identity. This brand identity (a collection of your brand's guidelines), called [Brand references](overview.md) in GenStudio, is used to inform the creation of on-brand content using Adobe's generative AI technology.
+A brand distinguishes an organization, product, service or concept from others. Some aspects of a brand are objective, like a logo, while others are subjective, like tone of voice. GenStudio uses the wealth of brand information from your brand, partners it with product and persona information, and builds out a comprehensive brand identity. This brand identity, called [brand references](overview.md) in GenStudio, is used to inform the creation of on-brand content using Adobe's generative AI technology.
 
 To [create your own brand in GenStudio](add-references.md#add-brands), you can either upload brand guideline documents or manually add brand details right into GenStudio.
 
@@ -28,7 +28,7 @@ The following table shows each category of brand voice guideline and guideline e
 
 | Guideline category | Guideline examples |
 | ------------------| :---------- |
-| Tone of voice       | `Speak like a human<br>Avoid jargon<br>Speak with confidence` |
+| Tone of voice       | `Speak like a human, Avoid jargon, Speak with confidence` |
 | Brand values        | `Be the leader, Show authenticity` |
 | Unique attribute    | `Driven by empathy for others, Celebrate diverse ideas, Be a cheerleader for change` |
 | Frequent keywords   | `impact, progressive, inclusive, motivation, perseverance` |
@@ -83,3 +83,4 @@ Add logos to your brand guide in the **[!UICONTROL Logos]** tab.
 In GenStudio, brand validation plays a crucial role in conjunction with the generative AI functionality of Brands, Products, and Personas. It ensures that all your content remains consistent with your brand identity.
 
 See [Brand validation](/help/user-guide/references/brand-validation.md) for more information.
+

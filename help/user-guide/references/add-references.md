@@ -8,15 +8,15 @@ level: Beginner
 
 # Add brand references to GenStudio
 
-Brand references are a collection of user-defined brand guidelines—for brands, products, and personas—in GenStudio. Brand references ensure any AI-generated content is customized to align with the specific brand identity, enabling effective personalization of content.
+Brand references are a collection of user-defined brand guidelines—[Brands](/help/user-guide/references/brands.md[), [Products](/help/user-guide/references/products.md), and [Personas](/help/user-guide/references/personas.md—in GenStudio. Brand references ensure any AI-generated content is customized to align with the specific brand identity, enabling effective personalization of content.
 
-See the [GenStudio references overview](/help/user-guide/references/overview.md).
+See the [GenStudio Brand references overview](/help/user-guide/references/overview.md).
 
-Adding brand references to GenStudio is an important step in the creation process. Brands, Products, and Personas inform the content creation process, along with user-inputted prompts and Adobe generative AI technology, to craft impactful assets.
+Adding Brand references to GenStudio is an important step in the creation process. Brands, Products, and Personas inform the content creation process, along with user-defined prompts and Adobe generative AI technology, to craft impactful assets.
 
 ## Add brands
 
-To add a brand to GenStudio, you can [**upload a brand guide**](#upload-brand-guidelines) or [**manually create a brand**](#manually-add-brand) by selecting guidelines and entering your brand details.
+To add a Brand to GenStudio, you can [**upload a brand guide**](#upload-brand-guidelines) or [**manually create a brand**](#manually-add-brand) by selecting guidelines and entering your brand details.
 
 In the left navigation area, click **Brands**. In the _Brands_ panel, select **Add brand**.
 
@@ -65,7 +65,7 @@ You do not have to [publish](#publish-brand) your brand to make the information 
 
 ### Publish brand
 
-Before publishing your brand, click through the _Brand voice guidelines_, _Channel guidelines_, _Image guidelines_, and _Logos_ sections to review all the populated information. Make changes to the brand guidelines as needed.
+Before publishing your Brand, click through the _Brand voice guidelines_, _Channel guidelines_, _Image guidelines_, and _Logos_ sections to review all the populated information. Make changes to the brand guidelines as needed.
 
 **To publish the brand**:
 
@@ -89,11 +89,11 @@ In the _Brands_ home, you can click to **open an already-created brand** to edit
 
 ## Add personas
 
-You can add a persona in GenStudio to help target the content you create to your ideal audience. <!-- Add Rename, display, reposition functionality -->
+You can add a Persona in GenStudio to help target the content you create to your ideal audience. <!-- Add Rename, display, reposition functionality -->
 
 See [Personas](personas.md).
 
-**To add a persona**:
+**To add a Persona**:
 
 1. Click **[!UICONTROL Create persona]**.
 1. Click **[!UICONTROL Untitled]** and enter a name for the persona.
@@ -115,7 +115,7 @@ In the _Personas_ home, you can **open an already-created persona** to edit or r
 
 ## Add products
 
-You can add products in GenStudio to specify individual product focus areas when creating content. <!-- Add Rename, display, reposition functionality -->
+You can add Products in GenStudio to specify individual product focus areas when creating content. <!-- Add Rename, display, reposition functionality -->
 
 See [Products](products.md).
 
