@@ -23,21 +23,21 @@ GenStudio [!DNL Content] provides a central location to store, find, and share a
       </div>
    </td>
    <td align="center" valign="top" width="100">
-      <a href="../content/manage-assets.md#add">
+      <a href="../content/manage-assets.md">
       <img alt="images with plus sign" src="../../assets/icons/icon-addContent.svg" width="35">
       </a>
       <div>
-         <a href="../content/manage-assets.md#add">
+         <a href="../content/manage-assets.md">
          <strong>Add Content</strong>
          </a>
       </div>
    </td>
    <td align="center" valign="top" width="100">
-      <a href="../content/overview.md">
+      <a href="../content/manage-assets.md#search">
       <img alt="sparkle and new asset" src="../../assets/icons/icon-AIVariation.svg" width="35">
       </a>
       <div>
-         <a href="../content/overview.md">
+         <a href="../content/manage-assets.md#search">
          <strong>Refresh Content</strong>
          </a>
       </div>
@@ -69,4 +69,4 @@ When you save approved assets, [!DNL Content] maintains the rich metadata, gener
 
 ## Work with templates
 
-Templates speed up the creation process so that you can generate consistent content across multiple channels.
+Templates speed up the creation process so that you can generate consistent content across multiple channels. They help by providing a starting point in the creation process with pre-configured layouts and design elements.
