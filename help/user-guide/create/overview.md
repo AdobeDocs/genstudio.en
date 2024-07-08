@@ -14,7 +14,7 @@ With GenStudio [!DNL Create], you can generate content for the following channel
 <!-- * Social media images and ads
 * Display ads -->
 
-Along with the power of GenStudio [Brand references](/help/user-guide/references/overview.md), [Content](/help/user-guide/content/overview.md), and [Reviews and Approvals](/help/user-guide/activation/review-process.md), [!DNL Create] facilitates the creation of impactful brand-aligned marketing content.
+Along with the power of GenStudio [Brand references](/help/user-guide/references/overview.md), [Content](/help/user-guide/content/overview.md), and [Reviews and Approvals](/help/user-guide/approvals/overview.md), [!DNL Create] facilitates the creation of impactful brand-aligned marketing content.
 
 ## [!DNL Create] use cases
 
