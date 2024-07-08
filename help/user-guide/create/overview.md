@@ -14,7 +14,7 @@ With GenStudio [!DNL Create], you can generate content for the following channel
 * Display ads
 * Marketing images
 
-Along with the power of GenStudio [References](/help/user-guide/references/overview.md), [Content](/help/user-guide/content/overview.md), and [Reviews and Approvals](/help/user-guide/activation/review-process.md), [!DNL Create] facilitates the creation of impactful brand-aligned marketing content.
+Along with the power of GenStudio [References](/help/user-guide/references/overview.md), [Content](/help/user-guide/content/overview.md), and [Reviews and Approvals](/help/user-guide/approvals/overview.md), [!DNL Create] facilitates the creation of impactful brand-aligned marketing content.
 
 ## [!DNL Create] use cases
 
@@ -96,7 +96,7 @@ See [References documentation](/help/user-guide/references/overview.md) to learn
 
 Meticulously review and validate content against brand guidelines, product documentation, and selected customer segments with [!DNL Create's] built-in reviews and approvals process. Solicit reviews, track review comments, and obtain approvals during the creation process.
 
-See the [Activation documentation](/help/user-guide/activation/review-process.md) to learn more about Reviews and Approvals.
+See the [Reviews and Approvals documentation](/help/user-guide/approvals/overview.md) to learn more about Reviews and Approvals.
 
 <!-- ### Anatomy of an email experience
 
