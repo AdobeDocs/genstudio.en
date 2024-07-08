@@ -29,7 +29,7 @@ To get started creating a new email experience, use an available template to pro
 
 **To choose an email template:**
 
-1. Click **[!UICONTROL Email]** in the _"What do you want to create today?"_ section.
+1. In _[!DNL Create]_ mode, click **[!UICONTROL Email]** in the _"What do you want to create today?"_ section.
 1. Click to open a template in the _Recent templates_ section, or click **[!UICONTROL View all templates]** to see more available templates.
    1. In the _Select template_ pane, toggle the _Channels_ filter to **[!UICONTROL Email]**.
    1. Use the search option, adjacent to _Filter_, to find a specific email template.
@@ -102,8 +102,8 @@ See [Brand validation](/help/user-guide/references/brand-validation.md) for more
 
 To make the generated emails available for current and future use, publish it to GenStudio [!UICONTROL Content] and export it for use in your marketing campaigns.
 
-1. **To publish your new email experience(s)** click **[!UICONTROL Publish]** in the top toolbar.
-1. **To export your new email experience(s)** click **[!UICONTROL Export]** in the top toolbar.
+1. **To publish your new email experience(s)**, click **[!UICONTROL Publish]** in the top toolbar.
+1. **To export your new email experience(s)**, click **[!UICONTROL Export]** in the top toolbar.
    1. Select the format—CSV and images or HTML only—and click **[!UICONTROL Export]**.
 
 See [GenStudio Content](/help/user-guide/content/overview.md#search-and-find-approved-content) for more information.

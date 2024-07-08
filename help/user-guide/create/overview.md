@@ -81,7 +81,7 @@ See [[!DNL Content]](/help/user-guide/content/overview.md) for more information.
 
 Write prompts, add Parameters, and use guided prompt suggestions from within the prompt drawer, then click **Generate**.
 
-See [Effective prompts](/help/user-guide/effective-prompts.md) for more information.
+See [Effective prompts](/help/user-guide/effective-prompts.md).
 
 ### Parameters
 
@@ -91,7 +91,7 @@ In the prompt drawer, you can add _Parameters_ such as Brands, Products, and Per
 
 GenStudio conducts brand validation on various aspects of a brand's identity (as defined in [brand references](/help/user-guide/references/overview.md)). Brand validation information is available for any generated content, indicating its compliance with brand guidelines. You can use this information to revise or improve your generated experience to better align with your brand.
 
-See [Brand validation](/help/user-guide/references/brand-validation.md) for more information.
+See [Brand validation](/help/user-guide/references/brand-validation.md).
 
 
 ### Reviews and approvals

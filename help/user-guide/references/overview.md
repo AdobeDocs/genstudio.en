@@ -37,7 +37,7 @@ In collaboration with Adobe's generative AI functionality, Brands, Products, and
 
 GenStudio conducts brand validation on various brand aspects and provides a checklist for generated content to highlight improvement areas to better align with your brand identity.
 
-See [Brand validation](/help/user-guide/references/brand-validation.md) for more information.
+See [Brand validation](/help/user-guide/references/brand-validation.md).
 <!-- ## Tutorials
 
 See Add brand references to learn how to add brands, products, and personas to GenStudio.

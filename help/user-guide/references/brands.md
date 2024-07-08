@@ -82,5 +82,5 @@ Add logos to your brand guide in the **[!UICONTROL Logos]** tab.
 
 In GenStudio, brand validation plays a crucial role in conjunction with the generative AI functionality of Brands, Products, and Personas. It ensures that all your content remains consistent with your brand identity.
 
-See [Brand validation](/help/user-guide/references/brand-validation.md) for more information.
+See [Brand validation](/help/user-guide/references/brand-validation.md).
 
