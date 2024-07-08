@@ -65,7 +65,7 @@ You do not have to [publish](#publish-brand) your brand to make the information 
 
 ### Publish brand
 
-Before publishing your Brand, click through the _Brand voice guidelines_, _Channel guidelines_, _Image guidelines_, and _Logos_ sections to review all the populated information. Make changes to the brand guidelines as needed.
+Before publishing your brand, click through the _Brand voice guidelines_, _Channel guidelines_, _Image guidelines_, and _Logos_ sections to review all the populated information. Make changes to the brand guidelines as needed.
 
 **To publish the brand**:
 

@@ -79,13 +79,13 @@ See [[!DNL Content]](/help/user-guide/content/overview.md) for more information.
 
 [Crafting effective prompts](/help/user-guide/effective-prompts.md) is an important part of the generation process in [!DNL Create]. To create new content or generate variants of content, write a prompt that describes the content (or experience) you intend to generate.
 
-Write prompts, add Parameters, and use guided prompt suggestions from within the prompt drawer, then click **Generate**.
+Write prompts, add Parameters, and use guided prompt suggestions from within the prompt drawer, then click **[!UICONTROL Generate]**.
 
 See [Effective prompts](/help/user-guide/effective-prompts.md).
 
 ### Parameters
 
-In the prompt drawer, you can add _Parameters_ such as Brands, Products, and Personas (all brand references) or Content (images) to shape the generated experience. These added parameters inject [Brand references](/help/user-guide/references/overview.md) and images into the generation process, ensuring that the content is customized to align with a brand's comprehensive identity and using applicable imagery. Adding Brand references to your GenStudio, and using them during the content generation process, is highly recommended as they greatly enhance the creation of suitable on-brand content.
+In the prompt drawer, you can add _Parameters_ such as Brands, Products, and Personas (all brand references) or Content (images) to shape the generated experience. These added parameters inject [Brand references](/help/user-guide/references/overview.md) and images into the generation process, ensuring that the content is customized to align with a brand's comprehensive identity and using applicable imagery. Adding Brand references to your GenStudio, and using them during the content generation process, is recommended as they greatly enhance the creation of suitable on-brand content.
 
 ### Brand validation
 
@@ -98,7 +98,7 @@ See [Brand validation](/help/user-guide/references/brand-validation.md).
 
 Meticulously review and validate content against brand guidelines, product documentation, and selected customer segments with [!DNL Create's] built-in reviews and approvals process. Solicit reviews, track review comments, and obtain approvals during the creation process.
 
-See [Activation](/help/user-guide/activation/review-process.md) for more information.
+See [Reviews and approvals](/help/user-guide/approvals/overview.md) for more information.
 
 ## Tutorials
 

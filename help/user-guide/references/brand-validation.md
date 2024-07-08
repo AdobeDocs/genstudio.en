@@ -5,7 +5,7 @@ description: Learn how the built-in brand validation system works in GenStudio.
 
 # Brand validation
 
-In GenStudio, brand validation is an essential component that works in collaboration with the generative AI functionality, [Brands](/help/user-guide/references/brands.md), [Products](/help/user-guide/references/products.md), and [Personas](/help/user-guide/references/personas.md). It ensures that all of your content aligns with your brand identity.
+In GenStudio, brand validation is an essential component that works in collaboration with the generative AI functionality, [Brands](/help/user-guide/references/brands.md), [Products](/help/user-guide/references/products.md), and [Personas](/help/user-guide/references/personas.md). It ensures that all your content aligns with your brand identity.
 
 GenStudio conducts brand validation on various aspects, including:
 

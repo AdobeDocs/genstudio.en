@@ -5,9 +5,9 @@ description: Add brands, products, and personas to GenStudio to create a compreh
 
 # GenStudio Brand references
 
-GenStudio references encompass three key elements: **Brands**, **Products**, and **Personas**. These Brand references can be either uploaded or manually added to GenStudio, allowing users to establish brand guidelines that capture the essence of a brand's identity. By incorporating these user-defined brand references, GenStudio ensures that any AI-generated content is tailored to align with the unique brand identity, enabling effective personalization of content.
+GenStudio references encompass three key elements: **Brands**, **Products**, and **Personas**. These Brand references can be either uploaded or manually added to GenStudio, allowing users to establish brand guidelines that capture the essence of a brand's identity. These user-defined brand references help ensure that any AI-generated content is tailored to align with the unique brand identity, enabling effective personalization of content.
 
-To create compelling marketing content using GenStudio, start by building a comprehensive brand profile by adding [Brands](/help/user-guide/references/brands.md), [Products](/help/user-guide/references/products.md), and [Personas](/help/user-guide/references/personas.md).
+To create compelling marketing content using GenStudio, start by building a comprehensive brand profile by adding [Brands](/help/user-guide/references/brands.md), [Products](/help/user-guide/references/products.md), and [Personas](/help/user-guide/references/personas.md) to your [GenStudio Brand references](/help/user-guide/references/add-references.md).
 
 ## Capabilities
 
@@ -18,7 +18,7 @@ GenStudio Brands, Products, and Personas:
 * Ensure that your defined brand identity informs the creation of each piece of content
 * Operate as a brand identity framework that GenStudio checks against with each piece of generated or [validated content](#brand-validation)
 
-By incorporating Brand, Product, and Personas data into GenStudio, you can greatly improve the quality and impact of the content generated using the AI functionality. Adding these references to GenStudio ensures a comprehensive and tailored brand identity, resulting in more impactful content when implemented.
+By incorporating Brand, Product, and Personas data into GenStudio, you can improve the quality and impact of the content generated using the AI functionality. Adding these references to GenStudio ensures a comprehensive and tailored brand identity, resulting in more impactful content when implemented.
 
 ## Use cases
 

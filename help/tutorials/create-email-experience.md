@@ -10,18 +10,9 @@ recommendations: noDisplay
 
 # Create an email experience
 
-In GenStudio's [[!DNL Create] mode](/help/user-guide/create/overview.md), you can efficiently generate branded email experiences using Adobe's generative AI and customizable brand references.
+In GenStudio's [[!DNL Create] mode](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area), you can efficiently generate branded email experiences using Adobe's generative AI and customizable brand references.
 
-Creating a new email experience in GenStudio is a seamless and comprehensive process that combines efficiency with powerful features.
-
-1. [**Select an existing template**](#choose-template).
-1. **[Add parameters](#add-parameters) and a [prompt](#use-a-prompt)** to customize the generation process.
-1. [**Revise—edit or delete—generated email variants**](#revise-generated-emails).
-1. [**Employ the built-in brand validation**](#verify-brand-alignment) to ensure consistency and brand adherence.
-1. [**Seek reviews and approvals**](#review-and-approval) from stakeholders.
-1. [**Publish the email experience**](#publish-experience) to [!DNL Content] and [**export it for use**](#export-experience).
-
-In the left navigation area, click **Create** to begin creating an email experience.
+To create an effective email experience, it is recommended that you [add brand references to GenStudio](/help/user-guide/references/add-references.md) and brush up on the [basics of crafting a prompt](/help/user-guide/effective-prompts.md) before you begin.
 
 ## Choose a template
 
@@ -75,9 +66,9 @@ By default, four generated variations—all fueled by the prompt, reference para
 
 ## Revise generated emails
 
-Before selecting what to send for approval or publish to Content you can edit email fragments or delete a variant from the set of generated emails.
+Before selecting what to send for approval or publish to [!DNL Content] you can edit email fragments or delete a variant from the set of generated emails.
 
-**To revise generated variants:**
+**To revise generated variants**:
 
 * **To manually edit an email**, double-click into any of the email fragments (such as the subject line, header, or body copy) and edit as needed.
 
@@ -87,24 +78,34 @@ Before selecting what to send for approval or publish to Content you can edit em
 
 ## Verify brand alignment
 
-To optimize the generated emails and ensure strict adherence to brand identity, leverage the power of the [Brand Validation pane](/help/user-guide/references/brand-validation.md#brand-validation-panel). The Brand Validation pane illuminate areas for improvement. You can manually edit individual email fragments or [generate refined variants](/help/user-guide/create/generate-variants.md) of the initial result to achieve unparalleled alignment with your brand.
+To optimize the generated emails and ensure strict adherence to brand identity, leverage the power of the [Brand Validation pane](/help/user-guide/references/brand-validation.md#brand-validation-panel). The Brand Validation pane illuminates areas for improvement. You can manually edit individual email fragments or [generate refined variants](/help/user-guide/create/generate-variants.md) of the initial result to achieve alignment with your brand.
 
 **To verify brand alignment using the Brand Validation panel:**
 
 1. Open the brand validation panel and toggle through each email to see how the generated content is checked against your brand references and other GenStudio guidelines.
 1. [Manually revise emails](#revise-generated-emails), or [generate variants](/help/user-guide/create/generate-variants.md), to ensure your emails are closely aligned with your brand.
 
-See [Brand validation](/help/user-guide/references/brand-validation.md) for more information.
+See [Brand validation](/help/user-guide/references/brand-validation.md#use-brand-validation-to-improve-content) for more information.
 
-## Review and approval
+## Get reviews and approvals
+
+Use the Approvals pane, accessible on the top menu bar of the Canvas, to obtain reviews, track review comments, and get approvals from stakeholders.
+
+To obtain reviews and approvals:
+
+1. [Launch an approval request](/help/user-guide/approvals/request-review.md) to solicit an [approval of drafted email experiences](/help/user-guide/approvals/approve-content.md).
+1. [Remove or add reviewers](/help/user-guide/approvals/review-and-edit.md#manage-approvals) during the review process.
+1. [Access the content for review](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) and view the requests for revision.
+1. Edit the drafts per review comments and [publish email experiences](#publish-and-export-experience).
+
+See [Reviews and approvals](/help/user-guide/approvals/overview.md) for more information.
 
 ## Publish and export experience
 
-To make the generated emails available for current and future use, publish it to GenStudio [!UICONTROL Content] and export it for use in your marketing campaigns.
+To make the generated emails available for current and future use, publish it to [!UICONTROL Content] and export it for use in your marketing campaigns.
 
 1. **To publish your new email experience(s)**, click **[!UICONTROL Publish]** in the top toolbar.
 1. **To export your new email experience(s)**, click **[!UICONTROL Export]** in the top toolbar.
    1. Select the format—CSV and images or HTML only—and click **[!UICONTROL Export]**.
 
-See [GenStudio Content](/help/user-guide/content/overview.md#search-and-find-approved-content) for more information.
-
+See [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content) for more information.
