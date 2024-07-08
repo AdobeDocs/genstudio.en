@@ -20,13 +20,13 @@ GenStudio's review and approvals workflow ensures that all stakeholders—  from
 ## Review and approval life cycle
 
 
-## About GenStudio [!DNL Content] drafts 
+## About GenStudio Content drafts 
 
 _Drafts_ are preliminary versions of assets or experiences that have not undergone the review and approval process. Drafts are identified by unique draft IDs, which are valid until a draft is approved and published to [!DNL Content]. Review comments and approvals for a draft are associated with the individual draft ID. 
 
 When a draft completes the review and approval process and is published to [!DNL Content], the draft ID expires, and GenStudio does not save associated comments and approval statuses. The draft URL is no longer valid.
 
-### Draft status
+### Content draft status
 
 Draft status captures the state of the content draft as it moves through the review and approval process. All designated reviewers are notified of changes in the status of content they are reviewing. Reviewers change draft status to indicate whether a draft needs further revision or can be approved.
 
@@ -38,9 +38,7 @@ Available draft statuses:
 
 ## Notifications
 
-GenStudio's in-product notifications update reviewers and content creators in real time of asset status changes and review comments. Notifications support speedy iterations through the multiple review, edit, and approval cycles.
+GenStudio's in-product notifications update reviewers and content creators in real time of asset status changes and review comments. Notifications support speedy iteration through the multiple review, edit, and approval cycles.
 
-Actions taken by review participants trigger automatic in-product notifications and email notifications. When a content creator starts a review, designated reviewers receive both email and in-product notifications. Creators are kept in the loop with in-product notifications whenever a reviewer adds review comments or approves.
-
-Notifications include links to the content draft.
+Actions taken by review participants trigger automatic in-product notifications and email notifications. When a content creator starts a review, designated reviewers receive both email and in-product notifications. Creators are kept in the loop with in-product notifications whenever a reviewer adds comments or approves. Notifications include links to the content draft.
 
