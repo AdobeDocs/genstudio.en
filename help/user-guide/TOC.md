@@ -1,6 +1,6 @@
 ---
-user-guide-title: GenStudio User Guide 
-breadcrumb-title: GenStudio
+user-guide-title: Adobe GenStudio
+breadcrumb-title: Adobe GenStudio
 user-guide-description: Learn how to quickly find and generate on-brand assets, create variations, and optimize experiences based on real-time content performance insights.
 feature-set: GenStudio
 feature: Generative AI
@@ -17,7 +17,11 @@ feature: Generative AI
     + [[!DNL Create] overview](create/overview.md)
     + [Generate variants](create/generate-variants.md)
 + Reviews & Approvals {#approve}
-    + [Review asset](activation/review-process.md)
+    + [Review & Approvals overview](approvals/overview.md)
+    + [Request review and approval of content](approvals/request-review.md)
+    + [Review and edit content](approvals/review-and-edit.md)
+    + [Approve content](approvals/approve-content.md)
+    + [Publish approved content](approvals/publish-content.md)
 + Content {#content}
     + [Content overview](content/overview.md)
 + Campaigns {#campaigns}
