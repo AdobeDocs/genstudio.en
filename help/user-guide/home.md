@@ -40,11 +40,11 @@ Using GenStudio, marketers and teams can effortlessly generate and refine high-q
       </p>
    </td>
    <td valign="top">
-      <a href="../user-guide/activation/review-process.md">
+      <a href="../user-guide/approvals/overview.md">
       <img alt="Checkmark" src="../assets/icons/icon-checkmarkCircle.svg" width="35">
       </a>
       <div>
-         <a href="../user-guide/activation/review-process.md">
+         <a href="../user-guide/approvals/overview.md">
          <strong>Review & Approve</strong>
          </a>
       </div>
