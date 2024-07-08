@@ -7,7 +7,6 @@ feature: Brands Service
 # Overview of Brands
 
 A brand distinguishes an organization, product, service or concept from others. Some aspects of a brand are objective, like a logo, while others are subjective, like tone of voice. GenStudio uses the wealth of brand information from your brand, partners it with product and persona information, and builds out a comprehensive brand identity. This brand identity, called [brand references](overview.md) in GenStudio, is used to inform the creation of on-brand content using Adobe's generative AI technology.
-<!-- GenStudio builds on a hierarchy of brand libraries that can inherit from another brand library, adding to or overriding aspects of it. For example, a campaign for a product can inherit the general brand guidelines for the product, while also adding campaign-specific context. The following example illustrates this brand hierarchy: -->
 
 To [create your own brand in GenStudio](add-references.md#add-brands), you can either upload brand guideline documents or manually add brand details right into GenStudio.
 
@@ -78,3 +77,10 @@ You can create your own categories, like Photos, Product, or Illustration imager
 Add logos to your brand guide in the **[!UICONTROL Logos]** tab.
 
 ![Logo guidelines in GenStudio](/help/assets/logos.png){width="650" zoomable="yes"}
+
+## Brand validation
+
+In GenStudio, brand validation plays a crucial role in conjunction with the generative AI functionality of Brands, Products, and Personas. It ensures that all your content remains consistent with your brand identity.
+
+See [Brand validation](/help/user-guide/references/brand-validation.md).
+
