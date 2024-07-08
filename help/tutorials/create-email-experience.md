@@ -10,7 +10,7 @@ recommendations: noDisplay
 
 # Create an email experience
 
-In GenStudio's [[!DNL Create] mode](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area), you can efficiently generate branded email experiences using Adobe's generative AI and customizable brand references.
+This tutorial demonstrates how to generated branded email experiences using GenStudio [[!DNL Create] mode](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
 
 To create an effective email experience, it is recommended that you [add brand references to GenStudio](/help/user-guide/references/add-references.md) and brush up on the [basics of crafting a prompt](/help/user-guide/effective-prompts.md) before you begin.
 
@@ -18,7 +18,7 @@ To create an effective email experience, it is recommended that you [add brand r
 
 To get started creating a new email experience, use an available template to provide the framework for your content.
 
-**To choose an email template:**
+**To choose an email template**:
 
 1. In _[!DNL Create]_ mode, click **[!UICONTROL Email]** in the _"What do you want to create today?"_ section.
 1. Click to open a template in the _Recent templates_ section, or click **[!UICONTROL View all templates]** to see more available templates.
@@ -32,7 +32,7 @@ To get started creating a new email experience, use an available template to pro
 
 Adding reference parameters supercharges the content generation process and is an integral preparatory step for creating a new email experience.
 
-**To add parameters—brand references and images:**
+**To add parameters—brand references and images**:
 
 1. Click the _Parameters_ icon IMG to begin adding references parameters and image content.
 1. In the _Parameters_ section, add brand references—Brand, Product, and Persona—to inform content creation.
@@ -53,7 +53,7 @@ After brand references are selected, craft a prompt using natural language to st
 
 See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn more about writing prompts.
 
-**To use a prompt:**
+**To use a prompt**:
 
 1. Enter a prompt in the _"Describe the experiences you want to generate"_ prompt box.
 
@@ -80,7 +80,7 @@ Before selecting what to send for approval or publish to [!DNL Content] you can 
 
 To optimize the generated emails and ensure strict adherence to brand identity, leverage the power of the [Brand Validation pane](/help/user-guide/references/brand-validation.md#brand-validation-panel). The Brand Validation pane illuminates areas for improvement. You can manually edit individual email fragments or [generate refined variants](/help/user-guide/create/generate-variants.md) of the initial result to achieve alignment with your brand.
 
-**To verify brand alignment using the Brand Validation panel:**
+**To verify brand alignment using the Brand Validation panel**:
 
 1. Open the brand validation panel and toggle through each email to see how the generated content is checked against your brand references and other GenStudio guidelines.
 1. [Manually revise emails](#revise-generated-emails), or [generate variants](/help/user-guide/create/generate-variants.md), to ensure your emails are closely aligned with your brand.
