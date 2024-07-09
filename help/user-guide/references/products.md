@@ -6,25 +6,25 @@ feature: Products Service
 
 # GenStudio Products
 
-GenStudio [!DNL Products] leverages its deep understanding of product specifications, advantages, and differentiating factors to generate impactful content.
+GenStudio [!DNL Products] leverage deep understanding of product specifications, advantages, and differentiating factors to generate impactful content.
 
-[!DNL Products] encompasses all elements of a specific product, such as imagery, descriptions, and value propositions, to create a cohesive brand representation. Leveraging Adobe's advanced AI technology, [!DNL Products] and other [brand references](/help/user-guide/references/overview.md) are used to generate compelling content that showcases the strengths of your products and ensures consistency across all messaging.
-
-![[!DNL Products] guidelines in GenStudio](/help/assets/products-guidelines.png){width="650" zoomable="yes"}
+[!DNL Products] encompass all elements of a specific product, such as imagery, descriptions, and value propositions, to create a cohesive brand representation. Leveraging Adobe's advanced AI technology, [!DNL Products] and other [brand references](/help/user-guide/references/overview.md) work together to generate compelling content that showcases the strengths of your products and ensures consistency across all messaging.
 
 To [create your own [!DNL Product]](add-references.md#add-products), you can manually add product details right into GenStudio.
 
-In GenStudio's **[!DNL Products]**, click into a defined product to see its overview. [View or revise](add-references.md#manage-products) any product by clicking the [!DNL Products] action menu and selecting **Open**.
+In GenStudio's **[!DNL Products]** (in the left navigation panel) click the _[!DNL Products]_ action menu and select **Open** to [view or revise](add-references.md#manage-products) any product.
 
 See [Add references](add-references.md) to learn how to add or modify a product in GenStudio.
 
 ## Products references guidelines
 
-Guidelines give GenStudio a clear picture of your products.
+Individual product guidelines give GenStudio a clear picture of your products.
 
-The following guidelines sections detail each guidelines category and examples guidelines. The guideline examples are sample inputs that shape the results output—use them to inform your own [!DNL Products] guidelines!
+These reference guidelines detail each guidelines category and related examples. The examples are sample inputs that shape the output of generated content. Use them to inform your own [!DNL Products] guidelines.
 
-The following table shows each category of [!DNL Products] guidelines and guideline examples.
+![[!DNL Products] guidelines in GenStudio](/help/assets/products-guidelines.png){width="650" zoomable="yes"}
+
+The following table shows each category of [!DNL Products] guidelines and associated examples.
 
 | Guideline category | Guideline examples |
 | ------------------| :---------- |

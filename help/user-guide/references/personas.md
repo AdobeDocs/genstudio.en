@@ -8,23 +8,23 @@ feature: Personas Service
 
 [!DNL Personas] provide an authentic portrayal of your customer segments, encompassing their information, interests, pain points, preferences, and behavioral traits.
 
-GenStudio leverages the power of collaborative [brand references](overview.md) and Adobe's generative AI technology to curate personalized marketing content for your target customers.​
-
-![[!DNL Personas] guidelines in GenStudio](/help/assets/personas-guidelines.png){width="650" zoomable="yes"}
+GenStudio leverages the power of collaborative [brand references](overview.md), including [!DNL Personas], and Adobe's generative AI technology to curate personalized marketing content for your target customers.​
 
 To [create your own [!DNL Persona]](add-references.md#add-products), you can manually add persona details right into GenStudio.
 
-In GenStudio's **[!DNL Personas]**, click into a defined persona to see its overview. [View or revise](add-references.md#manage-personas) any persona by clicking the [!DNL Personas] action menu and selecting **Open**.
+In GenStudio's **[!DNL Personas]** (in the left navigation panel)click the _[!DNL Personas]_ action menu and select **Open** to [view or revise](add-references.md#manage-personas) any persona.
 
 See [Add references](add-references.md) to learn how to add or modify a persona in GenStudio.
 
 ## Personas references guidelines
 
-Guidelines give GenStudio a clear picture of your personas.
+Individual persona guidelines give GenStudio a clear picture of your personas.
 
-The following guidelines sections detail each guidelines category and examples guidelines. The guideline examples are sample inputs that shape the results output—use them to inform your own [!DNL Personas] guidelines!
+These reference guidelines detail each guidelines category and related examples. The examples are sample inputs that shape the output of generated content. Use them to inform your own [!DNL Personas] guidelines.
 
-The following table shows each category of [!DNL Personas] guidelines and guideline examples.
+![[!DNL Personas] guidelines in GenStudio](/help/assets/personas-guidelines.png){width="650" zoomable="yes"}
+
+The following table shows each category of [!DNL Personas] guidelines and associated examples.
 
 | Guideline category | Guideline examples |
 | ------------------| :---------- |
