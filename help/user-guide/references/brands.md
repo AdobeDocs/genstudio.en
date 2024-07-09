@@ -1,10 +1,10 @@
 ---
-title: Overview of [!DNL Brands]
+title: GenStudio [!DNL Brands]
 description: GenStudio Brands are a comprehensive collection of brand assets—marketing copy, imagery, experiences, and more—to inform the creation of brand-aligned content in GenStudio.
 feature: Brands Service
 ---
 
-# Overview of Brands
+# GenStudio Brands
 
 A brand distinguishes an organization, product, service or concept from others. Some aspects of a brand are objective, like a logo, while others are subjective, like tone of voice. GenStudio uses the wealth of brand information from your brand, partners it with product and persona information, and builds out a comprehensive brand identity. This brand identity, called [brand references](overview.md) in GenStudio, is used to inform the creation of on-brand content using Adobe's generative AI technology.
 
@@ -16,13 +16,13 @@ In GenStudio's **Brands**, click into a defined brand to see its brand overview.
 
 See [Add references](add-references.md) to learn how to add a brand to GenStudio, modify it, publish it, and more.
 
-## Brand references guidelines
+## Brands references guidelines
 
 Guidelines give GenStudio a clear picture of your brand-specific approach, tone, visual feeling, and more.
 
 The following guidelines sections detail each guidelines category, examples guidelines, and potential results. The guideline examples are sample inputs that shape the results output (result examples below)—use them to inform your own brand guidelines!
 
-### Brand voice guidelines
+### Brands voice guidelines
 
 The following table shows each category of brand voice guideline and guideline examples.
 
