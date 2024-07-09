@@ -10,9 +10,9 @@ GenStudio [!DNL Products] leverages its deep understanding of product specificat
 
 [!DNL Products] encompasses all elements of a specific product, such as imagery, descriptions, and value propositions, to create a cohesive brand representation. Leveraging Adobe's advanced AI technology, [!DNL Products] and other [brand references](/help/user-guide/references/overview.md) are used to generate compelling content that showcases the strengths of your products and ensures consistency across all messaging.
 
-![[!DNL Brand] voice guidelines in GenStudio](/help/assets/products-guidelines.png){width="650" zoomable="yes"}
+![[!DNL Products] guidelines in GenStudio](/help/assets/products-guidelines.png){width="650" zoomable="yes"}
 
-To [create your own [!DNL Product] in GenStudio](add-references.md#add-products), you can manually add product details right into GenStudio.
+To [create your own [!DNL Product]](add-references.md#add-products), you can manually add product details right into GenStudio.
 
 In GenStudio's **[!DNL Products]**, click into a defined product to see its overview. [View or revise](add-references.md#manage-products) any product by clicking the [!DNL Products] action menu and selecting **Open**.
 
