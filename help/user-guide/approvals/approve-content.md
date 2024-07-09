@@ -13,7 +13,7 @@ If the content draft meets your organization's standards and your expectations, 
 
 **To approve a draft**:
 
-1. Access the draft from either the in-product or email notification. If you have been asked to review more than one item, this email includes a **View all notifications** button. Click this button to see a linked list of all pending approval requests, which you can use to navigate to content you want to approve.
+1. Access the draft from either the in-product or email notification. If you have been asked to review more than one item, this email includes a **[!UICONTROL View all notifications]** button. Click this button to see a linked list of all pending approval requests, which you can use to navigate to content you want to approve.
 
 1. (_Optional_). Enter comments in the Comments text field.
 
