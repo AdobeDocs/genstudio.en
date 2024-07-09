@@ -15,7 +15,7 @@ GenStudio [!DNL Content], powered by Adobe Content Hub, simplifies and enhances 
 
 1. In the _Add details_ section, select a **[!UICONTROL Campaign name]** or enter a new name.
 
-1. Add more details to improve searchability.
+1. Add more details to improve discoverability.
 
 1. Click **[!UICONTROL Add assets]**.
 
