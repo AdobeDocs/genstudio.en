@@ -9,6 +9,7 @@ feature: Generative AI
 # Adobe GenStudio Guide {#user-guide}
 
 + [GenStudio Guide](home.md)
++ [Get started](/help/user-guide/get-started.md)
 + Introduction {#intro}
     + [GenStudio Concepts](concepts.md)
     + [Effective prompts](effective-prompts.md)
@@ -25,7 +26,9 @@ feature: Generative AI
 + Content {#content}
     + [Content overview](content/overview.md)
 + Campaigns {#campaigns}
-    + [Campaigns overview](campaigns/overview.md)    
+    + [Campaigns overview](campaigns/overview.md)
++ Activation {#activation}
+    + [Activation overview](activation/overview.md)      
 + Insights {#insights}
     + [Insights overview](insights/overview.md)
 + Brand references {#references}
