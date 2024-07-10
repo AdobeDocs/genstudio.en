@@ -1,7 +1,6 @@
 ---
 title: Overview of [!DNL Content]
 description: Learn how to find, edit, reuse, and share brand-approved assets in one, intuitive portal.
-feature: Content Hub
 ---
 
 # GenStudio [!DNL Content]
@@ -69,4 +68,4 @@ When you save approved assets, [!DNL Content] maintains the rich metadata, gener
 
 ## Work with templates
 
-Templates speed up the creation process so that you can generate consistent content across multiple channels. They help by providing a starting point in the creation process with pre-configured layouts and design elements.
+Templates speed up the creation process so that you can generate consistent content across multiple channels. Templates provide a starting point in the creation process with pre-configured layouts and design elements.

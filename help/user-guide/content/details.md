@@ -1,14 +1,17 @@
 ---
 title: Asset details
 description: GenStudio stores approved content with rich metadata for searchability and performance tracking.
-feature: Content Hub
 ---
 
 # Asset details
 
 GenStudio stores approved content with rich metadata for discoverability and performance tracking.
 
-Each asset (including experiences and templates) has associated metadata. The default metadata stored with an asset includes a campaign name, channel type, and basic file details, such as filename, timestamps, size, and more.
+Each asset (including experiences and templates) has associated metadata. The default metadata stored with an asset includes:
+
+- campaign or project name
+- channel type
+- basic file details (filename, timestamps, size)
 
 **To see content metadata**:
 
@@ -24,20 +27,14 @@ Each asset (including experiences and templates) has associated metadata. The de
 
 ## Details from generated content
 
-The information used to generate a new asset or experience becomes metadata, such as the prompt that was used. You can not edit the prompt once the content is approved, but you can use it as a starting place for generating something new.
+The information used to generate a new asset or experience becomes metadata, such as the prompt that was used. You cannot edit the prompt once the content is approved, but you can use it as a starting place for generating something new.
 
 ## Generated tags
 
 When assets are approved and stored in Content, GenStudio generates tags based on the asset features, such as color and tone, or keywords that identify asset features. You cannot edit tags.
 
-Color
-
-```text
-Red, Dark_Red, Magenta, Yellow, Mustard, Pink, Dark_Pink, Gold, Orange, Mud_Green, Black, White, Off_White, Gray, Dark_Gray, Silver, Cream, Khaki, Brown, Dark_Brown, Maroon, Tan, Beige, Olive, Green, Bright_Green, Dark_Green, Light_Green, Blue, Dark_Blue, Light_Blue, Royal_Blue, Cyan, Violet, Purple, Lavender, Turquoise, Plum, Emerald, Lilac
-```
-
-Tone: Warm, Neutral, Cool
-
 ## GenStudio metadata
+
+This table is still TBD. What do customers need to know about these fields?
 
 {{$include /help/_includes/metadata.md}}
