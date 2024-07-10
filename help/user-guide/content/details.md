@@ -11,7 +11,7 @@ Each asset (including experiences and templates) has associated metadata. The de
 
 - campaign or project name
 - channel type
-- basic file details (filename, timestamps, size)
+- basic file details (filename, file format, timestamps, size)
 
 **To see content metadata**:
 
@@ -37,4 +37,4 @@ When assets are approved and stored in Content, GenStudio generates tags based o
 
 This table is still TBD. What do customers need to know about these fields?
 
-{{$include /help/_includes/metadata.md}}
+{{$include /help/_includes/gs-metadata-fields.md}}
