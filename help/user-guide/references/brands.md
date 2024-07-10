@@ -6,15 +6,19 @@ feature: Brands Service
 
 # GenStudio Brands
 
-A brand distinguishes an organization, product, service or concept from others. Some aspects of a brand are objective, like a logo, while others are subjective, like tone of voice. GenStudio uses the wealth of brand information from your brand, partners it with product and persona information, and builds out a comprehensive brand identity. This brand identity, called [brand references](overview.md) in GenStudio, is used to inform the creation of on-brand content using Adobe's generative AI technology.
+A brand distinguishes an organization, product, service or concept from others. Some aspects of a brand are objective, like a logo, while others are subjective, like tone of voice.
 
-To [create your own brand in GenStudio](add-references.md#add-brands), you can either upload brand guideline documents or manually add brand details right into GenStudio.
+GenStudio uses the wealth of brand information from your brand, partners it with product and persona information, and builds out a comprehensive brand identity. This brand identity, called [brand references](overview.md) in GenStudio, is used to inform the creation of on-brand content using Adobe's generative AI technology.
 
-In GenStudio's **Brands**, click into a defined brand to see its brand overview. [View or revise](add-references.md#manage-brands) any brand guidelines by clicking **[!UICONTROL Brand voice guidelines]**, **[!UICONTROL Channel guidelines]**, **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
+**To view or modify a brand**:
+
+1. In the left navigation area, click **[!UICONTROL Brands]**.
+1. To see a brand's overview information, click to open a defined brand.
+1. To view individual details or modify a brand, click **[!UICONTROL Brand voice guidelines]**, **[!UICONTROL Channel guidelines]**, **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
+
+See [Add brand references](add-references.md) to learn how to add a brand to GenStudio, modify it, publish it, and more.
 
 ![Brand overview in GenStudio](/help/assets/brand-overview-home.png){width="650" zoomable="yes"}
-
-See [Add references](add-references.md) to learn how to add a brand to GenStudio, modify it, publish it, and more.
 
 ## Brands references guidelines
 

@@ -10,11 +10,9 @@ feature: Personas Service
 
 GenStudio leverages the power of collaborative [brand references](overview.md), including [!DNL Personas], and Adobe's generative AI technology to curate personalized marketing content for your target customers.​
 
-To [create your own [!DNL Persona]](add-references.md#add-products), you can manually add persona details right into GenStudio.
+In GenStudio's **[!DNL Personas]** (in the left navigation panel) click the _[!DNL Personas]_ action menu and select **Open** to [view or revise](add-references.md#manage-personas) any persona.
 
-In GenStudio's **[!DNL Personas]** (in the left navigation panel)click the _[!DNL Personas]_ action menu and select **Open** to [view or revise](add-references.md#manage-personas) any persona.
-
-See [Add references](add-references.md) to learn how to add or modify a persona in GenStudio.
+See [Add brand references](add-references.md) to learn how to add or modify a persona in GenStudio.
 
 ## Personas references guidelines
 

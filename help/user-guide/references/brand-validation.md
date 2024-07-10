@@ -1,6 +1,7 @@
 ---
 title: Brand validation in GenStudio
 description: Learn how the built-in brand validation system works in GenStudio.
+feature: Brands Service
 ---
 
 # Brand validation
