@@ -31,7 +31,7 @@ feature: Generative AI
 + Brand references {#references}
     + [Brand references overview](references/overview.md)
     + [Brands](references/brands.md)
-    + [Products](references/products.md)
     + [Personas](references/personas.md)
+    + [Products](references/products.md)
     + [Add brand references](references/add-references.md)
     + [Brand validation](references/brand-validation.md)
