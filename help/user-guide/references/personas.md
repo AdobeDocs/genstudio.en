@@ -10,7 +10,13 @@ feature: Personas Service
 
 GenStudio leverages the power of collaborative [brand references](overview.md), including [!DNL Personas], and Adobe's generative AI technology to curate personalized marketing content for your target customers.​
 
-In GenStudio's **[!DNL Personas]** (in the left navigation panel) click the _[!DNL Personas]_ action menu and select **Open** to [view or revise](add-references.md#manage-personas) any persona.
+![[!DNL Personas] guidelines in GenStudio](/help/assets/personas-guidelines.png){width="650" zoomable="yes"}
+
+**To view or modify a persona**:
+
+1. In the left navigation area, click **[!UICONTROL Personas]**.
+1. To [view individual details or modify a persona](add-references.md#manage-personas), click the _[!DNL Personas]_ action menu and select **Open**.
+1. Revise the personas guidelines by clicking into a guidelines category text field.
 
 See [Add brand references](add-references.md) to learn how to add or modify a persona in GenStudio.
 
@@ -19,8 +25,6 @@ See [Add brand references](add-references.md) to learn how to add or modify a pe
 Individual persona guidelines give GenStudio a clear picture of your personas.
 
 These reference guidelines detail each guidelines category and related examples. The examples are sample inputs that shape the output of generated content. Use them to inform your own [!DNL Personas] guidelines.
-
-![[!DNL Personas] guidelines in GenStudio](/help/assets/personas-guidelines.png){width="650" zoomable="yes"}
 
 The following table shows each category of [!DNL Personas] guidelines and associated examples.
 

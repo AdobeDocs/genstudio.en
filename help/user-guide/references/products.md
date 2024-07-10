@@ -10,7 +10,13 @@ GenStudio [!DNL Products] leverage deep understanding of product specifications,
 
 [!DNL Products] encompass all elements of a specific product, such as imagery, descriptions, and value propositions, to create a cohesive brand representation. Leveraging Adobe's advanced AI technology, [!DNL Products] and other [brand references](/help/user-guide/references/overview.md) work together to generate compelling content that showcases the strengths of your products and ensures consistency across all messaging.
 
-In GenStudio's **[!DNL Products]**, (in the left navigation panel) click the _[!DNL Products]_ action menu and select **Open** to [view or revise](add-references.md#manage-products) any product.
+![[!DNL Products] guidelines in GenStudio](/help/assets/products-guidelines.png){width="650" zoomable="yes"}
+
+**To view or modify a product**:
+
+1. In the left navigation area, click **[!UICONTROL Products]**.
+1. To [view individual details or modify a product](add-references.md#manage-products), click the _[!DNL Products]_ action menu and select **Open**.
+1. Revise the product guidelines by clicking into a guidelines category text field.
 
 See [Add brand references](add-references.md) to learn how to add or modify a product in GenStudio.
 
@@ -19,8 +25,6 @@ See [Add brand references](add-references.md) to learn how to add or modify a pr
 Individual product guidelines give GenStudio a clear picture of your products.
 
 These reference guidelines detail each guidelines category and related examples. The examples are sample inputs that shape the output of generated content. Use them to inform your own [!DNL Products] guidelines.
-
-![[!DNL Products] guidelines in GenStudio](/help/assets/products-guidelines.png){width="650" zoomable="yes"}
 
 The following table shows each category of [!DNL Products] guidelines and associated examples.
 

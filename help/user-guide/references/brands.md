@@ -10,6 +10,8 @@ A brand distinguishes an organization, product, service or concept from others. 
 
 GenStudio uses the wealth of brand information from your brand, partners it with product and persona information, and builds out a comprehensive brand identity. This brand identity, called [brand references](overview.md) in GenStudio, is used to inform the creation of on-brand content using Adobe's generative AI technology.
 
+![Brand overview in GenStudio](/help/assets/brand-overview-home.png){width="650" zoomable="yes"}
+
 **To view or modify a brand**:
 
 1. In the left navigation area, click **[!UICONTROL Brands]**.
@@ -17,8 +19,6 @@ GenStudio uses the wealth of brand information from your brand, partners it with
 1. To view individual details or modify a brand, click **[!UICONTROL Brand voice guidelines]**, **[!UICONTROL Channel guidelines]**, **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
 
 See [Add brand references](add-references.md) to learn how to add a brand to GenStudio, modify it, publish it, and more.
-
-![Brand overview in GenStudio](/help/assets/brand-overview-home.png){width="650" zoomable="yes"}
 
 ## Brands references guidelines
 
