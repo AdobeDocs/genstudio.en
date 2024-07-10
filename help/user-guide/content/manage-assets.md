@@ -5,7 +5,7 @@ description: Simplify and enhance the management of brand-approved assets for us
 
 # Manage assets and experiences
 
-GenStudio [!DNL Content], powered by Adobe Content Hub, simplifies and enhances the management of brand-approved assets for use and reuse in your digital marketing journey.
+GenStudio [!DNL Content] simplifies and enhances the management of brand-approved assets for use and reuse in your digital marketing journey.
 
 **To add one or more assets**:
 

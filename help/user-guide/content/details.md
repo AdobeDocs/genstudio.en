@@ -38,3 +38,7 @@ When assets are approved and stored in Content, GenStudio generates tags based o
 This table is still TBD. What do customers need to know about these fields?
 
 {{$include /help/_includes/gs-metadata-fields.md}}
+
+## History
+
+Expand the History section to view a timeline of approvals (list other actions).

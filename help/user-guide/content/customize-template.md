@@ -29,11 +29,11 @@ GenStudio recognizes and interprets certain fields automatically based on the na
 | Field          | Role                   | Source     | Channel template     |
 | -------------- | ---------------------- | ---------- | -------------------- |
 | `pre_header`   | Pre header             | generated  | email       |
-| `headline`     | Headline               | generated  | email<br>social ad<br>display ad |
-| `body`         | Body copy              | generated  | email<br>social ad<br>display ad |
-| `cta`          | Call to action         | generated  | email<br>social ad<br>display ad |
+| `headline`     | Headline               | generated  | email<br>social ad |
+| `body`         | Body copy              | generated  | email<br>social ad |
+| `cta`          | Call to action         | generated  | email<br>social ad |
 | `on_image_text`| On image text          | generated  | social ad |
-| `brand_logo`   | Logo of selected brand | brand      | social ad<br>display ad |
+| `brand_logo`   | Logo of selected brand | brand      | social ad |
 
 >[!IMPORTANT]
 >
@@ -52,7 +52,7 @@ Each section can have only one of a field type. For example, Group 1 can only ha
 
 ### Background image
 
-Social media ads (Meta) and display ads use a background image with a text and brand logo overlay. Meta ad templates require an `aspect ratio` to scale the image, whereas display ads use `height` and `width` dimensions. You can provide only one image field in this case.
+Social media ads (Meta) ads use a background image with a text and brand logo overlay. Meta ad templates require an `aspect ratio` to scale the image. You can provide only one image field in this case.
 
 ## Template preview
 
