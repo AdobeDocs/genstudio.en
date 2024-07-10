@@ -14,7 +14,7 @@ As a best practice, supply GenStudio with your brand information using [Brand re
 
 ## Descriptive language
 
-You can use natural language to articulate your ideas to create new experiences. Your prompt guides the AI to generate channel content that is personalized and images that complement your vision. The more details that you provide, the greater the chance of producing an image or an experience that meets your needs. Use clear and descriptive language to provide as much detail as possible:
+You can use natural language to articulate your ideas to create experiences. Your prompt guides the AI to generate channel content that is personalized and images that complement your vision. The more details that you provide, the greater the chance of producing an image or an experience that meets your needs. Use clear and descriptive language to provide as much detail as possible:
 
 - For **images**, use words that describe ambiance, mood, color, composition, and style.
 - For **copy**, use words that describe the audience, purpose, new feature descriptions, examples, and actions.
