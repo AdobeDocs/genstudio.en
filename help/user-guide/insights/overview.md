@@ -14,7 +14,7 @@ From the [!DNL Insights] dashboard, you can identify low-performing content and 
 
 The [!DNL Insights] dashboard has a configurable grid for each content type: Channels, Experiences, Assets, and Attributes.
 
-![Insights dashboard](/help/assets/insights-dashboard.png){width="170}
+![Insights dashboard](/help/assets/insights-dashboard.png){width="170"}
 
 Each content type view provides search by keyword, filtering, and date range. You can customize the table with Configure table. Each table has a relevant set of columns to toggle.
 
