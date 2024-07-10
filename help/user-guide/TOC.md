@@ -9,6 +9,7 @@ feature: Generative AI
 # Adobe GenStudio Guide {#user-guide}
 
 + [GenStudio Guide](home.md)
++ [Get started](getstarted.md)
 + Introduction {#intro}
     + [GenStudio Concepts](concepts.md)
     + [Effective prompts](effective-prompts.md)
