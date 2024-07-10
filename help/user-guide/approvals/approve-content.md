@@ -20,5 +20,3 @@ If the content draft meets your organization's standards and your expectations, 
 1. Change draft status from **Needs work** to **Approved**. 
 
 Your work as an approver is done. GenStudio alerts the draft creator of your approval.  
-
-## Self approvals

@@ -9,7 +9,7 @@ hide: no
 
 Ready to invite your coworkers to review an asset or experience that you created? You can invite stakeholders to contribute feedback on a draft of your content with the eventual goal of approval.
 
-Only reviewers who have been asked to review the content draft are able to review it. If you share a draft UrL with a GenStudio user in your organization who has not been included in the draft review, this user can view the draft, but not leave comments or approve the content.
+Only designated approvers can assign an approval status and add review comments. Approvers who have received the link to the draft URL can only see the draft, not assign approval status or add comments. If you share a draft URL with a GenStudio user in your organization who has not been included in the draft review, this user can view the draft, but not leave comments or approve the content.
 
 ## Launch an approval request
 
@@ -17,15 +17,13 @@ After you generate your content variants, you can request review and approval.
 
 **To request a review**:
 
-1. Click the **Send for approval** button on the top menu bar of the Canvas. The **Send for approval** pop-up open and identifies the draft for which you are requesting a review. If you have generated multiple variants, the entire Canvas is sent for review.
+1. Click the **[!UICONTROL Send for approver]** button on the top menu bar of the Canvas. The _Send for approval_ pop-up opens and identifies the draft for which you are requesting a review. If you generate multiple variants, the entire Canvas is sent for review.
 
-1. Select the approver or approvers you would like to request a review from. As you begin typing, the **Approver** field autocompletes the approver user name from the list of GenStudio users with GenStudio view and approve permissions. The **Send** button is activated after you have entered at least one approver name.
+1. Select the approver or approvers you would like to request a review from. As you begin typing, the **[!UICONTROL Approver]** field autocompletes the approver user name from the list of GenStudio users with GenStudio view and approve permissions. The **[!UICONTROL Send]** button is activated after you have entered at least one approver name.
 
 1. Click **[!UICONTROL Send]**. Clicking this button triggers in-product and email notifications that alert each designated approver that they have content to review.
 
-Optional: Add comments to guide reviewer focus to particular features of the draft
-
-Draft status is automatically assigned the **Active** status, which indicates that the review and approval process for this draft has begun.
+Optional: Add comments to guide approver focus to particular features of the draft.
 
 ## Add and remove approvers from the approval workflow
 

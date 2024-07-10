@@ -1,5 +1,5 @@
 ---
-title: Overview of Reviews and Approvals
+title: GenStudio Reviews and Approvals
 description: Learn about the GenStudio review and approval process.
 hidefromtoc: no
 hide: no
@@ -13,7 +13,7 @@ GenStudio's review and approvals workflow ensures that all stakeholders—  from
 
 * **Support for robust, iterative generative AI content creation**. Creating and deploying brand-aligned content in an organization is a highly iterative process. GenStudio's generative AI capabilities support the quick creation of hundreds of asset variants. Each reviewer might request multiple changes to an asset draft before approving it. The more reviewers, the greater the number of potential iterations before all stakeholders agree on a final variant.   
 
-* **Support for creative integrity and brand compliance**. Approvals safeguard the creative integrity of your brand assets. By involving stakeholders in the review process, you ensure that final output aligns with your vision and brand identity. Consistent branding is essential for building trust and recognition. Approvals ensure that all materials adhere to brand guidelines.
+* **Support for creative integrity**. Approvals safeguard the creative integrity of your brand assets by keeoing content creators involved in the approval process at every step. By involving creative stakeholders (for example, content creators and creative directors) in the review and approval process, you ensure that final output aligns with your vision and brand identity.
 
 * **Adherence to Campaign goals and legal requirements**. The approval process helps verify that content supports campaign goals. It ensures that content meets legal authenticity, which minimizes risks and potential legal issues.
 
@@ -42,9 +42,9 @@ Available draft statuses:
 
 ## Notifications
 
-GenStudio's in-product notifications update reviewers and content creators in real time of asset status changes and review comments. Notifications support speedy iteration through the multiple review, edit, and approval cycles.
+GenStudio's in-product notifications update approvers and content creators in real time of asset status changes and review comments. Notifications support speedy iteration through the multiple review, edit, and approval cycles.
 
-Actions taken by review participants trigger automatic in-product notifications and email notifications. When you start a review, designated reviewers receive both email and in-product notifications. You are kept in the loop with in-product notifications whenever a reviewer adds comments or approves. Notifications include links to the content draft.
+Actions taken by approval participants trigger automatic in-product notifications and email notifications. When you start an approval process, designated approvers receive both email and in-product notifications. You are kept in the loop with in-product notifications whenever an approver adds comments or approves. Notifications include links to the content draft.
 
-If you initiate a review, you will be notified of all approvals and review comments. However, approvers are notified of only comments that include them. 
+If you initiate the review and approval process for content, you are notified of all approvals and review comments. However, approvers are notified of only comments that include them with an `@mention`. 
 

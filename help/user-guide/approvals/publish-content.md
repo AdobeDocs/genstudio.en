@@ -19,7 +19,9 @@ You can then finalize the draft by saving it to [!DNL Content] with appropriate 
 
 1. Access the approved draft from either the approval notification email or the _Approved variants ready to publish_ pop-up. This pop-up includes a **[!UICONTROL Close]** button to postpone publication of the approved asset and a **[!UICONTROL Publish]** button to start the publication process.
 
-1. Click **[!UICONTROL Publish]** to save the asset or experience to [!DNL Content]. GenStudio displays the _Confirm details for your approved content_ window, which displays thumbnails of the approved assets. GenStudio then prompts you to add relevant information about the asset or experience. This information is saved as metadata, which adds value to [!DNL Content] filter and search operations. You can add the asset to a GenStudio Campaign at this point in the publication process. 
+1. Click **[!UICONTROL Publish]** to save the asset or experience to [!DNL Content]. GenStudio displays the _Confirm details for your approved content_ window, which displays thumbnails of the approved assets. 
+
+1. Add information about the content as prompted by GenStudio. This information is saved as metadata, which adds value to [!DNL Content] filter and search operations. You can add the asset to a GenStudio Campaign at this point in the publication process.
 
 1. After the content publication process has completed, GenStudio displays the _Approved variations have been published_ popup. From this popup window, you can:
 
@@ -31,7 +33,7 @@ You can then finalize the draft by saving it to [!DNL Content] with appropriate 
 
 All GenStudio users can access approved assets or experiences in [!DNL Content]. The Asset details pane identifies the asset's upload and approval history. Saved content is identified by these attributes:
 
-* **Upload date** -- Identifies the date that the content was uploaded.
-* **Uploaded by**:  Identifies the GenStudio asset creator.
+* **Upload date**: Identifies the date that the content was uploaded.
+* **Uploaded by**: Identifies the GenStudio asset creator.
 
 Draft URLs are invalid after a draft asset or experience are saved to [!DNL Content].

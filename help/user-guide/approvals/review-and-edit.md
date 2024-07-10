@@ -13,15 +13,13 @@ GenStudio's generative AI capabilities accelerate these critical iterative phase
 
 ## Iterative draft editing
 
-You can edit content on the Canvas while approvers continue their reviews, editing your draft in response to review comments. When you save these changes, all designated approvers are notified that the draft has changed. While a draft is out for review, reviewers can continue adding review comments but cannot change asset status.
-
-In-product notifications keep both reviewers and content creators immediately updated on any draft changes.
+Creators can make in-process edits to content in response to review comments. When you save your draft changes, all designated approvers are notified of the draft change. While a draft is under revision, approvers can continue adding review comments but cannot change asset status. You can continue editing content on the Canvas while approvers continue their reviews. In-product notifications keep both approvers and content creators immediately updated on any draft changes.
 
 ## View approval requests
 
 As a designated approver, you can access the content you are asked to review and approve in several ways:
 
-* **Access the draft for review directly from the draft link in the approval request**. Click the draft link in either the approval request email notification or in-product notification. GenStudio opens a canvas that displays the asset or experience. The _Asset_ details left pane includes an _Approval_ pane. 
+* **Access the draft for review directly from the draft link in the approval request**. Click the draft link in either the approval request email notification or in-product notification. GenStudio opens a Canvas that displays the asset or experience. The _Asset_ details left pane includes an _Approval_ pane. 
 
 * **Access the draft for review from the list of approval requests**. If you are asked to review multiple content drafts, your notification email includes a **[!UICONTROL View all notifications]** button. Click this button to navigate to a page that displays all your pending review requests.
 
@@ -35,9 +33,9 @@ As a designated approver, you can access the content you are asked to review and
 
 ## Request changes to content
 
-You can list suggested changes or ask questions about the draft from the content's _Approval_ pane. The **Needs work** draft status will alert all reviewers and the content creator that changes are requested.
+You can list suggested changes or ask questions about the draft from the content's _Approval_ pane. The **Needs work** draft status notifies the content creator that changes are requested.
 
-This process of reviewing, suggesting edits to the content creator, and then revising the content and re-sending for approval is highly iterative. It is in this part of the cycle that you will see the time-saving abilities of GenStudio. 
+This process of reviewing, suggesting edits to the content creator, and then revising the content and re-sending for approval is highly iterative. It is in this part of the cycle that you see the time-saving abilities of GenStudio. 
 
 **To request changes**:
 
