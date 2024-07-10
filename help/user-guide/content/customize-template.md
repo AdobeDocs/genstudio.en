@@ -52,8 +52,22 @@ Each section can have only one of a field type. For example, Group 1 can only ha
 
 ### Background image
 
-Social media ads (Meta) ads use a background image with a text and brand logo overlay. Meta ad templates require an `aspect ratio` to scale the image. You can provide only one image field in this case.
+When creating social media (Meta) ads, a background image is used along with text and a brand logo overlay. To ensure the image scales correctly, Meta ad templates require specifying an `aspect ratio`. In this context, you can provide only one image field.
 
 ## Template preview
 
-Email templates sometimes contain special content that is not ...
+Email templates sometimes contain special content that is not necessary to preview in GenStudio. You can control the visibility of this content by using Built-in Helpers, which are special expressions in the Handlebars template language that help to perform certain actions.
+
+The `_genStudio.browser` value is set when rendering a template, and the `genStudio.export` value is set when exporting a template. You may decide to include certain content at the top of the emails using a conditional wrapper, for example, when the template is used for export:
+
+```handlebars
+{{#if _genStudio.export}}
+<%@ include view='emailParent' %>
+{{/if}}
+```
+
+Another example may be to prevent the use of tracking codes when previewing an email template in GenStudio. This example shows how to add tracking parameters to links in the exported template, while keeping the preview links clean:
+
+```handlebars
+<a class="button" {{#if _genStudio.browser }}href="{{ link }}"{{/if}}{{#if _genStudio.export }}href="{{ link }}?trackingid=<%=getTrackingId()%>&mv=email"{{/if}} target="_blank">{{ cta }}</a>
+```
