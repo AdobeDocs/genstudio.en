@@ -7,7 +7,7 @@ hide: no
 
 # Approve content
 
-Approvers receive both in-product and email notifications when when their review and approval is needed. Both notifications provide a link to the Canvas that displays the content under review. 
+Approvers receive both in-product and email notifications when their review and approval is needed. Both notifications provide a link to the Canvas that displays the content under review. 
 
 If the content draft meets your organization's standards and your expectations, you are ready to approve the draft. 
 

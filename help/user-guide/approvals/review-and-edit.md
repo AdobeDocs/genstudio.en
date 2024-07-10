@@ -1,6 +1,6 @@
 ---
 title: Review and edit content
-description: Learn how to iteratively review and edit content.
+description: Learn how to review and edit content iteratively.
 hidefromtoc: no
 hide: no
 ---
@@ -9,7 +9,7 @@ hide: no
 
 Review and approval processes that involve multiple reviewers can be time-consuming. The cycle of reviewing content, revising content in response to review comments, then reviewing changed content again can repeat many times. 
 
-GenStudio's generative AI capabilities accelerate these critical iterative phases of the content creation and review process. Content creators can respond to reviewer requests by using prompting capabilities to quickly edit drafts. In-product notifications immediately notify reviewers that the draft has been revised and can review changes. The more reviewers and review cycles that content development requires, the greater the advantages that GenStudio brings.
+GenStudio's generative AI capabilities accelerate these critical iterative phases of the content creation and review process. Content creators can respond to reviewer requests by using prompting capabilities to edit drafts quickly. In-product notifications immediately notify reviewers that the draft has been revised and can review changes. The more reviewers and review cycles that content development requires, the greater the advantages that GenStudio brings.
 
 ## Iterative draft editing
 
@@ -17,7 +17,7 @@ Creators can make in-process edits to content in response to review comments. Wh
 
 ## View approval requests
 
-As a designated approver, you can access the content you are asked to review and approve in several ways:
+As a designated approver, you can access the content that you are asked to review and approve in several ways:
 
 * **Access the draft for review directly from the draft link in the approval request**. Click the draft link in either the approval request email notification or in-product notification. GenStudio opens a Canvas that displays the asset or experience. The _Asset_ details left pane includes an _Approval_ pane. 
 

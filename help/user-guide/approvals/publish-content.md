@@ -11,7 +11,7 @@ The final stage of creating brand-aligned, approved content is saving it to [!DN
 
 ## Approved content
 
-When all designated reviewers approve a draft, GenStudio changes the draft status to **Approved**. This change in status launches the publishing process by alerting the content creator to the draft's approved status with the _Approved variants ready to publish_ pop-up and email. 
+When all designated reviewers approve a draft, GenStudio changes the draft status to **Approved**. This change in status launches the publishing process.  GenStudio displays the _Approved variants ready to publish_ pop-up on the creator's Canvas and sends notification email. 
 
 You can then finalize the draft by saving it to [!DNL Content] with appropriate metadata. The approved draft is not available to other GenStudio users until you publish the draft to [!DNL Content].
 
@@ -31,9 +31,10 @@ You can then finalize the draft by saving it to [!DNL Content] with appropriate 
 
 ## After publication
 
-All GenStudio users can access approved assets or experiences in [!DNL Content]. The Asset details pane identifies the asset's upload and approval history. Saved content is identified by these attributes:
+All GenStudio users can access approved assets or experiences in [!DNL Content]. The Asset details pane identifies the asset's upload and approval history These attributes identify saved content:
 
 * **Upload date**: Identifies the date that the content was uploaded.
 * **Uploaded by**: Identifies the GenStudio asset creator.
 
-Draft URLs are invalid after a draft asset or experience are saved to [!DNL Content].
+Draft URLs are invalid after a draft asset or experience is saved to [!DNL Content].
+
