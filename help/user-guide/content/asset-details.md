@@ -47,3 +47,4 @@ This table is still TBD. What do customers need to know about these fields?
 Expand the _[!UICONTROL History]_ section to view a timeline of approvals.
 
 <!-- list other actions -->
+
