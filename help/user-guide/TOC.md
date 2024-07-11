@@ -18,7 +18,7 @@ feature: Generative AI
     + [[!DNL Create] overview](create/overview.md)
     + [Generate variants](create/generate-variants.md)
 + Reviews & Approvals {#approve}
-    + [Review & Approvals overview](approvals/overview.md)
+    + [Review and Approvals overview](approvals/overview.md)
     + [Request review and approval of content](approvals/request-review.md)
     + [Review and edit content](approvals/review-and-edit.md)
     + [Approve content](approvals/approve-content.md)

@@ -9,7 +9,7 @@ Adobe GenStudio, powered by generative AI, revolutionizes the content supply cha
 
 Using GenStudio, marketers and teams can effortlessly generate and refine high-quality content that aligns with brand guidelines. GenStudio accelerates the marketing lifecycle, saving valuable time and resources.
 
-## Explore GenStudio Capabilities
+## Explore GenStudio capabilities
 
 <table style="table-layout:fixed">
 <tr style="border: 0;">

@@ -1,11 +1,13 @@
 ---
-title: Adobe [!DNL GenStudio] Tutorials
-description: Adobe GenStudio is an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation.
+title: [!DNL GenStudio] Tutorials
+description: Learn how to complete an end-to-end process, such as creating an email experience, by following GenStudio tutorials.
 ---
 
-# Adobe [!DNL GenStudio] Tutorials
+# [!DNL GenStudio] tutorials
 
-This collection of GenStudio tutorials follows basic step-by-step workflows that contain links to deeper concepts in the user guide.
+GenStudio tutorials follows basic step-by-step workflows that contain links to deeper concepts in the user guide.
+
+The tutorials in this guide detail concepts, prerequisites, best practices, and the individual steps needed to successfully generate high-quality marketing content in GenStudio.
 
 <table style="table-layout:fixed">
 <td valign="top">
@@ -18,7 +20,7 @@ This collection of GenStudio tutorials follows basic step-by-step workflows that
    <p>
       <em>Learn how to create an on-brand Email experience.</em>
    </p>
-</td>
+</td><!-- 
 <td valign="top">
    <div>
       <a href="create-email-experience.md">
@@ -40,5 +42,5 @@ This collection of GenStudio tutorials follows basic step-by-step workflows that
    <p>
       <em>Learn how to create an on-brand Email experience.</em>
    </p>
-</td>
+</td> -->
 </table>

@@ -1,7 +1,7 @@
 ---
 title: Add brand references to GenStudio
 description: Learn how to add brand references—Brands, Products, and Personas—in Adobe [!DNL GenStudio].
-feature: Content Hub, Brands Service
+feature: Content Hub, Brands Service, Personas Service, Products Service
 role: User
 level: Beginner
 ---

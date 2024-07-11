@@ -3,13 +3,12 @@ title: Publish approved content
 description: Learn how to publish approved content.
 hidefromtoc: no
 hide: no
+feature: Approval
 ---
 
 # Publish approved content
 
 The final stage of creating brand-aligned, approved content is saving it to [!DNL Content] with appropriate metadata. You (the content creator) must finalize the approved asset by publishing, or saving it, to [!DNL Content].
-
-## Approved content
 
 When all designated reviewers approve a draft, GenStudio changes the draft status to **Approved**. This change in status launches the publishing process.  GenStudio displays the _Approved variants ready to publish_ pop-up on the creator's Canvas and sends notification email. 
 

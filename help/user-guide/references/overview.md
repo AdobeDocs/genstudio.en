@@ -1,11 +1,12 @@
 ---
-title: Overview of Brand references—Brands, Products, and Personas
+title: Overview of Brand references—[!DNL Brands], [!DNL Products], and [!DNL Personas]
 description: Add brands, products, and personas to GenStudio to create a comprehensive brand profile that includes all aspects of a brand's representation.
+feature: Brands Service, Personas Service, Products Service
 ---
 
 # GenStudio Brand references
 
-GenStudio references encompass three key elements: **Brands**, **Products**, and **Personas**. These Brand references can be either uploaded or manually added to GenStudio, allowing users to establish brand guidelines that capture the essence of a brand's identity. These user-defined brand references help ensure that any AI-generated content is tailored to align with the unique brand identity, enabling effective personalization of content.
+GenStudio references encompass three key elements: **[!DNL Brands]**, **[!DNL Products]**, and **[!DNL Personas]**. These Brand references can be either uploaded or manually added to GenStudio, allowing users to establish brand guidelines that capture the essence of a brand's identity. These user-defined brand references help ensure that any AI-generated content is tailored to align with the unique brand identity, enabling effective personalization of content.
 
 To create compelling marketing content using GenStudio, start by building a comprehensive brand profile by adding [Brands](/help/user-guide/references/brands.md), [Products](/help/user-guide/references/products.md), and [Personas](/help/user-guide/references/personas.md) to your [GenStudio Brand references](/help/user-guide/references/add-references.md).
 
@@ -42,10 +43,4 @@ See [Brand validation](/help/user-guide/references/brand-validation.md).
 
 See Add brand references to learn how to add brands, products, and personas to GenStudio.
 
-## Sample guides
-
-## Brands
-
-## Products
-
-## Personas -->
+## Sample guides -->
