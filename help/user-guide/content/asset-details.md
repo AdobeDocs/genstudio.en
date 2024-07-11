@@ -23,7 +23,7 @@ Each asset (including experiences and templates) has associated metadata, or ass
 
 >[!TIP]
 >
->You can view asset details from [!DNL Insights], too. In _[!DNL Insights]_ mode, click **[!UICONTROL Assets]**. Search for the asset and TBD. (Waiting on Insights updates to complate this note.)
+>You can view asset details from [!DNL Insights], too. In _[!DNL Insights]_ mode, click **[!UICONTROL Assets]**. Search for the asset and TBD. (Waiting on Insights updates to complete this note.)
 
 ## Details from generated content
 
