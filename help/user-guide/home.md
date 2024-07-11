@@ -105,7 +105,7 @@ Using GenStudio, marketers and teams can effortlessly generate and refine high-q
    <p>
       <em>Learn how to create an on-brand email experience.</em>
    </p>
-</td>
+</td> <!-- 
 <td valign="top">
    <div>
       <a href="../user-guide/insights/overview.md">
@@ -116,5 +116,5 @@ Using GenStudio, marketers and teams can effortlessly generate and refine high-q
    <p>
       <em>Learn how to evaluate performance and repurpose content to stay relevant.</em>
    </p>
-</td>
+</td> -->
 </table>
