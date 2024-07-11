@@ -27,9 +27,6 @@ By incorporating Brand, Product, and [!DNL Personas] data into GenStudio, you ca
 * **Content generation** in GenStudio's [Create](/help/user-guide/create/overview.md) or [Content](/help/user-guide/content/overview.md) modes
 * [**Brand validation**](#brand-validation), which happens as part of the content creation process
 
-<!-- ## Governance
-
-## Limitations -->
 ## Brand validation
 
 In collaboration with Adobe's generative AI functionality, [!DNL Brands], [!DNL Products], and [!DNL Personas] play a crucial role in ensuring that all of your GenStudio content aligns with your brand identity.
@@ -37,14 +34,4 @@ In collaboration with Adobe's generative AI functionality, [!DNL Brands], [!DNL 
 GenStudio conducts brand validation on various brand aspects and provides a checklist for generated content to highlight improvement areas to better align with your brand identity.
 
 See [Brand validation](/help/user-guide/references/brand-validation.md).
-<!-- ## Tutorials
 
-See Add brand references to learn how to add [!DNL Brands], [!DNL Products], and [!DNL Personas] to GenStudio.
-
-## Sample guides
-
-## [!DNL Brands]
-
-## [!DNL Products]
-
-## [!DNL Personas] -->
