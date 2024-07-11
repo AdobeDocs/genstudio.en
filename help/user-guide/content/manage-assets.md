@@ -17,6 +17,8 @@ GenStudio [!DNL Content] simplifies and enhances the management of brand-approve
 
 1. Add more details to improve discoverability.
 
+   The more details that you provide, the more you experience the robust capabilities of GenStudio. Select one or more details from the list, or enter a new one where applicable, such as with keywords. Each detail you add appears below the list. Click `x` to remove a detail.
+
 1. Click **[!UICONTROL Add assets]**.
 
 ## Search

@@ -7,13 +7,13 @@ description: GenStudio stores approved content with rich metadata for searchabil
 
 GenStudio stores approved content with rich metadata for discoverability and performance tracking.
 
-Each asset (including experiences and templates) has associated metadata. The default metadata stored with an asset includes:
+Each asset (including experiences and templates) has associated metadata, or asset _details_. The default metadata captured and stored with an asset includes:
 
 - campaign or project name
 - channel type
 - basic file details (filename, file format, timestamps, size)
 
-**To see content metadata**:
+**To see asset details**:
 
 1. In _[!DNL Content]_ mode, select an asset.
 
@@ -23,7 +23,7 @@ Each asset (including experiences and templates) has associated metadata. The de
 
 >[!TIP]
 >
->You can view asset details from [!DNL Insights], too. In _[!DNL Insights]_ mode, click **[!UICONTROL Assets]**. Search for the asset and TBD.
+>You can view asset details from [!DNL Insights], too. In _[!DNL Insights]_ mode, click **[!UICONTROL Assets]**. Search for the asset and TBD. (Waiting on Insights updates to complate this note.)
 
 ## Details from generated content
 
