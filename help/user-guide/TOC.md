@@ -31,10 +31,10 @@ feature: Generative AI
     + [Activation overview](activation/overview.md)      
 + Insights {#insights}
     + [Insights overview](insights/overview.md)
-+ Brands, Products, Personas {#references}
-    + [Brands, Products, Personas overview](references/overview.md)
-    + [Brands](references/brands.md)
-    + [Personas](references/personas.md)
-    + [Products](references/products.md)
-    + [Add brands, products, personas](references/add-references.md)
-    + [Brand validation](references/brand-validation.md)
++ Guidelines {#guidelines}
+    + [Guidelines overview](guidelines/overview.md)
+    + [Brands](guidelines/brands.md)
+    + [Personas](guidelines/personas.md)
+    + [Products](guidelines/products.md)
+    + [Add brands, products, personas](guidelines/add-guidelines.md)
+    + [Brand validation](guidelines/brand-validation.md)

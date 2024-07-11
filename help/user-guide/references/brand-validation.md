@@ -6,7 +6,7 @@ feature: Brands Service
 
 # Brand validation
 
-In GenStudio, brand validation is an essential component that works in collaboration with the generative AI functionality, [[!DNL Brands]](/help/user-guide/references/brands.md), [[!DNL Products]](/help/user-guide/references/products.md), and [[!DNL Personas]](/help/user-guide/references/personas.md). It ensures that all your content aligns with your brand identity.
+In GenStudio, brand validation is an essential component that works in collaboration with the generative AI functionality, and Guidelines—[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md), and [[!DNL Personas]](/help/user-guide/guidelines/personas.md). It ensures that all your content aligns with your brand identity.
 
 GenStudio conducts brand validation on various aspects, including:
 
@@ -30,7 +30,7 @@ Brand validation logos show adjacent to the generated content preview in orange 
 
 Within the Brand Verification panel, orange icons communicate the specific guideline to focus on for improvements, and a green checkmark icon indicates that the generated content successfully aligns with that specific guideline.
 
-## Use brand validation to improve content
+## Use Brand Validation to improve content
 
 The Brand Validation panel makes it easy to ensure your generated content is informed by your comprehensive brand identity.
 
@@ -38,11 +38,11 @@ The Brand Validation panel makes it easy to ensure your generated content is inf
 
 **To verify brand alignment of emails:**
 
-1. Click the brand verification logo for an individual email _or_ click the brand verification logo in the top menu bar.
+1. Click the brand verification logo for an individual email _or_ click the Brand Validation logo in the top menu bar.
 1. In the _Brand Validation_ panel, toggle through each email to see how the generated content is checked against the **[!UICONTROL Brand voice]** and **[!UICONTROL Channel guidelines]**.
 
-   See [Brand voice guidelines](/help/user-guide/references/brands.md#brand-voice-guidelines) for detailed information on what guidelines are considered.
+   See [Brand voice guidelines](/help/user-guide/guidelines/brands.md#brand-voice-guidelines) for detailed information on what guidelines are considered.
 
-1. Using the suggestions, [manually revise emails](#modify-email-content) or fragments (sections) of emails to achieve the strongest alignment to your brand.
+1. Using the suggestions, [manually revise emails](/help/user-guide/create/generate-variants.md#modify-email-content) or fragments (sections) of emails to achieve the strongest alignment to your brand.
 
    Optionally, you can [generate variants](/help/user-guide/create/generate-variants.md) to iterate on the initial result and achieve closer brand-alignment.

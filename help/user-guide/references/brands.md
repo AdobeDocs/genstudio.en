@@ -8,7 +8,7 @@ feature: Brands Service
 
 A brand distinguishes an organization, product, service or concept from others. Some aspects of a brand are objective, like a logo, while others are subjective, like tone of voice.
 
-GenStudio uses the wealth of brand information from your brand, partners it with product and persona information, and builds out a comprehensive brand identity. This brand identity is used to inform the creation of on-brand content using Adobe's generative AI technology.
+GenStudio uses the wealth of brand information from your brand, partners it with [!DNL Product] and [!DNL Persona] information, and builds out a comprehensive brand identity. This brand identity is used to inform the creation of on-brand content using Adobe's generative AI technology.
 
 ![[!DNL Brands] overview in GenStudio](/help/assets/brand-overview-home.png){width="650" zoomable="yes"}
 
@@ -18,7 +18,7 @@ GenStudio uses the wealth of brand information from your brand, partners it with
 1. To see a brand's overview information, click to open a defined brand.
 1. To view individual details or modify a brand, click **[!UICONTROL Brand voice guidelines]**, **[!UICONTROL Channel guidelines]**, **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
 
-See [Add Brands, Products, and Personas](add-references.md) to learn how to add a brand to GenStudio, modify it, publish it, and more.
+See [Add Guidelines](add-guidelines.md) to learn how to add a brand to GenStudio, modify it, publish it, and more.
 
 ## [!DNL Brands] guidelines
 
@@ -78,13 +78,12 @@ You can create your own categories, like Photos, Product, or Illustration imager
 
 ### Logos
 
-Add logos to your brand guide in the **[!UICONTROL Logos]** tab.
+Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
 ![Logo guidelines in GenStudio](/help/assets/logos.png){width="650" zoomable="yes"}
 
-## Brand validation
+## Brand Validation
 
-In GenStudio, brand validation plays a crucial role in conjunction with the generative AI functionality of [!DNL Brands], [!DNL Products], and [!DNL Personas]. It ensures that all your content remains consistent with your brand identity.
+In GenStudio, Brand Validation plays a crucial role in conjunction with the generative AI functionality of [!DNL Brands], [!DNL Products], and [!DNL Personas]. It ensures that all your content remains consistent with your brand identity.
 
-See [Brand validation](/help/user-guide/references/brand-validation.md).
-
+See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
