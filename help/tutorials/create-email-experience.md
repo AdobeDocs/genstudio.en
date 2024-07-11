@@ -12,7 +12,7 @@ recommendations: noDisplay
 
 This tutorial demonstrates how to generated branded email experiences using GenStudio [[!DNL Create] mode](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
 
-To create an effective email experience, it is recommended that you [add brand references to GenStudio](/help/user-guide/guidelines/add-references.md) and brush up on the [basics of crafting a prompt](/help/user-guide/effective-prompts.md) before you begin.
+To create an effective email experience, it is recommended that you [add guidelines to GenStudio](/help/user-guide/guidelines/add-guidelines.md) and brush up on the [basics of crafting a prompt](/help/user-guide/effective-prompts.md) before you begin.
 
 ## Choose a template
 
@@ -30,14 +30,14 @@ To get started creating a new email experience, use an available template to pro
 
 ## Add parameters
 
-Adding reference parameters supercharges the content generation process and is an integral preparatory step for creating a new email experience.
+Adding guidelines parameters supercharges the content generation process and is an integral preparatory step for creating a new email experience.
 
-**To add parameters—brand references and images**:
+**To add parameters—guidelines and images**:
 
-1. Click the _Parameters_ icon IMG to begin adding references parameters and image content.
-1. In the _Parameters_ section, add brand references—Brand, Product, and Persona—to inform content creation.
+1. Click the _Parameters_ icon IMG to begin adding guidelines parameters and image content.
+1. In the _Parameters_ section, add guidelines—Brand, Product, and Persona—to inform content creation.
 
-   If there are no brands, personas, or products available from these menus, [add brand references to your GenStudio](/help/user-guide/guidelines/add-references.md).
+   If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio](/help/user-guide/guidelines/add-guidelines.md).
 
 1. In the _Content_ section, add content to be used in the experience *and* to influence content generation.
    1. Click **[!UICONTROL Select content]** or drop files in the _Content_ section.
@@ -49,7 +49,7 @@ When you are done adding parameters, you can collapse the *Parameters* and *Cont
 
 ## Use a prompt
 
-After brand references are selected, craft a prompt using natural language to start generating content for your new email experience.
+After guidelines are selected, craft a prompt using natural language to start generating content for your new email experience.
 
 See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn more about writing prompts.
 
@@ -62,7 +62,7 @@ See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn mo
 1. Optionally, click one of the prompt suggestions visible just above the prompt text box. Clicking a suggestion auto-fills the suggested prompt in the prompt box.
 1. Click **[!UICONTROL Generate]**.
 
-By default, four generated variations—all fueled by the prompt, reference parameters, and images you added—are shown in the Canvas.
+By default, four generated variations—all fueled by the prompt, guidelines parameters, and images you added—are shown in the Canvas.
 
 ## Revise generated emails
 
@@ -82,7 +82,7 @@ To optimize the generated emails and ensure strict adherence to brand identity, 
 
 **To verify brand alignment using the Brand Validation panel**:
 
-1. Open the brand validation panel and toggle through each email to see how the generated content is checked against your brand references and other GenStudio guidelines.
+1. Open the brand validation panel and toggle through each email to see how the generated content is checked against your guidelines and other GenStudio guidelines.
 1. [Manually revise emails](#revise-generated-emails), or [generate variants](/help/user-guide/create/generate-variants.md), to ensure your emails are closely aligned with your brand.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md#use-brand-validation-to-improve-content) for more information.
