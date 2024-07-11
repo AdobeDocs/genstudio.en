@@ -18,7 +18,7 @@ feature: Generative AI
     + [[!DNL Create] overview](create/overview.md)
     + [Generate variants](create/generate-variants.md)
 + Reviews & Approvals {#approve}
-    + [Review & Approvals overview](approvals/overview.md)
+    + [Review and Approvals overview](approvals/overview.md)
     + [Request review and approval of content](approvals/request-review.md)
     + [Review and edit content](approvals/review-and-edit.md)
     + [Approve content](approvals/approve-content.md)
@@ -28,13 +28,13 @@ feature: Generative AI
 + Campaigns {#campaigns}
     + [Campaigns overview](campaigns/overview.md)
 + Activation {#activation}
-    + [Activation overview](activation/overview.md)
+    + [Activation overview](activation/overview.md)      
 + Insights {#insights}
     + [Insights overview](insights/overview.md)
-+ Brand references {#references}
-    + [Brand references overview](references/overview.md)
++ Brands, Products, Personas {#references}
+    + [Brands, Products, Personas overview](references/overview.md)
     + [Brands](references/brands.md)
     + [Personas](references/personas.md)
     + [Products](references/products.md)
-    + [Add brand references](references/add-references.md)
+    + [Add brands, products, personas](references/add-references.md)
     + [Brand validation](references/brand-validation.md)

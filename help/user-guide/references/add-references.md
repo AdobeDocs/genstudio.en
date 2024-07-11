@@ -1,30 +1,30 @@
 ---
-title: Add brand references to GenStudio
-description: Learn how to add brand references—Brands, Products, and Personas—in Adobe [!DNL GenStudio].
-feature: Content Hub, Brands Service
+title: Add [!DNL Brands], [!DNL Products], and [!DNL Personas] to GenStudio
+description: Learn how to add [!DNL Brands], [!DNL Products], and [!DNL Personas]—in Adobe [!DNL GenStudio].
+feature: Content Hub, [!DNL Brands] Service, [!DNL Products] Service, [!DNL Personas] Service
 role: User
 level: Beginner
 ---
 
-# Add brand references to GenStudio
+# Add [!DNL Brands], [!DNL Products], and [!DNL Personas]
 
-Brand references are a collection of user-defined brand guidelines—[Brands](/help/user-guide/references/brands.md), [Products](/help/user-guide/references/products.md), and [Personas](/help/user-guide/references/personas.md)—in GenStudio. Brand references ensure any AI-generated content is customized to align with the specific brand identity, enabling effective personalization of content.
+[[!DNL Brands]](/help/user-guide/references/brands.md), [[!DNL Products]](/help/user-guide/references/products.md), and [[!DNL Personas]](/help/user-guide/references/personas.md) are user-defined guidelines in GenStudio that ensure any AI-generated content is customized to align with brand identity, enabling effective personalization of content.
 
-See the [GenStudio Brand references overview](/help/user-guide/references/overview.md).
+See the [GenStudio [!DNL Brands], [!DNL Products], and [!DNL Personas] overview](/help/user-guide/references/overview.md).
 
-Adding Brand references to GenStudio is an important step in the creation process. Brands, Products, and Personas inform the content creation process, along with user-defined prompts and Adobe generative AI technology, to craft impactful assets.
+Adding [!DNL Brands], [!DNL Products], and [!DNL Personas] to GenStudio is an important step in the creation process. [!DNL Brands], [!DNL Products], and [!DNL Personas] inform the content creation process, along with user-defined prompts and Adobe generative AI technology, to craft impactful assets.
 
-## Add brands
+## Add [!DNL Brands]
 
 To add a Brand to GenStudio, you can [**upload a brand guide**](#upload-brand-guidelines) or [**manually create a brand**](#manually-add-brand) by selecting guidelines and entering your brand details.
 
-In the left navigation area, click **Brands**. In the _Brands_ panel, select **Add brand**.
+In the left navigation area, click **[!DNL Brands]**. In the _[!DNL Brands]_ panel, select **Add brand**.
 
 ### Upload brand guidelines
 
 You can upload your own brand guidelines documents to populate a new brand in GenStudio.
 
-See [Brands](/help/user-guide/references/brands.md) to view a sample brand guide.
+See [[!DNL Brands]](/help/user-guide/references/brands.md) to view a sample brand guide.
 
 **To upload brand guidelines**:
 
@@ -50,7 +50,7 @@ You can manually add brand details, instead of uploading existing brand document
    You can populate various optional guidelines and imagery to build out your brand.
 
 1. Add information about your brand in the _About_ section.
-1. Enter [_Brand voice guidelines_](brands.md#brand-voice-guidelines).
+1. Enter [_Brand voice guidelines_]([!DNL Brands].md#brand-voice-guidelines).
 1. Enter [_Channel guidelines_](brands.md#channel-guidelines), for each applicable channel.
 1. Enter [_Image guidelines_](brands.md#image-guidelines). Expand each category in the Image guidelines section to see all guidelines.
 
@@ -59,7 +59,7 @@ You can manually add brand details, instead of uploading existing brand document
 1. Add brand logos in the _Logos_ section.
 1. Click into the _New brand_ title and enter a descriptive brand name.
 
-To see your created brands, click the back arrow near the top of the _Brand_ pane to navigate back to the _Brands_ home.
+To see your created [!DNL Brands], click the back arrow near the top of the _Brand_ pane to navigate back to the _[!DNL Brands]_ home.
 
 You do not have to [publish](#publish-brand) your brand to make the information accessible. Any manually added information is available immediately after it is added. For others in your organization to use the brand info in GenStudio, you must publish it.
 
@@ -79,19 +79,19 @@ When the brand is published, a banner appears confirming that your brand is read
 
 The published brand is now available for use.
 
-### Manage brands
+### Manage [!DNL Brands]
 
-In the _Brands_ home, you can click to **open an already-created brand** to edit or review it, or **rename** or **delete a brand** from the list from the Brands action menu:
+In the _[!DNL Brands]_ home, you can click to **open an already-created brand** to edit or review it, or **rename** or **delete a brand** from the list from the [!DNL Brands] action menu:
 
 * Click a brand tile to open a brand.
-* Select **[!UICONTROL Rename]** from the Brands action menu to rename an existing persona.
-* Select **[!UICONTROL Delete]** from the Brands action menu to delete a brand.
+* Select **[!UICONTROL Rename]** from the [!DNL Brands] action menu to rename an existing persona.
+* Select **[!UICONTROL Delete]** from the [!DNL Brands] action menu to delete a brand.
 
-## Add personas
+## Add [!DNL Personas]
 
 You can add a Persona in GenStudio to help target the content you create to your ideal audience. <!-- Add Rename, display, reposition functionality -->
 
-See [Personas](personas.md).
+See [[!DNL Personas]](personas.md).
 
 **To add a Persona**:
 
@@ -104,20 +104,20 @@ See [Personas](personas.md).
    1. Choose an image from the gallery in the _Gallery_ tab.
 1. Click **[!UICONTROL Use image]**.
 
-  To see your created personas, click the back arrow near the top of the _Persona_ pane to navigate back to the _Personas_ home.
+  To see your created [!DNL Personas], click the back arrow near the top of the _Persona_ pane to navigate back to the _[!DNL Personas]_ home.
 
-### Manage personas
+### Manage [!DNL Personas]
 
-In the _Personas_ home, you can **open an already-created persona** to edit or review it or **delete a persona** from the list:
+In the _[!DNL Personas]_ home, you can **open an already-created persona** to edit or review it or **delete a persona** from the list:
 
-* Select **[!UICONTROL Open]** from the Personas action menu to revise and review an existing persona.
-* Select **[!UICONTROL Delete]** from the Personas action menu to delete a persona.
+* Select **[!UICONTROL Open]** from the [!DNL Personas] action menu to revise and review an existing persona.
+* Select **[!UICONTROL Delete]** from the [!DNL Personas] action menu to delete a persona.
 
-## Add products
+## Add [!DNL Products]
 
-You can add Products in GenStudio to specify individual product focus areas when creating content. <!-- Add Rename, display, reposition functionality -->
+You can add [!DNL Products] in GenStudio to specify individual product focus areas when creating content. <!-- Add Rename, display, reposition functionality -->
 
-See [Products](products.md).
+See [[!DNL Products]](products.md).
 
 **To add a product**:
 
@@ -130,11 +130,11 @@ See [Products](products.md).
    1. Choose an image from the gallery in the _Gallery_ tab.
 1. Click **[!UICONTROL Use image]**.
 
-   To see your created products, click the back arrow near the top of the _Product_ pane to navigate back to the _Products_ home.
+   To see your created [!DNL Products], click the back arrow near the top of the _Product_ pane to navigate back to the _[!DNL Products]_ home.
 
-### Manage products
+### Manage [!DNL Products]
 
-In _Products_ home, you can **open an already-created product** to edit or review it, or **delete a product** from the list:
+In _[!DNL Products]_ home, you can **open an already-created product** to edit or review it, or **delete a product** from the list:
 
-* Select **[!UICONTROL Open]** from the Personas action menu to revise and review an existing persona.
-* Select **[!UICONTROL Delete]** from the Personas action menu to **Delete** a persona.
+* Select **[!UICONTROL Open]** from the [!DNL Personas] action menu to revise and review an existing persona.
+* Select **[!UICONTROL Delete]** from the [!DNL Personas] action menu to **Delete** a persona.

@@ -1,32 +1,32 @@
 ---
 title: GenStudio [!DNL Brands]
-description: GenStudio Brands are a comprehensive collection of brand assets—marketing copy, imagery, experiences, and more—to inform the creation of brand-aligned content in GenStudio.
+description: GenStudio [!DNL Brands] are a comprehensive collection of brand assets—marketing copy, imagery, experiences, and more—to inform the creation of brand-aligned content in GenStudio.
 feature: Brands Service
 ---
 
-# GenStudio Brands
+# GenStudio [!DNL Brands]
 
 A brand distinguishes an organization, product, service or concept from others. Some aspects of a brand are objective, like a logo, while others are subjective, like tone of voice.
 
-GenStudio uses the wealth of brand information from your brand, partners it with product and persona information, and builds out a comprehensive brand identity. This brand identity, called [brand references](overview.md) in GenStudio, is used to inform the creation of on-brand content using Adobe's generative AI technology.
+GenStudio uses the wealth of brand information from your brand, partners it with product and persona information, and builds out a comprehensive brand identity. This brand identity is used to inform the creation of on-brand content using Adobe's generative AI technology.
 
-![Brand overview in GenStudio](/help/assets/brand-overview-home.png){width="650" zoomable="yes"}
+![[!DNL Brands] overview in GenStudio](/help/assets/brand-overview-home.png){width="650" zoomable="yes"}
 
 **To view or modify a brand**:
 
-1. In the left navigation area, click **[!UICONTROL Brands]**.
+1. In the left navigation area, click **[!UICONTROL [!DNL Brands]]**.
 1. To see a brand's overview information, click to open a defined brand.
 1. To view individual details or modify a brand, click **[!UICONTROL Brand voice guidelines]**, **[!UICONTROL Channel guidelines]**, **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
 
-See [Add brand references](add-references.md) to learn how to add a brand to GenStudio, modify it, publish it, and more.
+See [Add Brands, Products, and Personas](add-references.md) to learn how to add a brand to GenStudio, modify it, publish it, and more.
 
-## Brands references guidelines
+## [!DNL Brands] guidelines
 
 Guidelines give GenStudio a clear picture of your brand-specific approach, tone, visual feeling, and more.
 
 The following guidelines sections detail each guidelines category, examples guidelines, and potential results. The guideline examples are sample inputs that shape the results output (result examples below)—use them to inform your own brand guidelines!
 
-### Brands voice guidelines
+### Brand voice guidelines
 
 The following table shows each category of brand voice guideline and guideline examples.
 
@@ -84,7 +84,7 @@ Add logos to your brand guide in the **[!UICONTROL Logos]** tab.
 
 ## Brand validation
 
-In GenStudio, brand validation plays a crucial role in conjunction with the generative AI functionality of Brands, Products, and Personas. It ensures that all your content remains consistent with your brand identity.
+In GenStudio, brand validation plays a crucial role in conjunction with the generative AI functionality of [!DNL Brands], [!DNL Products], and [!DNL Personas]. It ensures that all your content remains consistent with your brand identity.
 
 See [Brand validation](/help/user-guide/references/brand-validation.md).
 

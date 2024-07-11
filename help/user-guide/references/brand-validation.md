@@ -6,7 +6,7 @@ feature: Brands Service
 
 # Brand validation
 
-In GenStudio, brand validation is an essential component that works in collaboration with the generative AI functionality, [Brands](/help/user-guide/references/brands.md), [Products](/help/user-guide/references/products.md), and [Personas](/help/user-guide/references/personas.md). It ensures that all your content aligns with your brand identity.
+In GenStudio, brand validation is an essential component that works in collaboration with the generative AI functionality, [[!DNL Brands]](/help/user-guide/references/brands.md), [[!DNL Products]](/help/user-guide/references/products.md), and [[!DNL Personas]](/help/user-guide/references/personas.md). It ensures that all your content aligns with your brand identity.
 
 GenStudio conducts brand validation on various aspects, including:
 
@@ -17,7 +17,7 @@ GenStudio conducts brand validation on various aspects, including:
 
 When you are in [Create](/help/user-guide/create/overview.md) mode, brand validation information is available for any generated content. There is a Brand Validation icon for each piece of generated content that reveals its compliance with brand guidelines. By clicking the icon, you can access the Brand Validation panel, which provides analysis and feedback on key brand areas.
 
-The Brand Validation pane has different areas of focus for each content channel:
+The Brand Validation panel has different areas of focus for each content channel:
 
 * Email - brand voice and channel compliance
 * Images - application photography restrictions and other considerations
@@ -39,7 +39,7 @@ The Brand Validation panel makes it easy to ensure your generated content is inf
 **To verify brand alignment of emails:**
 
 1. Click the brand verification logo for an individual email _or_ click the brand verification logo in the top menu bar.
-1. In the brand verification panel, toggle through each email to see how the generated content is checked against the **[!UICONTROL Brand voice]** and **[!UICONTROL Channel guidelines]**.
+1. In the _Brand Validation_ panel, toggle through each email to see how the generated content is checked against the **[!UICONTROL Brand voice]** and **[!UICONTROL Channel guidelines]**.
 
    See [Brand voice guidelines](/help/user-guide/references/brands.md#brand-voice-guidelines) for detailed information on what guidelines are considered.
 
