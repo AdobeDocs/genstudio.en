@@ -1,6 +1,6 @@
 ---
-user-guide-title: Adobe GenStudio
-breadcrumb-title: Adobe GenStudio
+user-guide-title: Adobe GenStudio User Guide
+breadcrumb-title: User Guide
 user-guide-description: Learn how to quickly find and generate on-brand assets, create variations, and optimize experiences based on real-time content performance insights.
 feature-set: GenStudio
 feature: Generative AI
@@ -9,6 +9,7 @@ feature: Generative AI
 # Adobe GenStudio Guide {#user-guide}
 
 + [GenStudio Guide](home.md)
++ [Get started](/help/user-guide/get-started.md)
 + Introduction {#intro}
     + [GenStudio Concepts](concepts.md)
     + [Effective prompts](effective-prompts.md)
@@ -31,12 +32,14 @@ feature: Generative AI
         + [Customize templates](content/customize-template.md)
 + Campaigns {#campaigns}
     + [Campaigns overview](campaigns/overview.md)
++ Activation {#activation}
+    + [Activation overview](activation/overview.md)      
 + Insights {#insights}
     + [Insights overview](insights/overview.md)
 + Brand references {#references}
     + [Brand references overview](references/overview.md)
     + [Brands](references/brands.md)
-    + [Products](references/products.md)
     + [Personas](references/personas.md)
+    + [Products](references/products.md)
     + [Add brand references](references/add-references.md)
     + [Brand validation](references/brand-validation.md)
