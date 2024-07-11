@@ -39,7 +39,6 @@ The demand is high for quality experiences in multiple channels at a faster pace
     </td>
     <td>
         <p>Produce the content based on the plan. Collaborate in real time, receive feedback, make edits, and approve content.</p>
-        <p><img alt="Adobe Express" src="../assets/logo-AdobeExpress.png" width="150"></p>
     </td>
 </tr>
 <tr style="border: 0;">
