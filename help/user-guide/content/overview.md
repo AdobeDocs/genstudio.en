@@ -54,9 +54,9 @@ GenStudio [!DNL Content] provides a central location to store, find, and share a
 </tr>
 </table>
 
-## Content capabilities
+## [!DNL Content] capabilities
 
-GenStudio Content makes it easy to manage your approved assets and accelerate the content lifecycle. In **[!UICONTROL Content]** mode, you can search, find, and reuse performant content or select an asset or experience to jumpstart the creation of new variants for an evergreen campaign.
+GenStudio [!DNL Content] makes it easy to manage your approved assets and accelerate the content lifecycle. In **[!UICONTROL Content]** mode, you can search, find, and reuse performant content or select an asset or experience to jumpstart the creation of new variants for an evergreen campaign.
 
 ### Upload assets
 

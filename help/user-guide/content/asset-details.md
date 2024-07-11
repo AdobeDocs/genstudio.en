@@ -7,7 +7,7 @@ description: GenStudio stores approved content with rich metadata for searchabil
 
 GenStudio stores approved content with rich metadata for discoverability and performance tracking.
 
-Each asset (including experiences and templates) has associated metadata, or asset _details_. The default metadata captured and stored with an asset includes:
+Each asset (including experiences and templates) has associated _details_ (metadata) that help to identify, track, and learn from content performance. The default metadata captured and stored with an asset includes:
 
 - campaign or project name
 - channel type
@@ -19,7 +19,7 @@ Each asset (including experiences and templates) has associated metadata, or ass
 
 1. In the asset view, review the _[!UICONTROL Details]_ section on the right.
 
-   If the _[!UICONTROL Details]_ section is not visible, click the Information (i) icon.
+   If the _[!UICONTROL Details]_ section is not visible, click the **[!UICONTROL Information]** (i) icon.
 
 >[!TIP]
 >
@@ -31,14 +31,19 @@ The information used to generate a new asset or experience becomes metadata, suc
 
 ## Generated tags
 
-When assets are approved and stored in Content, GenStudio generates tags based on the asset features, such as color and tone, or keywords that identify asset features. You cannot edit tags.
+When assets are approved and stored in [!DNL Content], GenStudio generates tags based on the asset features, such as color and tone, or keywords that identify asset features. You cannot edit tags.
 
+<!-->
 ## GenStudio metadata
 
 This table is still TBD. What do customers need to know about these fields?
 
 {{$include /help/_includes/gs-metadata-fields.md}}
 
+-->
+
 ## History
 
-Expand the History section to view a timeline of approvals (list other actions).
+Expand the _[!UICONTROL History]_ section to view a timeline of approvals.
+
+<!-- list other actions -->

@@ -52,7 +52,7 @@ Each section can have only one of a field type. For example, Group 1 can only ha
 
 ### Background image
 
-When creating social media (Meta) ads, a background image is used along with text and a brand logo overlay. To ensure the image scales correctly, Meta ad templates require specifying an `aspect ratio`. In this context, you can provide only one image field.
+When designing ad for Meta, it is important to use a background image complemented by text and a brand logo overlay. To guarantee proper scaling of the image, Meta ad templates require specifying an `aspect ratio`. In this context, you can provide only one image field.
 
 ## Template preview
 

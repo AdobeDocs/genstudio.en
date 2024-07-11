@@ -25,7 +25,7 @@ feature: Generative AI
     + [Publish approved content](approvals/publish-content.md)
 + Content {#content}
     + [Content overview](content/overview.md)
-    + [Asset metadata](content/asset-details.md)
+    + [Asset details](content/asset-details.md)
     + [Manage assets](content/manage-assets.md)
     + Templates {#templates}
         + [Work with templates](content/use-templates.md)
