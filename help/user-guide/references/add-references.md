@@ -50,7 +50,7 @@ You can manually add brand details, instead of uploading existing brand document
    You can populate various optional guidelines and imagery to build out your brand.
 
 1. Add information about your brand in the _About_ section.
-1. Enter [_Brand voice guidelines_]([!DNL Brands].md#brand-voice-guidelines).
+1. Enter [_Brand voice guidelines_](brands.md#brand-voice-guidelines).
 1. Enter [_Channel guidelines_](brands.md#channel-guidelines), for each applicable channel.
 1. Enter [_Image guidelines_](brands.md#image-guidelines). Expand each category in the Image guidelines section to see all guidelines.
 
