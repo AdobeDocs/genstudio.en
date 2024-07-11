@@ -86,7 +86,7 @@ Using GenStudio, marketers and teams can effortlessly generate and refine high-q
 <table style="table-layout:fixed">
 <td valign="top">
    <div>
-      <a href="/help/user-guide/references/add-references.md">
+      <a href="/help/user-guide/guidelines/add-references.md">
       <img alt="Add brand references" src="../assets/card-create-assets.png">
       <strong>Add brand references</strong>
       </a>

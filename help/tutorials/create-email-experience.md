@@ -12,7 +12,7 @@ recommendations: noDisplay
 
 This tutorial demonstrates how to generated branded email experiences using GenStudio [[!DNL Create] mode](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
 
-To create an effective email experience, it is recommended that you [add brand references to GenStudio](/help/user-guide/references/add-references.md) and brush up on the [basics of crafting a prompt](/help/user-guide/effective-prompts.md) before you begin.
+To create an effective email experience, it is recommended that you [add brand references to GenStudio](/help/user-guide/guidelines/add-references.md) and brush up on the [basics of crafting a prompt](/help/user-guide/effective-prompts.md) before you begin.
 
 ## Choose a template
 
@@ -37,7 +37,7 @@ Adding reference parameters supercharges the content generation process and is a
 1. Click the _Parameters_ icon IMG to begin adding references parameters and image content.
 1. In the _Parameters_ section, add brand references—Brand, Product, and Persona—to inform content creation.
 
-   If there are no brands, personas, or products available from these menus, [add brand references to your GenStudio](/help/user-guide/references/add-references.md).
+   If there are no brands, personas, or products available from these menus, [add brand references to your GenStudio](/help/user-guide/guidelines/add-references.md).
 
 1. In the _Content_ section, add content to be used in the experience *and* to influence content generation.
    1. Click **[!UICONTROL Select content]** or drop files in the _Content_ section.
@@ -78,14 +78,14 @@ Before selecting what to send for approval or publish to [!DNL Content] you can 
 
 ## Verify brand alignment
 
-To optimize the generated emails and ensure strict adherence to brand identity, leverage the power of the [Brand Validation pane](/help/user-guide/references/brand-validation.md#brand-validation-panel). The Brand Validation pane illuminates areas for improvement. You can manually edit individual email fragments or [generate refined variants](/help/user-guide/create/generate-variants.md) of the initial result to achieve alignment with your brand.
+To optimize the generated emails and ensure strict adherence to brand identity, leverage the power of the [Brand Validation pane](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel). The Brand Validation pane illuminates areas for improvement. You can manually edit individual email fragments or [generate refined variants](/help/user-guide/create/generate-variants.md) of the initial result to achieve alignment with your brand.
 
 **To verify brand alignment using the Brand Validation panel**:
 
 1. Open the brand validation panel and toggle through each email to see how the generated content is checked against your brand references and other GenStudio guidelines.
 1. [Manually revise emails](#revise-generated-emails), or [generate variants](/help/user-guide/create/generate-variants.md), to ensure your emails are closely aligned with your brand.
 
-See [Brand validation](/help/user-guide/references/brand-validation.md#use-brand-validation-to-improve-content) for more information.
+See [Brand validation](/help/user-guide/guidelines/brand-validation.md#use-brand-validation-to-improve-content) for more information.
 
 ## Get reviews and approvals
 
