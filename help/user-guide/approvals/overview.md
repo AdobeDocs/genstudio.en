@@ -6,7 +6,7 @@ hide: no
 feature: Approval
 ---
 
-# Reviews and approvals
+# GenStudio Reviews and Approvals
 
 GenStudio's review and approvals workflow ensures that all stakeholders— from creative teams to legal experts— can efficiently review and approve campaign components, including generative AI-produced brand assets.
 

@@ -34,7 +34,7 @@ Adding reference parameters supercharges the content generation process and is a
 
 **To add parameters—brand references and images**:
 
-1. Click the _Parameters_ icon IMG to begin adding references parameters and image content.
+1. Click the _Parameters_ icon to begin adding references parameters and image content.
 1. In the _Parameters_ section, add brand references—Brand, Product, and Persona—to inform content creation.
 
    If there are no brands, personas, or products available from these menus, [add brand references to your GenStudio](/help/user-guide/references/add-references.md).
