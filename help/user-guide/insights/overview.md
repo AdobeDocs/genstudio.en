@@ -26,7 +26,7 @@ The [!DNL Insights] dashboard has a configurable grid for each content type: Cha
 
 Each view displays a corresponding grid, which you can search by keyword, filtering, and date range. You can click the cog icon above the right side of the table to toggle the viewable column types.
 
-See [Data columns for Insights](columns.md) for a description of each column type in the grid.
+See [Data columns for Insights](data-columns.md) for a description of each column type in the grid.
 
 ### Channels
 
