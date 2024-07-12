@@ -1,8 +1,6 @@
 ---
 title: GenStudio Campaigns
 description: Learn about centralized campaign planning and Campaign brief creation.
-hidefromtoc: no
-hide: no
 ---
 
 # GenStudio [!DNL Campaigns] 
