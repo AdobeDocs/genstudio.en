@@ -3,11 +3,15 @@ title: Overview of [!DNL Brands], [!DNL Products], and [!DNL Personas]
 description: Add [!DNL Brands], [!DNL Products], and [!DNL Personas] to GenStudio to create a comprehensive brand profile that includes all aspects of a brand's representation.
 ---
 
-# GenStudio Guidelines
+# GenStudio guidelines
 
-GenStudio Guidelines—**[!DNL Brands]**, **[!DNL Products]**, and **[!DNL Personas]**—can be either uploaded or manually added to GenStudio, allowing users to establish brand guidelines that capture the essence of a brand's identity. This user-defined information helps ensure that any AI-generated content is tailored to align with the unique brand identity, enabling effective personalization of content.
+GenStudio guidelines—**[!DNL Brands]**, **[!DNL Products]**, and **[!DNL Personas]**—can be either uploaded or manually added to GenStudio, allowing users to establish brand guidelines that capture the essence of a brand's identity. This user-defined information helps ensure that any AI-generated content is tailored to align with the unique brand identity, enabling effective personalization of content.
+
+![Guidelines in GenStudio](/help/assets/guidelines.png){width="650" zoomable="yes"}
 
 To create compelling marketing content using GenStudio, start by building a comprehensive brand profile by adding [[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md), and [[!DNL Personas]](/help/user-guide/guidelines/personas.md).
+
+See [Add guidelines](/help/user-guide/guidelines/add-guidelines.md) to learn how to add guidelines in GenStudio.
 
 ## Capabilities
 
