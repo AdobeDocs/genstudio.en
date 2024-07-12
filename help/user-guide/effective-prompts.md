@@ -10,7 +10,7 @@ Communicating with the generative AI is essential to working effectively in GenS
 
 GenStudio provides a generative AI prompt each time there is an opportunity to create or modify an asset. The components of an effective prompt should include descriptive language, examples, and information not provided through your configured guidelines.
 
-As a best practice, supply GenStudio with your brand information using [Brand references](./references/overview.md), then you can fully leverage the generative AI to produce brand-aligned content.
+As a best practice, supply GenStudio with your brand information using [guidelines](./guidelines/overview.md), then you can fully leverage the generative AI to produce brand-aligned content.
 
 ## Descriptive language
 
@@ -33,15 +33,15 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 ## Prompt criteria
 
-In the GenStudio [[!DNL Create]](./create/overview.md) mode, you can use **[!UICONTROL Prompt criteria]** to add details through selection to improve the AI interpretation. For on-brand images, the prompt criteria might include [[!DNL Brand]](../user-guide/references/brands.md) and general settings related to images, such as aspect ratio. For channels, you might use a template, choose from the [Brand references](/help/user-guide/references/overview.md), and select or upload existing assets. The real power begins with [configuring your brand guidelines](/help/user-guide/references/add-references.md).
+In the GenStudio [[!DNL Create]](./create/overview.md) mode, you can use **[!UICONTROL Prompt criteria]** to add details through selection to improve the AI interpretation. For on-brand images, the prompt criteria might include [[!DNL Brand]](../user-guide/guidelines/brands.md) and general settings related to images, such as aspect ratio. For channels, you might use a template, choose from the [guidelines](/help/user-guide/guidelines/overview.md), and select or upload existing assets. The real power begins with [configuring GenStudio guidelines](/help/user-guide/guidelines/add-guidelines.md).
 
-### Brand references
+### Guidelines
 
-Brand references—brand guidelines you add to GenStudio—help the generative AI to personalize your GenStudio asset composition. When presented with prompt criteria, you can choose a [[!DNL Brand]](./references/brands.md), a [[!DNL Persona]](./references/personas.md), and a [[!DNL Product]](./references/products.md) from your configured guidelines.
+GenStudio guidelines help the generative AI to personalize your GenStudio asset composition. When presented with prompt criteria, you can choose a [[!DNL Brand]](./guidelines/brands.md), a [[!DNL Persona]](./guidelines/personas.md), and a [[!DNL Product]](./guidelines/products.md) from your configured guidelines.
 
 >[!TIP]
 >
->You control how and when GenStudio uses your [!DNL Brand] guidelines. See [Brand references](./references/overview.md) to learn how to configure and manage your brand guidelines.
+>You control how and when GenStudio uses your [!DNL Brand] guidelines. See [Guidelines](./guidelines/overview.md) to learn how to configure and manage your brand guidelines.
 
 ## Try again
 
@@ -61,7 +61,7 @@ Some simple best practices for crafting effective prompts in GenStudio:
 
 - Be specific and provide details about what to do and not do.
 - Provide context using external references.
-- Leverage the [!DNL Brand] references feature of GenStudio.
-- Review and adjust [!DNL Brand] references regularly.
+- Leverage GenStudio guidelines.
+- Review and adjust guidelines regularly.
 - Iterate and refine.
 - Learn through experimentation.
