@@ -1,13 +1,11 @@
 ---
 title: Overview of Campaigns
 description: Learn about centralized campaign planning and Campaign brief creation.
-hidefromtoc: no
-hide: no
 ---
 
 # GenStudio Campaigns
 
-The GenStudio Campaigns feature accelerates the development and deployment of marketing initiatives, or _campaigns_. The Campaigns workflow enhances the development of campaign assets that lend themselves to creation and management by AI-generated workflows, including brand-complaint images and text. It also provides transparency into campaign goals, brand-aligned content, designated channels, and campaign schgit add -Aedules. 
+The GenStudio Campaigns feature accelerates the development and deployment of marketing initiatives, or _campaigns_. The Campaigns workflow enhances the development of campaign assets that lend themselves to creation and management by AI-generated workflows, including brand-complaint images and text. It also provides transparency into campaign goals, brand-aligned content, designated channels, and campaign schedules. 
 
 Marketing managers use the Campaigns workflow to create a _campaign brief_ that defines campaign features for all stakeholders who are involved in the creation, review, approval, and deployment of Campaign assets.
 

@@ -18,7 +18,7 @@ Use the _Handlebars_ templating language to construct your custom template. The 
 
 >[!TIP]
 >
->See [`What is Handelbars?`](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_.
+>See [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_.
 
 ## Template fields
 
