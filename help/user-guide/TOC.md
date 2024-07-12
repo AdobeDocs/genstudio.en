@@ -19,7 +19,7 @@ feature: Generative AI
     + [Brands](guidelines/brands.md)
     + [Personas](guidelines/personas.md)
     + [Products](guidelines/products.md)
-    + [Add Guidelines](guidelines/add-guidelines.md)
+    + [Add guidelines](guidelines/add-guidelines.md)
     + [Brand validation](guidelines/brand-validation.md)
 + Create {#create}
     + [[!DNL Create] overview](create/overview.md)

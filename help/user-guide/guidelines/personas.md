@@ -8,7 +8,7 @@ feature: Personas Service
 
 [!DNL Personas] provide an authentic portrayal of your customer segments, encompassing their information, interests, pain points, preferences, and behavioral traits.
 
-GenStudio leverages the power of Guidelines—[[!DNL Brands], [!DNL Products], and [!DNL Personas]](overview.md)—and Adobe's generative AI technology to curate personalized marketing content for your target customers.​
+GenStudio leverages the power of guidelines—[[!DNL Brands], [!DNL Products], and [!DNL Personas]](overview.md)—and Adobe's generative AI technology to curate personalized marketing content for your target customers.​
 
 ![[!DNL Personas] guidelines in GenStudio](/help/assets/personas-guidelines.png){width="650" zoomable="yes"}
 
@@ -18,7 +18,7 @@ GenStudio leverages the power of Guidelines—[[!DNL Brands], [!DNL Products], a
 1. To [view individual details or modify a persona](add-guidelines.md#manage-personas), click the _[!DNL Personas]_ action menu and select **Open**.
 1. Revise the personas guidelines by clicking into a guidelines category text field.
 
-See [Add Guidelines](add-guidelines.md) to learn how to add or modify a persona in GenStudio.
+See [Add guidelines](add-guidelines.md) to learn how to add or modify a persona in GenStudio.
 
 ## [!DNL Personas] guidelines
 

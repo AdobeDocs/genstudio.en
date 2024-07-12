@@ -11,11 +11,11 @@ GenStudio guidelines—**[!DNL Brands]**, **[!DNL Products]**, and **[!DNL Perso
 
 To create compelling marketing content using GenStudio, start by building a comprehensive brand profile by adding [[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md), and [[!DNL Personas]](/help/user-guide/guidelines/personas.md).
 
-See [Add guidelines](/help/user-guide/guidelines/add-guidelines.md) to learn how to add guidelines in GenStudio.
+See [Add guidelines](/help/user-guide/guidelines/add-guidelines.md) to learn how to add **[!DNL Brands]**, **[!DNL Products]**, and **[!DNL Personas]** in GenStudio.
 
 ## Capabilities
 
-GenStudio [!DNL Brands], [!DNL Products], and [!DNL Personas]:
+GenStudio guidelines:
 
 * Define the complexities of your brand identity
 * Create the base repository of brand information with guidelines for discrete elements such as logos and fonts, pixel spacing, and the subtlety of messaging guidelines
@@ -26,7 +26,7 @@ By incorporating brand, product, and persona data into GenStudio, you can improv
 
 ## Use cases
 
-[!DNL Brands], [!DNL Products], and [!DNL Personas] information enables two main use cases to ensure that any generated content adheres to a brand's desired representation:
+[!DNL Brands], [!DNL Products], and [!DNL Personas] guidelines enables two main use cases to ensure that any generated content adheres to a brand's desired representation:
 
 * **Content generation** in GenStudio's [Create](/help/user-guide/create/overview.md) or [Content](/help/user-guide/content/overview.md) modes
 * [**Brand Validation**](#brand-validation), which happens as part of the content creation process

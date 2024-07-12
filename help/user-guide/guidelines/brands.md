@@ -18,13 +18,13 @@ GenStudio uses the wealth of brand information from your brand, partners it with
 1. To see a brand's overview information, click to open a defined brand.
 1. To view individual details or modify a brand, click **[!UICONTROL Brand voice guidelines]**, **[!UICONTROL Channel guidelines]**, **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
 
-See [Add Guidelines](add-guidelines.md) to learn how to add a brand to GenStudio, modify it, publish it, and more.
+See [Add guidelines](add-guidelines.md) to learn how to add a brand to GenStudio, modify it, publish it, and more.
 
 ## [!DNL Brands] guidelines
 
 Guidelines give GenStudio a clear picture of your brand-specific approach, tone, visual feeling, and more.
 
-The following guidelines sections detail each guidelines category, examples guidelines, and potential results. The guideline examples are sample inputs that shape the results output (result examples below)—use them to inform your own brand guidelines!
+The following guidelines sections detail each guidelines category, examples guidelines, and potential results. The guideline examples are sample inputs that shape the results output (result examples below)—use them to inform your own brand guidelines.
 
 ### Brand voice guidelines
 
