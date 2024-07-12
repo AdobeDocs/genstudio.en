@@ -18,7 +18,7 @@ From the [!DNL Insights] dashboard, you can:
 
 The [!DNL Insights] dashboard has a configurable grid for each content type: Channels, Experiences, Assets, and Attributes.
 
-![Insights dashboard](/help/assets/insights-dashboard.png){width="170"}
+![Insights dashboard](/help/assets/insights-dashboard.png){width="250"}
 
 Each view displays a corresponding grid, which you can search by keyword, filtering, and date range. You can click the cog icon above the right side of the table to toggle the viewable column types.
 
