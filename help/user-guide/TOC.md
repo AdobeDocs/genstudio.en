@@ -32,6 +32,11 @@ feature: Generative AI
     + [Publish approved content](approvals/publish-content.md)
 + Content {#content}
     + [Content overview](content/overview.md)
+    + [Asset details](content/asset-details.md)
+    + [Manage assets](content/manage-assets.md)
+    + Templates {#templates}
+        + [Work with templates](content/use-templates.md)
+        + [Customize templates](content/customize-template.md)
 + Campaigns {#campaigns}
     + [Campaigns overview](campaigns/overview.md)
 + Activation {#activation}
