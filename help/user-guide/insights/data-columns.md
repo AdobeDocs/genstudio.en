@@ -1,13 +1,20 @@
 ---
-title: Data columns for Insights
-description: Understand what each data column in an Insights grid represents.
+title: Data columns for [!DNL Insights]
+description: Understand what each column in an [!DNL Insights] grid represents.
 feature: Insights
 recommendations: noDisplay
 ---
 
-# Data columns for Insights
+# Data columns for [!DNL Insights]
 
-In Insights mode, each view displays a customizable grid. Click the cog icon above the right side of the grid to toggle the viewable column types.
+The [!DNL Insights] mode displays customizable grids for each view: Channels, Experiences, Assets, and Attributes.
+
+Customize the grid:
+
+- Click a column heading to access the shortcut menu with resize and sort options.
+- Click the cog icon above the right side of the grid and open the _[!UICONTROL Configure table]_ menu to toggle viewable columns.
+
+Available columns include:
 
 | Column      | Description  |
 | ----------- | ------------ |

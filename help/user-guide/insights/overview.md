@@ -22,11 +22,11 @@ From the [!DNL Insights] dashboard, you can:
 
 The [!DNL Insights] dashboard has a configurable grid for each content type: Channels, Experiences, Assets, and Attributes.
 
-![Insights dashboard](/help/assets/insights-dashboard.png)
+![[!DNL Insights] dashboard](/help/assets/insights-dashboard.png)
 
-Each view displays a corresponding grid, which you can search by keyword, filtering, and date range. You can click the cog icon above the right side of the table to toggle the viewable column types.
+Each view displays a corresponding grid, which you can search by keyword, filtering, and date range. You can click the cog icon above the right side of the table to toggle the viewable column types. The grid _[!UICONTROL Summary]_ row may show totals or averages of a column.
 
-See [Data columns for Insights](data-columns.md) for a description of each column type in the grid.
+See [Data columns for [!DNL Insights]](data-columns.md) for a description of each column type in the grid.
 
 ### Channels
 
@@ -38,7 +38,13 @@ The [!DNL Insights] _[!UICONTROL Experiences]_ view concentrates on evaluating t
 
 ### Assets
 
-The [!DNL Insights] _[!UICONTROL Assets]_ view is designed to help you analyze the performance of assets. You can identify attributes of an asset that contribute to improving a selected metric, such as clicks or impressions. Clicking on an asset provides further context by showing its performance across different experiences.
+The [!DNL Insights] _[!UICONTROL Assets]_ view is designed to help you analyze the performance of assets. You can identify attributes of an asset that contribute to improving a selected metric, such as clicks or impressions.
+
+Clicking on an asset provides further context about its performance across different experiences:
+
+![Asset view](/help/assets/insights-asset-view.png){width="600" zoomable="yes"}
+
+In the asset view, the left side shows a close up of the asset and a list of attributes. There are three highlighted metrics: `Click-through rate`, `Cost per click`, and `Spend`. The performance highlights show how actual values (solid line) compare to the average value (dotted line) over the selected time period (default is `Last 30 days`).
 
 ### Attributes
 
