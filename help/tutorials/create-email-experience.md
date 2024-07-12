@@ -22,7 +22,7 @@ To get started creating a new email experience, use an available template to pro
 
 1. In _[!DNL Create]_ mode, click **[!UICONTROL Email]** in the _"What do you want to create today?"_ section.
 1. Click to open a template in the _Recent templates_ section, or click **[!UICONTROL View all templates]** to see more available templates.
-   1. In the _Select template_ pane, toggle the _Channels_ filter to **[!UICONTROL Email]**.
+   1. In the _Select template_ view, toggle the _Channels_ filter to **[!UICONTROL Email]**.
    1. Use the search option, adjacent to _Filter_, to find a specific email template.
    1. Click to select an email template, or toggle select multiple email templates, and click **[!UICONTROL Use]**. If you select multiple templates, when the variants are generated all selected templates will be used to provide you options.
 
@@ -30,7 +30,7 @@ To get started creating a new email experience, use an available template to pro
 
 ## Add parameters
 
-Adding guidelines parameters supercharges the content generation process and is an integral preparatory step for creating a new email experience.
+Adding guidelines parameters supercharges the content generation process and is an integral preparatory step for generating an email experience.
 
 **To add parameters and images**:
 
@@ -49,7 +49,7 @@ When you are done adding parameters, you can collapse the *Parameters* and *Cont
 
 ## Use a prompt
 
-After Guidelines are selected, craft a prompt using natural language to start generating content for your new email experience.
+After guidelines are selected, craft a prompt using natural language to start generating content for your new email experience.
 
 See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn more about writing prompts.
 
@@ -78,7 +78,7 @@ Before selecting what to send for approval or publish to [!DNL Content] you can 
 
 ## Verify brand alignment
 
-To optimize the generated emails and ensure strict adherence to brand identity, leverage the power of the [Brand Validation pane](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel). The Brand Validation pane illuminates areas for improvement. You can manually edit individual email fragments or [generate refined variants](/help/user-guide/create/generate-variants.md) of the initial result to achieve alignment with your brand.
+To optimize the generated emails and ensure strict adherence to brand identity, leverage the power of the [Brand Validation panel](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel). The Brand Validation pane illuminates areas for improvement. You can manually edit individual email fragments or [generate refined variants](/help/user-guide/create/generate-variants.md) of the initial result to achieve alignment with your brand.
 
 **To verify brand alignment using the Brand Validation panel**:
 
@@ -89,7 +89,7 @@ See [Brand validation](/help/user-guide/guidelines/brand-validation.md#use-brand
 
 ## Get reviews and approvals
 
-Use the Approvals pane, accessible on the top menu bar of the Canvas, to obtain reviews, track review comments, and get approvals from stakeholders.
+Use the Approvals panel, accessible on the top menu bar of the Canvas, to obtain reviews, track review comments, and get approvals from stakeholders.
 
 To obtain reviews and approvals:
 

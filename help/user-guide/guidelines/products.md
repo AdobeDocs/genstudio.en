@@ -1,6 +1,6 @@
 ---
 title: GenStudio [!DNL Products]
-description: GenStudio [!DNL Products] incorporate all aspects of your product—imagery, descriptions, and value propositions—to create relevant content that highlights product strengths and maintains consistency in product messaging.
+description: GenStudio [!DNL Products] incorporates all aspects of your product—imagery, descriptions, and value propositions—to create relevant content that highlights product strengths and maintains consistency in product messaging.
 feature: Products Service
 ---
 
@@ -15,7 +15,7 @@ GenStudio [!DNL Products] leverage deep understanding of product specifications,
 **To view or modify a product**:
 
 1. In the left navigation area, click **[!UICONTROL Products]**.
-1. To [view individual details or modify a product](add-guidelines.md#manage-products), click the _[!DNL Products]_ action menu and select **Open**.
+1. To [view individual details or modify a product](add-guidelines.md#manage-products), click the _[!DNL Products]_ action menu and select **[!UICONTROL Open]**.
 1. Revise the product guidelines by clicking into a guidelines category text field.
 
 See [Add Guidelines](add-guidelines.md) to learn how to add or modify a product in GenStudio.
@@ -24,7 +24,7 @@ See [Add Guidelines](add-guidelines.md) to learn how to add or modify a product 
 
 Individual product guidelines give GenStudio a clear picture of your products.
 
-These guidelines detail each guidelines category and related examples. The examples are sample inputs that shape the output of generated content. Use them to inform your own [!DNL Products] guidelines.
+These guidelines detail each guidelines category and related examples. The examples are sample inputs that shape the output of generated content. Use them to inform your [!DNL Products] guidelines.
 
 The following table shows each category of [!DNL Products] guidelines and associated examples.
 

@@ -122,9 +122,9 @@ See [[!DNL Personas]](personas.md).
 **To add a [!DNL Persona]**:
 
 1. Click **[!UICONTROL Create persona]**.
-1. Click **[!UICONTROL Untitled]** and enter a name for the [!DNL Persona] .
-1. Click into _Description_ and enter a description of this [!DNL Persona] .
-1. Click into _Messaging preferences_ and enter messaging details for the [!DNL Persona] .
+1. Click **[!UICONTROL Untitled]** and enter a name for the [!DNL Persona].
+1. Click into _Description_ and enter a description of this [!DNL Persona].
+1. Click into _Messaging preferences_ and enter messaging details for the [!DNL Persona].
 1. To edit the thumbnail, hover over the image thumbnail and from the _Thumbnail actions_ menu select **[!UICONTROL Edit thumbnail]**.
    1. Upload a new image or remove the existing uploaded image in the _Upload_ tab.
    1. Choose an image from the gallery in the _Gallery_ tab.

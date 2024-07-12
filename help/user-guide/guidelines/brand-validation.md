@@ -39,9 +39,9 @@ The Brand Validation panel makes it easy to ensure your generated content is inf
 **To verify brand alignment of emails:**
 
 1. Click the brand verification logo for an individual email _or_ click the Brand Validation logo in the top menu bar.
-1. In the _Brand Validation_ panel, toggle through each email to see how the generated content is checked against the **[!UICONTROL Brand voice]** and **[!UICONTROL Channel guidelines]**.
+1. In the _Brand Validation_ panel, toggle through each email to see how the generated content compares against the **[!UICONTROL Brand voice]** and **[!UICONTROL Channel guidelines]**.
 
-   See [Brand voice guidelines](/help/user-guide/guidelines/brands.md#brand-voice-guidelines) for detailed information on what guidelines are considered.
+   See [Brand voice guidelines](/help/user-guide/guidelines/brands.md) for more information on considered guidelines.
 
 1. Using the suggestions, [manually revise emails](/help/user-guide/create/generate-variants.md#modify-email-content) or fragments (sections) of emails to achieve the strongest alignment to your brand.
 

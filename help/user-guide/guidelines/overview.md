@@ -14,7 +14,7 @@ To create compelling marketing content using GenStudio, start by building a comp
 GenStudio [!DNL Brands], [!DNL Products], and [!DNL Personas]:
 
 * Define the complexities of your brand identity
-* Create the base repository of brand information with guidelines for discreet elements such as logos and fonts, pixel spacing, and the subtlety of messaging guidelines
+* Create the base repository of brand information with guidelines for discrete elements such as logos and fonts, pixel spacing, and the subtlety of messaging guidelines
 * Ensure that your defined brand identity informs the creation of each piece of content
 * Operate as a brand identity framework that GenStudio checks against with each piece of generated or [validated content](#brand-validation)
 
@@ -22,14 +22,14 @@ By incorporating brand, product, and persona data into GenStudio, you can improv
 
 ## Use cases
 
-[!DNL Brands], [!DNL Products], and [!DNL Personas] information enables two main use cases to ensure any generated content adheres to a brand's desired representation:
+[!DNL Brands], [!DNL Products], and [!DNL Personas] information enables two main use cases to ensure that any generated content adheres to a brand's desired representation:
 
 * **Content generation** in GenStudio's [Create](/help/user-guide/create/overview.md) or [Content](/help/user-guide/content/overview.md) modes
 * [**Brand Validation**](#brand-validation), which happens as part of the content creation process
 
 ## Brand Validation
 
-In collaboration with Adobe's generative AI functionality, [!DNL Brands], [!DNL Products], and [!DNL Personas] play a crucial role in ensuring that all of your GenStudio content aligns with your brand identity.
+In collaboration with Adobe's generative AI functionality, [!DNL Brands], [!DNL Products], and [!DNL Personas] play a crucial role in ensuring that all your GenStudio content aligns with your brand identity.
 
 GenStudio conducts Brand Validation on various brand aspects and provides a checklist for generated content to highlight improvement areas to better align with your brand identity.
 

@@ -14,6 +14,13 @@ feature: Generative AI
     + [GenStudio Concepts](concepts.md)
     + [Effective prompts](effective-prompts.md)
     + [Tutorials](https://experienceleague.adobe.com/docs/genstudio/learning/tutorials.html)
++ Guidelines {#guidelines}
+    + [Guidelines overview](guidelines/overview.md)
+    + [Brands](guidelines/brands.md)
+    + [Personas](guidelines/personas.md)
+    + [Products](guidelines/products.md)
+    + [Add Guidelines](guidelines/add-guidelines.md)
+    + [Brand validation](guidelines/brand-validation.md)
 + Create {#create}
     + [[!DNL Create] overview](create/overview.md)
     + [Generate variants](create/generate-variants.md)
@@ -28,13 +35,6 @@ feature: Generative AI
 + Campaigns {#campaigns}
     + [Campaigns overview](campaigns/overview.md)
 + Activation {#activation}
-    + [Activation overview](activation/overview.md)      
+    + [Activation overview](activation/overview.md)
 + Insights {#insights}
     + [Insights overview](insights/overview.md)
-+ Guidelines {#guidelines}
-    + [Guidelines overview](guidelines/overview.md)
-    + [Brands](guidelines/brands.md)
-    + [Personas](guidelines/personas.md)
-    + [Products](guidelines/products.md)
-    + [Add Guidelines](guidelines/add-guidelines.md)
-    + [Brand validation](guidelines/brand-validation.md)
