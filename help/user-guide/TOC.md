@@ -36,8 +36,8 @@ feature: Generative AI
     + [Activation overview](activation/overview.md)
 + Insights {#insights}
     + [Insights overview](insights/overview.md)
-    + [Connect media account](insights/connect-media.md)
-    + [Grid metrics](insights/columns.md)
+    + [Connect channel account](insights/connect-channel.md)
+    + [Data columns](insights/data-columns.md)
 + Brand references {#references}
     + [Brand references overview](references/overview.md)
     + [Brands](references/brands.md)

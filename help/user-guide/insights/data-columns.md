@@ -1,11 +1,11 @@
 ---
-title: Columns for Insights
-description: Understand what each column represents.
+title: Data columns for Insights
+description: Understand what each data column in an Insights grid represents.
 feature: Insights
 recommendations: noDisplay
 ---
 
-# Columns for Insights
+# Data columns for Insights
 
 In Insights mode, each view displays a customizable grid. Click the cog icon above the right side of the grid to toggle the viewable column types.
 
