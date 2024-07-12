@@ -32,9 +32,9 @@ To get started creating a new email experience, use an available template to pro
 
 Adding guidelines parameters supercharges the content generation process and is an integral preparatory step for creating a new email experience.
 
-**To add parameters—guidelines and images**:
+**To add parameters and images**:
 
-1. Click the _Parameters_ icon IMG to begin adding guidelines parameters and image content.
+1. Click the _Parameters_ icon IMG to begin adding parameters and image content.
 1. In the _Parameters_ section, add guidelines—Brand, Product, and Persona—to inform content creation.
 
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio](/help/user-guide/guidelines/add-guidelines.md).
@@ -49,7 +49,7 @@ When you are done adding parameters, you can collapse the *Parameters* and *Cont
 
 ## Use a prompt
 
-After guidelines are selected, craft a prompt using natural language to start generating content for your new email experience.
+After Guidelines are selected, craft a prompt using natural language to start generating content for your new email experience.
 
 See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn more about writing prompts.
 
@@ -62,7 +62,7 @@ See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn mo
 1. Optionally, click one of the prompt suggestions visible just above the prompt text box. Clicking a suggestion auto-fills the suggested prompt in the prompt box.
 1. Click **[!UICONTROL Generate]**.
 
-By default, four generated variations—all fueled by the prompt, guidelines parameters, and images you added—are shown in the Canvas.
+By default, four generated variations—all fueled by the prompt, guidelines, and images you added—are shown in the Canvas.
 
 ## Revise generated emails
 

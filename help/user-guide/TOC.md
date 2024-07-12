@@ -36,5 +36,5 @@ feature: Generative AI
     + [Brands](guidelines/brands.md)
     + [Personas](guidelines/personas.md)
     + [Products](guidelines/products.md)
-    + [Add brands, products, personas](guidelines/add-guidelines.md)
+    + [Add Guidelines](guidelines/add-guidelines.md)
     + [Brand validation](guidelines/brand-validation.md)
