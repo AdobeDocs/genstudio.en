@@ -1,7 +1,7 @@
 ---
 title: Generate variants of GenStudio content
 description: Learn how to generate variants of emails, images, and more in Adobe [!DNL GenStudio].
-feature: Content Hub, Brands Service
+feature: Content, Brands Service
 role: User
 level: Beginner
 ---
