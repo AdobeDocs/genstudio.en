@@ -1,7 +1,7 @@
 ---
 title: Generate variants of GenStudio content
 description: Learn how to generate variants of created content in Adobe [!DNL GenStudio].
-feature: Content Hub, Brands Service, Variant generation
+feature: Content Hub, Brands Service
 role: User
 level: Beginner
 ---
