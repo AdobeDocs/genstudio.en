@@ -10,7 +10,7 @@ GenStudio is a comprehensive platform for crafting, evaluating, and managing per
 
 **To prepare GenStudio to generate effective marketing content**:
 
-1. Set up brand references (brands, products, personas).
+1. Set up guidelines—Brands, Products, and Personas.
 1. Upload templates.
 1. Upload approved assets.
 1. Give access to Facebook account.

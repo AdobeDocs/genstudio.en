@@ -18,7 +18,7 @@ With GenStudio you can:
 
 GenStudio harnesses the power of generative AI to accelerate the content creation process and ensure high-quality content generation. The iterative lifecycle of your creative assets results in increasingly accurate and brand-aligned content that resonates with your target audience.
 
-Begin by effectively training GenStudio on your organization's branding, customer personas, and product descriptions through the powerful brand guidelines feature. See the [Brand references overview](../user-guide/references/overview.md) to learn how to prepare and upload these guidelines.
+Begin by effectively training GenStudio on your organization's branding, customer personas, and product descriptions through the powerful brand guidelines feature. See the [Guidelines overview](../user-guide/guidelines/overview.md) to learn how to prepare and upload these guidelines.
 
 ## GenStudio content lifecycle
 
@@ -39,7 +39,6 @@ The demand is high for quality experiences in multiple channels at a faster pace
     </td>
     <td>
         <p>Produce the content based on the plan. Collaborate in real time, receive feedback, make edits, and approve content.</p>
-        <p><img alt="Adobe Express" src="../assets/logo-AdobeExpress.png" width="150"></p>
     </td>
 </tr>
 <tr style="border: 0;">
