@@ -1,5 +1,5 @@
 ---
-title: [!DNL GenStudio] Tutorials
+title: GenStudio Tutorials
 description: Learn how to complete an end-to-end process, such as creating an email experience, by following GenStudio tutorials.
 ---
 

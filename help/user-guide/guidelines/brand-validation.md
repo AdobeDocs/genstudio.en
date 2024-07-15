@@ -43,10 +43,6 @@ The Brand Validation panel makes it easy to ensure your generated content is inf
 
    See [Brand voice guidelines](/help/user-guide/guidelines/brands.md) for more information on considered guidelines.
 
-<<<<<<< HEAD:help/user-guide/references/brand-validation.md
-1. Using the suggestions, manually revise emails or fragments (sections) of emails to achieve the strongest alignment to your brand.
-=======
 1. Using the suggestions, [manually revise emails](/help/user-guide/create/generate-variants.md#modify-email-content) or fragments (sections) of emails to achieve the strongest alignment to your brand.
->>>>>>> main:help/user-guide/guidelines/brand-validation.md
 
    Optionally, you can [generate variants](/help/user-guide/create/generate-variants.md) to iterate on the initial result and achieve closer brand-alignment.
