@@ -10,7 +10,7 @@ GenStudio [!DNL Create] leverages the power of Adobe GenAI to empower marketers 
 With GenStudio [!DNL Create], you can generate content for the following channels:
 
 * Emails
-* Marketing images
+* Meta ads
 <!-- * Social media images and ads
 * Display ads -->
 
@@ -35,13 +35,13 @@ Along with the power of GenStudio [guidelines](/help/user-guide/guidelines/overv
       <img alt="Re-use existing content" src="../../assets/icons/icon-addContent.svg" width="35">
       </a>
       <div>
-         <a href="../create/overview.md">
+         <a href="/help/user-guide/content/overview.md">
          <strong>Re-use existing content</strong>
          </a>
       </div>
    </td>
    <td align="center" valign="top" width="100">
-      <a href="/help/user-guide/create/generate-variants.md">
+      <a href="/help/user-guide/content/overview.md">
       <img alt="Generate variants of content" src="../../assets/icons/icon-template.svg" width="35">
       </a>
       <div>
