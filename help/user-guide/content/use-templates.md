@@ -1,6 +1,7 @@
 ---
 title: Work with Templates
 description: Learn how to use templates to create engaging experiences in GenStudio.
+feature: Templates
 ---
 
 # Work with Templates

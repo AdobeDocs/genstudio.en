@@ -43,3 +43,5 @@ feature: Generative AI
     + [Activation overview](activation/overview.md)
 + Insights {#insights}
     + [Insights overview](insights/overview.md)
+    + [Connect channel account](insights/connect-channel.md)
+    + [Data columns](insights/data-columns.md)
