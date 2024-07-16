@@ -1,7 +1,7 @@
 ---
 title: Write effective prompts
 description: Learn how to write effective prompts for GenStudio.
-feature: Prompt, Brands Service, Personas Service, Products Service
+feature: Prompt, Generative AI, Guidelines, Brands Service, Personas Service, Products Service
 ---
 
 # Write effective prompts

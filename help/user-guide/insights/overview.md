@@ -1,7 +1,7 @@
 ---
 title: Overview of [!DNL Insights]
 description: Learn how to optimize experiences based on real-time content performance metrics.
-feature: Insights
+feature: Attributes, Insights
 ---
 
 # GenStudio [!DNL Insights]

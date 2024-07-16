@@ -1,6 +1,7 @@
 ---
 title: Asset details
 description: GenStudio stores approved content with rich metadata for searchability and performance tracking.
+feature: Attributes
 ---
 
 # Asset details

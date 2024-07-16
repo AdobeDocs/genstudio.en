@@ -1,8 +1,6 @@
 ---
 title: Request review and approval
 description: Learn how to launch a review and approval process for your content.
-hidefromtoc: no
-hide: no
 ---
 
 # Request review and approval of content

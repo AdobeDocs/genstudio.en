@@ -1,8 +1,6 @@
 ---
 title: GenStudio Reviews and Approvals
 description: Learn about the GenStudio review and approval process.
-hidefromtoc: no
-hide: no
 ---
 
 # GenStudio reviews and approvals

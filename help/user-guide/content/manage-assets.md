@@ -1,6 +1,7 @@
 ---
 title: Manage assets and experiences
 description: Simplify and enhance the management of brand-approved assets for use and reuse in your digital marketing journey.
+feature: Content
 ---
 
 # Manage assets and experiences

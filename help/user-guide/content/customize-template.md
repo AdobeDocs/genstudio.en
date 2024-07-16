@@ -2,6 +2,7 @@
 title: Build a custom template
 description: Learn how to build a custom template for GenStudio.
 level: Intermediate
+feature: Templates
 ---
 
 # Build a custom template
