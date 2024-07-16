@@ -6,7 +6,7 @@ feature: Insights
 
 # Connect channel account
 
-The first time you enter the [!DNL Insights] mode, you may see a banner to guide you to connect GenStudio with your channel accounts. This connection enables GenStudio to receive data from your marketing campaigns, assets, and experiences. The [!DNL Insights] mode provides you with the tools to analyze the data and take action.
+The first time you open [!DNL Insights], you may see a banner to guide you to connect GenStudio with your channel accounts. This connection enables GenStudio to receive data from your marketing campaigns, assets, and experiences. The [!DNL Insights] mode provides you with the tools to analyze the data and take action.
 
 ## Meta connect
 
@@ -14,9 +14,9 @@ The first time you enter the [!DNL Insights] mode, you may see a banner to guide
 
     >[!INFO]
     >
-    >You may be directed to log in to FaceBook. FaceBook is the only available option at this time.
+    >You may be directed to log in to Facebook. Facebook is the only available option at this time.
 
-1. Log in to your FaceBook account.
+1. Log in to your Facebook account.
 
 1. In the _[!UICONTROL Reconnect]_ pop-up (Meta to Adobe symbol), verify the account information and click **[!UICONTROL Reconnect]**.
 

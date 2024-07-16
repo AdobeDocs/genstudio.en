@@ -16,7 +16,7 @@ From the [!DNL Insights] dashboard, you can:
 
 >[!TIP]
 >
->See [Connect channel account](connect-channel.md) for steps to enable GenStudio to receive data from your current marketing campaigns, assets, and experiences.
+>See the [Connect channel account](connect-channel.md) for steps to enable GenStudio to receive data from your current marketing campaigns, assets, and experiences.
 
 ## Dashboard
 
@@ -24,7 +24,7 @@ The [!DNL Insights] dashboard has a configurable grid for each content type: Cha
 
 ![[!DNL Insights] dashboard](/help/assets/insights-dashboard.png)
 
-Each view displays a corresponding grid, which you can search by keyword, filtering, and date range. You can click the cog icon above the right side of the table to toggle the viewable column types. The grid _[!UICONTROL Summary]_ row may show totals or averages of a column.
+Each view displays a corresponding grid, which you can search by keyword, filtering, and date range. You can click the cog icon above the right side of the table to toggle the viewable column types. The _[!UICONTROL Summary]_ row may show totals or averages of a column.
 
 See [Data columns for [!DNL Insights]](data-columns.md) for a description of each column type in the grid.
 
@@ -48,6 +48,6 @@ In the asset view, the left side shows a close up of the asset and a list of att
 
 ### Attributes
 
-Content _attributes_ help to identify assets by inherent details, such as color, tone, composition (subject, fonts, visual elements), and other key elements. Attributes are often the least measured and analyzed set of content information.
+Content _attributes_ help to identify assets by inherent details, such as color, tone, composition (subject, fonts, visual elements), and other key components. Attributes are often the least measured and analyzed set of content information.
 
 The [!DNL Insights] _[!UICONTROL Attributes]_ view can help you investigate and identify which attributes perform better with certain audiences, channels, regions, and highlight seasonal trends. With these insights, you can use performant attributes to create variants, target a specific audience, or experiment with different campaign strategies.
