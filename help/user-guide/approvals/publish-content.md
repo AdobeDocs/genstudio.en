@@ -1,8 +1,6 @@
 ---
 title: Publish approved content
 description: Learn how to publish approved content.
-hidefromtoc: no
-hide: no
 ---
 
 # Publish approved content

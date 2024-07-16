@@ -1,7 +1,7 @@
 ---
 title: Data columns for [!DNL Insights]
 description: Understand what each column in an [!DNL Insights] grid represents.
-feature: Insights
+feature: Attributes, Insights
 recommendations: noDisplay
 ---
 

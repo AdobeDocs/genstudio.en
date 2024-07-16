@@ -1,6 +1,7 @@
 ---
 title: Overview of [!DNL Content]
 description: Learn how to find, edit, reuse, and share brand-approved assets in one, intuitive portal.
+feature: Attributes, Content, Templates
 ---
 
 # GenStudio [!DNL Content]
