@@ -1,6 +1,7 @@
 ---
 title: Approve content
 description: Learn how to approve content.
+feature: Approval
 ---
 
 # Approve content

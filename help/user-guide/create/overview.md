@@ -1,6 +1,7 @@
 ---
 title: Overview of [!DNL Create]
 description: Quickly generate high-performing, on-brand content with generative AI in GenStudio [!DNL Create].
+feature: Create
 ---
 
 # GenStudio [!DNL Create]
@@ -21,21 +22,21 @@ Along with the power of GenStudio [guidelines](/help/user-guide/guidelines/overv
 <table style="table-layout:fixed">
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
-      <a href="/help/tutorials/create-email-experience.md">
+      <a href="/help/tutorials/tutorials.md">
       <img alt="Create new content" src="../../assets/icons/icon-create.svg" width="35">
       </a>
       <div>
-         <a href="../content/overview.md">
+         <a href="/help/tutorials/tutorials.md">
          <strong>Create new content</strong>
          </a>
       </div>
    </td>
    <td align="center" valign="top" width="100">
-      <a href="../create/overview.md">
+      <a href="/help/user-guide/content/overview.md">
       <img alt="Re-use existing content" src="../../assets/icons/icon-addContent.svg" width="35">
       </a>
       <div>
-         <a href="../create/overview.md">
+         <a href="/help/user-guide/content/overview.md">
          <strong>Re-use existing content</strong>
          </a>
       </div>

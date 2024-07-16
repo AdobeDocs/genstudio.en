@@ -1,6 +1,7 @@
 ---
 title: Review and edit content
 description: Learn how to review and edit content iteratively.
+feature: Approval
 ---
 
 # Review and edit content

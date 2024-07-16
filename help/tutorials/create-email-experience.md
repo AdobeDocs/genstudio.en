@@ -34,8 +34,8 @@ Adding guidelines parameters supercharges the content generation process and is 
 
 **To add parameters and images**:
 
-1. Click the _Parameters_ icon IMG to begin adding parameters and image content.
-1. In the _Parameters_ section, add guidelines—Brand, Product, and Persona—to inform content creation.
+1. Click the _Parameters_ icon to begin adding references parameters and image content.
+1. In the _Parameters_ section, add brand references—Brand, Product, and Persona—to inform content creation.
 
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio](/help/user-guide/guidelines/add-guidelines.md).
 

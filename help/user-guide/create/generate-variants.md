@@ -1,6 +1,6 @@
 ---
 title: Generate variants of GenStudio content
-description: Learn how to generate variants of emails, images, and more in Adobe [!DNL GenStudio].
+description: Learn how to generate variants of created content in Adobe [!DNL GenStudio].
 feature: Content, Brands Service
 role: User
 level: Beginner
@@ -23,4 +23,4 @@ By default, GenStudio generates four email variations. They can be manually modi
    1. Enter a new prompt in the _"Describe the experiences you want to generate"_ prompt box.
 1. Click **[!UICONTROL Generate]**.
 
-A new set of variants are generated. You can continue to modify, generate, and iterate on variants until you are ready to [publish to [!DNL Content]](#publish-experience) and [export for use](#export-experience).
+A new set of variants are generated. You can continue to modify, generate, and iterate on variants until you are ready to publish to [!DNL Content] and export for use.
