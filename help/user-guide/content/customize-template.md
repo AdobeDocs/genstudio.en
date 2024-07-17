@@ -72,3 +72,12 @@ Another example may be to prevent the use of tracking codes when previewing an e
 ```handlebars
 <a class="button" {{#if _genStudio.browser }}href="{{ link }}"{{/if}}{{#if _genStudio.export }}href="{{ link }}?trackingid=<%=getTrackingId()%>&mv=email"{{/if}} target="_blank">{{ cta }}</a>
 ```
+
+## Static content
+
+Email and Meta templates often link to images and CSS files hosted outside GenStudio. When GenStudio generates thumbnails for these templates or the experiences derived from them, it may ignore these external resources if they do not have the correct Cross-Origin Resource Sharing (CORS) headers.
+
+To ensure these resources are available during the thumbnail generation process, you can choose one of two options:
+
+1. **Use CORS headers**: The host server must send responses with an `Access-Control-Allow-Origin` header with a `https://experience.adobe.com` value for production environments. This allows GenStudio to access and include these resources in the thumbnail generation process.
+1. **Use Data URLs**: Embed the external resources directly into the template using Data URLs. This method bypasses CORS restrictions because Data URLs are not affected by cross-origin policies, ensuring that the resources are available during the thumbnail generation process.
