@@ -67,6 +67,6 @@ The **[!UICONTROL Add assets]** panel allows you to drag-and-drop or browse for 
 
 When you save approved assets, [!DNL Content] maintains the rich metadata, generation context, and audit history. Asset details help to narrow search results quickly using filter and search strings. GenStudio AI automatically identifies and stores certain details, such as color. Searching for `blue` in the search field narrows the content list to assets tagged as blue.
 
-## Work with templates
+### Work with templates
 
 Templates speed up the creation process so that you can generate consistent content across multiple channels. Templates provide a starting point in the creation process with pre-configured layouts and design elements.

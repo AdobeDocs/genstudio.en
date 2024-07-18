@@ -19,7 +19,7 @@ For example, the following line tells GenStudio where to place the `headline`:
 <div>{{ headline }}</div>
 ```
 
-When using your custom template in the [[!DNL Create] workflow](../create/overview.md#create-capabilities), field content is either generated, sourced from your selected guidelines, or manually supplied. The maximum number of fields allowed in a custom template is twenty.
+When using your custom template in the [[!DNL Create] workflow](../create/overview.md#create-capabilities), field content is either generated, sourced from your selected guidelines, or manually supplied, such as uploading a hero asset. The maximum number of fields allowed in a custom template is twenty.
 
 **Recognized field names**:
 
@@ -45,12 +45,23 @@ When designing an ad for Meta, it is important to use a background image complem
 
 _Sections_ provide a way to inform GenStudio that fields belonging to a section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section. A template can include up to three sections.
 
-Use a prefix to group the fields of a section:
+Use a prefix of your choice in the field name to indicate that this field is part of a section or group. For example, you may want to spotlight content that appears in a highlighted area. You could choose to identify the content for this area with a common prefix:
 
-- `group1_headline`
-- `group1_body`
+- `spotlight_headline`
+- `spotlight_body`
 
-Each section can have only one of a field type. For example, Group 1 can only have one `group1_headline` field.
+Each section can have only one of a field type. For example, the above example group with the `spotlight` prefix can only have one `spotlight_headline` field.
+
+When you have multiple sections (three max):
+
+- `headline`
+- `body`
+- `spotlight_headline`
+- `spotlight_body`
+- `news_headline`
+- `news_body`
+
+GenStudio understands that `spotlight_headline` is more closely related to `spotlight_body` than to `news_body`.
 
 ## Template preview
 
