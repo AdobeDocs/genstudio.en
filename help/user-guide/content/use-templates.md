@@ -43,6 +43,6 @@ Find and use an existing template to create experiences.
 
    ![Content template list](../../assets/content-templates.png)
 
-1. Click on a template for a full view and a list of details.
+1. Select a template for a full view and a list of details.
 
 1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.

@@ -34,12 +34,11 @@ Apply filters and use metadata tags from asset details to narrow search results.
 
 1. Click **[!UICONTROL Search]** (magnifying glass) to enter a keyword or description.
 
-1. Narrow your search by selecting a category from the _[!UICONTROL Filter]_ list.
-For example, if you are looking for a PNG file, click **[!UICONTROL File format]** and check the **PNG** box.
+1. Narrow your search by selecting a category from the _[!UICONTROL Filter]_ list. For example, if you are looking for a PNG file, click **[!UICONTROL File format]** and choose **PNG**.
 
    The more you narrow your search, the fewer filter options available. Click **[!UICONTROL Clear all]** to remove all filters.
 
-1. Click on an asset for a full view and a list of details.
+1. Select an asset for a full view and a list of details.
 
    Click **[!UICONTROL Download]** (down arrow) to use the asset in your local workstation.
 
