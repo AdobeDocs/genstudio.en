@@ -21,7 +21,7 @@ You can use natural language to articulate your ideas to create experiences. You
 
 The following is a sample prompt that articulates information about your intent, target audience, and style.
 
-```terminal
+```bash
 Write an email to motivate infrequent users of Photoshop to follow an in-app tutorial that teaches them to combine elements of two photos into a beautiful work of art. Highlight the generative AI capabilities of Photoshop and use references to natural imagery.
 ```
 
@@ -47,7 +47,7 @@ GenStudio guidelines help the generative AI to personalize your GenStudio asset 
 
 Prompting is an iterative process. If the results are not meeting your expectations, review your prompt and make some changes or add more details. You can refine your prompt by providing a URL as an example or a source for further information.
 
-```terminal
+```bash
 Write an email to motivate infrequent users of Photoshop to follow an in-app tutorial that teaches them to combine elements of two photos into a beautiful work of art. Highlight the generative AI capabilities of Photoshop and use references to natural imagery.
 
 Use information from https://www.adobe.com/products/photoshop.html to inspire users with the latest features.
