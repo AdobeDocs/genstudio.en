@@ -20,12 +20,12 @@ To get started generating a new Meta ad experience, use an available template to
 
 **To choose a Meta ad template**:
 
-1. In _[!DNL Create]_ mode, click **[!UICONTROL Meta ads]** in the _"What do you want to create today?"_ section.
+1. In _[!DNL Create]_, click **[!UICONTROL Meta ads]** in the _"What do you want to create today?"_ section.
 1. In the _Select template_ view, toggle the _Channels_ filter to **[!UICONTROL Meta ads]**.
 1. Use the search option, adjacent to _Filter_, to find a specific Meta ad template.
 1. Click to select a template, or toggle select multiple templates, and click **[!UICONTROL Use]**. If you select multiple templates, when the variants are generated all selected templates will be used to provide you options.
 
-   This action will open the Canvas, which is the central hub for content creation.
+   This action opens the Canvas, which is the central hub for content creation.
 
 ## Add parameters
 
@@ -93,7 +93,7 @@ See the [Brand validation](/help/user-guide/guidelines/brand-validation.md#brand
 1. Open the _Brand Validation_ panel (brand validation icon in top menu bar) and toggle through each ad to see how the generated content is checked against your guidelines and other GenStudio guidelines.
 1. [Manually revise Meta ads](#revise-generated-meta-ads), or [generate variants](/help/user-guide/create/generate-variants.md), to ensure your ads are closely aligned with your brand.
 
-See [Brand validation](/help/user-guide/guidelines/brand-validation.md#use-brand-validation-to-improve-content) for more information.
+See [Brand validation](/help/user-guide/guidelines/brand-validation.md#use-brand-validation-to-improve-content).
 
 ## Get reviews and approvals
 
