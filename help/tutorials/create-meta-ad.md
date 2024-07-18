@@ -12,7 +12,7 @@ recommendations: noDisplay
 
 This tutorial demonstrates how to generate branded Meta ad experiences using GenStudio [[!DNL Create] mode](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
 
-Before you start generating a Meta ad experience, you should [include guidelines in GenStudio](/help/user-guide/guidelines/add-guidelines.md) and familiarize yourself with the [fundamentals of crafting a prompt](/help/user-guide/effective-prompts.md).
+Before you begin generating a Meta ad experience, it is important to [incorporate guidelines](/help/user-guide/guidelines/add-guidelines.md) in GenStudio and become familiar with the basics of [creating a prompt](/help/user-guide/effective-prompts.md).
 
 ## Choose a template
 
@@ -49,7 +49,7 @@ When you are done adding parameters, you can collapse the *Parameters* and *Cont
 
 ## Use a prompt
 
-After guidelines are selected, craft a prompt using natural language to start generating content for your new email experience.
+After guidelines are selected, craft a prompt using natural language to start generating content for your new Meta ad experience.
 
 See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn more about writing prompts.
 
@@ -75,11 +75,12 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 
 **To revise generated variants**:
 
-* **To manually edit an email**, double-click into any of the email fragments (such as the subject line, header, or body copy) and edit as needed.
+* **To manually edit an Meta ad**, double-click into any of the ad fragments (such as the subject line, header, or body copy) and edit as needed.
 
-   The subject line and preheader only require a single click to edit, while the header, body copy, and CTA require a double-click.
+   The subject line and preheader only require a single click to edit, while the header and body copy require a double-click.
+
 * **To change or select the call to action**, click the call to action button and select from an available button.
-* **To delete an email**, click to select the email title (for example, "Email 1/4") and click **[!UICONTROL Delete variant]**.
+* **To delete an Meta ad**, click to select the ad title (for example, "Meta 4") and click **[!UICONTROL Delete variant]**.
 
 ## Verify brand alignment
 
@@ -90,7 +91,7 @@ See the [Brand validation](/help/user-guide/guidelines/brand-validation.md#brand
 **To verify brand alignment using the Brand Validation panel**:
 
 1. Open the _Brand Validation_ panel (brand validation icon in top menu bar) and toggle through each ad to see how the generated content is checked against your guidelines and other GenStudio guidelines.
-1. [Manually revise emails](#revise-generated-emails), or [generate variants](/help/user-guide/create/generate-variants.md), to ensure your ads are closely aligned with your brand.
+1. [Manually revise Meta ads](#revise-generated-meta-ads), or [generate variants](/help/user-guide/create/generate-variants.md), to ensure your ads are closely aligned with your brand.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md#use-brand-validation-to-improve-content) for more information.
 
@@ -100,7 +101,7 @@ Use the Approvals panel, accessible on the top menu bar of the Canvas, to obtain
 
 **To obtain reviews and approvals**:
 
-1. [Launch an approval request](/help/user-guide/approvals/request-review.md) to solicit an [approval of drafted email experiences](/help/user-guide/approvals/approve-content.md).
+1. [Launch an approval request](/help/user-guide/approvals/request-review.md) to solicit an [approval of drafted Meta ad experiences](/help/user-guide/approvals/approve-content.md).
 1. [Remove or add reviewers](/help/user-guide/approvals/review-and-edit.md#manage-approvals) during the review process.
 1. [Access the content for review](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) and view the requests for revision.
 1. Edit the drafts per review comments and [publish your Meta ad experiences](#publish-and-export-experience).
@@ -109,7 +110,7 @@ See [Reviews and approvals](/help/user-guide/approvals/overview.md) for more inf
 
 ## Publish and export experience
 
-To make the generated emails available for current and future use, publish it to [!UICONTROL Content] and export it for use in your marketing campaigns.
+To make the generated Meta ads available for current and future use, publish it to [!UICONTROL Content] and export it for use in your marketing campaigns.
 
 1. **To publish your new Meta ad experience(s)**, click **[!UICONTROL Publish]** in the top toolbar.
 1. **To export your new Meta ad experience(s)**, click **[!UICONTROL Export]** in the top toolbar.

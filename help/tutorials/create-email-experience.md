@@ -71,7 +71,7 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 
 * **To manually edit an email**, double-click into any of the email fragments (such as the subject line, header, or body copy) and edit as needed.
 
-   The subject line and preheader only require a single click to edit, while the header, body copy, and CTA require a double-click.
+   The subject line and preheader only require a single click to edit, while the header, body copy, and call to action require a double-click.
 
 * **To delete an email**, click to select the email title (for example, "Email 1/4") and click **[!UICONTROL Delete variant]**.
 
