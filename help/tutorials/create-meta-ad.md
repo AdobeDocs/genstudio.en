@@ -117,3 +117,9 @@ To make the generated Meta ads available for current and future use, publish it 
    1. Select the format—CSV and images or HTML only—and click **[!UICONTROL Export]**.
 
 See [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content) for more information.
+
+## Connect Meta to GenStudio
+
+You can connect GenStudio to Meta to receive advanced analytics and [insights](/help/user-guide/insights/overview.md) into content performance.
+
+See [Connect channel account](/help/user-guide/insights/connect-channel.md) for more information.
