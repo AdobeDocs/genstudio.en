@@ -90,7 +90,7 @@ See the [Brand validation](/help/user-guide/guidelines/brand-validation.md#brand
 
 **To verify brand alignment using the Brand Validation panel**:
 
-1. Open the _Brand Validation_ panel (brand validation icon in top menu bar) and toggle through each ad to see how the generated content is checked against your guidelines and other GenStudio guidelines.
+1. Open the _[!DNL Brand] Validation_ panel (brand validation icon in top menu bar) and toggle through each ad to see how the generated content is checked against your guidelines and other GenStudio guidelines.
 1. [Manually revise Meta ads](#revise-generated-meta-ads), or [generate variants](/help/user-guide/create/generate-variants.md), to ensure your ads are closely aligned with your brand.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md#use-brand-validation-to-improve-content) for more information.
