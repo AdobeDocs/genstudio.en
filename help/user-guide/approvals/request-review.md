@@ -29,6 +29,7 @@ Optional: Add comments to guide approver focus to particular features of the dra
 
 If you are the content creator, your draft Canvas displays the **[!UICONTROL Manage approvals]** button. Use this button to open a popup from which you can remove or add approvers throughout the review and approval process.
 
-Approver names are listed on this pane with a [!DNL Notified] status after the approval requests have launched. 
+Approver names are listed on this pane with a [!DNL Notified] status after the approval requests have launched. See [Approve content](/help/user-guide/approval/approve-content.md) for an overview of GenStudio approval tasks.
+
 
 

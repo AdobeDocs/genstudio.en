@@ -19,6 +19,7 @@ GenStudio's review and approvals workflow ensures that all stakeholders— from 
 
 ## Review and approval lifecycle
 
+The main phases of the review and approval workflow include: 
 
 [Request review and approval of content you have created](/help/user-guide/approval/request-review.md)
 
@@ -27,8 +28,6 @@ GenStudio's review and approvals workflow ensures that all stakeholders— from 
 [Approve content](/help/user-guide/approval/approve-content.md)
 
 [Publish content](/help/user-guide/approval/publish-content.md)
-
-
 
 ## Who can request a review or approve content?
 
