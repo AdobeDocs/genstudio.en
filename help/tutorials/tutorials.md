@@ -20,18 +20,18 @@ The tutorials in this guide detail concepts, prerequisites, best practices, and 
    <p>
       <em>Learn how to create an on-brand Email experience.</em>
    </p>
-</td><!-- 
+</td>
 <td valign="top">
    <div>
-      <a href="create-email-experience.md">
-      <img alt="Ideas, books, pencil, computer" src="../assets/card-create-assets.png">
-      <strong>Create an email experience</strong>
+      <a href="create-meta-ad.md">
+      <img alt="Ideas, books, pencil, computer" src="../assets/card-manage-content.png">
+      <strong>Create a Meta ad experience</strong>
       </a>
    </div>
    <p>
-      <em>Learn how to create an on-brand Email experience.</em>
+      <em>Learn how to create a brand-aligned Meta ad experience.</em>
    </p>
-</td>
+</td><!-- 
 <td valign="top">
    <div>
       <a href="create-email-experience.md">

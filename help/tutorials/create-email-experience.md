@@ -10,7 +10,7 @@ recommendations: noDisplay
 
 # Create an email experience
 
-This tutorial demonstrates how to generated branded email experiences using GenStudio [[!DNL Create] mode](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
+This tutorial demonstrates how to generate branded email experiences using GenStudio [[!DNL Create] mode](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
 
 To create an effective email experience, it is recommended that you [add guidelines to GenStudio](/help/user-guide/guidelines/add-guidelines.md) and brush up on the [basics of crafting a prompt](/help/user-guide/effective-prompts.md) before you begin.
 
@@ -21,10 +21,9 @@ To get started creating a new email experience, use an available template to pro
 **To choose an email template**:
 
 1. In _[!DNL Create]_ mode, click **[!UICONTROL Email]** in the _"What do you want to create today?"_ section.
-1. Click to open a template in the _Recent templates_ section, or click **[!UICONTROL View all templates]** to see more available templates.
-   1. In the _Select template_ view, toggle the _Channels_ filter to **[!UICONTROL Email]**.
-   1. Use the search option, adjacent to _Filter_, to find a specific email template.
-   1. Click to select an email template, or toggle select multiple email templates, and click **[!UICONTROL Use]**. If you select multiple templates, when the variants are generated all selected templates will be used to provide you options.
+1. In the _Select template_ view, toggle the _Channels_ filter to **[!UICONTROL Email]**.
+1. Use the search option, adjacent to _Filter_, to find a specific email template.
+1. Click to select an email template, or toggle select multiple email templates, and click **[!UICONTROL Use]**. If you select multiple templates, when the variants are generated all selected templates will be used to provide you options.
 
    The Canvas, the epicenter of content creation, appears.
 
@@ -34,14 +33,15 @@ Adding guidelines parameters supercharges the content generation process and is 
 
 **To add parameters and images**:
 
-1. Click the _Parameters_ icon to begin adding references parameters and image content.
-1. In the _Parameters_ section, add brand references—Brand, Product, and Persona—to inform content creation.
+1. Click the _Parameters_ icon to expand the parameters options and add references parameters and image content.
+1. In the _Parameters_ section, add guidelines—Brand, Persona, and Product—to inform content creation.
 
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio](/help/user-guide/guidelines/add-guidelines.md).
 
-1. In the _Content_ section, add content to be used in the experience *and* to influence content generation.
-   1. Click **[!UICONTROL Select content]** or drop files in the _Content_ section.
-   1. **[!UICONTROL Browse your device]** or **[!UICONTROL Select from GenStudio content]** to choose images to use.
+1. In the _Content_ section, add content to be used in the experience *and* to influence content generation. There are three ways to add images:
+   * Click **[!UICONTROL Select from content]** to select images already published to [!DNL Content]. Use the filters to further narrow your search results.
+   * Click **[!UICONTROL Upload]** to browse your files and choose images to use. Along with browsing your device, you can also import from Microsoft OneDrive or Dropbox.
+   * Drag and drop image files into the _Content_ section.
 
    When you select images from GenStudio content, you are choosing from images already saved to [[!DNL Content]](/help/user-guide/content/overview.md). You can filter by channel, product, language, and more, to find the needed images quickly.
 
@@ -56,23 +56,22 @@ See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn mo
 **To use a prompt**:
 
 1. Enter a prompt in the _"Describe the experiences you want to generate"_ prompt box.
+   <!-- If the prompt box is not visible, click **[!UICONTROL Open to prompt]** to expand it. -->
 
-   If the prompt box is not visible, click **[!UICONTROL Open to prompt]** to expand it.
-
-1. Optionally, click one of the prompt suggestions visible just above the prompt text box. Clicking a suggestion auto-fills the suggested prompt in the prompt box.
+<!-- 1. Optionally, click one of the prompt suggestions visible just above the prompt text box. Clicking a suggestion auto-fills the suggested prompt in the prompt box. -->
 1. Click **[!UICONTROL Generate]**.
 
-By default, four generated variations—all fueled by the prompt, guidelines, and images you added—are shown in the Canvas.
+By default, four generated variations—all fueled by the prompt, guidelines, and content you added—are shown in the Canvas.
 
 ## Revise generated emails
 
-Before selecting what to send for approval or publish to [!DNL Content] you can edit email fragments or delete a variant from the set of generated emails.
+Before selecting what to send for approval or publishing to [!DNL Content] you can edit email fragments or delete a variant from the set of generated emails.
 
 **To revise generated variants**:
 
 * **To manually edit an email**, double-click into any of the email fragments (such as the subject line, header, or body copy) and edit as needed.
 
-   The subject line and preheader only require a single click to edit, while the header, body copy, and CTA require a double-click.
+   The subject line and preheader only require a single click to edit, while the header, body copy, and call to action require a double-click.
 
 * **To delete an email**, click to select the email title (for example, "Email 1/4") and click **[!UICONTROL Delete variant]**.
 
@@ -82,7 +81,7 @@ To optimize the generated emails and ensure strict adherence to brand identity, 
 
 **To verify brand alignment using the Brand Validation panel**:
 
-1. Open the brand validation panel and toggle through each email to see how the generated content is checked against your guidelines and other GenStudio guidelines.
+1. Open the brand validation panel (brand validation icon in top menu bar) and toggle through each email to see how the generated content is checked against your guidelines and other GenStudio guidelines.
 1. [Manually revise emails](#revise-generated-emails), or [generate variants](/help/user-guide/create/generate-variants.md), to ensure your emails are closely aligned with your brand.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md#use-brand-validation-to-improve-content) for more information.
@@ -91,12 +90,12 @@ See [Brand validation](/help/user-guide/guidelines/brand-validation.md#use-brand
 
 Use the Approvals panel, accessible on the top menu bar of the Canvas, to obtain reviews, track review comments, and get approvals from stakeholders.
 
-To obtain reviews and approvals:
+**To obtain reviews and approvals**:
 
 1. [Launch an approval request](/help/user-guide/approvals/request-review.md) to solicit an [approval of drafted email experiences](/help/user-guide/approvals/approve-content.md).
 1. [Remove or add reviewers](/help/user-guide/approvals/review-and-edit.md#manage-approvals) during the review process.
 1. [Access the content for review](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) and view the requests for revision.
-1. Edit the drafts per review comments and [publish email experiences](#publish-and-export-experience).
+1. Edit the drafts per review comments and [publish your email experiences](#publish-and-export-experience).
 
 See [Reviews and approvals](/help/user-guide/approvals/overview.md) for more information.
 
