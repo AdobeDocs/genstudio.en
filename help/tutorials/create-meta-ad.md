@@ -1,6 +1,6 @@
 ---
-title: Create an email experience
-description: Learn how to create email experiences in Adobe [!DNL GenStudio].
+title: Create a Meta ad experience
+description: Learn how to create a new on-brand Meta ad experience—for Facebook or Instagram—with generative AI.
 feature: Content, Brands Service
 role: User
 level: Beginner
@@ -8,28 +8,28 @@ type: Tutorial
 recommendations: noDisplay
 ---
 
-# Create an email experience
+# Create a Meta ad experience
 
-This tutorial demonstrates how to generate branded email experiences using GenStudio [[!DNL Create] mode](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
+This tutorial demonstrates how to generate branded Meta ad experiences using GenStudio [[!DNL Create] mode](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
 
-To create an effective email experience, it is recommended that you [add guidelines to GenStudio](/help/user-guide/guidelines/add-guidelines.md) and brush up on the [basics of crafting a prompt](/help/user-guide/effective-prompts.md) before you begin.
+Before you start generating a Meta ad experience, you should [include guidelines in GenStudio](/help/user-guide/guidelines/add-guidelines.md) and familiarize yourself with the [fundamentals of crafting a prompt](/help/user-guide/effective-prompts.md).
 
 ## Choose a template
 
-To get started creating a new email experience, use an available template to provide the framework for your content.
+To get started generating a new Meta ad experience, use an available template to provide the framework for your content.
 
-**To choose an email template**:
+**To choose a Meta ad template**:
 
-1. In _[!DNL Create]_ mode, click **[!UICONTROL Email]** in the _"What do you want to create today?"_ section.
-1. In the _Select template_ view, toggle the _Channels_ filter to **[!UICONTROL Email]**.
-1. Use the search option, adjacent to _Filter_, to find a specific email template.
-1. Click to select an email template, or toggle select multiple email templates, and click **[!UICONTROL Use]**. If you select multiple templates, when the variants are generated all selected templates will be used to provide you options.
+1. In _[!DNL Create]_ mode, click **[!UICONTROL Meta ads]** in the _"What do you want to create today?"_ section.
+1. In the _Select template_ view, toggle the _Channels_ filter to **[!UICONTROL Meta ads]**.
+1. Use the search option, adjacent to _Filter_, to find a specific Meta ad template.
+1. Click to select a template, or toggle select multiple templates, and click **[!UICONTROL Use]**. If you select multiple templates, when the variants are generated all selected templates will be used to provide you options.
 
-   The Canvas, the epicenter of content creation, appears.
+   This action will open the Canvas, which is the central hub for content creation.
 
 ## Add parameters
 
-Adding guidelines parameters supercharges the content generation process and is an integral preparatory step for generating an email experience.
+Adding guidelines parameters enhances the content generation process and is a crucial step in preparing to generate a Meta ad.
 
 **To add parameters and images**:
 
@@ -63,26 +63,34 @@ See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn mo
 
 By default, four generated variations—all fueled by the prompt, guidelines, and content you added—are shown in the Canvas.
 
-## Revise generated emails
+## Choose Meta ads channel
 
-Before selecting what to send for approval or publishing to [!DNL Content] you can edit email fragments or delete a variant from the set of generated emails.
+When generating a Meta ad, you can choose between Facebook or Instagram ads.
+
+Toggle the Meta ads channel option in the top menu bar to **Facebook** or **Instagram** to manage each channel's generated drafts.
+
+## Revise generated Meta ads
+
+Before selecting what to send for approval or publishing to [!DNL Content] you can edit the Meta ads or delete a variant from the set of generated ads.
 
 **To revise generated variants**:
 
 * **To manually edit an email**, double-click into any of the email fragments (such as the subject line, header, or body copy) and edit as needed.
 
    The subject line and preheader only require a single click to edit, while the header, body copy, and CTA require a double-click.
-
+* **To change or select the call to action**, click the call to action button and select from an available button.
 * **To delete an email**, click to select the email title (for example, "Email 1/4") and click **[!UICONTROL Delete variant]**.
 
 ## Verify brand alignment
 
-To optimize the generated emails and ensure strict adherence to brand identity, leverage the power of the [Brand Validation panel](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel). The Brand Validation pane illuminates areas for improvement. You can manually edit individual email fragments or [generate refined variants](/help/user-guide/create/generate-variants.md) of the initial result to achieve alignment with your brand.
+To ensure that the generated ads align with your brand identity, you can utilize the powerful [Brand Validation panel](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel). This panel highlights areas for improvement and allows you to manually edit specific ad fragments or [generate refined variants](/help/user-guide/create/generate-variants.md) to achieve brand alignment.
+
+See the [Brand validation](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) for more information.
 
 **To verify brand alignment using the Brand Validation panel**:
 
-1. Open the brand validation panel (brand validation icon in top menu bar) and toggle through each email to see how the generated content is checked against your guidelines and other GenStudio guidelines.
-1. [Manually revise emails](#revise-generated-emails), or [generate variants](/help/user-guide/create/generate-variants.md), to ensure your emails are closely aligned with your brand.
+1. Open the _Brand Validation_ panel (brand validation icon in top menu bar) and toggle through each ad to see how the generated content is checked against your guidelines and other GenStudio guidelines.
+1. [Manually revise emails](#revise-generated-emails), or [generate variants](/help/user-guide/create/generate-variants.md), to ensure your ads are closely aligned with your brand.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md#use-brand-validation-to-improve-content) for more information.
 
@@ -95,7 +103,7 @@ Use the Approvals panel, accessible on the top menu bar of the Canvas, to obtain
 1. [Launch an approval request](/help/user-guide/approvals/request-review.md) to solicit an [approval of drafted email experiences](/help/user-guide/approvals/approve-content.md).
 1. [Remove or add reviewers](/help/user-guide/approvals/review-and-edit.md#manage-approvals) during the review process.
 1. [Access the content for review](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) and view the requests for revision.
-1. Edit the drafts per review comments and [publish your email experiences](#publish-and-export-experience).
+1. Edit the drafts per review comments and [publish your Meta ad experiences](#publish-and-export-experience).
 
 See [Reviews and approvals](/help/user-guide/approvals/overview.md) for more information.
 
@@ -103,8 +111,8 @@ See [Reviews and approvals](/help/user-guide/approvals/overview.md) for more inf
 
 To make the generated emails available for current and future use, publish it to [!UICONTROL Content] and export it for use in your marketing campaigns.
 
-1. **To publish your new email experience(s)**, click **[!UICONTROL Publish]** in the top toolbar.
-1. **To export your new email experience(s)**, click **[!UICONTROL Export]** in the top toolbar.
+1. **To publish your new Meta ad experience(s)**, click **[!UICONTROL Publish]** in the top toolbar.
+1. **To export your new Meta ad experience(s)**, click **[!UICONTROL Export]** in the top toolbar.
    1. Select the format—CSV and images or HTML only—and click **[!UICONTROL Export]**.
 
 See [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content) for more information.
