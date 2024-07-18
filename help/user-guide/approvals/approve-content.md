@@ -1,8 +1,7 @@
 ---
 title: Approve content
 description: Learn how to approve content.
-hidefromtoc: no
-hide: no
+feature: Approval
 ---
 
 # Approve content

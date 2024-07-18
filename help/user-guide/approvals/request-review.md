@@ -1,11 +1,9 @@
 ---
-title: Request review and approval
+title: Request review and approval of generated content
 description: Learn how to launch a review and approval process for your content.
-hidefromtoc: no
-hide: no
 ---
 
-# Request review and approval of content
+# Request review and approval
 
 Ready to invite your coworkers to review an asset or experience that you created? You can invite stakeholders to contribute feedback on a draft of your content with the eventual goal of approval.
 

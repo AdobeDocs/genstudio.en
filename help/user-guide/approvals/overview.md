@@ -1,15 +1,14 @@
 ---
 title: GenStudio Reviews and Approvals
 description: Learn about the GenStudio review and approval process.
-hidefromtoc: no
-hide: no
+feature: Approval
 ---
 
-# GenStudio reviews and approvals
+# GenStudio Reviews and Approvals
 
 GenStudio's review and approvals workflow ensures that all stakeholders— from creative teams to legal experts— can efficiently review and approve campaign components, including generative AI-produced brand assets.
 
-## GenStudio [!DNL Review and Approval] workflow advantages
+## [!DNL Review and Approval] workflow advantages
 
 * **Support for robust, iterative generative AI content creation**. Creating and deploying brand-aligned content in an organization is a highly iterative process. GenStudio's generative AI capabilities support the quick creation of hundreds of asset variants. Each reviewer might request multiple changes to an asset draft before approving it. The more reviewers, the greater the number of potential iterations before all stakeholders agree on a final variant.   
 
@@ -33,7 +32,7 @@ The main phases of the review and approval workflow include:
 
 If you have created an asset or experience, you can ask others in your organization's approval chain to formally review and comment on your work. Only these designated approvers can review the draft. 
 
-## About GenStudio [!DNL Content] drafts 
+## About [!DNL Content] drafts 
 
 _Drafts_ are preliminary versions of assets or experiences that have not undergone the review and approval process. Draft status identifies where the draft is in the review and approval process. A unique draft ID identifies each draft. THis ID is valid until a draft is approved and published to [!DNL Content]. Review comments and approvals for a draft are associated with this individual draft ID.
 

@@ -1,6 +1,7 @@
 ---
 title: Overview of [!DNL Create]
 description: Quickly generate high-performing, on-brand content with generative AI in GenStudio [!DNL Create].
+feature: Create
 ---
 
 # GenStudio [!DNL Create]
@@ -14,28 +15,28 @@ With GenStudio [!DNL Create], you can generate content for the following channel
 <!-- * Social media images and ads
 * Display ads -->
 
-Along with the power of GenStudio [Brand references](/help/user-guide/references/overview.md), [Content](/help/user-guide/content/overview.md), and [Reviews and Approvals](/help/user-guide/approvals/overview.md), [!DNL Create] facilitates the creation of impactful brand-aligned marketing content.
+Along with the power of GenStudio [guidelines](/help/user-guide/guidelines/overview.md), [Content](/help/user-guide/content/overview.md), [Reviews and Approvals](/help/user-guide/approvals/overview.md), and [Insights](/help/user-guide/insights/overview.md), [!DNL Create] facilitates the creation of impactful brand-aligned marketing content.
 
 ## [!DNL Create] use cases
 
 <table style="table-layout:fixed">
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
-      <a href="/help/tutorials/create-email-experience.md">
+      <a href="/help/tutorials/tutorials.md">
       <img alt="Create new content" src="../../assets/icons/icon-create.svg" width="35">
       </a>
       <div>
-         <a href="../content/overview.md">
+         <a href="/help/tutorials/tutorials.md">
          <strong>Create new content</strong>
          </a>
       </div>
    </td>
    <td align="center" valign="top" width="100">
-      <a href="../create/overview.md">
+      <a href="/help/user-guide/content/overview.md">
       <img alt="Re-use existing content" src="../../assets/icons/icon-addContent.svg" width="35">
       </a>
       <div>
-         <a href="../create/overview.md">
+         <a href="/help/user-guide/content/overview.md">
          <strong>Re-use existing content</strong>
          </a>
       </div>
@@ -55,9 +56,9 @@ Along with the power of GenStudio [Brand references](/help/user-guide/references
 
 GenStudio [!DNL Create] satisfies three main use cases:
 
-* **Create new content** - In this use case, use defined [Brand references](/help/user-guide/references/overview.md) (Brands, Products, and Personas) and inspiration content to inform the creation of brand-aligned content.
+* **Create new content** - In this use case, use defined [guidelines](/help/user-guide/guidelines/overview.md) (Brands, Products, and Personas) and inspiration content to inform the creation of brand-aligned content.
 * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio and use the power of Adobe generative AI technology to revise and improve existing content.
-* **Generate variants of content** - In this use case, generate variations of content based on a target [customer persona](/help/user-guide/references/personas.md). This functionality allows for experimentation and discovery of high-performing content and allows for cross-channel conversion of content (for example, converting an email to a display ad).
+* **Generate variants of content** - In this use case, generate variations of content based on a target [customer persona](/help/user-guide/guidelines/personas.md). This functionality allows for experimentation and discovery of high-performing content and allows for cross-channel conversion of content (for example, converting an email to a display ad).
 
 ## [!DNL Create] capabilities
 
@@ -85,13 +86,13 @@ See [Effective prompts](/help/user-guide/effective-prompts.md).
 
 ### Parameters
 
-In the prompt drawer, you can add _Parameters_ such as Brands, Products, and Personas (all brand references) or Content (images) to shape the generated experience. These added parameters inject [Brand references](/help/user-guide/references/overview.md) and images into the generation process, ensuring that the content is customized to align with a brand's comprehensive identity and using applicable imagery. Adding Brand references to your GenStudio, and using them during the content generation process, is recommended as they greatly enhance the creation of suitable on-brand content.
+In the prompt drawer, you can add _Parameters_ such as Brands, Products, and Personas (GenStudio guidelines) or Content (images) to shape the generated experience. These added parameters inject [guidelines](/help/user-guide/guidelines/overview.md) and images into the generation process, ensuring that the content is customized to align with a brand's comprehensive identity and using applicable imagery. Adding guidelines to your GenStudio, and using them during the content generation process, is recommended as they greatly enhance the creation of suitable on-brand content.
 
 ### Brand validation
 
-GenStudio conducts brand validation on various aspects of a brand's identity (as defined in [brand references](/help/user-guide/references/overview.md)). Brand validation information is available for any generated content, indicating its compliance with brand guidelines. You can use this information to revise or improve your generated experience to better align with your brand.
+GenStudio conducts brand validation on various aspects of a brand's identity (as defined in [guidelines](/help/user-guide/guidelines/overview.md)). Brand validation information is available for any generated content, indicating its compliance with brand guidelines. You can use this information to revise or improve your generated experience to better align with your brand.
 
-See [Brand validation](/help/user-guide/references/brand-validation.md).
+See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
 
 ### Reviews and approvals
@@ -102,7 +103,8 @@ See [Reviews and approvals](/help/user-guide/approvals/overview.md) for more inf
 
 ## Tutorials
 
-See [Create an email experience](/help/tutorials/create-email-experience.md) for more information.
+* [Create an email experience](/help/tutorials/create-email-experience.md)
+* [Create a Meta ad experience](/help/tutorials/create-meta-ad.md)
 
 <!-- ### Anatomy of an email experience
 

@@ -1,10 +1,10 @@
 ---
-title: Introduction to GenStudio
+title: GenStudio Concepts
 description: Learn Adobe GenStudio concepts and terminology.
 feature: Workflow, Generative AI
 ---
 
-# Introduction to GenStudio
+# GenStudio concepts
 
 GenStudio is a standalone enterprise product that embodies Adobe's content supply chain to streamline marketing campaigns. It is challenging to build personalized, brand-approved content at scale, monitor effectiveness, and adapt quickly to the ever-changing market. GenStudio brings Creative Cloud and Experience Cloud together in one application that leverages generative AI as a performance multiplier for enterprise marketing teams.
 
@@ -18,9 +18,9 @@ With GenStudio you can:
 
 GenStudio harnesses the power of generative AI to accelerate the content creation process and ensure high-quality content generation. The iterative lifecycle of your creative assets results in increasingly accurate and brand-aligned content that resonates with your target audience.
 
-Begin by effectively training GenStudio on your organization's branding, customer personas, and product descriptions through the powerful brand guidelines feature. See the [Brand references overview](../user-guide/references/overview.md) to learn how to prepare and upload these guidelines.
+Begin by effectively training GenStudio on your organization's branding, customer personas, and product descriptions through the powerful brand guidelines feature. See the [Guidelines overview](../user-guide/guidelines/overview.md) to learn how to prepare and upload these guidelines.
 
-## GenStudio Content lifecycle
+## GenStudio content lifecycle
 
 The demand is high for quality experiences in multiple channels at a faster pace. GenStudio simplifies the content supply chain into a well-organized workflow for marketers. GenStudio leverages Adobe technology at each stage of the lifecycle.
 
@@ -39,7 +39,6 @@ The demand is high for quality experiences in multiple channels at a faster pace
     </td>
     <td>
         <p>Produce the content based on the plan. Collaborate in real time, receive feedback, make edits, and approve content.</p>
-        <p><img alt="Adobe Express" src="../assets/logo-AdobeExpress.png" width="150"></p>
     </td>
 </tr>
 <tr style="border: 0;">

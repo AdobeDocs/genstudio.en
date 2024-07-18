@@ -1,6 +1,7 @@
 ---
 title: Get started with GenStudio
 description: Learn how to set up your GenStudio to generate new brand-aligned marketing content.
+level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI
 ---
 
@@ -10,8 +11,8 @@ GenStudio is a comprehensive platform for crafting, evaluating, and managing per
 
 **To prepare GenStudio to generate effective marketing content**:
 
-1. Set up brand references (brands, products, personas).
-1. Upload templates.
-1. Upload approved assets.
-1. Give access to Facebook account.
-1. Review prompting best practices.
+1. [Set up guidelines](./guidelines/overview.md)—Brands, Products, and Personas.
+1. [Upload templates](./content/use-templates.md).
+1. [Upload approved assets](./content/manage-assets.md).
+1. [Connect to a Meta (Facebook) account](./insights/connect-channel.md).
+1. [Review prompting best practices](effective-prompts.md).
