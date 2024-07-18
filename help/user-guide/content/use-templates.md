@@ -14,7 +14,7 @@ GenStudio accepts templates in an HTML format. See how to [build custom template
 
 **To add a template**:
 
-1. In _[!DNL Content]_ mode, select the **[!UICONTROL Templates]** section.
+1. In _[!DNL Content]_, select the **[!UICONTROL Templates]** section.
 
 1. Click **[!UICONTROL Add template]**.
 
@@ -39,7 +39,7 @@ Find and use an existing template to create experiences.
 
 **To create an experience with a template**:
 
-1. In _[!DNL Content]_ mode, select the **[!UICONTROL Templates]** section.
+1. In _[!DNL Content]_, select the **[!UICONTROL Templates]** section.
 
    ![Content template list](../../assets/content-templates.png)
 

@@ -10,7 +10,7 @@ GenStudio [!DNL Content] simplifies and enhances the management of brand-approve
 
 **To add one or more assets**:
 
-1. In _[!DNL Content]_ mode, click **[!UICONTROL Add assets]**.
+1. In _[!DNL Content]_, click **[!UICONTROL Add assets]**.
 
 1. In the _Add your approved assets_ view, drop a file or files in the drop space. Optionally, you can select from local files using **[!UICONTROL Browse]** or import files from Dropbox or Microsoft OneDrive.
 
@@ -30,7 +30,7 @@ Apply filters and use metadata tags from asset details to narrow search results.
 
 **To find content for reuse**:
 
-1. In _[!DNL Content]_ mode, select the **[!UICONTROL Assets]** section.
+1. In _[!DNL Content]_, select the **[!UICONTROL Assets]** section.
 
 1. Click **[!UICONTROL Search]** (magnifying glass) to enter a keyword or description.
 

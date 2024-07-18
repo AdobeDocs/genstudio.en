@@ -19,7 +19,7 @@ For example, the following line tells GenStudio where to place the `headline`:
 <div>{{ headline }}</div>
 ```
 
-When using your custom template in the [!DNL Create] workflow, field content is either generated, sourced from your selected guidelines, or manually supplied. The maximum number of fields allowed in a custom template is twenty.
+When using your custom template in the [[!DNL Create] workflow](../create/overview.md#create-capabilities), field content is either generated, sourced from your selected guidelines, or manually supplied. The maximum number of fields allowed in a custom template is twenty.
 
 **Recognized field names**:
 
