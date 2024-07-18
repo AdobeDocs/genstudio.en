@@ -103,7 +103,8 @@ See [Reviews and approvals](/help/user-guide/approvals/overview.md) for more inf
 
 ## Tutorials
 
-See [Create an email experience](/help/tutorials/create-email-experience.md) for more information.
+* [Create an email experience](/help/tutorials/create-email-experience.md)
+* [Create a Meta ad experience](/help/tutorials/create-meta-ad.md)
 
 <!-- ### Anatomy of an email experience
 
