@@ -6,7 +6,7 @@ feature: Templates
 
 # Work with Templates
 
-Templates are used to generate consistent content for emails and social media ads. They significantly reduce the time and effort required to create new content by providing a starting point that includes pre-configured layouts and design elements.
+Templates are used to generate consistent content for emails and social media ads. They significantly reduce the time and effort required to generate new content by providing a starting point that includes pre-configured layouts and design elements.
 
 ## Upload a template
 
@@ -46,5 +46,3 @@ Find and use an existing template to create experiences.
 1. Click on a template for a full view and a list of details.
 
 1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.
-
-1. More to come...
