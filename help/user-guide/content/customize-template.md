@@ -1,46 +1,47 @@
 ---
-title: Build a custom template
+title: Customize templates
 description: Learn how to build a custom template for GenStudio.
 level: Intermediate
 feature: Templates
 ---
 
-# Build a custom template
+# Customize templates
 
-While templates provide a base structure, you can adapt them to your specific needs and preferences.
+You can adapt your HTML templates for GenStudio by using the _Handlebars_ templating language. The Handlebars syntax uses regular text with double braces as content placeholders. See [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
 
-## Templating language
+## Content placeholders
 
-Use the _Handlebars_ templating language to construct your custom template. The Handlebars syntax uses regular text with double braces as content placeholders. For example, the following line tells GenStudio where to place the headline:
+GenStudio recognizes and interprets the content placeholders automatically based on the field name. Insert the field name using the Handlebars syntax into your template where you need GenStudio to place content.
+
+For example, the following line tells GenStudio where to place the `headline`:
 
 ```handlebars
 <div>{{ headline }}</div>
 ```
 
->[!TIP]
->
->See [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_.
-
-## Template fields
-
-GenStudio recognizes and interprets certain fields automatically based on the name, source, and role. Field content is either generated, sourced from the brand references, or manually supplied, such as a link for the CTA. The maximum number of fields allowed in a template is twenty.
+When using your custom template in the [!DNL Create] workflow, field content is either generated, sourced from your selected guidelines, or manually supplied. The maximum number of fields allowed in a custom template is twenty.
 
 **Recognized field names**:
 
-| Field          | Role                   | Source     | Channel template     |
-| -------------- | ---------------------- | ---------- | -------------------- |
-| `pre_header`   | Pre header             | generated  | email       |
-| `headline`     | Headline               | generated  | email<br>social ad |
-| `body`         | Body copy              | generated  | email<br>social ad |
-| `cta`          | Call to action         | generated  | email<br>social ad |
-| `on_image_text`| On image text          | generated  | social ad |
-| `brand_logo`   | Logo of selected brand | brand      | social ad |
+| Field          | Role                   | Channel template     |
+| -------------- | ---------------------- | -------------------- |
+| `pre_header`   | Pre header             | email       |
+| `headline`     | Headline               | email<br>social ad |
+| `body`         | Body copy              | email<br>social ad |
+| `cta`          | Call to action         | email<br>social ad |
+| `on_image_text`| On image text          | social ad |
+| `image`        | Image                  | email<br>social ad |
+| `brand_logo`   | Logo of selected brand | social ad |
 
 >[!IMPORTANT]
 >
 >GenStudio automatically supplies the email template with a `subject` field, so do not include the subject field in your email template.
 
-### Sections or groups
+### Background image
+
+When designing an ad for Meta, it is important to use a background image complemented by text and a brand logo overlay. To guarantee proper scaling of the image, Meta ad templates require specifying an `aspect ratio`. In this context, you can provide only one image field.
+
+## Sections or groups
 
 _Sections_ provide a way to inform GenStudio that fields belonging to a section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section. A template can include up to three sections.
 
@@ -50,10 +51,6 @@ Use a prefix to group the fields of a section:
 - `group1_body`
 
 Each section can have only one of a field type. For example, Group 1 can only have one `group1_headline` field.
-
-### Background image
-
-When designing an ad for Meta, it is important to use a background image complemented by text and a brand logo overlay. To guarantee proper scaling of the image, Meta ad templates require specifying an `aspect ratio`. In this context, you can provide only one image field.
 
 ## Template preview
 
