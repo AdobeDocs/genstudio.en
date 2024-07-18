@@ -77,7 +77,7 @@ Before publishing your brand, click through the _Brand voice guidelines_, _Chann
 
 When the brand is published, a banner appears confirming that your brand is ready to use: "*Brand published and available to use*".
 
-The published brand is now available for use in generating variants in _[!DNL Create]_ or _[!DNL Content]_ modes.
+The published brand is now available for use in generating variants in _[!DNL Create]_ or _[!DNL Content]_.
 
 ### Manage [!DNL Brands]
 
