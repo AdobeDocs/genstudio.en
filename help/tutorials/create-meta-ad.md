@@ -34,7 +34,7 @@ Adding guidelines parameters enhances the content generation process and is a cr
 **To add parameters and images**:
 
 1. Click the _Parameters_ icon to expand the parameters options and add references parameters and image content.
-1. In the _Parameters_ section, add brand references—Brand, Persona, and Product—to inform content creation.
+1. In the _Parameters_ section, add guidelines—[!DNL Brands], [!DNL Personas], and [!DNL Products]—to inform content creation.
 
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio](/help/user-guide/guidelines/add-guidelines.md).
 
@@ -84,9 +84,9 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 
 ## Verify brand alignment
 
-To ensure that the generated ads align with your brand identity, you can utilize the powerful [Brand Validation panel](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel). This panel highlights areas for improvement and allows you to manually edit specific ad fragments or [generate refined variants](/help/user-guide/create/generate-variants.md) to achieve brand alignment.
+To ensure that the generated ads align with your brand identity, you can utilize the powerful [[!DNL Brand] Validation panel](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel). This panel highlights areas for improvement and allows you to manually edit specific ad fragments or [generate refined variants](/help/user-guide/create/generate-variants.md) to achieve brand alignment.
 
-See the [Brand validation](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) for more information.
+See the [[!DNL Brand] validation](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) for more information.
 
 **To verify brand alignment using the Brand Validation panel**:
 
