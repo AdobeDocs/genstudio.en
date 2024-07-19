@@ -5,11 +5,24 @@ level: Intermediate
 feature: Insights
 ---
 
-# Connect channel account
+# Connect channel ad account
 
-The first time you open [!DNL Insights], you may see a banner to guide you to connect GenStudio with your channel accounts. This connection enables GenStudio to receive data from your marketing campaigns, assets, and experiences. GenStudio [!DNL Insights] provides you with the tools to analyze the data and take action.
+The first time you open [!DNL Insights], you may see a banner to guide you to connect GenStudio with your channel accounts. This connection enables GenStudio to receive data from your active marketing campaigns, assets, and experiences. With [!DNL Insights], you have the tools to analyze the data and take action.
 
-## Meta connect
+<!-- May need some assurance here that their data is safe. -->
+
+## Meta Ads connect
+
+>[!BEGINSHADEBOX]
+
+**Prerequisites**:
+
+- Facebook/Meta Ads account
+- Access to Meta Ads account with `View performance` permission level for accessing reports and viewing ads
+
+>[!ENDSHADEBOX]
+
+**To connect a Meta Ads account in GenStudio**:
 
 1. In _[!DNL Insights]_, click **[!UICONTROL Connect a channel account]**.
 
@@ -29,4 +42,6 @@ The first time you open [!DNL Insights], you may see a banner to guide you to co
 >[!INFO]
 >
 >You may receive an error if you previously enrolled the channel account with GenStudio.
+
+The new user experience shows a banner to connect an account. There is not option to connect yet after you have one connection.
 -->
