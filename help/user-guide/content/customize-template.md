@@ -11,7 +11,8 @@ You can adapt your HTML templates for GenStudio by using the _Handlebars_ templa
 
 ## Template structure
 
-<!-- This is for email. In the future, maybe use tabs to provide guidance for other template types. -->
+<!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
+-->
 
 If you do not have an HTML template ready to use in GenStudio, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
 
