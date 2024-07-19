@@ -39,10 +39,11 @@ When assets are approved and stored in [!DNL Content], GenStudio generates tags 
 
 This table is still TBD. What do customers need to know about these fields?
 
-{{$include /help/_includes/gs-metadata-fields.md}}
+{{$include /help/_includes/genstudio-metadata.md}}
 
 ## History
 
 Expand the _[!UICONTROL History]_ section to view a timeline of approvals and activity.
 
-list other actions, show screenshot?  -->
+list other activity, show screenshot?
+-->

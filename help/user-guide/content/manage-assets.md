@@ -47,5 +47,5 @@ Apply filters and use metadata tags from asset details to narrow search results.
    Click **[!UICONTROL Download]** (down arrow) to use the asset in your local workstation.
 
 <!-- 
-1. TBD...
+There is more here, but not ready yet.
 -->
