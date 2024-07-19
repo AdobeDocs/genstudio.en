@@ -105,16 +105,16 @@ Using GenStudio, marketers and teams can effortlessly generate and refine high-q
    <p>
       <em>Learn how to create an on-brand email experience.</em>
    </p>
-</td> <!-- 
+</td>
 <td valign="top">
    <div>
-      <a href="../user-guide/insights/overview.md">
+      <a href="/help/tutorials/create-meta-ad.md">
       <img alt="People moving files into a folder" src="../assets/card-manage-content.png">
-      <strong>Repurpose Content</strong>
+      <strong>Create a Meta ad experience</strong>
       </a>
    </div>
    <p>
-      <em>Learn how to evaluate performance and repurpose content to stay relevant.</em>
+      <em>Learn how to create a brand-aligned Meta ad experience.</em>
    </p>
-</td> -->
+</td>
 </table>

@@ -16,6 +16,18 @@ GenStudio's review and approvals workflow ensures that all stakeholders— from 
 
 * **Adherence to Campaign goals and legal requirements**. The approval process helps verify that content supports campaign goals. It ensures that content meets legal authenticity, which minimizes risks and potential legal issues.
 
+## Review and approval lifecycle
+
+The main phases of the review and approval workflow include: 
+
+[Request review and approval of content you have created](./request-review.md)
+
+[Review and edit content](./review-and-edit.md)
+
+[Approve content](./approve-content.md)
+
+[Publish content](./publish-content.md)
+
 ## Who can request a review or approve content?
 
 If you have created an asset or experience, you can ask others in your organization's approval chain to formally review and comment on your work. Only these designated approvers can review the draft. 
