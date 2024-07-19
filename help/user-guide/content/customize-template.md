@@ -24,7 +24,6 @@ If you do not have an HTML template ready to use in GenStudio, you can start by 
     </style>
 </head>
 <body>
-    <p> place content here </P>
 </body>
 </html>
 ```
