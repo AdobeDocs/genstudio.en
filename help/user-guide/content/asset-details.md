@@ -41,11 +41,8 @@ This table is still TBD. What do customers need to know about these fields?
 
 {{$include /help/_includes/gs-metadata-fields.md}}
 
--->
-
 ## History
 
-Expand the _[!UICONTROL History]_ section to view a timeline of approvals and activityt as.
+Expand the _[!UICONTROL History]_ section to view a timeline of approvals and activity.
 
-<!-- list other actions -->
-
+list other actions, show screenshot?  -->
