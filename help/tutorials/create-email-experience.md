@@ -10,7 +10,7 @@ recommendations: noDisplay
 
 # Create an email experience
 
-This tutorial demonstrates how to generate branded email experiences using GenStudio [[!DNL Create]7u](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
+This tutorial demonstrates how to generate branded email experiences using GenStudio [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
 
 To create an effective email experience, it is recommended that you [add guidelines to GenStudio](/help/user-guide/guidelines/add-guidelines.md) and brush up on the [basics of crafting a prompt](/help/user-guide/effective-prompts.md) before you begin.
 
