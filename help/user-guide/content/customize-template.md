@@ -19,7 +19,7 @@ For example, the following line tells GenStudio where to place the `headline`:
 <div>{{ headline }}</div>
 ```
 
-When using your custom template in the [[!DNL Create] workflow](../create/overview.md#create-capabilities), field content is either generated, sourced from your selected guidelines, or manually supplied, such as uploading a hero asset. The maximum number of fields allowed in a custom template is twenty.
+The maximum number of fields allowed in a custom template is twenty.
 
 **Recognized field names**:
 
@@ -36,6 +36,50 @@ When using your custom template in the [[!DNL Create] workflow](../create/overvi
 >[!IMPORTANT]
 >
 >GenStudio automatically supplies the email template with a `subject` field, so do not include the subject field in your email template.
+
++++Example: Basic template
+
+The following is a basic example of an HTML template for email. The body contains the content placeholders for use by GenStudio to inject content during the email generation process.
+
+```html {line-numbers="true" highlight="25, 27"}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Adobe</title>
+    <style>
+        .container {
+            width: 100%;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+        }
+        .pod {
+            background-color: #f8f8f8;
+            margin: 10px;
+            padding: 20px;
+            border-radius: 5px;
+        }
+        .pod h2 {
+            color: #333;
+        }
+        .pod p {
+            color: #666;
+        }
+    </style>
+</head>
+<body>{{ pre_header }}
+    <div class="container">
+        <h1>{{ headline }}</h1>
+        <p><img alt="{{ headline }}"
+                src="{{ image }}"
+                width="600" height="600"
+                border="0"/></p>
+        <p>{{ body }}</p>
+    </div>
+</body>
+</html>
+```
+
++++
 
 ### Background image
 
@@ -62,6 +106,58 @@ When you have multiple sections (three max):
 - `news_body`
 
 GenStudio understands that `spotlight_headline` is more closely related to `spotlight_body` than to `news_body`.
+
++++Example: Template with multiple sections
+
+The following is the same HTML template in the example above, but with two more sections.
+
+```html {line-numbers="true" highlight="33"}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Adobe</title>
+    <style>
+        .container {
+            width: 100%;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+        }
+        .pod {
+            background-color: #f8f8f8;
+            margin: 10px;
+            padding: 20px;
+            border-radius: 5px;
+        }
+        .pod h2 {
+            color: #333;
+        }
+        .pod p {
+            color: #666;
+        }
+    </style>
+</head>
+<body>{{ pre_header }}
+    <div class="container">
+        <h1>{{ headline }}</h1>
+        <p><img alt="{{ headline }}"
+                src="{{ image }}"
+                width="600" height="600"
+                border="0"/></p>
+        <p>{{ body }}</p>
+        <div class="pod">
+            <h2>{{ pod1_headline }}</h2>
+            <p>This is Pod 1 content.</p>
+        </div>
+        <div class="pod">
+            <h2>{{ pod2_headline }}</h2>
+            <p>This is Pod 2 content.</p>
+        </div>
+    </div>
+</body>
+</html>
+```
+
++++
 
 ## Template preview
 

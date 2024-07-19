@@ -45,4 +45,10 @@ Find and use an existing template to create experiences.
 
 1. Select a template for a full view and a list of details.
 
+>[!TIP]
+>
+>See [[!DNL Create] an email experience](/help/tutorials/create-email-experience.md) for a complete tutorial using an email template.
+
+<!--  The create button in Content Template view does not work yet.
 1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.
+-->
