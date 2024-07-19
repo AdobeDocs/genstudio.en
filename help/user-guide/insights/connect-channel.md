@@ -7,11 +7,11 @@ feature: Insights
 
 # Connect channel account
 
-The first time you open [!DNL Insights], you may see a banner to guide you to connect GenStudio with your channel accounts. This connection enables GenStudio to receive data from your marketing campaigns, assets, and experiences. The [!DNL Insights] mode provides you with the tools to analyze the data and take action.
+The first time you open [!DNL Insights], you may see a banner to guide you to connect GenStudio with your channel accounts. This connection enables GenStudio to receive data from your marketing campaigns, assets, and experiences. GenStudio [!DNL Insights] provides you with the tools to analyze the data and take action.
 
 ## Meta connect
 
-1. In the _[!DNL Insights]_ mode, click **[!UICONTROL Connect a channel account]**.
+1. In _[!DNL Insights]_, click **[!UICONTROL Connect a channel account]**.
 
     >[!INFO]
     >

@@ -10,7 +10,7 @@ recommendations: noDisplay
 
 # Create a Meta ad experience
 
-This tutorial demonstrates how to generate branded Meta ad experiences using GenStudio [[!DNL Create] mode](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
+This tutorial demonstrates how to generate branded Meta ad experiences using GenStudio [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
 
 Before you begin generating a Meta ad experience, it is important to [incorporate guidelines](/help/user-guide/guidelines/add-guidelines.md) in GenStudio and become familiar with the basics of [creating a prompt](/help/user-guide/effective-prompts.md).
 

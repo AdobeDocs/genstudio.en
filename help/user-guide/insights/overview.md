@@ -6,7 +6,7 @@ feature: Attributes, Insights
 
 # GenStudio [!DNL Insights]
 
-GenStudio [!DNL Insights] mode provides advanced analytics and insights into content performance that can help you make data-driven decisions.
+GenStudio [!DNL Insights] provides advanced analytics and insights into content performance that can help you make data-driven decisions.
 
 From the [!DNL Insights] dashboard, you can:
 

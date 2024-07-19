@@ -15,7 +15,7 @@ GenStudio conducts brand validation on various aspects, including:
 * Ethical considerations related to gender, ethnicity, race, disability status, and age in AI-generated content
 * Quality checks for plagiarism, grammar rules, correctness of human features in imagery, and factuality of GenAI hallucinations
 
-When you are in [Create](/help/user-guide/create/overview.md) mode, brand validation information is available for any generated content. There is a Brand Validation icon for each piece of generated content that reveals its compliance with brand guidelines. By clicking the icon, you can access the Brand Validation panel, which provides analysis and feedback on key brand areas.
+Brand validation information is available for any generated content in [Create](/help/user-guide/create/overview.md). There is a Brand Validation icon for each piece of generated content that reveals its compliance with brand guidelines. By clicking the icon, you can access the Brand Validation panel, which provides analysis and feedback on key brand areas.
 
 The Brand Validation panel has different areas of focus for each content channel:
 

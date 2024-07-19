@@ -7,7 +7,7 @@ recommendations: noDisplay
 
 # Data columns for [!DNL Insights]
 
-The [!DNL Insights] mode displays customizable grids for each view: Channels, Experiences, Assets, and Attributes.
+[!DNL Insights] displays customizable grids for each view: Channels, Experiences, Assets, and Attributes.
 
 Customize the grid:
 

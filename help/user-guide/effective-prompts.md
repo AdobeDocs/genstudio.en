@@ -33,7 +33,7 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 ## Prompt criteria
 
-In the GenStudio [[!DNL Create]](./create/overview.md) mode, you can use **[!UICONTROL Prompt criteria]** to add details through selection to improve the AI interpretation. For on-brand images, the prompt criteria might include [[!DNL Brand]](../user-guide/guidelines/brands.md) and general settings related to images, such as aspect ratio. For channels, you might use a template, choose from the [guidelines](/help/user-guide/guidelines/overview.md), and select or upload existing assets. The real power begins with [configuring GenStudio guidelines](/help/user-guide/guidelines/add-guidelines.md).
+In GenStudio [[!DNL Create]](./create/overview.md), you can use **[!UICONTROL Prompt criteria]** to add details through selection to improve the AI interpretation. For on-brand images, the prompt criteria might include [[!DNL Brand]](../user-guide/guidelines/brands.md) and general settings related to images, such as aspect ratio. For channels, you might use a template, choose from the [guidelines](/help/user-guide/guidelines/overview.md), and select or upload existing assets. The real power begins with [configuring GenStudio guidelines](/help/user-guide/guidelines/add-guidelines.md).
 
 ### Guidelines
 
