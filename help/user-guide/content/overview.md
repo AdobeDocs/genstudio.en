@@ -18,7 +18,7 @@ GenStudio [!DNL Content] provides a central location to store, find, and share a
       </a>
       <div>
          <a href="../content/manage-assets.md#search">
-         <strong>Find Content</strong>
+         <strong>Find content</strong>
          </a>
       </div>
    </td>
@@ -28,27 +28,29 @@ GenStudio [!DNL Content] provides a central location to store, find, and share a
       </a>
       <div>
          <a href="../content/manage-assets.md">
-         <strong>Add Content</strong>
+         <strong>Add assets</strong>
          </a>
       </div>
    </td>
+<!--
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md#search">
       <img alt="sparkle and new asset" src="../../assets/icons/icon-AIVariation.svg" width="35">
       </a>
       <div>
          <a href="../content/manage-assets.md#search">
-         <strong>Refresh Content</strong>
+         <strong>Refresh content</strong>
          </a>
       </div>
    </td>
+-->
    <td align="center" valign="top" width="100">
       <a href="../content/use-templates.md">
       <img alt="lightening bolt on asset" src="../../assets/icons/icon-template.svg" width="35">
       </a>
       <div>
-         <a href="../content/use-templates.md">
-         <strong>Add Template</strong>
+         <a href="../content/use-templates.md#upload-a-template">
+         <strong>Upload template</strong>
          </a>
       </div>
    </td>
