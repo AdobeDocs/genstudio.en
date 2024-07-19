@@ -28,7 +28,7 @@ By incorporating brand, product, and persona data into GenStudio, you can improv
 
 [!DNL Brands], [!DNL Products], and [!DNL Personas] guidelines enables two main use cases to ensure that any generated content adheres to a brand's desired representation:
 
-* **Content generation** in GenStudio's [Create](/help/user-guide/create/overview.md) or [Content](/help/user-guide/content/overview.md) modes
+* **Content generation** in [Create](/help/user-guide/create/overview.md) or [Content](/help/user-guide/content/overview.md)
 * [**Brand Validation**](#brand-validation), which happens as part of the content creation process
 
 ## Brand Validation

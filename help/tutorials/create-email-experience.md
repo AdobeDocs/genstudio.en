@@ -10,7 +10,7 @@ recommendations: noDisplay
 
 # Create an email experience
 
-This tutorial demonstrates how to generate branded email experiences using GenStudio [[!DNL Create] mode](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
+This tutorial demonstrates how to generate branded email experiences using GenStudio [[!DNL Create]7u](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
 
 To create an effective email experience, it is recommended that you [add guidelines to GenStudio](/help/user-guide/guidelines/add-guidelines.md) and brush up on the [basics of crafting a prompt](/help/user-guide/effective-prompts.md) before you begin.
 
@@ -20,7 +20,7 @@ To get started creating a new email experience, use an available template to pro
 
 **To choose an email template**:
 
-1. In _[!DNL Create]_ mode, click **[!UICONTROL Email]** in the _"What do you want to create today?"_ section.
+1. In _[!DNL Create]_, click **[!UICONTROL Email]** in the _"What do you want to create today?"_ section.
 1. In the _Select template_ view, toggle the _Channels_ filter to **[!UICONTROL Email]**.
 1. Use the search option, adjacent to _Filter_, to find a specific email template.
 1. Click to select an email template, or toggle select multiple email templates, and click **[!UICONTROL Use]**. If you select multiple templates, when the variants are generated all selected templates will be used to provide you options.
