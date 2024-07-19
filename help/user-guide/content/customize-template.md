@@ -9,11 +9,34 @@ feature: Templates
 
 You can adapt your HTML templates for GenStudio by using the _Handlebars_ templating language. The Handlebars syntax uses regular text with double braces as content placeholders. See [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
 
+## Template structure
+
+<!-- This is for email. In the future, maybe use tabs to provide guidance for other template types. -->
+
+If you do not have an HTML template ready to use in GenStudio, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Title</title>
+    <style>
+        <!-- CSS styling here -->
+    </style>
+</head>
+<body>
+    <!-- place content here -->
+</body>
+</html>
+```
+
+Continue next to add content placeholders, groups. Once your template is ready, you can [upload it to GenStudio](use-templates.md#upload-a-template) and start generating personalized emails based on your custom template.
+
 ## Content placeholders
 
-GenStudio recognizes and interprets the content placeholders automatically based on the field name. Insert the field name using the Handlebars syntax into your template where you need GenStudio to place content.
+Within the head or body of the template, you can use Handlebars syntax to insert content placeholders where you require GenStudio to populate the email with actual content. GenStudio recognizes and interprets the content placeholders automatically based on the field name.
 
-For example, the following line tells GenStudio where to place the `headline`:
+For example, you can use `{{ headline }}` to indicate where the headline of the email should be placed:
 
 ```handlebars
 <div>{{ headline }}</div>
@@ -35,11 +58,11 @@ The maximum number of fields allowed in a custom template is twenty.
 
 >[!IMPORTANT]
 >
->GenStudio automatically supplies the email template with a `subject` field, so do not include the subject field in your email template.
+>GenStudio automatically supplies the email template with a `subject` field during the [!DNL Create] process, so it is not necessary to include the subject field in your email template.
 
 +++Example: Basic template
 
-The following is a basic example of an HTML template for email. The body contains the content placeholders for use by GenStudio to inject content during the email generation process.
+The following is a basic example of an HTML template for email. The head contains simple, inline CSS for styling. The body contains a `pre-header`, `headline`, and `image` placeholder for use by GenStudio to inject content during the email generation process.
 
 ```html {line-numbers="true" highlight="25, 27"}
 <!DOCTYPE html>
