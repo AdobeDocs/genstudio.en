@@ -28,7 +28,9 @@ If you do not have an HTML template ready to use in GenStudio, you can start by 
 </html>
 ```
 
-Continue next to add content placeholders, groups. Once your template is ready, you can [upload it to GenStudio](use-templates.md#upload-a-template) and start generating personalized emails based on your custom template.
+>[!TIP]
+>
+>In the next few sections, add content placeholders for email fields, hide unnecessary elements from preview, and manage links to static content. Once your template is ready, you can [upload it to GenStudio](use-templates.md#upload-a-template) and start generating personalized emails based on your custom template.
 
 ## Content placeholders
 

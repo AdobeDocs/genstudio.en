@@ -22,6 +22,10 @@ GenStudio [!DNL Content] simplifies and enhances the management of brand-approve
 
 1. Click **[!UICONTROL Add assets]**.
 
+<!-- 
+In the future, need guidance on template upload errors. For now, the UI just says error.
+-->
+
 ## Search
 
 The [!DNL Content] search interface is quick and responsive, and provides a productive search-first experience.
