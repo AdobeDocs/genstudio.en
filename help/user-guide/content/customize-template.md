@@ -62,7 +62,7 @@ The maximum number of fields allowed in a custom template is twenty.
 
 The following is a basic example of an HTML template for email. The head contains simple, inline CSS for styling. The body contains a `pre-header`, `headline`, and `image` placeholder for use by GenStudio to inject content during the email generation process.
 
-```html {line-numbers="true" highlight="13"}
+```handlebars {line-numbers="true" highlight="13"}
 <!DOCTYPE html>
 <html>
 <head>
@@ -120,7 +120,7 @@ GenStudio understands that `spotlight_headline` is more closely related to `spot
 
 The following is the same HTML template in the example above, but with two more sections. The head contains inline CSS for styling a pod. The body uses two pods with content placeholders using a prefix.
 
-```html {line-numbers="true" highlight="33"}
+```handlebars {line-numbers="true" highlight="33"}
 <!DOCTYPE html>
 <html>
 <head>
