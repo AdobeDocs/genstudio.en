@@ -21,11 +21,10 @@ If you do not have an HTML template ready to use in GenStudio, you can start by 
 <head>
     <title>Title</title>
     <style>
-        <!-- CSS styling here -->
     </style>
 </head>
 <body>
-    <!-- place content here -->
+    <p> place content here </P>
 </body>
 </html>
 ```
