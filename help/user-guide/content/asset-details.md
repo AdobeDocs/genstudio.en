@@ -16,7 +16,7 @@ Each asset (including experiences and templates) has associated _details_ (metad
 
 **To see asset details**:
 
-1. In _[!DNL Content]_ mode, select an asset.
+1. In _[!DNL Content]_, select an asset.
 
 1. In the asset view, review the _[!UICONTROL Details]_ section on the right.
 
@@ -24,7 +24,7 @@ Each asset (including experiences and templates) has associated _details_ (metad
 
 >[!TIP]
 >
->You can view asset details from [!DNL Insights], too. In _[!DNL Insights]_ mode, click **[!UICONTROL Assets]**. Search for the asset and TBD. (Waiting on Insights updates to complete this note.)
+>You can view asset details from [!DNL Insights], too. Insights provides usage statistics and performance context across experiences. In _[!DNL Insights]_, select the **[!UICONTROL Assets]** section.
 
 ## Details from generated content
 
@@ -41,11 +41,8 @@ This table is still TBD. What do customers need to know about these fields?
 
 {{$include /help/_includes/gs-metadata-fields.md}}
 
--->
-
 ## History
 
-Expand the _[!UICONTROL History]_ section to view a timeline of approvals.
+Expand the _[!UICONTROL History]_ section to view a timeline of approvals and activity.
 
-<!-- list other actions -->
-
+list other actions, show screenshot?  -->
