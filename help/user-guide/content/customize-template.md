@@ -64,7 +64,7 @@ The maximum number of fields allowed in a custom template is twenty.
 
 The following is a basic example of an HTML template for email. The head contains simple, inline CSS for styling. The body contains a `pre-header`, `headline`, and `image` placeholder for use by GenStudio to inject content during the email generation process.
 
-```html {line-numbers="true" highlight="25, 27"}
+```html {line-numbers="true" highlight="13"}
 <!DOCTYPE html>
 <html>
 <head>
@@ -74,18 +74,6 @@ The following is a basic example of an HTML template for email. The head contain
             width: 100%;
             padding: 20px;
             font-family: Arial, sans-serif;
-        }
-        .pod {
-            background-color: #f8f8f8;
-            margin: 10px;
-            padding: 20px;
-            border-radius: 5px;
-        }
-        .pod h2 {
-            color: #333;
-        }
-        .pod p {
-            color: #666;
         }
     </style>
 </head>
@@ -132,7 +120,7 @@ GenStudio understands that `spotlight_headline` is more closely related to `spot
 
 +++Example: Template with multiple sections
 
-The following is the same HTML template in the example above, but with two more sections.
+The following is the same HTML template in the example above, but with two more sections. The head contains inline CSS for styling a pod. The body uses two pods with content placeholders using a prefix.
 
 ```html {line-numbers="true" highlight="33"}
 <!DOCTYPE html>
@@ -197,7 +185,10 @@ The `_genStudio.browser` value is set when rendering a template, and the `genStu
 Another example may be to prevent the use of tracking codes when previewing an email template in GenStudio. This example shows how to add tracking parameters to links in the exported template, while keeping the preview links clean:
 
 ```handlebars
-<a class="button" {{#if _genStudio.browser }}href="{{ link }}"{{/if}}{{#if _genStudio.export }}href="{{ link }}?trackingid=<%=getTrackingId()%>&mv=email"{{/if}} target="_blank">{{ cta }}</a>
+<a class="button" {{#if _genStudio.browser }}
+   href="{{ link }}"{{/if}}{{#if _genStudio.export }}
+   href="{{ link }}?trackingid=<%=getTrackingId()%>&mv=email"{{/if}}
+   target="_blank">{{ cta }}</a>
 ```
 
 ## Static content
