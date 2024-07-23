@@ -82,7 +82,7 @@ Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
 ![Logo guidelines in GenStudio](/help/assets/logos.png){width="650" zoomable="yes"}
 
-## Brand Validation
+## Brand validation
 
 In GenStudio, Brand Validation plays a crucial role in conjunction with the generative AI functionality of [!DNL Brands], [!DNL Products], and [!DNL Personas]. It ensures that all your content remains consistent with your brand identity.
 

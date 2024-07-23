@@ -1,16 +1,16 @@
 ---
-title: Add Guidelines to GenStudio
-description: Learn how to add Guidelines—[!DNL Brands], [!DNL Products], and [!DNL Personas]—in Adobe [!DNL GenStudio].
+title: Add guidelines to GenStudio
+description: Learn how to add guidelines—[!DNL Brands], [!DNL Products], and [!DNL Personas]—in Adobe [!DNL GenStudio].
 feature: Content, Brands Service, Products Service, Personas Service
 role: User
 level: Beginner
 ---
 
-# Add Guidelines
+# Add guidelines
 
 [[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md), and [[!DNL Personas]](/help/user-guide/guidelines/personas.md) are user-defined Guidelines in GenStudio that ensure any AI-generated content is customized to align with brand identity, enabling effective personalization of content.
 
-See the [GenStudio Guidelines overview](/help/user-guide/guidelines/overview.md).
+See the [GenStudio guidelines overview](/help/user-guide/guidelines/overview.md).
 
 Adding Guidelines to GenStudio is an important step in the creation process. Guidelines inform the content creation process, along with user-defined prompts and Adobe generative AI technology, to craft impactful assets.
 

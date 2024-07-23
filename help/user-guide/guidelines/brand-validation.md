@@ -30,7 +30,7 @@ Brand validation logos show adjacent to the generated content preview in orange 
 
 Within the Brand Validation panel, orange icons communicate the specific guideline to focus on for improvements, and a green checkmark icon indicates that the generated content successfully aligns with that specific guideline.
 
-## Use Brand Validation to improve content
+## Improve content
 
 The Brand Validation panel makes it easy to ensure your generated content is informed by your comprehensive brand identity.
 
