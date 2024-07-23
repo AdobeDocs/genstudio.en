@@ -1,5 +1,5 @@
 ---
-title: GenStudio Concepts
+title: GenStudio concepts
 description: Learn Adobe GenStudio concepts and terminology.
 feature: Workflow, Generative AI
 ---

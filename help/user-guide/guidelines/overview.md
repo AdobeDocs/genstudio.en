@@ -11,7 +11,7 @@ GenStudio guidelines—**[!DNL Brands]**, **[!DNL Products]**, and **[!DNL Perso
 
 To create compelling marketing content using GenStudio, start by building a comprehensive brand profile by adding [[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md), and [[!DNL Personas]](/help/user-guide/guidelines/personas.md).
 
-See [Add guidelines](/help/user-guide/guidelines/add-guidelines.md) to learn how to add **[!DNL Brands]**, **[!DNL Products]**, and **[!DNL Personas]** in GenStudio.
+See [Add guidelines](/help/user-guide/guidelines/add-guidelines.md) to learn how to add [!DNL Brands], [!DNL Products], and [!DNL Personas] in GenStudio.
 
 ## Capabilities
 

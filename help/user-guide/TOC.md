@@ -11,7 +11,7 @@ feature: Generative AI
 + [GenStudio Guide](home.md)
 + [Get started](get-started.md)
 + Introduction {#intro}
-    + [GenStudio Concepts](concepts.md)
+    + [GenStudio concepts](concepts.md)
     + [Effective prompts](effective-prompts.md)
     + [Tutorials](https://experienceleague.adobe.com/docs/genstudio/learning/tutorials.html)
 + Guidelines {#guidelines}

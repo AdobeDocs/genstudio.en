@@ -26,13 +26,13 @@ GenStudio [!DNL Content] simplifies and enhances the management of brand-approve
 In the future, need guidance on template upload errors. For now, the UI just says error.
 -->
 
-## Search
+## Search assets
 
 The [!DNL Content] search interface is quick and responsive, and provides a productive search-first experience.
 
 Apply filters and use metadata tags from asset details to narrow search results. For example, you may want to find an asset to help you build a new experience for your campaign.
 
-**To find content for reuse**:
+**To search for content to reuse**:
 
 1. In _[!DNL Content]_, select the **[!UICONTROL Assets]** section.
 

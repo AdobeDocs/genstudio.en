@@ -31,7 +31,7 @@ Along with the power of GenStudio [guidelines](/help/user-guide/guidelines/overv
          </a>
       </div>
    </td>
-   <td align="center" valign="top" width="100">
+   <!-- <td align="center" valign="top" width="100">
       <a href="/help/user-guide/content/overview.md">
       <img alt="Re-use existing content" src="../../assets/icons/icon-addContent.svg" width="35">
       </a>
@@ -40,7 +40,7 @@ Along with the power of GenStudio [guidelines](/help/user-guide/guidelines/overv
          <strong>Re-use existing content</strong>
          </a>
       </div>
-   </td>
+   </td> -->
    <td align="center" valign="top" width="100">
       <a href="/help/user-guide/create/generate-variants.md">
       <img alt="Generate variants of content" src="../../assets/icons/icon-template.svg" width="35">
@@ -54,7 +54,7 @@ Along with the power of GenStudio [guidelines](/help/user-guide/guidelines/overv
 </tr>
 </table>
 
-GenStudio [!DNL Create] satisfies three main use cases:
+GenStudio [!DNL Create] satisfies these use cases:
 
 * **Create new content** - In this use case, use defined [guidelines](/help/user-guide/guidelines/overview.md) (Brands, Products, and Personas) and inspiration content to inform the creation of brand-aligned content.
 * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio and use the power of Adobe generative AI technology to revise and improve existing content.
@@ -74,7 +74,7 @@ Access brand-approved templates to generate content across multiple channels in 
 
 Templates are [created and stored in [!DNL Content]](/help/user-guide/content/overview.md) but are accessible in [!DNL Create].
 
-See [[!DNL Content]](/help/user-guide/content/overview.md) for more information.
+See [[!DNL Content]](/help/user-guide/content/overview.md).
 
 ### Prompts
 
@@ -99,7 +99,7 @@ See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
 Meticulously review and validate content against brand guidelines, product documentation, and selected customer segments with [!DNL Create's] built-in reviews and approvals process. Solicit reviews, track review comments, and obtain approvals during the creation process.
 
-See [Reviews and approvals](/help/user-guide/approvals/overview.md) for more information.
+See [Reviews and approvals](/help/user-guide/approvals/overview.md).
 
 ## Tutorials
 
