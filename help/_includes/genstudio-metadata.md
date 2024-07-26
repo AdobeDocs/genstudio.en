@@ -2,19 +2,22 @@
 
 | Field         | Description | Can Edit |
 | ------------- | ----------- | -------- |
-| Campaign name |  | Y |
-| Channel       |  | Y |
-| Brand         |  | Y |
+| Campaign name (project name) | Default metadata captured and stored with asset | Y |
+| Brand name    |  | Y |
 | Products      |  | Y |
 | Personas      |  | Y |
-| Region        |  | Y |
+| Channels      |  | Y |
 | Timeframe     |  | Y |
-| Prompt        |  | N |
-| Keywords      |  | Y |
+| Region        |  | Y |
 | Language      |  | Y |
-| Format        |  | N |
+| Keywords      |  | Y |
+| Prompt        | Metadata that describes information used to generate asset | N |
+| Filename      | Default metadata captured and stored with asset | N |
+| File format   | Default metadata captured and stored with asset | N |
+| Timestamps    | Default metadata captured and stored with asset | N |
+| Size          | Default metadata captured and stored with asset | N |
 | Color tag     | **Colors**: Red, Dark_Red, Magenta, Yellow, Mustard, Pink, Dark_Pink, Gold, Orange, Mud_Green, Black, White, Off_White, Gray, Dark_Gray, Silver, Cream, Khaki, Brown, Dark_Brown, Maroon, Tan, Beige, Olive, Green, Bright_Green, Dark_Green, Light_Green, Blue, Dark_Blue, Light_Blue, Royal_Blue, Cyan, Violet, Purple, Lavender, Turquoise, Plum, Emerald, Lilac<br>**Tone**: Warm, Neutral, Cool | N |
-| Smart tag     | Keywords assigned by AI based on characterstics identified in the content | N |
+| Smart tag     | Keywords assigned by AI based on characteristics identified in the content | N |
 
 <!--
 Description should include any defaults or ranges.

@@ -8,6 +8,8 @@ feature: Content
 
 GenStudio [!DNL Content] simplifies and enhances the management of brand-approved assets for use and reuse in your digital marketing journey.
 
+## Add assets
+
 **To add one or more assets**:
 
 1. In _[!DNL Content]_, click **[!UICONTROL Add assets]**.
@@ -16,11 +18,17 @@ GenStudio [!DNL Content] simplifies and enhances the management of brand-approve
 
 1. In the _Add details_ section, select a **[!UICONTROL Campaign name]** or enter a new name.
 
-1. Add more details to improve discoverability.
+1. To improve discoverability, add optional details such as _Brand name_, _Personas_, _Region_ and _Keywords_ in the **More details** section.
 
-   The more details that you provide, the more you experience the robust capabilities of GenStudio. Select one or more details from the list, or enter a new one where applicable, such as with keywords. Each detail you add appears below the list. Click `x` to remove a detail.
+   The more details that you provide, the more you experience the robust capabilities of GenStudio. Select one or more details from the list, or enter a new one where applicable, such as with keywords. Each detail you add appears below the list. Click **`x`** to remove a detail.
+
+   Any details you add will apply to all the assets you are adding during this action.
+
+   See [GenStudio metadata](/help/user-guide/content/asset-details.md#genstudio-metadata).
 
 1. Click **[!UICONTROL Add assets]**.
+1. When the asset upload is completed, click **Done**.
+1. To view your new uploaded assets, click **Refresh** from the _New assets available_ notification at the bottom of the Canvas.
 
 <!-- 
 In the future, need guidance on template upload errors. For now, the UI just says error.

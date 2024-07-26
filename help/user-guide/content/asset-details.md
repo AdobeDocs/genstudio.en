@@ -34,14 +34,13 @@ The information used to generate a new asset or experience becomes metadata, suc
 
 When assets are approved and stored in [!DNL Content], GenStudio generates tags based on the asset features, such as color and tone, or keywords that identify asset features. You cannot edit tags.
 
-<!--
 ## GenStudio metadata
 
-This table is still TBD. What do customers need to know about these fields?
+
 
 {{$include /help/_includes/genstudio-metadata.md}}
 
-## History
+<!-- ## History
 
 Expand the _[!UICONTROL History]_ section to view a timeline of approvals and activity.
 
