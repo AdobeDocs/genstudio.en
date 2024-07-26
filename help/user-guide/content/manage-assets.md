@@ -22,7 +22,7 @@ GenStudio [!DNL Content] simplifies and enhances the management of brand-approve
 
    The more details that you provide, the more you experience the robust capabilities of GenStudio. Select one or more details from the list, or enter a new one where applicable, such as with keywords. Each detail you add appears below the list. Click **`x`** to remove a detail.
 
-   Any details you add will apply to all the assets you are adding during this action.
+   Any details you add will apply to all the assets added in this action.
 
    See [Metadata details](/help/user-guide/content/asset-details.md#genstudio-metadata).
 
