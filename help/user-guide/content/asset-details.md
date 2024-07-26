@@ -10,6 +10,8 @@ GenStudio stores approved content with rich metadata for discoverability and per
 
 Each asset (including experiences and templates) has associated _details_ (metadata) that help to identify, track, use, and learn from content performance.
 
+Asset metadata types include [system metadata](#system-metadata) and [user-defined metadata](#user-defined-metadata).
+
 ## System metadata
 
 Some asset metadata is automatically collected when an asset is uploaded. You cannot edit default system metadata.
@@ -24,16 +26,16 @@ When assets are approved and stored in [!DNL Content], GenStudio uses Adobe's AI
 
 The information used to generate a new asset or experience becomes metadata, such as the prompt that was used. You cannot edit the prompt once the content is approved, but you can use it as a starting place for generating something new.
 
-## User-defined marketing metadata
+## User-defined metadata
 
-User-defined marketing metadata adds marketing context to the asset's content, allowing marketers to better understand how to utilize and engage with the asset.
+User-defined metadata adds marketing context to the asset's content, allowing marketers to better understand how to utilize and engage with the asset.
 
 When you [upload an asset](/help/user-guide/content/manage-assets.md#add-assets), you can define a set of optional asset details that exist in GenStudio as metadata.
 
 ### Metadata details
 
 | Field         | Description | Can Edit | Required |
-| ------------- | ----------- | -------- |
+| ------------- | ----------- | -------- | -------- |
 | Campaign name (project name) | Default metadata captured and stored with asset | Y | N |
 | Brand name    | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) added to GenStudio and published for use. | Y | N |
 | Products      | [[!DNL Products]](/help/user-guide/guidelines/products.md) added to GenStudio for use. | Y | N |
