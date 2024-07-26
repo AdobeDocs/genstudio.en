@@ -24,7 +24,7 @@ GenStudio [!DNL Content] simplifies and enhances the management of brand-approve
 
    Any details you add will apply to all the assets you are adding during this action.
 
-   See [GenStudio metadata](/help/user-guide/content/asset-details.md#genstudio-metadata).
+   See [Metadata details](/help/user-guide/content/asset-details.md#genstudio-metadata).
 
 1. Click **[!UICONTROL Add assets]**.
 1. When the asset upload is completed, click **Done**.
