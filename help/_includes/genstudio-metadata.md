@@ -1,5 +1,7 @@
 # GenStudio metadata fields
 
+<!-- copied this table right into the topic bc was having trouble with snippet injection error -->
+
 | Field         | Description | Can Edit | Required |
 | ------------- | ----------- | -------- |
 | Campaign name (project name) | Default metadata captured and stored with asset | Y | N |
