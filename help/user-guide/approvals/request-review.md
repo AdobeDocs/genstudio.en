@@ -1,6 +1,6 @@
 ---
-title: Request review and approval of generated content
-description: Learn how to launch a review and approval process for your content.
+title: Request reviews and approvals
+description: Request a review.
 ---
 
 # Request review and approval
@@ -23,7 +23,7 @@ After you generate your content variants, you can request review and approval.
 
 Optional: Add comments to guide approver focus to particular features of the draft.
 
-## Add and remove approvers from the approval workflow
+## Add and remove approvers
 
 If you are the content creator, your draft Canvas displays the **[!UICONTROL Manage approvals]** button. Use this button to open a popup from which you can remove or add approvers throughout the review and approval process.
 
