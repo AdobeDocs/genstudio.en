@@ -1,7 +1,7 @@
 ---
 title: Create a Meta ad experience
 description: Learn how to create a new on-brand Meta ad experience—for Facebook or Instagram—with generative AI.
-feature: Content, Brands Service
+feature: Content, Brands Service, Guidelines, Content Generation
 role: User
 level: Beginner
 type: Tutorial
