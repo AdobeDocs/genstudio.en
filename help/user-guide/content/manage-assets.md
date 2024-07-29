@@ -22,13 +22,13 @@ GenStudio [!DNL Content] simplifies and enhances the management of brand-approve
 
    The more details that you provide, the more you experience the robust capabilities of GenStudio. Select one or more details from the list, or enter a new one where applicable, such as with keywords. Each detail you add appears below the list. Click **`x`** to remove a detail.
 
-   Any details you add will apply to all the assets added in this action.
+   Any details you add apply to all the assets added in this action.
 
    See [Metadata details](/help/user-guide/content/asset-details.md#genstudio-metadata).
 
 1. Click **[!UICONTROL Add assets]**.
 1. When the asset upload is completed, click **Done**.
-1. To view your new uploaded assets, click **Refresh** from the _New assets available_ notification at the bottom of the Canvas.
+1. To view your new uploaded assets, click **[!UICONTROL Refresh]** from the _New assets available_ notification at the bottom of the Canvas.
 
 <!-- 
 In the future, need guidance on template upload errors. For now, the UI just says error.

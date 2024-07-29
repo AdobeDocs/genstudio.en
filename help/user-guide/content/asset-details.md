@@ -28,7 +28,7 @@ The information used to generate a new asset or experience becomes metadata, suc
 
 ## User-defined metadata
 
-User-defined metadata adds marketing context to the asset's content, allowing marketers to better understand how to utilize and engage with the asset.
+User-defined metadata adds marketing context to the asset's content, allowing marketers to better understand how to use and engage with the asset.
 
 When you [upload an asset](/help/user-guide/content/manage-assets.md#add-assets), you can define a set of optional asset details that exist in GenStudio as metadata.
 
