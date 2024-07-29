@@ -1,7 +1,7 @@
 ---
 title: Overview of [!DNL Create]
 description: Quickly generate high-performing, on-brand content with generative AI in GenStudio [!DNL Create].
-feature: Create
+feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 ---
 
 # GenStudio [!DNL Create]
@@ -57,7 +57,7 @@ Along with the power of GenStudio [guidelines](/help/user-guide/guidelines/overv
 GenStudio [!DNL Create] satisfies these use cases:
 
 * **Create new content** - In this use case, use defined [guidelines](/help/user-guide/guidelines/overview.md) (Brands, Products, and Personas) and inspiration content to inform the creation of brand-aligned content.
-* **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio and use the power of Adobe generative AI technology to revise and improve existing content.
+<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio and use the power of Adobe generative AI technology to revise and improve existing content. -->
 * **Generate variants of content** - In this use case, generate variations of content based on a target [customer persona](/help/user-guide/guidelines/personas.md). This functionality allows for experimentation and discovery of high-performing content and allows for cross-channel conversion of content (for example, converting an email to a display ad).
 
 ## [!DNL Create] capabilities

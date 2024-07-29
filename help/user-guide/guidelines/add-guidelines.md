@@ -1,7 +1,7 @@
 ---
 title: Add guidelines to GenStudio
 description: Learn how to add guidelines—[!DNL Brands], [!DNL Products], and [!DNL Personas]—in Adobe [!DNL GenStudio].
-feature: Content, Brands Service, Products Service, Personas Service
+feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
 ---
