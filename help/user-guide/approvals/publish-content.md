@@ -1,7 +1,7 @@
 ---
 title: Publish approved content
 description: Learn how to publish approved content.
-feature: Approval
+feature: Approval, Content
 ---
 
 # Publish approved content
