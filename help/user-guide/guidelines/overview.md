@@ -19,7 +19,7 @@ See [Add guidelines](/help/user-guide/guidelines/add-guidelines.md) to learn how
 GenStudio guidelines:
 
 * Define the complexities of your brand identity
-* Create the base repository of brand information with guidelines for discrete elements such as logos and fonts, pixel spacing, and the subtlety of messaging guidelines
+* Create the base repository of information—for discrete elements such as logos and fonts, pixel spacing, and the subtlety of messaging guidelines—that the generative AI will use to create content
 * Ensure that your defined brand identity informs the creation of each piece of content
 * Operate as a brand identity framework that GenStudio checks against with each piece of generated or [validated content](#brand-validation)
 
@@ -27,7 +27,7 @@ By incorporating brand, product, and persona data into GenStudio, you can improv
 
 ## Use cases
 
-[!DNL Brands], [!DNL Products], and [!DNL Personas] guidelines enables two main use cases to ensure that any generated content adheres to a brand's desired representation:
+[!DNL Brands], [!DNL Products], and [!DNL Personas] guidelines enable two main use cases to ensure that any generated content adheres to a brand's desired representation:
 
 * **Content generation** in [[!DNL Create]](/help/user-guide/create/overview.md) or [Content](/help/user-guide/content/overview.md)
 * [**Brand Validation**](#brand-validation), which happens as part of the content creation process
