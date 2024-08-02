@@ -48,9 +48,6 @@ The content creator can continue their edits while receiving and responding to i
 
 ## Manage approvals
 
-If you are the content creator, your draft Canvas includes the **[!UICONTROL Manage approvals]** button. Use this button to remove or add approvers throughout the review and approval process. See [Request review and approval](./request-review.md) for an overview of selecting approvers for your content. 
+If you are the content creator, your draft Canvas includes the **[!UICONTROL Manage approvals]** button. Use this button to remove or add approvers throughout the review and approval process.
 
-
-
-
-
+See [Request review and approval](./request-review.md). 
