@@ -38,9 +38,7 @@ _Drafts_ are preliminary versions of assets or experiences that have not undergo
 
 When a draft completes the review and approval process and is published to [!DNL Content], the draft ID expires, and GenStudio does not save associated comments and approval statuses. The draft URL is no longer valid.
 
-### [!DNL Content] draft status
-
-Draft status captures the state of the content draft as it moves through the review and approval process. All designated reviewers are notified of changes in the status of content that they are reviewing. Reviewers change draft status to indicate whether a draft needs further revision or can be approved.
+Draft status captures the state of the content draft as it moves through the review and approval process. All designated reviewers are notified of changes in the status of content that they are reviewing. Reviewers change draft status to indicate whether a draft needs further revision or can be approved. All designated approvers must approve an asset or experience before it can be published.
 
 Available draft statuses:
 
