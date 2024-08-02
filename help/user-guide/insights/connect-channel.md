@@ -2,7 +2,7 @@
 title: Connect channel account
 description: Connect a channel account to monitor your GenStudio marketing campaigns and asset performance.
 level: Intermediate
-feature: Insights
+feature: Insights, Channels
 ---
 
 # Connect channel ad account

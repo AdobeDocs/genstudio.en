@@ -1,6 +1,7 @@
 ---
 title: GenStudio Campaigns
 description: Learn about centralized campaign planning and Campaign brief creation.
+feature: Campaigns, Campaign Brief, Content
 ---
 
 # GenStudio [!DNL Campaigns] 

@@ -1,7 +1,7 @@
 ---
 title: GenStudio [!DNL Brands]
 description: GenStudio [!DNL Brands] are a comprehensive collection of brand assets—marketing copy, imagery, experiences, and more—to inform the creation of brand-aligned content in GenStudio.
-feature: Brands Service
+feature: Brands Service, Guidelines
 ---
 
 # GenStudio [!DNL Brands]
@@ -18,7 +18,7 @@ GenStudio uses the wealth of brand information from your brand, partners it with
 1. To see a brand's overview information, click to open a defined brand.
 1. To view individual details or modify a brand, click **[!UICONTROL Brand voice guidelines]**, **[!UICONTROL Channel guidelines]**, **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
 
-See [Add guidelines](add-guidelines.md) to learn how to add a brand to GenStudio, modify it, publish it, and more.
+You can upload brand guideline docs—up to three PDF or DOC files—to GenStudio to automatically create a brand. See [Add guidelines](add-guidelines.md) to learn how to add a brand to GenStudio, modify it, publish it, and more.
 
 ## [!DNL Brands] guidelines
 

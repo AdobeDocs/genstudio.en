@@ -1,7 +1,7 @@
 ---
 title: Create an email experience
 description: Learn how to create email experiences in Adobe [!DNL GenStudio].
-feature: Content, Brands Service
+feature: Content, Brands Service, Guidelines, Content Generation
 role: User
 level: Beginner
 type: Tutorial

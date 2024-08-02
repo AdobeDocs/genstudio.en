@@ -1,7 +1,7 @@
 ---
 title: GenStudio [!DNL Products]
 description: GenStudio [!DNL Products] incorporates all aspects of your product—imagery, descriptions, and value propositions—to create relevant content that highlights product strengths and maintains consistency in product messaging.
-feature: Products Service
+feature: Products Service, Guidelines
 ---
 
 # GenStudio [!DNL Products]
