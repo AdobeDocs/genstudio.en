@@ -60,20 +60,20 @@ To maximize effectiveness of generated content and maintain consistent brand ide
 
    See all fragments and brand guidelines that need your attention. The fragment highlighted in the panel corresponds to the fragment highlighted in the generated variant in the Canvas.
 
+   >[!NOTE]
+   >
+   > The _Brand voice_ guideline noted in the _Brand validation panel_ applies to the entire variant, not an individual fragment. The whole content variant will be highlighted for suggested improvement.
+
 1. Using the suggestions in the _Brand validation panel_, manually revise fragments of emails to achieve the strongest alignment to your brand.
 
 1. To validate your revisions and ensure they are more closely aligned with your brand identity, click **[!UICONTROL Re-check]**.
 
    The brand validation process will run again. If the fragment/guideline passes validation a green checkmark appears for that fragment in the _Brand validation panel_. The percentage in the _Brand guideline check_ icon for the revised variant also shows your progress. You are automatically moved to the next fragment that needs your attention.
 
-   >[!NOTE]
-   >
-   > The _Brand voice_ guideline noted in the _Brand validation panel_ applies to the entire variant, not an individual fragment. The whole content variant will be highlighted for suggested improvement.
-
 1. Continue revising fragments to ensure the entire variant passes brand validation.
 
    Navigate between guidelines in the _Brand validation panel_ using the **[!UICONTROL Next]** and **[!UICONTROL Previous]** buttons.
 
-1. At the top of the _Brand validation panel_ navigate through each variant using the arrows (for instance, click through from "Email 1" to "Email 2") and continue revising fragments to better adhere to your brand guidelines.
+1. At the top of the _Brand validation panel_ navigate through each variant using the arrows (for instance, use the arrow to move from `Email 1` to `Email 2`) and continue revising fragments to better adhere to your brand.
 
    See [Brand voice guidelines](/help/user-guide/guidelines/brands.md) for more information on considered guidelines.
