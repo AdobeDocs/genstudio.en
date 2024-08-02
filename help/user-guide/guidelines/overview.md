@@ -36,7 +36,6 @@ By incorporating brand, product, and persona data into GenStudio, you can improv
 
 In collaboration with Adobe's generative AI functionality, [!DNL Brands], [!DNL Products], and [!DNL Personas] play a crucial role in ensuring that all your GenStudio content aligns with your brand identity.
 
-GenStudio conducts Brand Validation on various brand aspects and provides a checklist for generated content to highlight improvement areas to better align with your brand identity.
+GenStudio conducts brand validation on various brand aspects and provides a checklist for generated content to highlight improvement areas to better align with your brand identity.
 
 See [Brand Validation](/help/user-guide/guidelines/brand-validation.md).
-

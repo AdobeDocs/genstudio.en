@@ -77,14 +77,17 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 
 ## Verify brand alignment
 
-To optimize the generated emails and ensure strict adherence to brand identity, leverage the power of the [Brand Validation panel](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel). The Brand Validation pane illuminates areas for improvement. You can manually edit individual email fragments or [generate refined variants](/help/user-guide/create/generate-variants.md) of the initial result to achieve alignment with your brand.
+To optimize the generated emails and ensure strict adherence to brand identity, leverage the power of the [_Brand guidelines check_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check)—providing a summary of brand alignment for a variant—and the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)—displaying comprehensive brand validation info and illuminating improvement areas. You can manually edit individual email fragments or [generate refined variants](/help/user-guide/create/generate-variants.md) of the initial result to achieve alignment with your brand.
 
-**To verify brand alignment using the Brand Validation panel**:
+**To verify brand alignment**:
 
-1. Open the brand validation panel (brand validation icon in top menu bar) and toggle through each email to see how the generated content is checked against your guidelines and other GenStudio guidelines.
+1. Click the **[!UICONTROL [!DNL Brand] guidelines check]** icon for a variant and see a summary of how that variant performs when checked against your brand.
+1. To get the details of the fragments and guidelines that need improvement, click **[!UICONTROL Review]** _or_ click the Brand validation icon in top menu bar to open the _Brand validation panel_.
+
+1. Toggle through each email to see how you can improve the generated content to be more brand-aligned.
 1. [Manually revise emails](#revise-generated-emails), or [generate variants](/help/user-guide/create/generate-variants.md), to ensure your emails are closely aligned with your brand.
 
-See [Brand validation](/help/user-guide/guidelines/brand-validation.md#use-brand-validation-to-improve-content) for more information.
+See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
 ## Get reviews and approvals
 
