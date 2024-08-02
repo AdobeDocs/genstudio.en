@@ -22,13 +22,13 @@ You can then finalize the draft by saving it to [!DNL Content] with appropriate 
 
 1. After the content publication process has completed, GenStudio displays the _Approved variations have been published_ popup. From this popup window, you can:
 
-   * Click **[!UICONTROL Open in Content]** to view the published asset or experience
+   * Click **[!UICONTROL Open in Content]** to view the published asset or experience.
 
    * Click **[!UICONTROL Create something new]** to create new content.
 
 ## After publication
 
-All GenStudio users can access approved assets or experiences in [!DNL Content]. The Asset details pane identifies the asset's upload and approval history These attributes identify saved content:
+All GenStudio users can access approved assets or experiences in [!DNL Content]. The Asset details pane identifies the asset's upload and approval history. These attributes identify saved content:
 
 * **Upload date**: Identifies the date that the content was uploaded.
 * **Uploaded by**: Identifies the GenStudio asset creator.
