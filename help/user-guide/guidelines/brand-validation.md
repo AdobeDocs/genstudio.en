@@ -50,7 +50,7 @@ See [Improve brand alignment](#improve-brand-alignment).
 
 To maximize effectiveness of generated content and maintain consistent brand identity, use the _Brand guidelines check_ and the _Brand Validation panel_. You can manually modify specific fragments or [generate refined variants](/help/user-guide/create/generate-variants.md) to align with your [brand guidelines](brands.md).
 
-**To improve brand alignment for generated content variants:**
+**To improve brand alignment for generated content variants**:
 
 1. Click the **[!UICONTROL [!DNL Brand] guidelines check]** icon for an individual variant.
 
@@ -62,7 +62,7 @@ To maximize effectiveness of generated content and maintain consistent brand ide
 
    >[!NOTE]
    >
-   > The _Brand voice_ guideline noted in the _Brand validation panel_ applies to the entire variant, not an individual fragment. The whole content variant will be highlighted for suggested improvement.
+   > The _Brand voice_ guideline noted in the _Brand validation panel_ applies to the entire variant, not an individual fragment. The whole content variant is highlighted for suggested improvement.
 
 1. Using the suggestions in the _Brand validation panel_, manually revise fragments of emails to achieve the strongest alignment to your brand.
 
@@ -74,6 +74,6 @@ To maximize effectiveness of generated content and maintain consistent brand ide
 
    Navigate between guidelines in the _Brand validation panel_ using the **[!UICONTROL Next]** and **[!UICONTROL Previous]** buttons.
 
-1. At the top of the _Brand validation panel_ navigate through each variant using the arrows (for instance, use the arrow to move from `Email 1` to `Email 2`) and continue revising fragments to better adhere to your brand.
+1. At the top of the _Brand validation panel_, navigate through each variant using the arrows (for instance, use the arrow to move from `Email 1` to `Email 2`) and continue revising fragments to better adhere to your brand.
 
    See [Brand voice guidelines](/help/user-guide/guidelines/brands.md) for more information on considered guidelines.

@@ -19,7 +19,7 @@ See [Add guidelines](/help/user-guide/guidelines/add-guidelines.md) to learn how
 GenStudio guidelines:
 
 * Define the complexities of your brand identity
-* Create the base repository of information—for discrete elements such as logos and fonts, pixel spacing, and the subtlety of messaging guidelines—that the generative AI will use to create content
+* Create the base repository of information—for discrete elements such as logos and fonts, pixel spacing, and the subtlety of messaging guidelines—that the generative AI uses to create content
 * Ensure that your defined brand identity informs the creation of each piece of content
 * Operate as a brand identity framework that GenStudio checks against with each piece of generated or [validated content](#brand-validation)
 

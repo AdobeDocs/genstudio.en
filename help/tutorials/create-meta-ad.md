@@ -84,7 +84,7 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 
 ## Verify brand alignment
 
-To optimize the generated ads and ensure strict adherence to brand identity, leverage the power of the [_Brand guidelines check_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check)—providing a summary of brand alignment for a variant—and the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)—displaying comprehensive brand validation info and illuminating improvement areas.
+To optimize the generated ads and ensure strict adherence to brand identity, leverage the power of the [_Brand guidelines check_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check)—providing a summary of brand alignment for a variant—and the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)—displaying comprehensive brand validation details and illuminating improvement areas.
 
 You can manually edit individual ad fragments or [generate refined variants](/help/user-guide/create/generate-variants.md) of the initial result to achieve alignment with your brand.
 
