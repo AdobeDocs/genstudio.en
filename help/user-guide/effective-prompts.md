@@ -37,8 +37,8 @@ In GenStudio [[!DNL Create]](/help/user-guide/create/overview.md), you can use *
 
 For [emails](/help/tutorials/create-email-experience.md), the prompt criteria might include adding [guidelines](/help/user-guide/guidelines/overview.md) in _Parameters_, upload of an asset to use in the email variants, and a descriptive prompt. For a [Meta ad](/help/tutorials/create-meta-ad.md), the prompt criteria might include a brand guideline in _Parameters_, selection or upload of an existing asset, settings related to images or assets such as aspect ratio, and a prompt. The real power begins with [configuring GenStudio guidelines](/help/user-guide/guidelines/add-guidelines.md).
 
-> [!TIP]
-> If guidelines are added in _Parameters_ in the prompt drawer, you do not need to include reference to those in your prompt. GenStudio will leverage those [!DNL Brands], [!DNL Products], and [!DNL Personas] in content generation.
+>[!NOTE]
+>If guidelines are added in _Parameters_ in the prompt drawer, you do not need to include reference to those in your prompt. GenStudio will leverage those [!DNL Brands], [!DNL Products], and [!DNL Personas] in content generation.
 
 ### Guidelines
 
