@@ -1,7 +1,7 @@
 ---
 title: Add guidelines to GenStudio
 description: Learn how to add guidelines—[!DNL Brands], [!DNL Products], and [!DNL Personas]—in Adobe [!DNL GenStudio].
-feature: Content, Brands Service, Products Service, Personas Service
+feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
 ---
@@ -16,7 +16,7 @@ Adding Guidelines to GenStudio is an important step in the creation process. Gui
 
 ## Add [!DNL Brands]
 
-To add a brand to GenStudio, you can [**upload a brand guide**](#upload-brand-guidelines) or [**manually create a brand**](#manually-add-brand) by selecting guidelines and entering your brand details. [Publish a brand](#publish-brand) to [!DNL Content] to make it available for generating variants.
+To add a brand to GenStudio, you can [upload a brand guide](#upload-brand-guidelines) or [manually create a brand](#manually-add-brand) by selecting guidelines and entering your brand details. [Publish a brand](#publish-brand) to [!DNL Content] to make it available for generating variants.
 
 In the left navigation area, click **[!DNL Brands]**. In the _[!DNL Brands]_ panel, select **Add brand**.
 
@@ -35,7 +35,7 @@ See [[!DNL Brands]](/help/user-guide/guidelines/brands.md) to view a sample bran
 
 1. Select **[!UICONTROL Add brand]**.
 
-Using Adobe's generative AI technology, GenStudio extracts information from your uploaded documents and begins building your brand. You see brand information, such as brand voice, channel, and image guidelines, populate as GenStudio assembles each guideline from your brand documents.
+Using Adobe's generative AI technology, GenStudio extracts information from your uploaded documents and begins building your brand. You see brand information, such as brand voice, channel, and image guidelines populate as GenStudio assembles each guideline from your brand documents.
 
 A popup reminds you to review the extracted content before you [publish the brand](#publish-brand).
 

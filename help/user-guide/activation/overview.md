@@ -1,6 +1,7 @@
 ---
 title: Overview of Activation
 description: Learn how to activate content with Adobe Experience Cloud and third-party applications.
+feature: Assets, Approval, Experiences
 ---
 
 # GenStudio Activation

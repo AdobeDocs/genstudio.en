@@ -1,7 +1,7 @@
 ---
 title: Create a Meta ad experience
 description: Learn how to create a new on-brand Meta ad experience—for Facebook or Instagram—with generative AI.
-feature: Content, Brands Service
+feature: Content, Brands Service, Guidelines, Content Generation
 role: User
 level: Beginner
 type: Tutorial
@@ -31,19 +31,19 @@ To get started generating a new Meta ad experience, use an available template to
 
 Adding guidelines parameters enhances the content generation process and is a crucial step in preparing to generate a Meta ad.
 
-**To add parameters and images**:
+**To add parameters and assets**:
 
-1. Click the _Parameters_ icon to expand the parameters options and add references parameters and image content.
-1. In the _Parameters_ section, add guidelines—[!DNL Brands], [!DNL Personas], and [!DNL Products]—to inform content creation.
+1. Click the _Parameters_ icon to expand the parameters options and add references parameters and assets.
+1. In the _Parameters_ section, select guidelines—[!DNL Brands], [!DNL Personas], and [!DNL Products]—to inform content creation.
 
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio](/help/user-guide/guidelines/add-guidelines.md).
 
-1. In the _Content_ section, add content to be used in the experience *and* to influence content generation. There are three ways to add images:
-   * Click **[!UICONTROL Select from content]** to select images already published to [!DNL Content]. Use the filters to further narrow your search results.
-   * Click **[!UICONTROL Upload]** to browse your files and choose images to use. Along with browsing your device, you can also import from Microsoft OneDrive or Dropbox.
+1. In the _Content_ section, add content to be used in the experience *and* to influence content generation. There are three ways to add assets:
+   * Click **[!UICONTROL Select from content]** to select assets (images or video) already published to [!DNL Content]. Use the filters to further narrow your search results.
+   * Click **[!UICONTROL Upload]** to browse your files and choose assets to use. Along with browsing your device, you can also import from Microsoft OneDrive or Dropbox.
    * Drag and drop image files into the _Content_ section.
 
-   When you select images from GenStudio content, you are choosing from images already saved to [[!DNL Content]](/help/user-guide/content/overview.md). You can filter by channel, product, language, and more, to find the needed images quickly.
+   When you select assets from GenStudio content, you are choosing from assets already saved to [[!DNL Content]](/help/user-guide/content/overview.md). You can filter by channel, product, language, and more, to find the needed assets quickly.
 
 When you are done adding parameters, you can collapse the *Parameters* and *Content* sections by clicking the _Parameters_ icon again.
 
@@ -84,16 +84,19 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 
 ## Verify brand alignment
 
-To ensure that the generated ads align with your brand identity, you can utilize the powerful [[!DNL Brand] Validation panel](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel). This panel highlights areas for improvement and allows you to manually edit specific ad fragments or [generate refined variants](/help/user-guide/create/generate-variants.md) to achieve brand alignment.
+To optimize the generated ads and ensure strict adherence to brand identity, leverage the power of the [_Brand guidelines check_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check)—providing a summary of brand alignment for a variant—and the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)—displaying comprehensive brand validation details and illuminating improvement areas.
 
-See the [[!DNL Brand] validation](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) for more information.
+You can manually edit individual ad fragments or [generate refined variants](/help/user-guide/create/generate-variants.md) of the initial result to achieve alignment with your brand.
 
-**To verify brand alignment using the Brand Validation panel**:
+**To verify brand alignment**:
 
-1. Open the _[!DNL Brand] Validation_ panel (brand validation icon in top menu bar) and toggle through each ad to see how the generated content is checked against your guidelines and other GenStudio guidelines.
-1. [Manually revise Meta ads](#revise-generated-meta-ads), or [generate variants](/help/user-guide/create/generate-variants.md), to ensure your ads are closely aligned with your brand.
+1. Click the [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) icon for a variant and see a summary of how that variant performs when checked against your brand.
+1. To get the details of the fragments and guidelines that need improvement, click **[!UICONTROL Review]** _or_ click the Brand validation icon in top menu bar to open the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel).
 
-See [Brand validation](/help/user-guide/guidelines/brand-validation.md#use-brand-validation-to-improve-content).
+1. Toggle through each ad to see how you can improve the generated content to be more brand-aligned.
+1. [Manually revise emails](#revise-generated-emails), or [generate variants](/help/user-guide/create/generate-variants.md), to ensure your ads are closely aligned with your brand.
+
+See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
 ## Get reviews and approvals
 

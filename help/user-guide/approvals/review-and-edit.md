@@ -24,13 +24,15 @@ As a designated approver, you can access the content that you are asked to revie
 
 ## Access content for review
 
+You can approve content if you have received an approval request email. This email contains a link to the draft you have been asked to review. This URL is valid only while the draft is under review.
+
 **To review content**:
 
 1. Use the link in your in-production notification or request email to navigate to the content for review. GenStudio displays the content Canvas.
 
 1. The Asset Canvas includes a **[!UICONTROL Review & Approve]** button on the upper right. Click this button to open the _Approvals_ pane for this asset.
 
-## Request changes to content
+## Request changes
 
 You can list suggested changes or ask questions about the draft from the content's _Approval_ pane. The **Needs work** draft status notifies the content creator that changes are requested.
 
@@ -46,9 +48,6 @@ The content creator can continue their edits while receiving and responding to i
 
 ## Manage approvals
 
-If you are the content creator, your draft Canvas includes the **[!UICONTROL Manage approvals]** button. Use this button to remove or add approvers throughout the review and approval process. 
+If you are the content creator, your draft Canvas includes the **[!UICONTROL Manage approvals]** button. Use this button to remove or add approvers throughout the review and approval process.
 
-
-
-
-
+See [Request review and approval](./request-review.md). 

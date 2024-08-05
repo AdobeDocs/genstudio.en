@@ -2,7 +2,7 @@
 title: Get started with GenStudio
 description: Learn how to set up your GenStudio to generate new brand-aligned marketing content.
 level: Beginner
-feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI
+feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 ---
 
 # Get started with GenStudio

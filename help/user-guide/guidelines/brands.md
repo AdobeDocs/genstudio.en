@@ -1,7 +1,7 @@
 ---
 title: GenStudio [!DNL Brands]
 description: GenStudio [!DNL Brands] are a comprehensive collection of brand assets—marketing copy, imagery, experiences, and more—to inform the creation of brand-aligned content in GenStudio.
-feature: Brands Service
+feature: Brands Service, Guidelines
 ---
 
 # GenStudio [!DNL Brands]
@@ -18,7 +18,7 @@ GenStudio uses the wealth of brand information from your brand, partners it with
 1. To see a brand's overview information, click to open a defined brand.
 1. To view individual details or modify a brand, click **[!UICONTROL Brand voice guidelines]**, **[!UICONTROL Channel guidelines]**, **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
 
-See [Add guidelines](add-guidelines.md) to learn how to add a brand to GenStudio, modify it, publish it, and more.
+You can upload brand guideline docs—up to three PDF or DOC files—to GenStudio to automatically create a brand. See [Add guidelines](add-guidelines.md) to learn how to add a brand to GenStudio, modify it, publish it, and more.
 
 ## [!DNL Brands] guidelines
 
@@ -58,7 +58,7 @@ The following table shows each channel fragment, channels for which it is availa
 
 ![Channel guidelines in GenStudio](/help/assets/channel-guidelines.png){width="650" zoomable="yes"}
 
-### Image guidelines
+<!-- Not in M2.1 // ### Image guidelines
 
 Images have certain inherent guidelines that influence image composition.
 
@@ -74,7 +74,7 @@ You can create your own categories, like Photos, Product, or Illustration imager
 | Color and tone | Specify color or color theme, palette, color interpretation and accessibility | `Use bright and bold color palette, Ensure high contrast` |
 | Lighting   | Describe how highlights and shadows affect different objects| `Use natural light, Avoid using shadows` |
 
-![Image guidelines in GenStudio](/help/assets/image-guidelines.png){width="650" zoomable="yes"}
+![Image guidelines in GenStudio](/help/assets/image-guidelines.png){width="650" zoomable="yes"} -->
 
 ### Logos
 
@@ -84,6 +84,6 @@ Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
 ## Brand validation
 
-In GenStudio, Brand Validation plays a crucial role in conjunction with the generative AI functionality of [!DNL Brands], [!DNL Products], and [!DNL Personas]. It ensures that all your content remains consistent with your brand identity.
+In GenStudio, brand validation plays a crucial role, in conjunction with the generative AI functionality of [!DNL Brands], [!DNL Products], and [!DNL Personas]. It ensures that all your content remains consistent with your brand identity.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
