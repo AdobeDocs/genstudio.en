@@ -80,7 +80,7 @@ To maximize effectiveness of generated content and maintain consistent brand ide
 
 1. After making necessary revisions, click **[!UICONTROL Re-check]** to validate your changes and ensure they are more closely aligned with your brand identity.
 
-   The brand validation process will run again. If the fragment/guideline passes validation a green checkmark appears for that fragment in the _Brand validation panel_. The percentage in the _Brand guideline check_ icon for the revised variant also shows your progress.
+   The brand validation process will run again. If the fragment/guideline passes validation, a green checkmark appears for that fragment in the _Brand validation panel_. The percentage in the _Brand guideline check_ icon for the revised variant also shows your progress.
 
 1. Continue revising fragments to ensure the entire variant passes brand validation.
 

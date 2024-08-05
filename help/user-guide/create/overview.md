@@ -80,18 +80,19 @@ See [[!DNL Content]](/help/user-guide/content/overview.md).
 
 [Crafting effective prompts](/help/user-guide/effective-prompts.md) is an important part of the generation process in [!DNL Create]. To create new content or generate variants of content, write a prompt that describes the content (or experience) you intend to generate.
 
-Write prompts, add _Parameters_, and add a descriptive prompt in the prompt drawer, then click **[!UICONTROL Generate]**.
+Write prompts, add _Parameters_, and add a descriptive prompt in the prompt area, then click **[!UICONTROL Generate]**.
 
 See [Effective prompts](/help/user-guide/effective-prompts.md).
 
 ### Parameters
 
-In the prompt drawer, you can add _Parameters_ such as [!DNL Brands], [!DNL Products], and [!DNL Personas] (GenStudio guidelines) or _Content_ (images and videos) to shape the generated experience.
+In the prompt area, you can add _Parameters_ such as [!DNL Brands], [!DNL Products], and [!DNL Personas] (GenStudio guidelines) or _Content_ (images and videos) to shape the generated experience.
 
 >[!NOTE]
+>
 >Uploaded images and videos in _Parameters_ are used in generated variants and inform the copy content (text) generated for variants.
 
-These added parameters inject [guidelines](/help/user-guide/guidelines/overview.md) and assets into the generation process, ensuring that the content is customized to align with a brand's comprehensive identity and using applicable imagery. Adding guidelines to your GenStudio, and using them during the content generation process, is recommended as they greatly enhance the creation of suitable on-brand content.
+These added parameters inject [guidelines](/help/user-guide/guidelines/overview.md) and assets into the generation process, ensuring that the content is customized to align with a brand's comprehensive identity and using applicable imagery. It is recommended to add guidelines to your GenStudio and use them during the content generation process, as they greatly enhance the creation of suitable on-brand content.
 
 ### Brand validation
 
