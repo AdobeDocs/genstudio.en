@@ -18,7 +18,7 @@ GenStudio conducts brand validation on various aspects, including:
 
 A summary of brand validation information for each generated content variant is accessible through the _Brand guidelines check_ icon next to each variant in the Canvas.
 
-The _Brand guidelines check_ displays the percentage of compliance with your [brand](brands.md). The percentage is calculated as the number of [guidelines](guidelines.md) that passed validation versus the number of guidelines tested.
+The _Brand guidelines check_ displays the percentage of compliance with your [brand](brands.md). The percentage is calculated as the number of [guidelines](overview.md) that passed validation versus the number of guidelines tested.
 
 Click the icon to see which guidelines are compliant with your brand and which need review.
 
