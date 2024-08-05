@@ -13,33 +13,45 @@ GenStudio conducts brand validation on various aspects, including:
 * Brand guidelines specific to each customer
 * Copy guidelines for different channel platforms
 * Ethical considerations related to gender, ethnicity, race, disability status, and age in AI-generated content
-* Quality checks for plagiarism, grammar rules, correctness of human features in imagery, and factuality of GenAI hallucinations
 
 ## Brand guidelines check
 
 A summary of brand validation information for each generated content variant is accessible through the _Brand guidelines check_ icon next to each variant in the Canvas.
 
-The _Brand guidelines check_ displays the percentage of compliance with your brand [guidelines](overview.md). Click the icon to see which guidelines are compliant with your brand and which need review.
+The _Brand guidelines check_ displays the percentage of compliance with your [brand](brands.md). The percentage is calculated as the number of [guidelines](guidelines.md) that passed validation versus the number of guidelines tested.
+
+Click the icon to see which guidelines are compliant with your brand and which need review.
 
 See [Improve brand alignment](#improve-brand-alignment).
 
 ## Brand Validation panel
 
-The _Brand Validation panel_  provides detailed brand validation information and illuminates opportunities for improvement for all fragments and brand guidelines for generated content variants.
+The _Brand Validation panel_  provides detailed brand validation information and illuminates opportunities for improvement for each variant fragment.
 
 The _Brand Validation panel_ displays information for:
 
-* Email: 
+* **Email**: 
   * Subject line fragment
   * Preheader fragment
   * Header fragment
   * Body fragment
   * CTA (call to action) fragment
   * Brand voice guidelines
-* Meta ad:
-  * xx
+* **Meta ad**:
+  * Headline fragment
+  * Body copy fragment
+  * CTA (call to action) fragment
+  * On-image text fragment
 
 See [Improve brand alignment](#improve-brand-alignment).
+
+### Filter
+
+In the _Brand Validation panel_ you can filter what guidelines are shown. Click the filter icon at the top of the panel to view:
+
+* **Failed guidelines**—_Show failed guidelines_ displays only the guidelines that did not pass brand validation.
+* **All guidelines**—_Show failed and passed guidelines_ displays all guidelines for which the variants are measured against.
+* **Passed guidelines**—_Show passed guidelines_ displays only the guidelines that passed brand validation.
 
 <!-- The _Brand Validation panel_ has different areas of focus for each content channel:
 
@@ -64,11 +76,11 @@ To maximize effectiveness of generated content and maintain consistent brand ide
    >
    > The _Brand voice_ guideline noted in the _Brand validation panel_ applies to the entire variant, not an individual fragment. The whole content variant is highlighted for suggested improvement.
 
-1. Using the suggestions in the _Brand validation panel_, manually revise fragments of emails to achieve the strongest alignment to your brand.
+1. Manually revise variant fragments to achieve the strongest alignment to your brand.
 
-1. To validate your revisions and ensure they are more closely aligned with your brand identity, click **[!UICONTROL Re-check]**.
+1. After making necessary revisions, click **[!UICONTROL Re-check]** to validate your changes and ensure they are more closely aligned with your brand identity.
 
-   The brand validation process will run again. If the fragment/guideline passes validation a green checkmark appears for that fragment in the _Brand validation panel_. The percentage in the _Brand guideline check_ icon for the revised variant also shows your progress. You are automatically moved to the next fragment that needs your attention.
+   The brand validation process will run again. If the fragment/guideline passes validation a green checkmark appears for that fragment in the _Brand validation panel_. The percentage in the _Brand guideline check_ icon for the revised variant also shows your progress.
 
 1. Continue revising fragments to ensure the entire variant passes brand validation.
 
@@ -76,4 +88,4 @@ To maximize effectiveness of generated content and maintain consistent brand ide
 
 1. At the top of the _Brand validation panel_, navigate through each variant using the arrows (for instance, use the arrow to move from `Email 1` to `Email 2`) and continue revising fragments to better adhere to your brand.
 
-   See [Brand voice guidelines](/help/user-guide/guidelines/brands.md) for more information on considered guidelines.
+   See [Brand voice guidelines](/help/user-guide/guidelines/brands.md#brand-voice-guidelines) for more information on considered guidelines.
