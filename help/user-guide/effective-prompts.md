@@ -33,7 +33,13 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 ## Prompt criteria
 
-In GenStudio [[!DNL Create]](/help/user-guide/create/overview.md), you can use **[!UICONTROL Prompt criteria]** to add details through selection to improve the AI interpretation. For on-brand images, the prompt criteria might include [[!DNL Brand]](/help/user-guide/guidelines/brands.md) and general settings related to images, such as aspect ratio. For channels, you might use a template, choose from the [guidelines](/help/user-guide/guidelines/overview.md), and select or upload existing assets. The real power begins with [configuring GenStudio guidelines](/help/user-guide/guidelines/add-guidelines.md).
+In GenStudio [[!DNL Create]](/help/user-guide/create/overview.md), you can use **[!UICONTROL Prompt criteria]** ([_Parameters_](/help/user-guide/create/overview.md#parameters) and a prompt) in the prompt area to add details through selection to improve the AI interpretation.
+
+For [emails](/help/tutorials/create-email-experience.md), the prompt criteria might include adding [guidelines](/help/user-guide/guidelines/overview.md) in _Parameters_, upload of an asset to use in the email variants, and a descriptive prompt. For a [Meta ad](/help/tutorials/create-meta-ad.md), the prompt criteria might include a brand guideline in _Parameters_, selection or upload of an existing asset, settings related to images or assets such as aspect ratio, and a prompt. The real power begins with [configuring GenStudio guidelines](/help/user-guide/guidelines/add-guidelines.md).
+
+>[!NOTE]
+>
+>If guidelines are added in _Parameters_ in the prompt area, you do not need to include reference to those in your prompt. GenStudio will leverage those [!DNL Brands], [!DNL Products], and [!DNL Personas] in content generation.
 
 ### Guidelines
 

@@ -31,19 +31,19 @@ To get started creating a new email experience, use an available template to pro
 
 Adding guidelines parameters supercharges the content generation process and is an integral preparatory step for generating an email experience.
 
-**To add parameters and images**:
+**To add parameters and assets**:
 
-1. Click the _Parameters_ icon to expand the parameters options and add references parameters and image content.
-1. In the _Parameters_ section, add guidelines—Brand, Persona, and Product—to inform content creation.
+1. Click the _Parameters_ icon to expand the parameters options and add references parameters and assets.
+1. In the _Parameters_ section, select guidelines—Brand, Persona, and Product—to inform content creation.
 
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio](/help/user-guide/guidelines/add-guidelines.md).
 
-1. In the _Content_ section, add content to be used in the experience *and* to influence content generation. There are three ways to add images:
-   * Click **[!UICONTROL Select from content]** to select images already published to [!DNL Content]. Use the filters to further narrow your search results.
-   * Click **[!UICONTROL Upload]** to browse your files and choose images to use. Along with browsing your device, you can also import from Microsoft OneDrive or Dropbox.
-   * Drag and drop image files into the _Content_ section.
+1. In the _Content_ section, add content to be used in the experience *and* to influence content generation. There are three ways to add assets:
+   * Click **[!UICONTROL Select from content]** to select assets (images or video) already published to [!DNL Content]. Use the filters to further narrow your search results.
+   * Click **[!UICONTROL Upload]** to browse your files and choose assets to use. Along with browsing your device, you can also import from Microsoft OneDrive or Dropbox.
+   * Drag and drop assets into the _Content_ section.
 
-   When you select images from GenStudio content, you are choosing from images already saved to [[!DNL Content]](/help/user-guide/content/overview.md). You can filter by channel, product, language, and more, to find the needed images quickly.
+   When you select assets from GenStudio content, you are choosing from assets already saved to [[!DNL Content]](/help/user-guide/content/overview.md). You can filter by channel, product, language, and more, to find the needed assets quickly.
 
 When you are done adding parameters, you can collapse the *Parameters* and *Content* sections by clicking the _Parameters_ icon again.
 
