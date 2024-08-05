@@ -96,7 +96,7 @@ System adminstrators prepare their organization's GenStudio environment for crea
 
   **Edit or complete brand guideline fields as needed**. Comprehensive brand guidelines form the basis of GenStudio's understanding of your organization's brand. Once GenStudio has extracted the information it needs from your brand guideline documents, you are prompted to manually edit or complete fields of extracted information as needed.
 
-  **Create product and persona guidelines**. 
+  **Create product and persona guidelines**. Specify individual product focus areas for content creation by adding a [!DNL Product]. [!DNL Personas] guidelines help tailor content creation for defined customer segments.
 
 Although setting up an organization's brand guidelines can be a one-time action, you might need to revise and enhance these guidelines based on your organization's volatility, growth, and changing market circumstances.
 
