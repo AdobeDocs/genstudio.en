@@ -9,7 +9,7 @@ feature: Templates, Content
 
 You can adapt your HTML templates for GenStudio by using the _Handlebars_ templating language. The Handlebars syntax uses regular text with double braces as content placeholders. See [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
 
-## Template structure
+## Example template
 
 <!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
 -->

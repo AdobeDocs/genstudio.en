@@ -6,7 +6,9 @@ feature: Templates, Content
 
 # Work with Templates
 
-Templates are used to generate consistent content for emails and social media ads. They significantly reduce the time and effort required to generate new content by providing a starting point that includes pre-configured layouts and design elements.
+GenStudio templates are essential for enabling content creators to quickly produce consistent on-brand marketing content. Using templates significantly reduces the time and effort required to generate new content by providing a starting point that includes pre-configured layouts and design elements.
+
+This guide provides detailed information on how to prepare templates various content channels in GenStudio.
 
 ## Upload a template
 
