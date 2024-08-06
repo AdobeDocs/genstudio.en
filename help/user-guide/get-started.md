@@ -40,7 +40,7 @@ See [Write effective prompts](effective-prompts.md).
 The following table displays the default GenStudio creator permissions:
 
 | Feature | Create  | Update | Delete | View |
-|-----------|----------------|----------------|
+|-----------|----------------|----------------|----------------|----------------|
 |   [!DNL Brands]| no  | no | no |  yes |
 |   [!DNL Campaigns] | yes    |   yes      |  yes       |    yes       |
 |   [!DNL Content] |     yes  |   yes     |    yes   |   yes      |
@@ -56,7 +56,7 @@ The following table displays the default GenStudio creator permissions:
 The following table displays the default GenStudio collaborator permissions:
 
 | Feature | Create  | Update | Delete | View |
-|-----------|----------------|----------------|
+|-----------|----------------|----------------|----------------|----------------|
 |   [!DNL Brands]| yes  | yes | yes |  yes |
 |   [!DNL Campaigns] | yes    |   yes      |  yes       |    yes       |
 |   [!DNL Content] |     yes  |   yes     |    yes   |   yes      |
@@ -72,7 +72,7 @@ Admin users create and assign users to any of the GenStudio supported roles. The
 The following table displays the default GenStudio system administrator permissions:
 
 | Feature | Create  | Update | Delete | View |
-|-----------|----------------|----------------|
+|-----------|----------------|----------------|----------------|----------------|
 |   [!DNL Brands]| yes  | yes | yes |  yes |
 |   [!DNL Campaigns] | yes    |   yes      |  yes       |    yes       |
 |   [!DNL Content] |     yes  |   yes     |    yes   |   yes      |
