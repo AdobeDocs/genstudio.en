@@ -47,7 +47,7 @@ The maximum number of fields allowed in a custom template is twenty.
 
 #### Recognized field names
 
-The following tables lists the field names that are recognized by GenStudio for population into templates.
+The following table lists the field names that are recognized by GenStudio for population into templates.
 
 | Field          | Role                   | Channel template     |
 | -------------- | ---------------------- | -------------------- |
@@ -59,7 +59,7 @@ The following tables lists the field names that are recognized by GenStudio for 
 | `image`        | Image                  | email (recommended)<br>Meta ad (recommended) |
 | `brand_logo`   | Logo of selected brand | Meta ad |
 
-GenStudio automatically supplies certain fields in templates, so it is not necessary to include them in your template designs:
+GenStudio automatically populates certain fields in templates, so it is not necessary to include them in your template designs:
 
 * `subject` field (email template)
 * `headline`, `body`, and `CTA` fields (Meta ad template)
@@ -76,7 +76,7 @@ All other field names are treated as manually populated fields. If you want a se
 
 ## Sections or groups
 
-_Sections_ inform GenStudio that fields belonging to a section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section.
+_Sections_ inform GenStudio that fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section.
 
 Use a prefix of your choice in the field name to indicate a field is part of a section or group. 
 
@@ -85,7 +85,7 @@ For example, you may want to spotlight content that appears in a highlighted are
 * `spotlight_headline`
 * `spotlight_body`
 
-Each section can have only one of a field type. In the above example, the `spotlight` prefix can only have one `spotlight_headline` field.
+Each section can have only one of each field type. In the above example, the `spotlight` prefix can only have one `spotlight_headline` field.
 
 A template can include up to three sections:
 
@@ -102,7 +102,7 @@ GenStudio understands that `spotlight_headline` is more closely related to `spot
 
 +++Example: Email template with one section
 
-The following is a basic example of an HTML template for email with one section. The head contains simple, inline CSS for styling. The body contains a `pre-header`, `headline`, and `image` [placeholder](#content-placeholders) for use by GenStudio to inject content during the email generation process.
+The following is a basic example of an HTML template for an email that contains one section. The head contains simple, inline CSS for styling. The body contains a `pre-header`, `headline`, and `image` [placeholder](#content-placeholders) for use by GenStudio to inject content during the email generation process.
 
 ```handlebars {line-numbers="true" highlight="13"}
 <!DOCTYPE html>

@@ -7,7 +7,7 @@ feature: Templates, Content
 
 # Prepare email template for GenStudio
 
-Typically, a designer will create the visual design of a template in a design program such as Adobe XD. After an email template is designed, coded, and tested, you can prepare it for upload and use in GenStudio.
+Typically, a designer creates the visual design of a template in a design program such as Adobe XD. After an email template is designed, coded, and tested, you can prepare it for upload and use in GenStudio.
 
 See [Anatomy of a template](/help/user-guide/content/use-templates.md#anatomy-of-a-template).
 
@@ -19,7 +19,7 @@ Before you prepare a Meta ad template, ensure that you have added [guidelines](/
 
 ## Code an email template
 
-After a template is designed it is coded using HTML and inline CSS. The code should be clean and responsive for various devices.
+After a template is designed, it is coded using HTML and inline CSS. The code should be clean and responsive for various devices.
 
 See [Template examples](/help/user-guide/content/customize-template.md#template-examples).
 
@@ -30,7 +30,7 @@ Use your email delivery or proofing platform to test your email and verify that 
 Test to ensure your email template satisfies the following:
 
 * Layout adjusts for different screen sizes using CSS media queries
-* Buttons are clickable and navigate to the right places/things
+* Buttons are clickable and navigate to the intended place
 * Email template is readable and usable on mobile devices
 
 ## Define generated content areas
@@ -39,7 +39,7 @@ Define the areas in your email template that should be dynamically populated wit
 
 To define generated content areas:
 
-* Identify the text elements in the template GenStudio should auto-generate, such as the headline or CTA.
+* Identify the text elements in the template that GenStudio should auto-generate, such as the headline or CTA.
 * Adapt your HTML template by inserting placeholders within it using the Handblebars syntax.
 
 See [Content placeholders](/help/user-guide/content/customize-template.md#content-placeholders).

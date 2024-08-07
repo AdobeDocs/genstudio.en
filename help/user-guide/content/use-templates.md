@@ -17,18 +17,18 @@ This guide provides detailed information about how to:
 
 ## Anatomy of a template
 
-Basic template designs includes the following elements: 
+Basic template design includes the following elements: 
 
-| Element      | Info                   | Channel template     |
+| Element      | Function                   | Channel template     |
 | ------------ | ---------------------- | -------------------- |
-| Preheader    | Between 40-50 characters, acts as secondary subject line enhancing main subject line, visible in inbox alongside subject before email is opened | email       |
-| Header       | Top section of email recipient sees when opening email, sets tone and provides context for included content               | email |
-| Headline     | First content recipient sees, should be compelling to catch interest | Meta ad |
-| Body         | Main content area where primary message is conveyed; can include text, images, and other media              | email<br>Meta ad |
+| Preheader    | Between 40-50 characters <br>Acts as secondary subject line enhancing main subject line <br>Visible in inbox alongside subject before email is opened | email       |
+| Header       | Top section of email recipient sees when opening email <br>Sets tone and provides context for included content               | email |
+| Headline     | First content recipient sees <br>Should be compelling to catch interest | Meta ad |
+| Body         | Main content area where primary message is conveyed <br>Can include text, images, and other media              | email<br>Meta ad |
 | CTA          | Call-to-action encouraging recipient to take specific action such as clicking a link or making a purchase         | email<br>Meta ad |
-| Images       | Enhances visual appeal, breaks up text, supports message; should be high-quality and eye-catching          | email<br>Meta ad |
+| Images       | Enhances visual appeal <br>Breaks up text <br>Supports message <br>Should be high-quality and eye-catching          | email<br>Meta ad |
 | Footer       | Contains additional info such as contact details, social media links, disclaimers, and unsubscribe options               | email |
-| Text overlay | Text on an image, should support and enhance headline and body | Meta ad |
+| Text overlay | Text on an image <br>Should support and enhance headline and body | Meta ad |
 
 >[!NOTE]
 > 
@@ -36,7 +36,7 @@ Basic template designs includes the following elements:
 
 ## Upload a template
 
-GenStudio accepts templates in an HTML format.
+GenStudio accepts templates in HTML format.
 
 **To add a template**:
 
