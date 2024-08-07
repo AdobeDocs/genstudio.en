@@ -8,11 +8,27 @@ feature: Templates, Content
 
 GenStudio templates are essential for enabling content creators to quickly produce consistent on-brand marketing content. Using templates significantly reduces the time and effort required to generate new content by providing a starting point that includes pre-configured layouts and design elements.
 
-This guide provides detailed information on how to prepare templates various content channels in GenStudio.
+This guide provides detailed information on how to:
+
+* Prepare an [email template](email-template.md) or Meta ad template
+* [Customize templates for GenStudio](customize-template.md)
+* [Upload templates](#upload-a-template) into GenStudio
+* [Use templates to create experiences](#use-a-template)
+
+## Anatomy of an email template
+
+A basic email design includes the following elements: 
+
+* **Preheader**: The preheader (between 40-50 characters) acts as a secondary subject line, complementing and enhancing the main subject line. The preheader is visible in a recipient's inbox alongside the subject line, before the email is even opened.  
+* **Header**: The header is the top section of the email that the recipient sees after opening the email. It sets the tone and provides immediate context for the email content. 
+* **Body**: The body is the main content area of the email where the primary message is conveyed. This can include text, images, and other media. 
+* **CTA (Call to Action)**: The CTA is a call-to-action that encourages the recipient to take a specific action, such as clicking a link, making a purchase, or signing up for an event. 
+* **Images**: Images are used to enhance the visual appeal of the email, break up text, and support the message. 
+* **Footer**: The footer typically contains additional information such as contact details, social media links, legal disclaimers, and unsubscribe options.
 
 ## Upload a template
 
-GenStudio accepts templates in an HTML format. See how to [build custom templates](customize-template.md) for GenStudio.
+GenStudio accepts templates in an HTML format.
 
 **To add a template**:
 
@@ -49,7 +65,7 @@ Find and use an existing template to create experiences.
 
 >[!TIP]
 >
->See [[!DNL Create] an email experience](/help/tutorials/create-email-experience.md) for a complete tutorial using an email template.
+>See [[!DNL Create] an email experience](/help/tutorials/create-email-experience.md) or [[!DNL Create] a Meta ad experience](/help/tutorials/create-meta-ad.md) for complete tutorials using templates.
 
 <!--  The create button in Content Template view does not work yet.
 1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.

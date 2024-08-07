@@ -1,6 +1,6 @@
 ---
-title: Prepare an email template for GenStudio
-description: Learn how to build a custom email template for GenStudio.
+title: Prepare a Meta ad template for GenStudio
+description: Learn how to build a custom Meta ad template for GenStudio.
 level: Intermediate
 feature: Templates, Content
 ---
