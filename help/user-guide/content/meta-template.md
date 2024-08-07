@@ -9,6 +9,12 @@ feature: Templates, Content
 
 Creating a Meta ad template involves a structured approach tailored for social media. After a Meta ad template is designed and tested, you can prepare it for upload and use in GenStudio.
 
+## Add guidelines
+
+Before you prepare a Meta ad template, ensure that you have added [guidelines](/help/user-guide/guidelines/overview.md) to your GenStudio and populated them with comprehensive info for relevant brands. The [brand guidelines](/help/user-guide/guidelines/brands.md) directly influence generated content.
+
+> **Example**: If you want the body of an email template to be no larger than 500 characters, add that requirement to the [channel guidelines](/help/user-guide/guidelines/brands.md#channel-guidelines) for the "body" field.
+
 ## Design a template
 
 Typically, a designer will create the visual design of a template in a design program such as Adobe XD.

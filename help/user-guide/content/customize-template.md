@@ -51,12 +51,12 @@ The following tables lists the field names that are recognized by GenStudio for 
 
 | Field          | Role                   | Channel template     |
 | -------------- | ---------------------- | -------------------- |
-| `pre_header`   | Pre header             | email       |
-| `headline`     | Headline               | email<br>Meta ad |
-| `body`         | Body copy              | email<br>Meta ad |
-| `cta`          | Call to action         | email<br>Meta ad |
-| `on_image_text`| On image text          | Meta ad |
-| `image`        | Image                  | email<br>Meta ad |
+| `pre_header`   | Pre header             | email (recommended)       |
+| `headline`     | Headline               | email (recommended)<br>Meta ad |
+| `body`         | Body copy              | email (recommended)<br>Meta ad |
+| `cta`          | Call to action         | email (recommended)<br>Meta ad |
+| `on_image_text`| On image text          | Meta ad (recommended) |
+| `image`        | Image                  | email (recommended)<br>Meta ad (recommended) |
 | `brand_logo`   | Logo of selected brand | Meta ad |
 
 GenStudio automatically supplies certain fields in templates, so it is not necessary to include them in your template designs:
@@ -64,15 +64,15 @@ GenStudio automatically supplies certain fields in templates, so it is not neces
 * `subject` field (email template)
 * `headline`, `body`, and `CTA` fields (Meta ad template)
 
+> [!WARNING]
+>
+> For Instagram ads, the generated headline does not appear in the final experience.
+
 #### Manual field names
 
 All other field names are treated as manually populated fields. If you want a section to be editable, add double brackets around the section you want to edit.
 
 > Example: ``{{customVariable}}`` (customVariable is the manually editable section)
-
-### Background image
-
-When designing an ad for Meta, it is important to use a background image complemented by text and a brand logo overlay. To guarantee proper scaling of the image, Meta ad templates require specifying an `aspect ratio`. In this context, you can provide only one image field.
 
 ## Sections or groups
 
