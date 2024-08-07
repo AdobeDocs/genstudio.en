@@ -1,11 +1,12 @@
 ---
 title: Work with Templates
 description: Learn how to use templates to create engaging experiences in GenStudio.
+feature: Templates, Content
 ---
 
 # Work with Templates
 
-Templates are used to generate consistent content for emails and social media ads. They significantly reduce the time and effort required to create new content by providing a starting point that includes pre-configured layouts and design elements.
+Templates are used to generate consistent content for emails and social media ads. They significantly reduce the time and effort required to generate new content by providing a starting point that includes pre-configured layouts and design elements.
 
 ## Upload a template
 
@@ -13,7 +14,7 @@ GenStudio accepts templates in an HTML format. See how to [build custom template
 
 **To add a template**:
 
-1. In _[!DNL Content]_ mode, select the **[!UICONTROL Templates]** section.
+1. In _[!DNL Content]_, select the **[!UICONTROL Templates]** section.
 
 1. Click **[!UICONTROL Add template]**.
 
@@ -38,12 +39,16 @@ Find and use an existing template to create experiences.
 
 **To create an experience with a template**:
 
-1. In _[!DNL Content]_ mode, select the **[!UICONTROL Templates]** section.
+1. In _[!DNL Content]_, select the **[!UICONTROL Templates]** section.
 
    ![Content template list](../../assets/content-templates.png)
 
-1. Click on a template for a full view and a list of details.
+1. Select a template for a full view and a list of details.
 
+>[!TIP]
+>
+>See [[!DNL Create] an email experience](/help/tutorials/create-email-experience.md) for a complete tutorial using an email template.
+
+<!--  The create button in Content Template view does not work yet.
 1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.
-
-1. More to come...
+-->

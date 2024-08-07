@@ -1,6 +1,7 @@
 ---
 title: Overview of [!DNL Create]
 description: Quickly generate high-performing, on-brand content with generative AI in GenStudio [!DNL Create].
+feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 ---
 
 # GenStudio [!DNL Create]
@@ -21,17 +22,17 @@ Along with the power of GenStudio [guidelines](/help/user-guide/guidelines/overv
 <table style="table-layout:fixed">
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
-      <a href="/help/tutorials/create-email-experience.md">
+      <a href="/help/tutorials/tutorials.md">
       <img alt="Create new content" src="../../assets/icons/icon-create.svg" width="35">
       </a>
       <div>
-         <a href="../content/overview.md">
+         <a href="/help/tutorials/tutorials.md">
          <strong>Create new content</strong>
          </a>
       </div>
    </td>
-   <td align="center" valign="top" width="100">
-      <a href="../create/overview.md">
+   <!-- <td align="center" valign="top" width="100">
+      <a href="/help/user-guide/content/overview.md">
       <img alt="Re-use existing content" src="../../assets/icons/icon-addContent.svg" width="35">
       </a>
       <div>
@@ -39,7 +40,7 @@ Along with the power of GenStudio [guidelines](/help/user-guide/guidelines/overv
          <strong>Re-use existing content</strong>
          </a>
       </div>
-   </td>
+   </td> -->
    <td align="center" valign="top" width="100">
       <a href="/help/user-guide/content/overview.md">
       <img alt="Generate variants of content" src="../../assets/icons/icon-template.svg" width="35">
@@ -53,10 +54,10 @@ Along with the power of GenStudio [guidelines](/help/user-guide/guidelines/overv
 </tr>
 </table>
 
-GenStudio [!DNL Create] satisfies three main use cases:
+GenStudio [!DNL Create] satisfies these use cases:
 
-* **Create new content** - In this use case, use defined [guidelines](/help/user-guide/guidelines/overview.md) (Brands, Products, and Personas) and inspiration content to inform the creation of brand-aligned content.
-* **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio and use the power of Adobe generative AI technology to revise and improve existing content.
+* **Create new content** - In this use case, use defined [guidelines](/help/user-guide/guidelines/overview.md) ([!DNL Brands], [!DNL Products], and [!DNL Personas]) and inspiration content to inform the creation of brand-aligned content.
+<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio and use the power of Adobe generative AI technology to revise and improve existing content. -->
 * **Generate variants of content** - In this use case, generate variations of content based on a target [customer persona](/help/user-guide/guidelines/personas.md). This functionality allows for experimentation and discovery of high-performing content and allows for cross-channel conversion of content (for example, converting an email to a display ad).
 
 ## [!DNL Create] capabilities
@@ -73,19 +74,25 @@ Access brand-approved templates to generate content across multiple channels in 
 
 Templates are [created and stored in [!DNL Content]](/help/user-guide/content/overview.md) but are accessible in [!DNL Create].
 
-See [[!DNL Content]](/help/user-guide/content/overview.md) for more information.
+See [[!DNL Content]](/help/user-guide/content/overview.md).
 
 ### Prompts
 
 [Crafting effective prompts](/help/user-guide/effective-prompts.md) is an important part of the generation process in [!DNL Create]. To create new content or generate variants of content, write a prompt that describes the content (or experience) you intend to generate.
 
-Write prompts, add Parameters, and use guided prompt suggestions from within the prompt drawer, then click **[!UICONTROL Generate]**.
+Write prompts, add _Parameters_, and add a descriptive prompt in the prompt area, then click **[!UICONTROL Generate]**.
 
 See [Effective prompts](/help/user-guide/effective-prompts.md).
 
 ### Parameters
 
-In the prompt drawer, you can add _Parameters_ such as Brands, Products, and Personas (GenStudio guidelines) or Content (images) to shape the generated experience. These added parameters inject [guidelines](/help/user-guide/guidelines/overview.md) and images into the generation process, ensuring that the content is customized to align with a brand's comprehensive identity and using applicable imagery. Adding guidelines to your GenStudio, and using them during the content generation process, is recommended as they greatly enhance the creation of suitable on-brand content.
+In the prompt area, you can add _Parameters_ such as [!DNL Brands], [!DNL Products], and [!DNL Personas] (GenStudio guidelines) or _Content_ (images and videos) to shape the generated experience.
+
+>[!NOTE]
+>
+>Uploaded images and videos in _Parameters_ are used in generated variants and inform the copy content (text) generated for variants.
+
+These added parameters inject [guidelines](/help/user-guide/guidelines/overview.md) and assets into the generation process, ensuring that the content is customized to align with a brand's comprehensive identity and using applicable imagery. It is recommended to add guidelines to your GenStudio and use them during the content generation process, as they greatly enhance the creation of suitable on-brand content.
 
 ### Brand validation
 
@@ -98,11 +105,12 @@ See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 
 Meticulously review and validate content against brand guidelines, product documentation, and selected customer segments with [!DNL Create's] built-in reviews and approvals process. Solicit reviews, track review comments, and obtain approvals during the creation process.
 
-See [Reviews and approvals](/help/user-guide/approvals/overview.md) for more information.
+See [Reviews and approvals](/help/user-guide/approvals/overview.md).
 
 ## Tutorials
 
-See [Create an email experience](/help/tutorials/create-email-experience.md) for more information.
+* [Create an email experience](/help/tutorials/create-email-experience.md)
+* [Create a Meta ad experience](/help/tutorials/create-meta-ad.md)
 
 <!-- ### Anatomy of an email experience
 

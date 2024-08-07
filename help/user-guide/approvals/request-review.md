@@ -1,11 +1,9 @@
 ---
-title: Request review and approval
-description: Learn how to launch a review and approval process for your content.
-hidefromtoc: no
-hide: no
+title: Request reviews and approvals
+description: Request a review.
 ---
 
-# Request review and approval of content
+# Request review and approval
 
 Ready to invite your coworkers to review an asset or experience that you created? You can invite stakeholders to contribute feedback on a draft of your content with the eventual goal of approval.
 
@@ -25,10 +23,11 @@ After you generate your content variants, you can request review and approval.
 
 Optional: Add comments to guide approver focus to particular features of the draft.
 
-## Add and remove approvers from the approval workflow
+## Add and remove approvers
 
 If you are the content creator, your draft Canvas displays the **[!UICONTROL Manage approvals]** button. Use this button to open a popup from which you can remove or add approvers throughout the review and approval process.
 
-Approver names are listed on this pane with a [!DNL Notified] status after the approval requests have launched. 
+Approver names are listed on this pane with a [!DNL Notified] status after the approval requests have launched. See [Approve content](./approve-content.md) for an overview of GenStudio approval tasks.
+
 
 

@@ -9,9 +9,9 @@ feature: Generative AI
 # Adobe GenStudio Guide {#user-guide}
 
 + [GenStudio Guide](home.md)
-+ [Get started](/help/user-guide/get-started.md)
++ [Get started](get-started.md)
 + Introduction {#intro}
-    + [GenStudio Concepts](concepts.md)
+    + [GenStudio concepts](concepts.md)
     + [Effective prompts](effective-prompts.md)
     + [Tutorials](https://experienceleague.adobe.com/docs/genstudio/learning/tutorials.html)
 + Guidelines {#guidelines}
@@ -43,3 +43,5 @@ feature: Generative AI
     + [Activation overview](activation/overview.md)
 + Insights {#insights}
     + [Insights overview](insights/overview.md)
+    + [Connect channel account](insights/connect-channel.md)
+    + [Data columns](insights/data-columns.md)

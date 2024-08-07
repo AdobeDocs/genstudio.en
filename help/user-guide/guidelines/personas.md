@@ -1,7 +1,7 @@
 ---
 title: GenStudio [!DNL Personas]
 description: GenStudio [!DNL Personas] are a true representation of your customer segments, capturing their interests, pain points, preferences, and behavioral traits.
-feature: Personas Service
+feature: Personas Service, Guidelines
 ---
 
 # GenStudio [!DNL Personas]

@@ -1,15 +1,12 @@
 ---
 title: Publish approved content
 description: Learn how to publish approved content.
-hidefromtoc: no
-hide: no
+feature: Approval, Content
 ---
 
 # Publish approved content
 
 The final stage of creating brand-aligned, approved content is saving it to [!DNL Content] with appropriate metadata. You (the content creator) must finalize the approved asset by publishing, or saving it, to [!DNL Content].
-
-## Approved content
 
 When all designated reviewers approve a draft, GenStudio changes the draft status to **Approved**. This change in status launches the publishing process.  GenStudio displays the _Approved variants ready to publish_ pop-up on the creator's Canvas and sends notification email. 
 
@@ -25,13 +22,13 @@ You can then finalize the draft by saving it to [!DNL Content] with appropriate 
 
 1. After the content publication process has completed, GenStudio displays the _Approved variations have been published_ popup. From this popup window, you can:
 
-   * Click **[!UICONTROL Open in Content]** to view the published asset or experience
+   * Click **[!UICONTROL Open in Content]** to view the published asset or experience.
 
    * Click **[!UICONTROL Create something new]** to create new content.
 
 ## After publication
 
-All GenStudio users can access approved assets or experiences in [!DNL Content]. The Asset details pane identifies the asset's upload and approval history These attributes identify saved content:
+All GenStudio users can access approved assets or experiences in [!DNL Content]. The Asset details pane identifies the asset's upload and approval history. These attributes identify saved content:
 
 * **Upload date**: Identifies the date that the content was uploaded.
 * **Uploaded by**: Identifies the GenStudio asset creator.

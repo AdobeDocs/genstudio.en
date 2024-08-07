@@ -9,7 +9,7 @@ Adobe GenStudio, powered by generative AI, revolutionizes the content supply cha
 
 Using GenStudio, marketers and teams can effortlessly generate and refine high-quality content that aligns with brand guidelines. GenStudio accelerates the marketing lifecycle, saving valuable time and resources.
 
-## Explore GenStudio Capabilities
+## Explore GenStudio capabilities
 
 <table style="table-layout:fixed">
 <tr style="border: 0;">
@@ -108,13 +108,13 @@ Using GenStudio, marketers and teams can effortlessly generate and refine high-q
 </td>
 <td valign="top">
    <div>
-      <a href="../user-guide/insights/overview.md">
+      <a href="/help/tutorials/create-meta-ad.md">
       <img alt="People moving files into a folder" src="../assets/card-manage-content.png">
-      <strong>Repurpose Content</strong>
+      <strong>Create a Meta ad experience</strong>
       </a>
    </div>
    <p>
-      <em>Learn how to evaluate performance and repurpose content to stay relevant.</em>
+      <em>Learn how to create a brand-aligned Meta ad experience.</em>
    </p>
 </td>
 </table>

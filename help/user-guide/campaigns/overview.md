@@ -1,6 +1,7 @@
 ---
 title: GenStudio Campaigns
 description: Learn about centralized campaign planning and Campaign brief creation.
+feature: Campaigns, Campaign Brief, Content
 ---
 
 # GenStudio [!DNL Campaigns] 
@@ -11,7 +12,7 @@ Marketing managers use the [!DNL Campaigns] workflow to create a _campaign brief
 
 ## Campaign brief
 
-A GenStudio [!DNL Campaigns] brief describes the essential aspects of a campaign as defined by the [!DNL Campaign] creator. [!DNL Campaign] stakeholders use this brief to create and evaluate content. Campaign briefs are dynamic. They change as individual stages of a campaigns are deployed and as marketers evaluate the success of each stage. 
+A GenStudio [!DNL Campaigns] brief describes the essential aspects of a campaign as defined by the [!DNL Campaign] creator. [!DNL Campaign] stakeholders use this brief to create and evaluate content. Campaign briefs are dynamic. They change as individual stages of a campaigns are deployed and as marketers evaluate the success of each stage.
 
 ## [!DNL Campaigns] content
 
