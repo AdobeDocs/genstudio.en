@@ -44,7 +44,7 @@ GenStudio accepts templates in an HTML format.
 
    Template name and channel type are required.
 
-   - **Meta**: requires Aspect ratio
+   * **Meta**: requires Aspect ratio
    <!-- **Display ads**: requires Dimensions -->
 
 1. Add as many details as you can to improve template identification in searches and filtering.
