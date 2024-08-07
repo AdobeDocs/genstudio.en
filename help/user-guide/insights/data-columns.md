@@ -28,4 +28,3 @@ Available columns include:
 | Impressions | The number of times campaign ads were shown to viewers through registered impressions. |
 | Objective   | The goal of a campaign or project. Set the objective when creating the campaign or project.<br>Objective types include: `Awareness`, `Traffic`, `Engagement`, `Leads`, `App promotion`, `Sales` |
 | Spend       | The total amount of money spent in USD for all ads within a campaign. |
-<!-- | Video plays | The number of times a video started to play. Video plays can occur when a video starts to play automatically or when someone clicks to play the video. | -->
