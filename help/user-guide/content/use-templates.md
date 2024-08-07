@@ -30,9 +30,9 @@ Basic template designs includes the following elements:
 | Footer       | Contains additional info such as contact details, social media links, disclaimers, and unsubscribe options               | email |
 | Text overlay | Text on an image, should support and enhance headline and body | Meta ad |
 
-> [!NOTE]
+>[!NOTE]
 > 
-> It is recommended that you include specific fields in each channel's content to ensure GenStudio can generate text for content placeholders. See [Recognized field names](customize-template.md#recognized-field-names) to see which fields are recommended for inclusion.
+>It is recommended that you include specific fields in each channel's content to ensure GenStudio can generate text for content placeholders. See [Recognized field names](customize-template.md#recognized-field-names) to see which fields are recommended for inclusion.
 
 ## Upload a template
 

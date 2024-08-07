@@ -64,9 +64,9 @@ GenStudio automatically supplies certain fields in templates, so it is not neces
 * `subject` field (email template)
 * `headline`, `body`, and `CTA` fields (Meta ad template)
 
-> [!WARNING]
+>[!WARNING]
 >
-> For Instagram ads, the generated headline does not appear in the final experience.
+>For Instagram ads, the generated headline does not appear in the final experience.
 
 #### Manual field names
 
