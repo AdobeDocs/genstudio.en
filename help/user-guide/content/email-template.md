@@ -43,3 +43,9 @@ See [Content placeholders](/help/user-guide/content/customize-template.md#conten
 Control the visibility of specific content areas by utilizing Built-In Helpers. For example, you can include tracking parameters to links in an exported template while maintaining clean preview links.
 
 See [Template preview](/help/user-guide/content/customize-template.md#template-preview).
+
+## Upload and use template
+
+After your template is designed, coded, tested, and previewed, you can upload it to GenStudio for use in generating brand new marketing content.
+
+See [Working with templates](use-templates.md).
