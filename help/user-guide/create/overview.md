@@ -84,9 +84,7 @@ To create new AI-generated content, enter a [descriptive prompt](/help/user-guid
 
 In the prompt area, you can add _Parameters_ such as [!DNL Brands], [!DNL Products], and [!DNL Personas] (GenStudio guidelines) or assets to shape the generated experience.
 
->[!NOTE]
->
->Uploaded images in _Parameters_ are used in generated variants and inform the copy content (text) generated for variants.
+Uploaded images in _Parameters_ are used in generated variants and inform the copy content (text) generated for variants.
 
 These added parameters inject [guidelines](/help/user-guide/guidelines/overview.md) and assets into the generation process, ensuring that the content is customized to align with a brand's comprehensive identity. It is recommended to add guidelines to your GenStudio and use them during the content generation process, as they greatly enhance the creation of suitable on-brand content.
 
