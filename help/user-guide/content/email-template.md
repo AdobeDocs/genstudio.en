@@ -11,6 +11,12 @@ Typically, a designer will create the visual design of a template in a design pr
 
 See [Anatomy of a template](/help/user-guide/content/use-templates.md#anatomy-of-a-template).
 
+## Add guidelines
+
+Before you prepare a Meta ad template, ensure that you have added [guidelines](/help/user-guide/guidelines/overview.md) to your GenStudio and populated them with comprehensive info for relevant brands. The [brand guidelines](/help/user-guide/guidelines/brands.md) directly influence generated content.
+
+> **Example**: If you want the body of an email template to be no larger than 500 characters, add that requirement to the [channel guidelines](/help/user-guide/guidelines/brands.md#channel-guidelines) for the "body" field.
+
 ## Code an email template
 
 After a template is designed it is coded using HTML and inline CSS. The code should be clean and responsive for various devices.
