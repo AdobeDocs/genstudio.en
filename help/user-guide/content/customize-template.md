@@ -9,12 +9,8 @@ feature: Templates, Content
 
 You can adapt your HTML templates for GenStudio by using the _Handlebars_ templating language. The Handlebars syntax uses regular text with double braces as content placeholders. See [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
 
-## Template structure
-
 <!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
--->
-
-If you do not have an HTML template ready to use in GenStudio, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
+-->If you do not have an HTML template ready to use in GenStudio, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
 
 ```html
 <!DOCTYPE html>
@@ -29,13 +25,15 @@ If you do not have an HTML template ready to use in GenStudio, you can start by 
 </html>
 ```
 
+See [Template examples](#template-examples).
+
 >[!TIP]
 >
->In the next few sections, add content placeholders for email fields, hide unnecessary elements from preview, and manage links to static content. Once your template is ready, you can [upload it to GenStudio](use-templates.md#upload-a-template) and start generating personalized emails based on your custom template.
+>In the next few sections, add content placeholders for email fields, see example templates, hide unnecessary elements from preview, and manage links to static content. Once your template is ready, you can [upload it to GenStudio](use-templates.md#upload-a-template) and start generating personalized emails based on your custom template.
 
 ## Content placeholders
 
-Within the head or body of the template, you can use Handlebars syntax to insert content placeholders where you require GenStudio to populate the email with actual content. GenStudio recognizes and interprets the content placeholders automatically based on the field name.
+Within the head or body of a template, you can use Handlebars syntax to insert content placeholders where you require GenStudio to populate the template with actual content. GenStudio recognizes and interprets the content placeholders automatically based on the field name.
 
 For example, you can use `{{ headline }}` to indicate where the headline of the email should be placed:
 
@@ -43,27 +41,68 @@ For example, you can use `{{ headline }}` to indicate where the headline of the 
 <div>{{ headline }}</div>
 ```
 
+### Field names
+
 The maximum number of fields allowed in a custom template is twenty.
 
-**Recognized field names**:
+#### Recognized field names
+
+The following table lists the field names that are recognized by GenStudio for population into templates.
 
 | Field          | Role                   | Channel template     |
 | -------------- | ---------------------- | -------------------- |
-| `pre_header`   | Pre header             | email       |
-| `headline`     | Headline               | email<br>social ad |
-| `body`         | Body copy              | email<br>social ad |
-| `cta`          | Call to action         | email<br>social ad |
-| `on_image_text`| On image text          | social ad |
-| `image`        | Image                  | email<br>social ad |
-| `brand_logo`   | Logo of selected brand | social ad |
+| `pre_header`   | Pre header             | email (recommended)       |
+| `headline`     | Headline               | email (recommended)<br>Meta ad |
+| `body`         | Body copy              | email (recommended)<br>Meta ad |
+| `cta`          | Call to action         | email (recommended)<br>Meta ad |
+| `on_image_text`| On image text          | Meta ad (recommended) |
+| `image`        | Image                  | email (recommended)<br>Meta ad (recommended) |
+| `brand_logo`   | Logo of selected brand | Meta ad |
 
->[!IMPORTANT]
+GenStudio automatically populates certain fields in templates, so it is not necessary to include them in your template designs:
+
+* `subject` field (email template)
+* `headline`, `body`, and `CTA` fields (Meta ad template)
+
+>[!WARNING]
 >
->GenStudio automatically supplies the email template with a `subject` field during the [!DNL Create] process, so it is not necessary to include the subject field in your email template.
+>For Instagram ads, the generated headline does not appear in the final experience.
 
-+++Example: Basic template
+#### Manual field names
 
-The following is a basic example of an HTML template for email. The head contains simple, inline CSS for styling. The body contains a `pre-header`, `headline`, and `image` placeholder for use by GenStudio to inject content during the email generation process.
+All other field names are treated as manually populated fields. If you want a section to be editable, add double brackets around the section you want to edit.
+
+> Example: ``{{customVariable}}`` (customVariable is the manually editable section)
+
+## Sections or groups
+
+_Sections_ inform GenStudio that fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section.
+
+Use a prefix of your choice in the field name to indicate a field is part of a section or group. 
+
+For example, you may want to spotlight content that appears in a highlighted area:
+
+* `spotlight_headline`
+* `spotlight_body`
+
+Each section can have only one of each field type. In the above example, the `spotlight` prefix can only have one `spotlight_headline` field.
+
+A template can include up to three sections:
+
+* `headline`
+* `body`
+* `spotlight_headline`
+* `spotlight_body`
+* `news_headline`
+* `news_body`
+
+GenStudio understands that `spotlight_headline` is more closely related to `spotlight_body` than to `news_body`.
+
+## Template examples
+
++++Example: Email template with one section
+
+The following is a basic example of an HTML template for an email that contains one section. The head contains simple, inline CSS for styling. The body contains a `pre-header`, `headline`, and `image` [placeholder](#content-placeholders) for use by GenStudio to inject content during the email generation process.
 
 ```handlebars {line-numbers="true" highlight="13"}
 <!DOCTYPE html>
@@ -93,35 +132,9 @@ The following is a basic example of an HTML template for email. The head contain
 
 +++
 
-### Background image
++++Example: Email template with multiple sections
 
-When designing an ad for Meta, it is important to use a background image complemented by text and a brand logo overlay. To guarantee proper scaling of the image, Meta ad templates require specifying an `aspect ratio`. In this context, you can provide only one image field.
-
-## Sections or groups
-
-_Sections_ provide a way to inform GenStudio that fields belonging to a section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section. A template can include up to three sections.
-
-Use a prefix of your choice in the field name to indicate that this field is part of a section or group. For example, you may want to spotlight content that appears in a highlighted area. You could choose to identify the content for this area with a common prefix:
-
-- `spotlight_headline`
-- `spotlight_body`
-
-Each section can have only one of a field type. For example, the above example group with the `spotlight` prefix can only have one `spotlight_headline` field.
-
-When you have multiple sections (three max):
-
-- `headline`
-- `body`
-- `spotlight_headline`
-- `spotlight_body`
-- `news_headline`
-- `news_body`
-
-GenStudio understands that `spotlight_headline` is more closely related to `spotlight_body` than to `news_body`.
-
-+++Example: Template with multiple sections
-
-The following is the same HTML template in the example above, but with two more sections. The head contains inline CSS for styling a pod. The body uses two pods with content placeholders using a prefix.
+The following is the same HTML template in the example above, but with two more sections. The head contains inline CSS for styling a group. The body uses two groups with [content placeholders](#content-placeholders) using a prefix.
 
 ```handlebars {line-numbers="true" highlight="33"}
 <!DOCTYPE html>
@@ -171,11 +184,67 @@ The following is the same HTML template in the example above, but with two more 
 
 +++
 
++++Example: Meta ad template
+
+The following is a basic example of a Meta ad template. The head contains inline CSS for styling. The body uses [content placeholders](#content-placeholders) using a prefix.
+
+```handlebars {line-numbers="true" highlight="33"}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adobe</title>
+    <style>
+        .ad-container {
+            width: 300px;
+            border: 1px solid #ddd;
+            padding: 16px;
+            font-family: Arial, sans-serif;
+        }
+        .ad-image {
+            width: 100%;
+            height: auto;
+        }
+        .ad-headline {
+            font-size: 18px;
+            font-weight: bold;
+            margin: 12px 0;
+        }
+        .ad-body {
+            font-size: 14px;
+            margin: 12px 0;
+        }
+        .ad-cta {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 4px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+<div class="ad-container">
+    <img src="{{ image }}" alt="Ad Image" class="ad-image">
+    <div class="ad-headline">"{{ headline }}"</div>
+    <div class="ad-body">"{{ body }}"</div>
+    <a href="(https://example.com)" class="ad-cta">"{{ CTA }}"</a>
+</div>
+
+</body>
+</html>
+```
+
++++
+
 ## Template preview
 
-Email templates sometimes contain special content that is not necessary to preview in GenStudio. You can control the visibility of this content by using Built-in Helpers, which are special expressions in the Handlebars template language that help to perform certain actions.
+Control the visibility of special content by using Built-in Helpers (special expressions in the Handlebars template language that perform certain actions). For example, you can add tracking parameters to links in the exported template while keeping the preview links clean.
 
-The `_genStudio.browser` value is set when rendering a template, and the `genStudio.export` value is set when exporting a template. You may decide to include certain content at the top of the emails using a conditional wrapper, for example, when the template is used for export:
+The `_genStudio.browser` value is set when rendering a template, and the `genStudio.export` value is set when exporting a template. You may decide to include certain content at the top of an email using a conditional wrapper, for example, when the template is used for export:
 
 ```handlebars
 {{#if _genStudio.export}}
@@ -183,7 +252,7 @@ The `_genStudio.browser` value is set when rendering a template, and the `genStu
 {{/if}}
 ```
 
-Another example may be to prevent the use of tracking codes when previewing an email template in GenStudio. This example shows how to add tracking parameters to links in the exported template, while keeping the preview links clean:
+Another example may be to prevent the use of tracking codes when previewing a template in GenStudio. This example shows how to add tracking parameters to links in the exported template, while keeping the preview links clean:
 
 ```handlebars
 <a class="button" {{#if _genStudio.browser }}
