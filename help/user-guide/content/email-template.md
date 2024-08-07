@@ -1,11 +1,11 @@
 ---
-title: Prepare an email template
+title: Prepare an email template for GenStudio
 description: Learn how to build a custom email template for GenStudio.
 level: Intermediate
 feature: Templates, Content
 ---
 
-# Prepare an email template
+# Prepare an email template for GenStudio
 
 Typically, a designer will create the visual design of a template in a design program such as Adobe XD. After an email template is designed, coded, and tested, you can prepare it for upload and use in GenStudio. 
 
@@ -24,41 +24,7 @@ A basic email design includes the following elements:
 
 After a template is designed it is coded using HTML and inline CSS. The code should be clean and responsive for various devices.
 
-Use the Handlebars syntax to [insert content placeholders](/help/user-guide/content/customize-template.md#content-placeholders) where GenStudio needs to populate the email with content.
-
-The following example is a simple HTML email template.
-
-+++Example: Basic template
-
-The following is a basic example of an HTML template for email. The head contains simple, inline CSS for styling. The body contains a `pre-header`, `headline`, and `image` placeholder for use by GenStudio to inject content during the email generation process.
-
-```handlebars {line-numbers="true" highlight="13"}
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Adobe</title>
-    <style>
-        .container {
-            width: 100%;
-            padding: 20px;
-            font-family: Arial, sans-serif;
-        }
-    </style>
-</head>
-<body>{{ pre_header }}
-    <div class="container">
-        <h1>{{ headline }}</h1>
-        <p><img alt="{{ headline }}"
-                src="{{ image }}"
-                width="600" height="600"
-                border="0"/></p>
-        <p>{{ body }}</p>
-    </div>
-</body>
-</html>
-```
-
-+++
+See [Template examples](/help/user-guide/content/customize-template.md#template-examples).
 
 ## Test an email template
 
@@ -69,3 +35,20 @@ Test to ensure your email template satisfies the following:
 * Layout adjusts for different screen sizes using CSS media queries
 * Buttons are clickable and navigate to the right places/things
 * Email template is readable and usable on mobile devices
+
+## Define generated content areas
+
+Define the areas in your email template that should be dynamically populated with content from GenStudio. 
+
+To define generated content areas:
+
+* Identify the text elements in the template GenStudio should auto-generate, such as the headline or CTA.
+* Adapt your HTML template by inserting placeholders within it using the Handblebars syntax.
+
+See [Content placeholders](/help/user-guide/content/customize-template.md#content-placeholders).
+
+## Preview the template
+
+Control the visibility of specific content areas by utilizing Built-In Helpers. For example, you can include tracking parameters to links in an exported template while maintaining clean preview links.
+
+See [Template preview](/help/user-guide/content/customize-template.md#template-preview).
