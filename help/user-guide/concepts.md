@@ -11,7 +11,8 @@ GenStudio is a standalone enterprise product that embodies Adobe's content suppl
 With GenStudio you can:
 
 - Create on-brand content using natural language prompts
-- Generate variants to personalize across channels or freshen an ongoing campaign
+- Collaborate with stakeholders to review and approve generated content
+- Save generated and approved content to access for future marketing campaigns
 - Evaluate content performance with insights about campaigns and content attributes
 
 ## Generative AI technology

@@ -60,7 +60,7 @@ In the _Brand Validation panel_ you can filter what guidelines are shown. Click 
 
 ## Improve brand alignment
 
-To maximize effectiveness of generated content and maintain consistent brand identity, use the _Brand guidelines check_ and the _Brand Validation panel_. You can manually modify specific fragments or [generate refined variants](/help/user-guide/create/generate-variants.md) to align with your [brand guidelines](brands.md).
+To maximize effectiveness of generated content and maintain consistent brand identity, use the _Brand guidelines check_ and the _Brand Validation panel_. You can manually modify specific fragments to align with your [brand guidelines](brands.md).
 
 **To improve brand alignment for generated content variants**:
 
