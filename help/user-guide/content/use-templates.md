@@ -8,23 +8,27 @@ feature: Templates, Content
 
 GenStudio templates are essential for enabling content creators to quickly produce consistent on-brand marketing content. Using templates significantly reduces the time and effort required to generate new content by providing a starting point that includes pre-configured layouts and design elements.
 
-This guide provides detailed information on how to:
+This guide provides detailed information about how to:
 
 * Prepare an [email template](email-template.md) or Meta ad template
-* [Customize templates for GenStudio](customize-template.md)
+* [Customize templates](customize-template.md) for GenStudio
 * [Upload templates](#upload-a-template) into GenStudio
 * [Use templates to create experiences](#use-a-template)
 
-## Anatomy of an email template
+## Anatomy of a template
 
-A basic email design includes the following elements: 
+Basic template designs includes the following elements: 
 
-* **Preheader**: The preheader (between 40-50 characters) acts as a secondary subject line, complementing and enhancing the main subject line. The preheader is visible in a recipient's inbox alongside the subject line, before the email is even opened.  
-* **Header**: The header is the top section of the email that the recipient sees after opening the email. It sets the tone and provides immediate context for the email content. 
-* **Body**: The body is the main content area of the email where the primary message is conveyed. This can include text, images, and other media. 
-* **CTA (Call to Action)**: The CTA is a call-to-action that encourages the recipient to take a specific action, such as clicking a link, making a purchase, or signing up for an event. 
-* **Images**: Images are used to enhance the visual appeal of the email, break up text, and support the message. 
-* **Footer**: The footer typically contains additional information such as contact details, social media links, legal disclaimers, and unsubscribe options.
+| Element      | Info                   | Channel template     |
+| ------------ | ---------------------- | -------------------- |
+| Preheader    | Between 40-50 characters, acts as secondary subject line enhancing main subject line, visible in inbox alongside subject before email is opened | email       |
+| Header       | Top section of email recipient sees when opening email, sets tone and provides context for included content               | email |
+| Headline     | First content recipient sees, should be compelling to catch interest | Meta ad |
+| Body         | Main content area where primary message is conveyed; can include text, images, and other media              | email<br>Meta ad |
+| CTA          | Call-to-action encouraging recipient to take specific action such as clicking a link or making a purchase         | email<br>Meta ad |
+| Images       | Enhances visual appeal, breaks up text, supports message; should be high-quality and eye-catching          | email<br>Meta ad |
+| Footer       | Contains additional info such as contact details, social media links, disclaimers, and unsubscribe options               | email |
+| Text overlay | Text on an image, should support and enhance headline and body | Meta ad |
 
 ## Upload a template
 

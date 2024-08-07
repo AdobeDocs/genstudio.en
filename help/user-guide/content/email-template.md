@@ -7,7 +7,9 @@ feature: Templates, Content
 
 # Prepare email template for GenStudio
 
-Typically, a designer will create the visual design of a template in a design program such as Adobe XD. After an email template is designed, coded, and tested, you can prepare it for upload and use in GenStudio.  
+Typically, a designer will create the visual design of a template in a design program such as Adobe XD. After an email template is designed, coded, and tested, you can prepare it for upload and use in GenStudio.
+
+See [Anatomy of a template](/help/user-guide/content/use-templates.md#anatomy-of-a-template).
 
 ## Code an email template
 

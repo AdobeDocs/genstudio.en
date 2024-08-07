@@ -5,25 +5,33 @@ level: Intermediate
 feature: Templates, Content
 ---
 
-# Prepare email template for GenStudio
+# Prepare Meta ad template for GenStudio
 
-Typically, a designer will create the visual design of a template in a design program such as Adobe XD. After an email template is designed, coded, and tested, you can prepare it for upload and use in GenStudio.  
+Creating a Meta ad template involves a structured approach tailored for social media. After a Meta ad template is designed and tested, you can prepare it for upload and use in GenStudio.
 
-## Code an email template
+## Design a template
 
-After a template is designed it is coded using HTML and inline CSS. The code should be clean and responsive for various devices.
+Typically, a designer will create the visual design of a template in a design program such as Adobe XD.
 
-See [Template examples](/help/user-guide/content/customize-template.md#template-examples).
+See [Anatomy of a template](/help/user-guide/content/use-templates.md#anatomy-of-a-template) and [Template examples](/help/user-guide/content/customize-template.md#template-examples).
 
-## Test an email template
+### Ad specifications
+
+Familiarize yourself with platform specifications for ad formats and guidelines.
+
+GenStudio supports these aspect ratios for Meta ads:
+
+* Square (1:1): 1080 x 1080 pixels 
+* Vertical (4:5): 1080 x 1350 pixels
+* Story (9:16): 1080 x 1920 pixels
+
+If the ad is not designed in one of the above aspect ratios, GenStudio automatically crops the image into the appropriate size.  
+
+## Test a Meta ad template
+
+Test your template using Meta's Creative Hub to see how the ad will look in different placements (e.g. feed, stories).
 
 Use your email delivery or proofing platform to test your email and verify that it renders properly across different email clients and devices.
-
-Test to ensure your email template satisfies the following:
-
-* Layout adjusts for different screen sizes using CSS media queries
-* Buttons are clickable and navigate to the right places/things
-* Email template is readable and usable on mobile devices
 
 ## Define generated content areas
 
