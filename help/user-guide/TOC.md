@@ -37,6 +37,7 @@ feature: Generative AI
     + Templates {#templates}
         + [Work with templates](content/use-templates.md)
         + [Customize templates](content/customize-template.md)
+        + [Prepare an email template](content/email-template.md)
 + Campaigns {#campaigns}
     + [Campaigns overview](campaigns/overview.md)
 + Activation {#activation}
