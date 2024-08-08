@@ -10,8 +10,6 @@ A brand distinguishes an organization, product, service or concept from others. 
 
 GenStudio uses the wealth of brand information from your brand, partners it with [!DNL Product] and [!DNL Persona] information, and builds out a comprehensive brand identity. This brand identity is used to inform the creation of on-brand content using Adobe's generative AI technology.
 
-![[!DNL Brands] overview in GenStudio](/help/assets/brand-overview-home.png){width="650" zoomable="yes"}
-
 **To view or modify a brand**:
 
 1. In the left navigation area, click **[!UICONTROL [!DNL Brands]]**.
@@ -43,14 +41,14 @@ Each channel has certain inherent guidelines that influence channel asset compos
 
 The following table shows each channel fragment, channels for which it is available, description of the fragment, guideline examples, and example results.
 
-| Fragments | Channels | Description | Guideline examples | Result examples |
-| ------------------| --------- | --------- | -------- | :---------- |
-| General        | email | A second subject line or email preview text | `Engage quickly, Friendly but serious tone` | -- |
-| Subject           | email | A compelling and interesting title to summarize the content of an email | `Between 20 and 40 characters, using short punchy phrasing` | "Be the inspiration you needed. Mentor a teen." |
-| Pre header        | email | A second subject line or email preview text |  `Between 45 and 70 characters, communicating value add detail` | "Your world will open up when you choose to mentor local youth." |
-| Headline          | email, social ads, display ads | A title or phrase to grab the reader's attention | `Mimic the vibe of the subject, Continue the story` | "Take a teen under your wing, and watch them fly!" |
-| Body              | email, social ads, display ads | Marketing content that includes message, links, and images | `Limit to 2 to 4 sentences, Mix sentence length and phrasing to keep attention, Avoid slang, Maintain smart and respectful tone` | "Guiding a teen through life's ups and downs changes them... and you. Spend a little time helping your community and watch your neighborhood garden grow." |
-| CTA               | email, social ads, display ads | (Call to Action) An instruction given to the reader that inspires a response. Usually one or two words, such as `Get started` | `Use 1-3 words, Use clear verbiage` | "Mentor today" |
+| Fragments | Channels | Description | Best practices |
+| ------------------| --------- | --------- | -------- |
+| General   | email, social ads | A second subject line or email preview text | Define overall tone/emotion to be consistent throughout email (2-5 guidelines).<br>_Examples_: "Maintain a friendly and approachable tone", "Avoid overly formal language"<br><br> |
+| Subject    | email | A compelling and interesting title to summarize the content of an email | Provide specific guidance (2-5 guidelines) on tone, length, etc. Add previously successful subject lines in _Examples_ section for better quality output.<br>_Example_: "Align subject with email body" |
+| Preheader        | email | A second subject line or email preview text |  Provide specific guidance (2-5 guidelines) on tone, ideal length, etc. Add previously successful preheaders in the _Examples_ section for better quality output.<br>_Example_: "Limit to 60-80 characters" |
+| Headline          | email, social ads, display ads | A title or phrase to grab the reader's attention | Provide specific guidance (2-5 guidelines) on tone, ideal length, etc. Add previously successful headlines in _Examples_ section for better quality output.<br>_Examples_: "Use punchy statements to grab attention" |
+| Body              | email, social ads, display ads | Marketing content that includes message, links, and images | Provide specific guidance (2-5 guidelines) on tone, ideal length, etc. Add previously successful copy to _Examples_ section for better quality output.<br>_Examples_: "Limit to 80-100 characters", "Avoid excessive acronyms" |
+| CTA               | email, social ads, display ads | (Call to Action) An instruction given to the reader that inspires a response. Usually one or two words, such as `Get started` | Provide specific guidance (2-5 guidelines) on tone, ideal length, etc. Add previously successful copy to _Examples_ section for better quality output.<br>_Examples_: "Do not use end punctuation"|
 
 <!-- Not in M2.1 // ### Image guidelines
 
@@ -68,13 +66,13 @@ You can create your own categories, like Photos, Product, or Illustration imager
 | Color and tone | Specify color or color theme, palette, color interpretation and accessibility | `Use bright and bold color palette, Ensure high contrast` |
 | Lighting   | Describe how highlights and shadows affect different objects| `Use natural light, Avoid using shadows` |
 
-![Image guidelines in GenStudio](/help/assets/image-guidelines.png){width="650" zoomable="yes"} -->
+![Image guidelines in GenStudio](/help/assets/image-guidelines.png){width="650" zoomable="yes"} 
 
 ### Logos
 
 Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
-![Logo guidelines in GenStudio](/help/assets/logos.png){width="650" zoomable="yes"}
+![Logo guidelines in GenStudio](/help/assets/logos.png){width="650" zoomable="yes"} -->
 
 ## Brand validation
 
