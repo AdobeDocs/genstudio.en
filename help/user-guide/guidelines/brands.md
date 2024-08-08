@@ -30,16 +30,12 @@ The following guidelines sections detail each guidelines category, examples guid
 
 The following table shows each category of brand voice guideline and guideline examples.
 
-| Guideline category | Guideline examples |
-| ------------------| :---------- |
-| Tone of voice       | `Speak like a human, Avoid jargon, Speak with confidence` |
-| Brand values        | `Be the leader, Show authenticity` |
-| Unique attribute    | `Driven by empathy for others, Celebrate diverse ideas, Be a cheerleader for change` |
-| Frequent keywords   | `impact, progressive, inclusive, motivation, perseverance` |
-| Messaging guidelines | `Use inclusive terms, Avoid using the word "utilize", Incorporate simple phrasing, Make CTAs clear and concise` |
-| Messaging restrictions | `Avoid repeating adjectives or adverbs, Avoid colloquialisms` |
-
-![Brand voice guidelines in GenStudio](/help/assets/brand-voice-guidelines.png){width="650" zoomable="yes"}
+| Guideline category | Description | Best practices |
+| ------------------| :---------- | :---------- |
+| Tone of voice       | Brand's personality as expressed through written communication | Use descriptive words to clearly convey brand's emotion and tone. <br>_Examples_: "genuine", "playful"<br><br>Be concise (3-6 guidelines) and focus on key brand voice attributes.<br><br>Select words/phrases that are consistent across communication channels to build coherent brand identity. |
+| Brand values        | Principles that drive brand culture, customer experience, and business strategies | Use descriptive words to convey brand's mission, vision, and audience needs. <br>_Examples_: "authenticity", "inspiring", "progressive"<br><br>Be concise (3-6 guidelines) and focus on core brand values/themes. |
+| Editorial guidelines   | Communication guidelines defining best practices for crafting brand messaging | Use positive phrasing (5-10 guidelines) to establish a strong foundation.<br>_Examples_: "Use simple, accessible language" instead of "Avoid using jargon"<br><br>Provide clear and actionable guidance. <br>_Examples_: "Keep sentences under 20 words" instead of "Be concise"<br><br>Reflect your brand's style, such as using specific syntax preferences. <br>_Examples_: "Use an em dash instead of a colon", "Use sentence case"<br><br>Craft precise guidelines that maintain consistency across outputs. |
+| Editorial restrictions  | Communication guidelines defining what to avoid in brand messaging | Use direct negative phrasing (5-10 guidelines) to specify what should be avoided. <br>_Example_: "Avoid using..."<br><br>Provide clear and actionable guidance. <br>_Example_: "Avoid rhetorical questions" |
 
 ### Channel guidelines
 
@@ -55,8 +51,6 @@ The following table shows each channel fragment, channels for which it is availa
 | Headline          | email, social ads, display ads | A title or phrase to grab the reader's attention | `Mimic the vibe of the subject, Continue the story` | "Take a teen under your wing, and watch them fly!" |
 | Body              | email, social ads, display ads | Marketing content that includes message, links, and images | `Limit to 2 to 4 sentences, Mix sentence length and phrasing to keep attention, Avoid slang, Maintain smart and respectful tone` | "Guiding a teen through life's ups and downs changes them... and you. Spend a little time helping your community and watch your neighborhood garden grow." |
 | CTA               | email, social ads, display ads | (Call to Action) An instruction given to the reader that inspires a response. Usually one or two words, such as `Get started` | `Use 1-3 words, Use clear verbiage` | "Mentor today" |
-
-![Channel guidelines in GenStudio](/help/assets/channel-guidelines.png){width="650" zoomable="yes"}
 
 <!-- Not in M2.1 // ### Image guidelines
 
