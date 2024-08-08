@@ -11,4 +11,4 @@ feature: Generative AI
 + [[!DNL GenStudio] Tutorials](tutorials.md)
 + [Create an Email experience](create-email-experience.md)
 + [Create a Meta ad experience](create-meta-ad.md)
-+ [[!DNL GenStudio] User Guide](/help/user-guide/home.md)
++ [[!DNL GenStudio] User Guide](https://experienceleague.adobe.com/docs/genstudio/user-guide/home.html)
