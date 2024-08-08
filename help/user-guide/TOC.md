@@ -13,7 +13,7 @@ feature: Generative AI
 + Introduction {#intro}
     + [GenStudio concepts](concepts.md)
     + [Effective prompts](effective-prompts.md)
-    + [Tutorials](https://experienceleague.adobe.com/docs/genstudio/learning/tutorials.html)
+    + [Tutorials](/help/tutorials/tutorials.md)
 + Guidelines {#guidelines}
     + [Guidelines overview](guidelines/overview.md)
     + [Brands](guidelines/brands.md)
