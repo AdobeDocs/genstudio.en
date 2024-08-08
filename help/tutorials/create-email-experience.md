@@ -21,7 +21,6 @@ To get started creating a new email experience, use an available template to pro
 **To choose an email template**:
 
 1. In _[!DNL Create]_, click **[!UICONTROL Email]** in the _"What do you want to create today?"_ section.
-1. In the _Select template_ view, toggle the _Channels_ filter to **[!UICONTROL Email]**.
 1. Use the search option, adjacent to _Filter_, to find a specific email template.
 1. Click to select an email template and click **[!UICONTROL Use]**.
 
@@ -47,7 +46,7 @@ When you are finished adding parameters, you can collapse the prompt area by cli
 
 ## Enter a prompt
 
-After guidelines are selected, craft a prompt using natural language to start generating content for your new email experience.
+After guidelines are selected, craft a prompt using natural language to start generating content for your new email experience. Detailed prompts yield higher quality output than vague or indescriptive prompts.
 
 See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn more about writing prompts.
 
@@ -56,7 +55,7 @@ See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn mo
 1. Enter a prompt in the _"Describe the experiences you want to generate"_ prompt box.
 1. Click **[!UICONTROL Generate]**.
 
-By default, four generated variations—all fueled by the prompt, guidelines, and content you added—are generated and shown in the Canvas.
+By default, four variations—all fueled by the prompt, guidelines, and content you added—are generated and shown in the Canvas.
 
 ## Revise generated emails
 
@@ -64,6 +63,7 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 
 **To revise generated variants**:
 
+* **To edit the email draft name**, click into the _Untitled Draft_ title at the top of the Canvas and enter a new title.
 * **To manually edit an email**, double-click into any of the email fragments (such as the subject line, header, or body copy) and edit as needed.
 
    The subject line and preheader only require a single click to edit, while the header, body copy, and call to action require a double-click.

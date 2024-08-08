@@ -67,7 +67,7 @@ Find and use an existing template to create experiences.
 
 1. In _[!DNL Content]_, select the **[!UICONTROL Templates]** section.
 
-   ![Content template list](../../assets/content-templates.png)
+   ![Content template list](../../assets/content-templates.png){width="650" zoomable="yes"}
 
 1. Select a template for a full view and a list of details.
 

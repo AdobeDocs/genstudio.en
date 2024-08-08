@@ -24,11 +24,11 @@ Click the icon to see which guidelines are compliant with your brand and which n
 
 See [Improve brand alignment](#improve-brand-alignment).
 
-## Brand Validation panel
+## Brand validation panel
 
-The _Brand Validation panel_  provides detailed brand validation information and illuminates opportunities for improvement for each variant fragment.
+The _Brand validation panel_  provides detailed brand validation information and illuminates opportunities for improvement for each variant fragment.
 
-The _Brand Validation panel_ displays information for:
+The _Brand validation panel_ displays information for:
 
 * **Email**: 
   * Subject line fragment
@@ -47,13 +47,13 @@ See [Improve brand alignment](#improve-brand-alignment).
 
 ### Filter
 
-In the _Brand Validation panel_ you can filter what guidelines are shown. Click the filter icon at the top of the panel to view:
+In the _Brand validation panel_ you can filter what guidelines are shown. Click the filter icon at the top of the panel to view:
 
 * **Failed guidelines**—_Show failed guidelines_ displays only the guidelines that did not pass brand validation.
 * **All guidelines**—_Show failed and passed guidelines_ displays all guidelines for which the variants are measured against.
 * **Passed guidelines**—_Show passed guidelines_ displays only the guidelines that passed brand validation.
 
-<!-- The _Brand Validation panel_ has different areas of focus for each content channel:
+<!-- The _Brand validation panel_ has different areas of focus for each content channel:
 
 * Email - brand voice and channel compliance
 * Images - application photography restrictions and other considerations -->

@@ -24,7 +24,7 @@ In the left navigation area, click **[!DNL Brands]**. In the _[!DNL Brands]_ pan
 
 You can upload your own brand documents to populate a new brand in GenStudio.
 
-See [[!DNL Brands]](/help/user-guide/guidelines/brands.md) to view a sample brand guide.
+See [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
 
 **To upload brand documents**:
 
@@ -104,7 +104,7 @@ See [[!DNL Products]](products.md).
    1. Choose an image from the gallery in the _Gallery_ tab.
 1. Click **[!UICONTROL Use image]**.
 
-   To see your created [!DNL Products], click the back arrow near the top of the _Product_ pane to navigate back to the _[!DNL Products]_ home.
+   To see your created [!DNL Products], click the back arrow near the top of the _Product_ view to navigate back to the _[!DNL Products]_ home.
 
 ### Manage [!DNL Products]
 
@@ -131,7 +131,7 @@ See [[!DNL Personas]](personas.md).
    1. Choose an image from the gallery in the _Gallery_ tab.
 1. Click **[!UICONTROL Use image]**.
 
-  To see your created [!DNL Personas], click the back arrow near the top of the _Persona_ pane to navigate back to the _[!DNL Personas]_ home.
+  To see your created [!DNL Personas], click the back arrow near the top of the _Persona_ view to navigate back to the _[!DNL Personas]_ home.
 
 ### Manage [!DNL Personas]
 

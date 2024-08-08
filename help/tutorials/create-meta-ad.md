@@ -21,9 +21,8 @@ To get started generating a new Meta ad experience, use an available template to
 **To choose a Meta ad template**:
 
 1. In _[!DNL Create]_, click **[!UICONTROL Meta ads]** in the _"What do you want to create today?"_ section.
-1. In the _Select template_ view, toggle the _Channels_ filter to **[!UICONTROL Meta ads]**.
 1. Use the search option, adjacent to _Filter_, to find a specific Meta ad template.
-1. Click to select a template, or toggle select multiple templates, and click **[!UICONTROL Use]**. If you select multiple templates, when the variants are generated all selected templates will be used to provide you options.
+1. Click to select a template and click **[!UICONTROL Use]**.
 
    This action opens the Canvas, which is the central hub for content creation.
 
@@ -47,7 +46,7 @@ When you are done adding parameters, you can collapse the prompt area by clickin
 
 ## Enter a prompt
 
-After guidelines are selected, craft a prompt using natural language to start generating content for your new Meta ad experience.
+After guidelines are selected, craft a prompt using natural language to start generating content for your new Meta ad experience. Detailed prompts yield higher quality output than vague or indescriptive prompts.
 
 See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn more about writing prompts.
 
@@ -56,7 +55,7 @@ See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn mo
 1. Enter a prompt in the _"Describe the experiences you want to generate"_ prompt box.
 1. Click **[!UICONTROL Generate]**.
 
-By default, four generated variations—all fueled by the prompt, guidelines, and content you added—are generated and shown in the Canvas.
+By default, four variations—all fueled by the prompt, guidelines, and content you added—are generated and shown in the Canvas.
 
 ## Choose Meta ads channel
 
@@ -70,6 +69,7 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 
 **To revise generated variants**:
 
+* **To edit the Meta ad draft name**, click into the _Untitled Draft_ title at the top of the Canvas and enter a new title.
 * **To manually edit an Meta ad**, double-click into any of the ad fragments (such as the subject line, header, or body copy) and edit as needed.
 
    The subject line and preheader only require a single click to edit, while the header and body copy require a double-click.
@@ -87,7 +87,7 @@ To optimize the generated ads and ensure strict adherence to brand identity, lev
 1. To get the details of the fragments and guidelines that need improvement, click **[!UICONTROL Review]** _or_ click the Brand validation icon in top menu bar to open the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel).
 
 1. Toggle through each ad to see how you can improve the generated content to be more brand-aligned.
-1. [Manually revise emails](#revise-generated-emails) to ensure your ads are closely aligned with your brand.
+1. [Manually revise ads](#revise-generated-meta-ads) to ensure your ads are closely aligned with your brand.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 

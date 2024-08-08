@@ -68,7 +68,7 @@ The following table displays the default GenStudio collaborator permissions:
 
 ### Administrators
 
-Admin users create and assign users to any of the GenStudio supported roles. They can assign new permissions to individual creators or collaborators as required. Their most critical job is to complete the initial onboarding tasks that prepare your organization to deploy GenStudio.
+**Administrators** create and assign users to any of the GenStudio supported roles. They can assign new permissions to individual creators or collaborators as required. Their most critical job is to complete the initial onboarding tasks that prepare your organization to deploy GenStudio.
 
 The following table displays the default GenStudio system administrator permissions:
 
@@ -85,9 +85,9 @@ The following table displays the default GenStudio system administrator permissi
 
 ## Prepare GenStudio to generate content
 
-System adminstrators prepare their organization's GenStudio environment for creators and collaborators to create campaign assets. These preliminary set-up tasks include:
+System administrators prepare their organization's GenStudio environment for creators and collaborators to create campaign assets. These preliminary set-up tasks include:
 
-1. [Set up guidelines](./guidelines/overview.md) for [!DNL Brands], [!DNL Products], and [!DNL Personas]. Setting up the key building blocks of your organization's mar **[Add guidelines](./guidelines/overview.md)** ([!DNL Brands], [!DNL Products], and [!DNL Personas]) to GenStudio. Setting up the key building blocks of your organization's brand identity is an essential prerequisite for the work of GenStudio creators and collaborators. You can either upload brand guideline documents or manually enter brand information.
+1. [Add guidelines](./guidelines/overview.md) for [!DNL Brands], [!DNL Products], and [!DNL Personas]. Setting up the key building blocks of your organization's brand identity is an essential prerequisite for the work of GenStudio creators and collaborators. You can either upload brand guideline documents or manually enter brand information.
    * **Prepare your guidelines documents**. The more descriptive and comprehensive your brand guidelines, the better GenStudio's output. Include brief examples of features that you consider essential to you brand and add descriptions of behavior you want to exclude from GenStudio content creation. GenStudio extracts information from these uploaded documents and begins building your brand. Information such as brand voice, channel, and image guidelines, are populated as GenStudio assembles each guideline from your uploaded documents.
    * **Edit or complete brand guideline fields as needed**. Comprehensive brand guidelines form the basis of GenStudio's understanding of your organization's brand. Once GenStudio has extracted the information it needs from your brand guideline documents, you are prompted to manually edit or complete fields of extracted information. Specify individual product focus areas for content creation by adding a [!DNL Product]. [!DNL Personas] guidelines help tailor content creation for defined customer segments.
 
