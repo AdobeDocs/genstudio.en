@@ -56,7 +56,6 @@ You can manually add brand details, instead of uploading existing brand document
 
    Optionally, click **[!UICONTROL Add category]** to add a custom guidelines category, such as Photos or Illustrations.
 
-1. Add logos in the _Logos_ section.
 1. Click into the _New brand_ title and enter a descriptive brand name.
 
 To see your created [!DNL Brands], click the back arrow near the top of the _Brand_ panel to navigate back to the _[!DNL Brands]_ home.
@@ -99,6 +98,7 @@ See [[!DNL Products]](products.md).
 1. Click **[!UICONTROL Untitled]** and enter a name for the [!DNL Product].
 1. Click into _Description_ and enter a description of this [!DNL Product].
 1. Click into _Value proposition_ and enter details about the product's value.
+1. Click into _Additional details_ and enter details crucial for personalized content generation.
 1. To edit the thumbnail, hover over the image thumbnail and from the Thumbnail actions menu select **[!UICONTROL Edit thumbnail]**.
    1. Upload a new image or remove the existing uploaded image in the _Upload_ tab.
    1. Choose an image from the gallery in the _Gallery_ tab.
@@ -125,6 +125,7 @@ See [[!DNL Personas]](personas.md).
 1. Click **[!UICONTROL Untitled]** and enter a name for the [!DNL Persona].
 1. Click into _Description_ and enter a description of this [!DNL Persona].
 1. Click into _Messaging preferences_ and enter messaging details for the [!DNL Persona].
+1. Click into _Additional details_ and enter details crucial for personalized content generation.
 1. To edit the thumbnail, hover over the image thumbnail and from the _Thumbnail actions_ menu select **[!UICONTROL Edit thumbnail]**.
    1. Upload a new image or remove the existing uploaded image in the _Upload_ tab.
    1. Choose an image from the gallery in the _Gallery_ tab.
