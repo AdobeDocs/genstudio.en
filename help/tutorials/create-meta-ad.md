@@ -29,39 +29,34 @@ To get started generating a new Meta ad experience, use an available template to
 
 ## Add parameters
 
-Adding guidelines parameters enhances the content generation process and is a crucial step in preparing to generate a Meta ad.
+Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Parameters_ in the prompt area enhances the content generation process and is a crucial step in preparing to generate a Meta ad.
 
 **To add parameters and assets**:
 
-1. Click the _Parameters_ icon to expand the parameters options and add references parameters and assets.
+1. Click the _Parameters_ icon to expand the prompt area.
 1. In the _Parameters_ section, select guidelines—[!DNL Brands], [!DNL Personas], and [!DNL Products]—to inform content creation.
 
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio](/help/user-guide/guidelines/add-guidelines.md).
 
-1. In the _Content_ section, add content to be used in the experience *and* to influence content generation. There are three ways to add assets:
-   * Click **[!UICONTROL Select from content]** to select assets (images or video) already published to [!DNL Content]. Use the filters to further narrow your search results.
+1. Click **[!UICONTROL Select content]** to add content to be used in the experience *and* to influence content generation.
+   * Click **[!UICONTROL Select from content]** to select assets (images) already published to [!DNL Content]. Use the filters to further narrow your search results.
    * Click **[!UICONTROL Upload]** to browse your files and choose assets to use. Along with browsing your device, you can also import from Microsoft OneDrive or Dropbox.
-   * Drag and drop image files into the _Content_ section.
+   * Drag and drop assets into the _Content_ section.
 
-   When you select assets from GenStudio content, you are choosing from assets already saved to [[!DNL Content]](/help/user-guide/content/overview.md). You can filter by channel, product, language, and more, to find the needed assets quickly.
+When you are done adding parameters, you can collapse the prompt area by clicking the _Parameters_ icon again.
 
-When you are done adding parameters, you can collapse the *Parameters* and *Content* sections by clicking the _Parameters_ icon again.
-
-## Use a prompt
+## Enter a prompt
 
 After guidelines are selected, craft a prompt using natural language to start generating content for your new Meta ad experience.
 
 See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn more about writing prompts.
 
-**To use a prompt**:
+**To enter a prompt**:
 
 1. Enter a prompt in the _"Describe the experiences you want to generate"_ prompt box.
-   <!-- If the prompt box is not visible, click **[!UICONTROL Open to prompt]** to expand it. -->
-
-<!-- 1. Optionally, click one of the prompt suggestions visible just above the prompt text box. Clicking a suggestion auto-fills the suggested prompt in the prompt box. -->
 1. Click **[!UICONTROL Generate]**.
 
-By default, four generated variations—all fueled by the prompt, guidelines, and content you added—are shown in the Canvas.
+By default, four generated variations—all fueled by the prompt, guidelines, and content you added—are generated and shown in the Canvas.
 
 ## Choose Meta ads channel
 
@@ -86,15 +81,13 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 
 To optimize the generated ads and ensure strict adherence to brand identity, leverage the power of the [_Brand guidelines check_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check)—providing a summary of brand alignment for a variant—and the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)—displaying comprehensive brand validation details and illuminating improvement areas.
 
-You can manually edit individual ad fragments or [generate refined variants](/help/user-guide/create/generate-variants.md) of the initial result to achieve alignment with your brand.
-
 **To verify brand alignment**:
 
 1. Click the [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) icon for a variant and see a summary of how that variant performs when checked against your brand.
 1. To get the details of the fragments and guidelines that need improvement, click **[!UICONTROL Review]** _or_ click the Brand validation icon in top menu bar to open the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel).
 
 1. Toggle through each ad to see how you can improve the generated content to be more brand-aligned.
-1. [Manually revise emails](#revise-generated-emails), or [generate variants](/help/user-guide/create/generate-variants.md), to ensure your ads are closely aligned with your brand.
+1. [Manually revise emails](#revise-generated-emails) to ensure your ads are closely aligned with your brand.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).
 

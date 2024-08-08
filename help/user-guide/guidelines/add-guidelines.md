@@ -16,7 +16,7 @@ Adding Guidelines to GenStudio is an important step in the creation process. Gui
 
 ## Add [!DNL Brands]
 
-To add a brand to GenStudio, you can [upload a brand guide](#upload-brand-guidelines) or [manually create a brand](#manually-add-brand) by selecting guidelines and entering your brand details. [Publish a brand](#publish-brand) to [!DNL Content] to make it available for generating variants.
+To add a brand to GenStudio, you can [upload a brand guide](#upload-brand-guidelines) or [manually create a brand](#manually-add-brand) by selecting guidelines and entering your brand details. [Publish a brand](#publish-brand) to [!DNL Content] to make it available for use in future content generation.
 
 In the left navigation area, click **[!DNL Brands]**. In the _[!DNL Brands]_ panel, select **Add brand**.
 
@@ -76,7 +76,7 @@ Before publishing your brand, click through the _Brand voice guidelines_, _Chann
 
 When the brand is published, a banner appears confirming that your brand is ready to use: "*Brand published and available to use*".
 
-The published brand is now available for use in generating variants in _[!DNL Create]_ or _[!DNL Content]_.
+The published brand is now available for use in _[!DNL Create]_ or _[!DNL Content]_.
 
 ### Manage [!DNL Brands]
 

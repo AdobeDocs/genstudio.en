@@ -68,6 +68,12 @@ GenStudio automatically populates certain fields in templates, so it is not nece
 >
 >For Instagram ads, the generated headline does not appear in the final experience.
 
+#### Brand logo field name
+
+To add a brand logo into your template use the following code to render the default logo:
+
+```{{#if brand_logo}}{{brand_logo}}{{else}} encoded inline logo {{/if}}```
+
 #### Manual field names
 
 All other field names are treated as manually populated fields. If you want a section to be editable, add double brackets around the section you want to edit.
