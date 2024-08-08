@@ -70,9 +70,9 @@ Drafts in progress are automatically saved. When you navigate back to the [!DNL 
 
 ### Templates
 
-After you select which content channel you want to product in the _What do you want to create today?_ section, you can access brand-approved templates for use in content generation. Use templates to jump start the content creation process and stay aligned with a defined brand identity.
+After you select which content channel you want to produce in the _What do you want to create today?_ section, you can access brand-approved templates for use in content generation. Use templates to jumpstart the content creation process and stay aligned with a defined brand identity.
 
-Templates are [uploaded and stored in [!DNL Content]](/help/user-guide/content/overview.md) but are accessible in [!DNL Create].
+Templates are [uploaded and stored in [!DNL Content]](/help/user-guide/content/overview.md) and are accessible in [!DNL Create].
 
 ### Prompts
 

@@ -15,7 +15,7 @@ Before you prepare a Meta ad template, ensure that you have added [guidelines](/
 
 **Example**: If you want the body of a Meta ad template to be no larger than 500 characters, add that requirement to the [channel guidelines](/help/user-guide/guidelines/brands.md#channel-guidelines) for the "body" field.
 
-If guidelines are not added to GenStudio, defaults will be used.
+If guidelines are not added to GenStudio, defaults are used.
 
 ## Design a template
 

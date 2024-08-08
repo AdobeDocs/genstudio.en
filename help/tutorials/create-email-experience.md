@@ -43,7 +43,7 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
    * Click **[!UICONTROL Upload]** to browse your files and choose assets to use. Along with browsing your device, you can also import from Microsoft OneDrive or Dropbox.
    * Drag and drop assets into the _Content_ section.
 
-When you are done adding parameters, you can collapse the prompt area by clicking the _Parameters_ icon again.
+When you are finished adding parameters, you can collapse the prompt area by clicking the _Parameters_ icon again.
 
 ## Enter a prompt
 
