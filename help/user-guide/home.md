@@ -2,7 +2,6 @@
 title: Adobe GenStudio User Guide
 description: Learn how to use GenStudio and generative AI to personalize your content supply chain.
 ---
-
 # GenStudio User Guide
 
 GenStudio is a comprehensive marketing solution powered by Adobe's generative AI technology. It empowers marketers to streamline the content supply chain, from ideation to delivery and performance measurement.
