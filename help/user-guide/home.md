@@ -50,7 +50,7 @@ By leveraging AI technology, GenStudio provides a comprehensive suite of tools t
          </a>
       </div>
       <p>
-         <em>Review and approve campaign components and brand assets.</em>
+         <em>Orchestrate the streamlined review and approval of marketing assets.</em>
       </p>
    </td>
    <td valign="top">
