@@ -8,9 +8,9 @@ feature: Prompt, Generative AI, Brands Service, Personas Service, Products Servi
 
 Communicating with the generative AI is essential to working effectively in GenStudio.
 
-GenStudio provides a generative AI prompt each time there is an opportunity to create or modify an asset. The components of an effective prompt should include descriptive language, examples, and information not provided through your configured guidelines.
+GenStudio provides a generative AI prompt each time there is an opportunity to modify an asset. The components of an effective prompt should include descriptive language, examples, and information not provided through your configured guidelines.
 
-As a best practice, supply GenStudio with your brand information using [guidelines](/help/user-guide/guidelines/overview.md), then you can fully leverage the generative AI to produce brand-aligned content.
+As a best practice, supply GenStudio with your brand information using [guidelines](/help/user-guide/guidelines/overview.md), then you can fully leverage the generative AI to produce brand-aligned content experiences.
 
 ## Descriptive language
 

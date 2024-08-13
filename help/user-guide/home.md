@@ -1,12 +1,14 @@
 ---
 title: Adobe GenStudio User Guide
-description: Learn how to use GenStudio and generative AI to personalize your content supply chain.
+description: Enable marketers and supercharge creatives with GenStudio, Adobe's AI-first application that provides self-service access to on-brand content with enterprise guardrails and governance for high-performing experiences.
 ---
 # GenStudio User Guide
 
-GenStudio is a comprehensive marketing solution powered by Adobe's generative AI technology. It empowers marketers to streamline the content supply chain, from ideation to delivery and performance measurement.
+Adobe GenStudio is an AI-driven platform that empowers companies to autonomously generate and manage marketing content that adheres to their brand standards, complies with enterprise policies, and seamlessly supports an impactful marketing strategy.
 
-With GenStudio, enterprises can leverage generative AI to accelerate content creation, easily find and reuse content, and drive successful omnichannel campaigns.
+With GenStudio, marketers and creatives can streamline the content creation process to create marketing content that is engaging, culturally relevant, and tailored to specific audiences, all while maintaining high quality and brand integrity.
+
+By leveraging AI technology, GenStudio provides a comprehensive suite of tools that simplify the complexities of content creation and management so creatives can focus on innovation.
 
 ## Explore GenStudio capabilities
 
@@ -22,7 +24,7 @@ With GenStudio, enterprises can leverage generative AI to accelerate content cre
          </a>
       </div>
       <p>
-         <em>Craft prompts with descriptive language, brand assets, and other criteria.</em>
+         <em>Craft descriptive prompts that generate on-brand digital experiences.</em>
       </p>
    </td>
    <td valign="top">
@@ -35,7 +37,7 @@ With GenStudio, enterprises can leverage generative AI to accelerate content cre
          </a>
       </div>
       <p>
-         <em>Create performant, on-brand images and content.</em>
+         <em>Create performant, on-brand emails and Meta ads.</em>
       </p>
    </td>
    <td valign="top">
@@ -48,7 +50,7 @@ With GenStudio, enterprises can leverage generative AI to accelerate content cre
          </a>
       </div>
       <p>
-         <em>Review and approve campaign components and brand assets.</em>
+         <em>Orchestrate the streamlined review and approval of marketing assets.</em>
       </p>
    </td>
    <td valign="top">
@@ -74,7 +76,7 @@ With GenStudio, enterprises can leverage generative AI to accelerate content cre
          </a>
       </div>
       <p>
-         <em>Optimize content performance based on real-time usage.</em>
+         <em>Analyze content effectiveness of paid media channels.</em>
       </p>
    </td>
 </tr>
@@ -91,7 +93,7 @@ With GenStudio, enterprises can leverage generative AI to accelerate content cre
       </a>
    </div>
    <p>
-      <em>Learn how to add guidelines to GenStudio.</em>
+      <em>Learn how to add guidelines—Brands, Products, and Personas—to GenStudio.</em>
    </p>
 </td>
 <td valign="top">
