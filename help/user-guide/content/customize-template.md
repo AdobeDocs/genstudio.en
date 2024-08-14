@@ -82,7 +82,7 @@ All other field names are treated as manually populated fields. If you want a se
 
 ## Sections or groups
 
-_Sections_ inform GenStudio that fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section.
+_Sections_ inform GenStudio that fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches creative elements in the section.
 
 Use a prefix of your choice in the field name to indicate a field is part of a section or group. 
 
