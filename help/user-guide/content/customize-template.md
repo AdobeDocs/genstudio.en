@@ -57,7 +57,7 @@ The following table lists the field names that are recognized by GenStudio for p
 | `cta`          | Call to action         | email (recommended)<br>Meta ad |
 | `on_image_text`| On image text          | Meta ad (recommended) |
 | `image`        | Image                  | email (recommended)<br>Meta ad (recommended) |
-| `brand_logo`   | Logo of selected brand | Meta ad |
+| `brand_logo`   | Logo of selected brand | email<br>Meta ad |
 
 GenStudio automatically populates certain fields in templates, so it is not necessary to include them in your template designs:
 
@@ -70,15 +70,33 @@ GenStudio automatically populates certain fields in templates, so it is not nece
 
 #### Brand logo field name
 
-To add a brand logo into your template use the following code to render the default logo:
+To add a brand logo into your template use one of the following methods to render the default logo.
 
-```{{#if brand_logo}}{{brand_logo}}{{else}} encoded inline logo {{/if}}```
+_Example_:
+
+```bash
+<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default image>{{/if}}" alt="WKND" style="max-width: 88px; margin: 10px auto; display: block;"> 
+```
+
+_Example_:
+
+```bash
+{{#if brand_logo}}
+
+                    <img src="{{brand_logo}}" alt="WKND" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+
+                {{else}}
+
+                    <img src="data:image/png;base64,iVBORw0KGgo..." alt="WKND" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+
+                {{/if}}
+```
 
 #### Manual field names
 
 All other field names are treated as manually populated fields. If you want a section to be editable, add double brackets around the section you want to edit.
 
-> Example: ``{{customVariable}}`` (customVariable is the manually editable section)
+_Example_: ``{{customVariable}}`` (customVariable is the manually editable section)
 
 ## Sections or groups
 
