@@ -83,11 +83,11 @@ _Example_:
 ```bash
 {{#if brand_logo}}
 
-                    <img src="{{brand_logo}}" alt="WKND" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+                    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
 
                 {{else}}
 
-                    <img src="data:image/png;base64,iVBORw0KGgo..." alt="WKND" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+                    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
 
                 {{/if}}
 ```
