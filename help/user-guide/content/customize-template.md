@@ -96,7 +96,7 @@ _Example_:
 
 All other field names are treated as manually populated fields. If you want a section to be editable, add double brackets around the section you want to edit.
 
-_Example_: ``{{customVariable}}`` (customVariable is the manually editable section)
+_Example_: ``{{customVariable}}`` (`customVariable` is the manually editable section)
 
 ## Sections or groups
 
