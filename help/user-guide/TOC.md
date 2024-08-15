@@ -47,3 +47,5 @@ feature: Generative AI
     + [Connect channel account](insights/connect-channel.md)
     + [Data columns](insights/data-columns.md)
 + Release notes {#beta-release-notes}
+    + [Release notes](beta-release-notes.md)
+  

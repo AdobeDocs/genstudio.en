@@ -1,11 +1,11 @@
 ---
-title: Adobe GenStudio for Performance Marketers beta release notes
-description: Learn about the latest feature introductions and enhancements to Adobe GenStudio.
+title: Adobe GenStudio for Performance Marketers Beta release notes
+description: Learn about the latest features and enhancements to Adobe GenStudio.
 ---
 
-# Adobe GenStudio for Performance Marketers beta release notes
+# Adobe GenStudio for Performance Marketers Beta release notes
 
-These notes highlights significant Adobe GenStudio fixes and enhancements for the week ending August 16.
+These notes highlight significant Adobe GenStudio fixes and enhancements for the week ending August 16.
 
 ## Highlights
 
@@ -13,7 +13,7 @@ GenStudio feature development is rapid and continuous. Notable new features incl
 
 ### Brand
 
-**Brand validation panel enhancements**. The Brand validation panel has been enhanced to improve user experience, including these changes: 
+The Brand validation panel was enhanced to improve user experience, including these changes: 
 
 * _Percentage-based validation score_. Brand validation now displays brand validation score as a percentage rather than a pass/fail value. 
 
@@ -29,7 +29,7 @@ GenStudio feature development is rapid and continuous. Notable new features incl
 
 * **Multi-section email creation**. Users can now create emails composed of separate headline, image, body, and CTA elements. 
 
-* **Meta Ads Resize**. Creators can resize a Meta ad aspect ratios.
+* **Meta Ads Resize**. Creators can resize Meta ad aspect ratios.
 
 ### Insights
 
@@ -43,17 +43,17 @@ This release includes the following additional fixes.
 
 * The _Experience Detail_ page feed placement name now specifies Facebook or Instagram feed.
 
-* Cropping of larger images and videos is now consistent when user navigates from the _Asset Overview_ page to the _Asset detail_ page.  
+* Cropping of larger images and videos is now consistent when user navigates from the _Asset Overview_ view to the _Asset detail_ view.  
 
 * The Attributes screen search result count no longer displays `0 of` before a user logs in. <!-- GS- 3665 -->
 
-* Clicking on the **[!UICONTROL Insight]**  > **[!UICONTROL Asset]** count field no longer clears search and filter settings. <!-- GS-3476 -->
+* Clicking the **[!UICONTROL Insight]**  > **[!UICONTROL Asset]** count field no longer clears search and filter settings. <!-- GS-3476 -->
 
 ## Known issues
 
-The following known issues will be resolved by the GenStudio GA release. 
+The following known issues will be resolved by the GenStudio for Performance Marketers GA release. 
 
-## Analytics
+### Analytics
 
 * Actions triggered by the **[!UICONTROL Add templates]** and **[!UICONTROL Upload]** buttons are not currently tracked. <!-- GS-3505 -->
 
