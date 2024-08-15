@@ -7,7 +7,7 @@ feature: Templates, Content
 
 # Customize templates
 
-You can adapt your HTML templates for GenStudio by using the _Handlebars_ templating language. The Handlebars syntax uses regular text with double braces as content placeholders. See [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
+Adapt your HTML templates for GenStudio by using the _Handlebars_ templating language. The Handlebars syntax uses regular text with double braces as content placeholders. See [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
 
 <!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
 -->If you do not have an HTML template ready to use in GenStudio, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
