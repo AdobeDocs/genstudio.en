@@ -15,15 +15,15 @@ GenStudio feature development is rapid and continuous. Notable new features incl
 
 **Brand validation panel enhancements**. The Brand validation panel has been enhanced to improve user experience, including these changes: 
 
-   * _Percentage-based validation score_. Brand validation now displays brand validation score as a percentage rather than a pass/fail value. 
+* _Percentage-based validation score_. Brand validation now displays brand validation score as a percentage rather than a pass/fail value. 
 
-   * _Updated Brand extraction interface_. Brand extraction now shows completion of the extraction process as a percentage.
+* _Updated Brand extraction interface_. Brand extraction now shows completion of the extraction process as a percentage.
 
-   * _Incremental brand load during extraction_. Brand guidelines are now incrementally loaded in the user interface.
+* _Incremental brand load during extraction_. Brand guidelines are now incrementally loaded in the user interface.
 
-   * _Simplificatiom of the Copy Guideline schema_. The  `unique attributes` and `frequent keywords` field have been removed from the Copy Guideline schema, simplifying the guideline set-up process.
+* _Simplificatiom of the Copy Guideline schema_. The  `unique attributes` and `frequent keywords` field have been removed from the Copy Guideline schema, simplifying the guideline set-up process.
 
-   * _Image Generation: Category Selection_. Users can now select the image guidelines that are specific to their image regeneration needs.
+* _Image Generation: Category Selection_. Users can now select the image guidelines that are specific to their image regeneration needs.
 
 ### Create
 
