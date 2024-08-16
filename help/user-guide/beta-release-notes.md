@@ -9,9 +9,9 @@ These notes highlight significant Adobe GenStudio fixes and enhancements for the
 
 ## Highlights
 
-GenStudio feature development is rapid and continuous. Notable new features include:
+Feature development is rapid and continuous. Notable new features include:
 
-### [!DNL Brand]
+### [!DNL Brands]
 
 The [!DNL Brand] validation panel was enhanced to improve user experience, including these changes: 
 
@@ -21,7 +21,7 @@ The [!DNL Brand] validation panel was enhanced to improve user experience, inclu
 
 * **Incremental brand load during extraction**: Brand guidelines are now incrementally loaded in the user interface.
 
-* **Simplificatiom of the Copy Guideline schema**: The  `unique attributes` and `frequent keywords` field have been removed from the Copy Guideline schema, simplifying the guideline set-up process.
+* **Simplification of the Copy Guideline schema**: The  `unique attributes` and `frequent keywords` field have been removed from the Copy Guideline schema, simplifying the guideline set-up process.
 
 ### [!DNL Create]
 
