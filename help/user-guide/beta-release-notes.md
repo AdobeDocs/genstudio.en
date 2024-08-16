@@ -21,8 +21,6 @@ The [!DNL Brand] validation panel was enhanced to improve user experience, inclu
 
 * **Incremental brand load during extraction**: Brand guidelines are now incrementally loaded in the user interface.
 
-* **Simplification of the Copy Guideline schema**: The  `unique attributes` and `frequent keywords` field have been removed from the Copy Guideline schema, simplifying the guideline set-up process.
-
 ### [!DNL Create]
 
 * **Multi-section email creation**: Users can now create emails composed of separate headline, image, body, and CTA elements. 
@@ -56,7 +54,3 @@ The following known issues will be resolved by the GenStudio for Performance Mar
 * Videos cannot be played from _Assets_.  <!-- GS-3846 -->
 
 * Users must log in twice when they are also logged in to Facebook. **Workaround**: Log out of Facebook before logging into [!DNL Insights]. 
-
-### [!DNL Reviews and Approvals]
-
-* Creators can change assets after approval them before publication. Approvers are not notified of these changes.
