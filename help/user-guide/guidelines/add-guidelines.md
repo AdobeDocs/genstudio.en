@@ -1,6 +1,6 @@
 ---
-title: Add guidelines to GenStudio
-description: Learn how to add guidelines—[!DNL Brands], [!DNL Products], and [!DNL Personas]—in Adobe [!DNL GenStudio].
+title: Add guidelines to Adobe GenStudio for Performance Marketers
+description: Learn how to add guidelines—[!DNL Brands], [!DNL Products], and [!DNL Personas]—in Adobe GenStudio for Performance Marketers.
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
@@ -8,21 +8,21 @@ level: Beginner
 
 # Add guidelines
 
-[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md), and [[!DNL Personas]](/help/user-guide/guidelines/personas.md) are user-defined Guidelines in GenStudio that ensure any AI-generated content is customized to align with brand identity, enabling effective personalization of content.
+[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md), and [[!DNL Personas]](/help/user-guide/guidelines/personas.md) are user-defined uidelines in GenStudio for Performance Marketers that ensure any AI-generated content is customized to align with brand identity, enabling effective personalization of content.
 
-See the [GenStudio guidelines overview](/help/user-guide/guidelines/overview.md).
+See the [guidelines overview](/help/user-guide/guidelines/overview.md).
 
-Adding Guidelines to GenStudio is an important step in the creation process. Guidelines inform the content creation process, along with user-defined prompts and Adobe generative AI technology, to craft impactful assets.
+Adding guidelines to GenStudio for Performance Marketers is an important step in the creation process. Guidelines inform the content creation process, along with user-defined prompts and Adobe generative AI technology, to craft impactful assets.
 
 ## Add [!DNL Brands]
 
-To add a brand to GenStudio, you can [upload a brand guide](#upload-brand-guidelines) or [manually create a brand](#manually-add-brand) by selecting guidelines and entering your brand details. [Publish a brand](#publish-brand) to [!DNL Content] to make it available for use in future content generation.
+To add a brand to GenStudio for Performance Marketers, you can [upload a brand guide](#upload-brand-guidelines) or [manually create a brand](#manually-add-brand) by selecting guidelines and entering your brand details. [Publish a brand](#publish-brand) to [!DNL Content] to make it available for use in future content generation.
 
 In the left navigation area, click **[!DNL Brands]**. In the _[!DNL Brands]_ panel, select **Add brand**.
 
 ### Add brand via upload
 
-You can upload your own brand documents to populate a new brand in GenStudio.
+You can upload your own brand documents to populate a new brand in GenStudio for Performance Marketers.
 
 See [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
 
@@ -35,13 +35,13 @@ See [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
 
 1. Select **[!UICONTROL Add brand]**.
 
-Using Adobe's generative AI technology, GenStudio extracts information from your uploaded documents and begins building your brand. You see brand information, such as brand voice, channel, and image guidelines populate as GenStudio assembles each guideline from your brand documents.
+Using Adobe's generative AI technology, GenStudio for Performance Marketers extracts information from your uploaded documents and begins building your brand. You see brand information, such as brand voice, channel, and image guidelines populate as GenStudio for Performance Marketers assembles each guideline from your brand documents.
 
 A popup reminds you to review the extracted content before you [publish the brand](#publish-brand).
 
 ### Manually add brand
 
-You can manually add brand details, instead of uploading existing brand documents, to populate a new [brand](brands.md) in GenStudio.
+You can manually add brand details, instead of uploading existing brand documents, to populate a new [brand](brands.md) in GenStudio for Performance Marketers.
 
 **To manually add a brand**:
 
@@ -60,7 +60,7 @@ You can manually add brand details, instead of uploading existing brand document
 
 To see your created [!DNL Brands], click the back arrow near the top of the _Brand_ panel to navigate back to the _[!DNL Brands]_ home.
 
-You do not have to [publish](#publish-brand) your brand to make the information accessible. Any manually added information is available immediately after it is added. For others in your organization to use the brand info in GenStudio, you must publish it.
+You do not have to [publish](#publish-brand) your brand to make the information accessible. Any manually added information is available immediately after it is added. For others in your organization to use the brand info in GenStudio for Performance Marketers, you must publish it.
 
 ### Publish brand
 
@@ -88,7 +88,7 @@ In the _[!DNL Brands]_ home, you can click to **open an already-created brand** 
 
 ## Add [!DNL Products]
 
-You can add [!DNL Products] in GenStudio to specify individual product focus areas when creating content. <!-- Add Rename, display, reposition functionality -->
+You can add [!DNL Products] in GenStudio for Performance Marketers to specify individual product focus areas when creating content. <!-- Add Rename, display, reposition functionality -->
 
 See [[!DNL Products]](products.md).
 
@@ -115,7 +115,7 @@ In _[!DNL Products]_ home, you can **open an already-created [!DNL Product]** to
 
 ## Add [!DNL Personas]
 
-You can add a [!DNL Persona] in GenStudio to help target the content you create to your ideal audience.
+You can add a [!DNL Persona] in GenStudio for Performance Marketers to help target the content you create to your ideal audience.
 
 See [[!DNL Personas]](personas.md).
 

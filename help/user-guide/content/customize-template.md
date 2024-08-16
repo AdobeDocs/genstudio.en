@@ -1,16 +1,16 @@
 ---
 title: Customize templates
-description: Learn how to build a custom template for GenStudio.
+description: Learn how to build a custom template for Adobe GenStudio for Performance Marketers.
 level: Intermediate
 feature: Templates, Content
 ---
 
 # Customize templates
 
-Adapt your HTML templates for GenStudio by using the _Handlebars_ templating language. The Handlebars syntax uses regular text with double braces as content placeholders. See [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
+Adapt your HTML templates for Adobe GenStudio for Performance Marketers by using the _Handlebars_ templating language. The Handlebars syntax uses regular text with double braces as content placeholders. See [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
 
 <!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
--->If you do not have an HTML template ready to use in GenStudio, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
+-->If you do not have an HTML template ready to use in GenStudio for Performance Marketers, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
 
 ```html
 <!DOCTYPE html>
@@ -29,11 +29,11 @@ See [Template examples](#template-examples).
 
 >[!TIP]
 >
->In the next few sections, add content placeholders for email fields, see example templates, hide unnecessary elements from preview, and manage links to static content. Once your template is ready, you can [upload it to GenStudio](use-templates.md#upload-a-template) and start generating personalized emails based on your custom template.
+>In the next few sections, add content placeholders for email fields, see example templates, hide unnecessary elements from preview, and manage links to static content. Once your template is ready, you can [upload it to GenStudio for Performance Marketers](use-templates.md#upload-a-template) and start generating personalized emails based on your custom template.
 
 ## Content placeholders
 
-Within the head or body of a template, you can use Handlebars syntax to insert content placeholders where you require GenStudio to populate the template with actual content. GenStudio recognizes and interprets the content placeholders automatically based on the field name.
+Within the head or body of a template, you can use Handlebars syntax to insert content placeholders where you require GenStudio for Performance Marketers to populate the template with actual content. GenStudio for Performance Marketers recognizes and interprets the content placeholders automatically based on the field name.
 
 For example, you can use `{{ headline }}` to indicate where the headline of the email should be placed:
 
@@ -47,7 +47,7 @@ The maximum number of fields allowed in a custom template is twenty.
 
 #### Recognized field names
 
-The following table lists the field names that are recognized by GenStudio for population into templates.
+The following table lists the field names that are recognized by GenStudio for Performance Marketers for population into templates.
 
 | Field          | Role                   | Channel template     |
 | -------------- | ---------------------- | -------------------- |
@@ -59,7 +59,7 @@ The following table lists the field names that are recognized by GenStudio for p
 | `image`        | Image                  | email (recommended)<br>Meta ad (recommended) |
 | `brand_logo`   | Logo of selected brand | email<br>Meta ad |
 
-GenStudio automatically populates certain fields in templates, so it is not necessary to include them in your template designs:
+GenStudio for Performance Marketers automatically populates certain fields in templates, so it is not necessary to include them in your template designs:
 
 * `subject` field (email template)
 * `headline`, `body`, and `CTA` fields (Meta ad template)
@@ -100,7 +100,7 @@ _Example_: ``{{customVariable}}`` (`customVariable` is the manually editable sec
 
 ## Sections or groups
 
-_Sections_ inform GenStudio that fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches creative elements in the section.
+_Sections_ inform GenStudio for Performance Marketers that fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches creative elements in the section.
 
 Use a prefix of your choice in the field name to indicate a field is part of a section or group. 
 
@@ -120,13 +120,13 @@ A template can include up to three sections:
 * `news_headline`
 * `news_body`
 
-GenStudio understands that `spotlight_headline` is more closely related to `spotlight_body` than to `news_body`.
+GenStudio for Performance Marketers understands that `spotlight_headline` is more closely related to `spotlight_body` than to `news_body`.
 
 ## Template examples
 
 +++Example: Email template with one section
 
-The following is a basic example of an HTML template for an email that contains one section. The head contains simple, inline CSS for styling. The body contains a `pre-header`, `headline`, and `image` [placeholder](#content-placeholders) for use by GenStudio to inject content during the email generation process.
+The following is a basic example of an HTML template for an email that contains one section. The head contains simple, inline CSS for styling. The body contains a `pre-header`, `headline`, and `image` [placeholder](#content-placeholders) for use by GenStudio for Performance Marketers to inject content during the email generation process.
 
 ```handlebars {line-numbers="true" highlight="13"}
 <!DOCTYPE html>
@@ -287,9 +287,9 @@ Another example may be to prevent the use of tracking codes when previewing a te
 
 ## Static content
 
-Email and Meta templates often link to images and CSS files hosted outside GenStudio. When GenStudio generates thumbnails for these templates or the experiences derived from them, it may ignore these external resources if they do not have the correct Cross-Origin Resource Sharing (CORS) headers.
+Email and Meta templates often link to images and CSS files hosted outside GenStudio for Performance Marketers. When GenStudio for Performance Marketers generates thumbnails for these templates or the experiences derived from them, it may ignore these external resources if they do not have the correct Cross-Origin Resource Sharing (CORS) headers.
 
 To ensure that these resources are available during the thumbnail generation process, consider two options:
 
-1. **Use CORS headers**: The host server must send responses with an `Access-Control-Allow-Origin` header set to `https://experience.adobe.com` value for production environments. This method allows GenStudio to access and include the resources.
+1. **Use CORS headers**: The host server must send responses with an `Access-Control-Allow-Origin` header set to `https://experience.adobe.com` value for production environments. This method allows GenStudio for Performance Marketers to access and include the resources.
 1. **Use Data URLs**: Embed the external resources directly into the template using Data URLs. This method bypasses CORS restrictions and ensures that the resources are available during thumbnail generation.

@@ -1,12 +1,12 @@
 ---
-title: Overview of [!DNL Content]
+title: Overview of Adobe GenStudio for Performance Marketers [!DNL Content]
 description: Learn how to find, edit, reuse, and share brand-approved assets in one, intuitive portal.
 feature: Attributes, Content, Templates
 ---
 
-# GenStudio [!DNL Content]
+# Adobe GenStudio for Performance Marketers [!DNL Content]
 
-GenStudio [!DNL Content] provides a central location to store, find, and share all brand-approved assets, experiences, and templates. You can edit and remix content, gain insight on content usage and sentiment, and refresh and repurpose existing assets using generative AI.
+GenStudio for Performance Marketers [!DNL Content] provides a central location to store, find, and share all brand-approved assets, experiences, and templates. You can edit and remix content, gain insight on content usage and sentiment, and refresh and repurpose existing assets using generative AI.
 
 ## [!DNL Content] use cases
 
@@ -59,7 +59,7 @@ GenStudio [!DNL Content] provides a central location to store, find, and share a
 
 ## [!DNL Content] capabilities
 
-GenStudio [!DNL Content] makes it easy to manage your approved assets and accelerate the content lifecycle. In **[!UICONTROL [!DNL Content]]**, you can search, find, and reuse performant content or select an asset or experience to jumpstart the creation of new variants for an evergreen campaign.
+GenStudio for Performance Marketers [!DNL Content] makes it easy to manage your approved assets and accelerate the content lifecycle. In **[!UICONTROL [!DNL Content]]**, you can search, find, and reuse performant content or select an asset or experience to jumpstart the creation of new variants for an evergreen campaign.
 
 ### Upload assets
 
@@ -67,7 +67,7 @@ The **[!UICONTROL Add assets]** panel allows you to drag-and-drop or browse for 
 
 ### Search and find approved content
 
-When you save approved assets, [!DNL Content] maintains the rich metadata, generation context, and audit history. Asset details help to narrow search results quickly using filter and search strings. GenStudio AI automatically identifies and stores certain details, such as color. Searching for `blue` in the search field narrows the content list to assets tagged as blue.
+When you save approved assets, [!DNL Content] maintains the rich metadata, generation context, and audit history. Asset details help to narrow search results quickly using filter and search strings. GenStudio for Performance Marketers' AI automatically identifies and stores certain details, such as color. Searching for `blue` in the search field narrows the content list to assets tagged as blue.
 
 ### Work with templates
 

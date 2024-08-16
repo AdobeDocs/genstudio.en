@@ -1,14 +1,14 @@
 ---
-title: GenStudio [!DNL Brands]
-description: GenStudio [!DNL Brands] are a comprehensive collection of brand assets—marketing copy, imagery, experiences, and more—to inform the creation of brand-aligned content in GenStudio.
+title: GenStudio for Performance Marketers [!DNL Brands]
+description: GenStudio for Performance Marketers [!DNL Brands] are a comprehensive collection of brand assets—marketing copy, imagery, experiences, and more—to inform the creation of brand-aligned content.
 feature: Brands Service, Guidelines
 ---
 
-# GenStudio [!DNL Brands]
+# GenStudio for Performance Marketers [!DNL Brands]
 
 A brand distinguishes an organization, product, service or concept from others. Some aspects of a brand are objective, like a logo, while others are subjective, like tone of voice.
 
-GenStudio uses the wealth of brand information from your brand, partners it with [!DNL Product] and [!DNL Persona] information, and builds out a comprehensive brand identity. This brand identity is used to inform the creation of on-brand content using Adobe's generative AI technology.
+GenStudio for Performance Marketers uses the wealth of brand information from your brand, partners it with [!DNL Product] and [!DNL Persona] information, and builds out a comprehensive brand identity. This brand identity is used to inform the creation of on-brand content using Adobe's generative AI technology.
 
 **To view or modify a brand**:
 
@@ -16,11 +16,11 @@ GenStudio uses the wealth of brand information from your brand, partners it with
 1. To see a brand's overview information, click to open a defined brand.
 1. To view individual details or modify a brand, click **[!UICONTROL Brand voice guidelines]**, **[!UICONTROL Channel guidelines]**, **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
 
-You can upload brand guideline docs—up to three PDF or DOC files—to GenStudio to automatically create a brand. See [Add guidelines](add-guidelines.md) to learn how to add a brand to GenStudio, modify it, publish it, and more.
+You can upload brand guideline docs—up to three PDF or DOC files—to GenStudio for Performance Marketers to automatically create a brand. See [Add guidelines](add-guidelines.md) to learn how to add a brand to GenStudio for Performance Marketers, modify it, publish it, and more.
 
 ## [!DNL Brands] guidelines
 
-Guidelines give GenStudio a clear picture of your brand-specific approach, tone, visual feeling, and more.
+Guidelines give GenStudio for Performance Marketers a clear picture of your brand-specific approach, tone, visual feeling, and more.
 
 The following guidelines sections detail each guidelines category, examples guidelines, and potential results. The guideline examples are sample inputs that shape the results output (result examples below)—use them to inform your own brand guidelines.
 
@@ -66,16 +66,16 @@ You can create your own categories, like Photos, Product, or Illustration imager
 | Color and tone | Specify color or color theme, palette, color interpretation and accessibility | `Use bright and bold color palette, Ensure high contrast` |
 | Lighting   | Describe how highlights and shadows affect different objects| `Use natural light, Avoid using shadows` |
 
-![Image guidelines in GenStudio](/help/assets/image-guidelines.png){width="650" zoomable="yes"} 
+![Image guidelines in GenStudio for Performance Marketers](/help/assets/image-guidelines.png){width="650" zoomable="yes"} 
 
 ### Logos
 
 Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
-![Logo guidelines in GenStudio](/help/assets/logos.png){width="650" zoomable="yes"} -->
+![Logo guidelines in GenStudio for Performance Marketers](/help/assets/logos.png){width="650" zoomable="yes"} -->
 
 ## Brand validation
 
-In GenStudio, brand validation plays a crucial role, in conjunction with the generative AI functionality of [!DNL Brands], [!DNL Products], and [!DNL Personas]. It ensures that all your content remains consistent with your brand identity.
+In GenStudio for Performance Marketers, brand validation plays a crucial role, in conjunction with the generative AI functionality of [!DNL Brands], [!DNL Products], and [!DNL Personas]. It ensures that all your content remains consistent with your brand identity.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md).

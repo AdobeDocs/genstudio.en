@@ -1,21 +1,21 @@
 ---
-title: Overview of [!DNL Create]
-description: Quickly generate high-performing, on-brand content with generative AI in GenStudio [!DNL Create].
+title: Overview of GenStudio for Performance Marketers [!DNL Create]
+description: Quickly generate high-performing, on-brand content with generative AI in Adobe GenStudio for Performance Marketers [!DNL Create].
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 ---
 
-# GenStudio [!DNL Create]
+# GenStudio for Performance Marketers [!DNL Create]
 
-GenStudio [!DNL Create] leverages the power of Adobe GenAI to empower marketers and distributed teams to create high-performing, on-brand experiences.
+GenStudio for Performance Marketers [!DNL Create] leverages the power of Adobe GenAI to empower marketers and distributed teams to create high-performing, on-brand experiences.
 
-With GenStudio [!DNL Create], you can generate content for the following channels:
+With [!DNL Create], you can generate content for the following channels:
 
 * Emails
 * Meta ads
 <!-- * Social media images and ads
 * Display ads -->
 
-Along with the power of GenStudio [guidelines](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products], and [!DNL Personas]—[Content](/help/user-guide/content/overview.md), [Reviews and Approvals](/help/user-guide/approvals/overview.md), and [Insights](/help/user-guide/insights/overview.md), [!DNL Create] facilitates the creation of impactful brand-aligned marketing content.
+Along with the power of [guidelines](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products], and [!DNL Personas]—[Content](/help/user-guide/content/overview.md), [Reviews and Approvals](/help/user-guide/approvals/overview.md), and [Insights](/help/user-guide/insights/overview.md), [!DNL Create] facilitates the creation of impactful brand-aligned marketing content.
 
 ## [!DNL Create] use cases
 
@@ -54,13 +54,13 @@ Along with the power of GenStudio [guidelines](/help/user-guide/guidelines/overv
 </tr>
 </table>
 
-GenStudio enables marketers to **create new marketing content**. In this use case, use defined [guidelines](/help/user-guide/guidelines/overview.md) and inspiration images to inform the creation of brand-aligned content.
-<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio and use the power of Adobe generative AI technology to revise and improve existing content. 
+GenStudio for Performance Marketers enables marketers to **create new marketing content**. In this use case, use defined [guidelines](/help/user-guide/guidelines/overview.md) and inspiration images to inform the creation of brand-aligned content.
+<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio for Performance Marketers and use the power of Adobe generative AI technology to revise and improve existing content. 
 * **Generate variants of approved content** - In this use case, [generate variations of content that is approved by stakeholders](generate-variants.md) and published to [!DNL Content]. -->
 
 ## [!DNL Create] capabilities
 
-GenStudio [!DNL Create] integrates various components of GenStudio to assist users in generating content.
+[!DNL Create] integrates various components of GenStudio for Performance Marketers to assist users in generating content.
 
 ### Drafts
 
@@ -82,15 +82,15 @@ To create new AI-generated content, enter a [descriptive prompt](/help/user-guid
 
 ### Parameters
 
-In the prompt area, you can add _Parameters_ such as [!DNL Brands], [!DNL Products], and [!DNL Personas] (GenStudio guidelines) or assets to shape the generated experience.
+In the prompt area, you can add _Parameters_ such as [!DNL Brands], [!DNL Products], and [!DNL Personas] (guidelines) or assets to shape the generated experience.
 
 Uploaded images in _Parameters_ are used in generated variants and inform the copy content (text) generated for variants.
 
-These added parameters inject [guidelines](/help/user-guide/guidelines/overview.md) and assets into the generation process, ensuring that the content is customized to align with a brand's comprehensive identity. It is recommended to add guidelines to your GenStudio and use them during the content generation process, as they greatly enhance the creation of suitable on-brand content.
+These added parameters inject [guidelines](/help/user-guide/guidelines/overview.md) and assets into the generation process, ensuring that the content is customized to align with a brand's comprehensive identity. It is recommended to add guidelines to your GenStudio for Performance Marketers and use them during the content generation process, as they greatly enhance the creation of suitable on-brand content.
 
 ### Brand validation
 
-GenStudio conducts brand validation on various aspects of a brand's identity (as defined in [guidelines](/help/user-guide/guidelines/overview.md)). [Brand validation](/help/user-guide/guidelines/brand-validation.md) information is available for any generated content, indicating its compliance with brand guidelines and coherence between text and images. You can use this information to revise or improve your generated experience to better align with your brand.
+GenStudio for Performance Marketers conducts brand validation on various aspects of a brand's identity (as defined in [guidelines](/help/user-guide/guidelines/overview.md)). [Brand validation](/help/user-guide/guidelines/brand-validation.md) information is available for any generated content, indicating its compliance with brand guidelines and coherence between text and images. You can use this information to revise or improve your generated experience to better align with your brand.
 
 ### Reviews and approvals
 

@@ -1,16 +1,16 @@
 ---
 title: Adobe GenStudio User Guide
-description: Enable marketers and supercharge creatives with GenStudio, Adobe's AI-first application that provides self-service access to on-brand content with enterprise guardrails and governance for high-performing experiences.
+description: Enable marketers and supercharge creatives with GenStudio for Performance Marketers, Adobe's AI-first application that provides self-service access to on-brand content with enterprise guardrails and governance for high-performing experiences.
 ---
-# GenStudio User Guide
+# Adobe GenStudio for Performance Marketers User Guide
 
-Adobe GenStudio is an AI-driven platform that empowers companies to autonomously generate and manage marketing content that adheres to their brand standards, complies with enterprise policies, and seamlessly supports an impactful marketing strategy.
+Adobe GenStudio for Performance Marketers is an AI-driven platform that empowers companies to autonomously generate and manage marketing content that adheres to their brand standards, complies with enterprise policies, and seamlessly supports an impactful marketing strategy.
 
-With GenStudio, marketers and creatives can streamline the content creation process to create marketing content that is engaging, culturally relevant, and tailored to specific audiences, all while maintaining high quality and brand integrity.
+With GenStudio for Performance Marketers, marketers and creatives can streamline the content creation process to create marketing content that is engaging, culturally relevant, and tailored to specific audiences, all while maintaining high quality and brand integrity.
 
-By leveraging AI technology, GenStudio provides a comprehensive suite of tools that simplify the complexities of content creation and management so creatives can focus on innovation.
+By leveraging AI technology, GenStudio for Performance Marketers provides a comprehensive suite of tools that simplify the complexities of content creation and management so creatives can focus on innovation.
 
-## Explore GenStudio capabilities
+## Explore capabilities
 
 <table style="table-layout:fixed">
 <tr style="border: 0;">
@@ -93,7 +93,7 @@ By leveraging AI technology, GenStudio provides a comprehensive suite of tools t
       </a>
    </div>
    <p>
-      <em>Learn how to add guidelines—Brands, Products, and Personas—to GenStudio.</em>
+      <em>Learn how to add guidelines—Brands, Products, and Personas—to GenStudio for Performance Marketers.</em>
    </p>
 </td>
 <td valign="top">

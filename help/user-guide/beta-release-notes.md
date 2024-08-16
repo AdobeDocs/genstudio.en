@@ -5,7 +5,7 @@ description: Learn about the latest features and enhancements to Adobe GenStudio
 
 # Adobe GenStudio for Performance Marketers Beta release notes
 
-These notes highlight significant Adobe GenStudio fixes and enhancements for the week ending August 16.
+These notes highlight significant Adobe GenStudio for Performance Marketers fixes and enhancements for the week ending August 16.
 
 ## Highlights
 
@@ -51,19 +51,12 @@ This release includes the following additional fixes.
 
 The following known issues will be resolved by the GenStudio for Performance Marketers GA release. 
 
-### Analytics
-
-* Actions triggered by the **[!UICONTROL Add templates]** and **[!UICONTROL Upload]** buttons are not currently tracked. <!-- GS-3505 -->
-
 ### [!DNL Insights]
 
 * Videos cannot be played from _Assets_.  <!-- GS-3846 -->
 
 * Users must log in twice when they are also logged in to Facebook. **Workaround**: Log out of Facebook before logging into [!DNL Insights]. 
 
-* **Spend at Campaign level** values are not accurate. Data is not currently consistent between FaceBook Ads Manager and the data lake. <!-- GS-3202 -->
-
 ### [!DNL Reviews and Approvals]
 
 * Creators can change assets after approval them before publication. Approvers are not notified of these changes.
-

@@ -1,23 +1,23 @@
 ---
-title: Prepare an email template for GenStudio
-description: Learn how to build a custom email template for GenStudio.
+title: Prepare an email template for Adobe GenStudio for Performance Marketers
+description: Learn how to build a custom email template for Adobe GenStudio for Performance Marketers.
 level: Intermediate
 feature: Templates, Content
 ---
 
-# Prepare email template for GenStudio
+# Prepare email template for Adobe GenStudio for Performance Marketers
 
-Typically, a designer creates the visual design of a template in a design program such as Adobe XD. After an email template is designed, coded, and tested, you can prepare it for upload and use in GenStudio.
+Typically, a designer creates the visual design of a template in a design program such as Adobe XD. After an email template is designed, coded, and tested, you can prepare it for upload and use in GenStudio for Performance Marketers.
 
 See [Anatomy of a template](/help/user-guide/content/use-templates.md#anatomy-of-a-template).
 
 ## Add guidelines
 
-Before you prepare a Meta ad template, ensure that you have added [guidelines](/help/user-guide/guidelines/overview.md) to your GenStudio and populated them with comprehensive info for relevant brands. The [brand guidelines](/help/user-guide/guidelines/brands.md) directly influence generated content.
+Before you prepare a Meta ad template, ensure that you have added [guidelines](/help/user-guide/guidelines/overview.md) to your GenStudio for Performance Marketers and populated them with comprehensive info for relevant brands. The [brand guidelines](/help/user-guide/guidelines/brands.md) directly influence generated content.
 
 **Example**: If you want the body of an email template to be no larger than 500 characters, add that requirement to the [channel guidelines](/help/user-guide/guidelines/brands.md#channel-guidelines) for the "body" field.
 
-If guidelines are not added to GenStudio, defaults are used.
+If guidelines are not added to GenStudio for Performance Marketers, defaults are used.
 
 ## Code an email template
 
@@ -37,11 +37,11 @@ Test to ensure your email template satisfies the following:
 
 ## Define generated content areas
 
-Define the areas in your email template that should be dynamically populated with content from GenStudio. 
+Define the areas in your email template that should be dynamically populated with content from GenStudio for Performance Marketers. 
 
 To define generated content areas:
 
-* Identify the text elements in the template that GenStudio should auto-generate, such as the headline or CTA.
+* Identify the text elements in the template that GenStudio for Performance Marketers should auto-generate, such as the headline or CTA.
 * Adapt your HTML template by inserting placeholders within it using the Handblebars syntax.
 
 See [Content placeholders](/help/user-guide/content/customize-template.md#content-placeholders).
@@ -54,6 +54,6 @@ See [Template preview](/help/user-guide/content/customize-template.md#template-p
 
 ## Upload and use template
 
-After your template is designed, coded, tested, and previewed, you can upload it to GenStudio for use in generating brand new marketing content.
+After your template is designed, coded, tested, and previewed, you can upload it to GenStudio for Performance Marketers for use in generating brand new marketing content.
 
 See [Working with templates](use-templates.md).

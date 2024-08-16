@@ -1,6 +1,6 @@
 ---
 title: Work with Templates
-description: Learn how to use templates to create engaging experiences in GenStudio.
+description: Learn how to use templates to create engaging experiences in Adobe GenStudio for Performance Marketers.
 feature: Templates, Content
 ---
 
@@ -11,8 +11,8 @@ GenStudio templates are essential for enabling content creators to quickly produ
 This guide provides detailed information about how to:
 
 * Prepare an [email template](email-template.md) or Meta ad template
-* [Customize templates](customize-template.md) for GenStudio
-* [Upload templates](#upload-a-template) into GenStudio
+* [Customize templates](customize-template.md) for GenSGenStudio for Performance Marketerstudio
+* [Upload templates](#upload-a-template) into GenStudio for Performance Marketers
 * [Use templates to create experiences](#use-a-template)
 
 ## Anatomy of a template
@@ -32,11 +32,11 @@ Basic template design includes the following elements:
 
 >[!NOTE]
 > 
->It is recommended that you include specific fields in each channel's content to ensure GenStudio can generate text for content placeholders. See [Recognized field names](customize-template.md#recognized-field-names) to see which fields are recommended for inclusion.
+>It is recommended that you include specific fields in each channel's content to ensure GenStudio for Performance Marketers can generate text for content placeholders. See [Recognized field names](customize-template.md#recognized-field-names) to see which fields are recommended for inclusion.
 
 ## Upload a template
 
-GenStudio accepts templates in HTML format.
+GenStudio for Performance Marketers accepts templates in HTML format.
 
 **To add a template**:
 
@@ -74,7 +74,6 @@ Find and use an existing template to create experiences.
 >[!TIP]
 >
 >See [[!DNL Create] an email experience](/help/tutorials/create-email-experience.md) or [[!DNL Create] a Meta ad experience](/help/tutorials/create-meta-ad.md) for complete tutorials using templates.
-
 <!--  The create button in Content Template view does not work yet.
 1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.
 -->

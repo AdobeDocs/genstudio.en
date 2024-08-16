@@ -6,7 +6,7 @@ feature: Content, Assets, Experiences
 
 # Manage assets and experiences
 
-GenStudio [!DNL Content] simplifies and enhances the management of brand-approved assets for use and reuse in your digital marketing journey.
+Adobe GenStudio for Performance Marketers [!DNL Content] simplifies and enhances the management of brand-approved assets for use and reuse in your digital marketing journey.
 
 ## Add assets
 
@@ -20,11 +20,11 @@ GenStudio [!DNL Content] simplifies and enhances the management of brand-approve
 
 1. To improve discoverability, add optional details such as _Brand name_, _Personas_, _Region_ and _Keywords_ in the **More details** section.
 
-   The more details that you provide, the more you experience the robust capabilities of GenStudio. Select one or more details from the list, or enter a new one where applicable, such as with keywords. Each detail you add appears below the list. Click **`x`** to remove a detail.
+   The more details that you provide, the more you experience the robust capabilities of GenStudio for Performance Marketers. Select one or more details from the list, or enter a new one where applicable, such as with keywords. Each detail you add appears below the list. Click **`x`** to remove a detail.
 
    Any details you add apply to all the assets added in this action.
 
-   See [Metadata details](/help/user-guide/content/asset-details.md#genstudio-metadata).
+   See [Metadata details](/help/user-guide/content/asset-details.md#system-metadata).
 
 1. Click **[!UICONTROL Add assets]**.
 1. When the asset upload is completed, click **Done**.
@@ -53,7 +53,3 @@ Apply filters and use metadata tags from asset details to narrow search results.
 1. Select an asset for a full view and a list of details.
 
    Click **[!UICONTROL Download]** (down arrow) to use the asset in your local workstation.
-
-<!-- 
-There is more here, but not ready yet.
--->
