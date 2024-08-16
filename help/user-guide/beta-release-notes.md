@@ -23,8 +23,6 @@ The Brand validation panel was enhanced to improve user experience, including th
 
 * _Simplificatiom of the Copy Guideline schema_: The  `unique attributes` and `frequent keywords` field have been removed from the Copy Guideline schema, simplifying the guideline set-up process.
 
-* _Image Generation: Category Selection_: Users can now select the image guidelines that are specific to their image regeneration needs.
-
 ### Create
 
 * **Multi-section email creation**: Users can now create emails composed of separate headline, image, body, and CTA elements. 
@@ -57,22 +55,15 @@ The following known issues will be resolved by the GenStudio for Performance Mar
 
 * Actions triggered by the **[!UICONTROL Add templates]** and **[!UICONTROL Upload]** buttons are not currently tracked. <!-- GS-3505 -->
 
-### Brand
-
-* A creator can successfully publish a brand, but organization members cannot see the brand. <!-- XI-2197 -->
-
-### Create
-
-* Image cropping in Meta ads is inconsistent. <!-- GS-3739 -->
-
-* Templates composed of multiple groups of page elements fail brand validation. <!-- GS-4037 --> 
-
 ### Insights
 
-* Access denied errors occur with `/admin/addOffer` endpoint (provisioning service). **Resolved  8/12**. <!-- GS-4047 -->
+* Videos cannot be played from _Assets_.  <!-- GS-3846 -->
+
+* Users must log in twice when they are also logged in to Facebook. **Workaround**: Log out of Facebook before logging into Insights. 
 
 * **Spend at Campaign level** values are not accurate. Data is not currently consistent between FaceBook Ads Manager and the data lake. <!-- GS-3202 -->
 
 ### Reviews and Approvals
 
-* Creators can change assets after approval before publishing it. Approvers are not notified of these changes.
+* Creators can change assets after approval them before publication. Approvers are not notified of these changes.
+
