@@ -8,7 +8,7 @@ level: Beginner
 
 # Add guidelines
 
-[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md), and [[!DNL Personas]](/help/user-guide/guidelines/personas.md) are user-defined uidelines in GenStudio for Performance Marketers that ensure any AI-generated content is customized to align with brand identity, enabling effective personalization of content.
+[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md), and [[!DNL Personas]](/help/user-guide/guidelines/personas.md) are user-defined guidelines in GenStudio for Performance Marketers that ensure any AI-generated content is customized to align with brand identity, enabling effective personalization of content.
 
 See the [guidelines overview](/help/user-guide/guidelines/overview.md).
 

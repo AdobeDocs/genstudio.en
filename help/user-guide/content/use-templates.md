@@ -11,7 +11,7 @@ GenStudio templates are essential for enabling content creators to quickly produ
 This guide provides detailed information about how to:
 
 * Prepare an [email template](email-template.md) or Meta ad template
-* [Customize templates](customize-template.md) for GenSGenStudio for Performance Marketerstudio
+* [Customize templates](customize-template.md) for GenStudio for Performance Marketerstudio
 * [Upload templates](#upload-a-template) into GenStudio for Performance Marketers
 * [Use templates to create experiences](#use-a-template)
 
