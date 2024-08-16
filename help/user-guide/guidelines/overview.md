@@ -1,29 +1,29 @@
 ---
 title: Overview of [!DNL Brands], [!DNL Products], and [!DNL Personas]
-description: Add [!DNL Brands], [!DNL Products], and [!DNL Personas] to GenStudio to create a comprehensive brand profile that includes all aspects of a brand's representation.
+description: Add [!DNL Brands], [!DNL Products], and [!DNL Personas] to GenStudio for Performance Marketers to create a comprehensive brand profile that includes all aspects of a brand's representation.
 feature: Guidelines, Brands Service, Personas Service, Products Service
 ---
 
-# GenStudio guidelines
+# GenStudio for Performance Marketers guidelines
 
-GenStudio guidelines—**[!DNL Brands]**, **[!DNL Products]**, and **[!DNL Personas]**—can be either uploaded or manually added to GenStudio, allowing users to establish brand guidelines that capture the essence of a brand's identity. This user-defined information helps ensure that any AI-generated content is tailored to align with the unique brand identity, enabling effective personalization of content.
+GenStudio for Performance Marketers guidelines—**[!DNL Brands]**, **[!DNL Products]**, and **[!DNL Personas]**—can be either uploaded or manually added to GenStudio for Performance Marketers, allowing users to establish brand guidelines that capture the essence of a brand's identity. This user-defined information helps ensure that any AI-generated content is tailored to align with the unique brand identity, enabling effective personalization of content.
 
-![Guidelines in GenStudio](/help/assets/guidelines.png){width="650" zoomable="yes"}
+![Guidelines in GenStudio for Performance Marketers](/help/assets/guidelines.png){width="650" zoomable="yes"}
 
-To create compelling marketing content using GenStudio, start by building a comprehensive brand profile by adding [[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md), and [[!DNL Personas]](/help/user-guide/guidelines/personas.md).
+To create compelling marketing content using GenStudio for Performance Marketers, start by building a comprehensive brand profile by adding [[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md), and [[!DNL Personas]](/help/user-guide/guidelines/personas.md).
 
 See [Add guidelines](/help/user-guide/guidelines/add-guidelines.md) to learn how to add [!DNL Brands], [!DNL Products], and [!DNL Personas] in GenStudio.
 
 ## Capabilities
 
-GenStudio guidelines:
+GenStudio for Performance Marketers guidelines:
 
 * Define the complexities of your brand identity
 * Create the base repository of information—for discrete elements such as logos and fonts, pixel spacing, and the subtlety of messaging guidelines—that the generative AI uses to create content
 * Ensure that your defined brand identity informs the creation of each piece of content
-* Operate as a brand identity framework that GenStudio checks against with each piece of generated or [validated content](#brand-validation)
+* Operate as a brand identity framework that is checked against with each piece of generated or [validated content](#brand-validation)
 
-By incorporating brand, product, and persona data into GenStudio, you can improve the quality of AI-generated content, ensuring a comprehensive and tailored brand identity.
+By incorporating brand, product, and persona data into GenStudio for Performance Marketers, you can improve the quality of AI-generated content, ensuring a comprehensive and tailored brand identity.
 
 ## Use cases
 
@@ -34,8 +34,8 @@ By incorporating brand, product, and persona data into GenStudio, you can improv
 
 ## Brand Validation
 
-In collaboration with Adobe's generative AI functionality, [!DNL Brands], [!DNL Products], and [!DNL Personas] play a crucial role in ensuring that all your GenStudio content aligns with your brand identity.
+In collaboration with Adobe's generative AI functionality, [!DNL Brands], [!DNL Products], and [!DNL Personas] play a crucial role in ensuring that all your GenStudio for Performance Marketers content aligns with your brand identity.
 
-GenStudio conducts brand validation on various brand aspects and provides a checklist for generated content to highlight improvement areas to better align with your brand identity.
+GenStudio for Performance Marketers conducts brand validation on various brand aspects and provides a checklist for generated content to highlight improvement areas to better align with your brand identity.
 
 See [Brand Validation](/help/user-guide/guidelines/brand-validation.md).

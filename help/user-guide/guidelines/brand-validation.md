@@ -1,14 +1,14 @@
 ---
-title: Brand validation in GenStudio
-description: Learn how the built-in brand validation system works in GenStudio.
+title: Brand validation in Adobe GenStudio for Performance Marketers
+description: Learn how the built-in brand validation system works in GenStudio for Performance Marketers.
 feature: Brands Service, Guidelines
 ---
 
 # Brand validation
 
-In GenStudio, brand validation is an essential component that works in collaboration with the generative AI functionality and guidelines—[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md), and [[!DNL Personas]](/help/user-guide/guidelines/personas.md). It ensures that all your content aligns with your brand identity.
+In GenStudio for Performance Marketers, brand validation is an essential component that works in collaboration with the generative AI functionality and guidelines—[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md), and [[!DNL Personas]](/help/user-guide/guidelines/personas.md). It ensures that all your content aligns with your brand identity.
 
-GenStudio conducts brand validation on various aspects, including:
+GenStudio for Performance Marketers conducts brand validation on various aspects, including:
 
 * Brand guidelines specific to each customer
 * Copy guidelines for different channel platforms

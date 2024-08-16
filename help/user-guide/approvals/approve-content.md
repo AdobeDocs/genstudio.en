@@ -18,5 +18,5 @@ If the content draft meets your organization's standards and your expectations, 
 
 1. Change draft status from **Needs work** to **Approved**. 
 
-Your work as an approver is done. GenStudio alerts the draft creator of your approval. See [Publish content](./publish-content.md) for an overview of the process of saving to [!DNL Content], or _publishing_.
+Your work as an approver is done. GenStudio for Performance Marketers alerts the draft creator of your approval. See [Publish content](./publish-content.md) for an overview of the process of saving to [!DNL Content], or _publishing_.
   

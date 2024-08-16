@@ -1,13 +1,13 @@
-# GenStudio metadata fields
+# GenStudio for Performance Marketers metadata fields
 
 <!-- copied this table right into the topic bc was having trouble with snippet injection error -->
 
 | Field         | Description | Can Edit | Required |
 | ------------- | ----------- | -------- |
 | Campaign name (project name) | Default metadata captured and stored with asset | Y | N |
-| Brand name    | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) added to GenStudio and published for use. | Y | N |
-| [!DNL Products]      | [[!DNL Products]](/help/user-guide/guidelines/products.md) added to GenStudio for use. | Y | N |
-| [!DNL Personas]      | [[!DNL Personas]](/help/user-guide/guidelines/personas.md). added to GenStudio for use. | Y | N |
+| Brand name    | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) added to GenStudio for Performance Marketers and published for use. | Y | N |
+| [!DNL Products]      | [[!DNL Products]](/help/user-guide/guidelines/products.md) added to GenStudio for Performance Marketers for use. | Y | N |
+| [!DNL Personas]      | [[!DNL Personas]](/help/user-guide/guidelines/personas.md). added to GenStudio for Performance Marketers for use. | Y | N |
 | Channels      | Content types in GenStudio the asset is used for, such as email and Meta ads. | Y | N |
 | Timeframe     | Timeframe for which the asset it used, such as quarter, season, year, etc. Example: `Winter 2023` | Y | N |
 | Region        | Regions for which the asset is used. Examples: `North America`, `APAC`, `Italy` | Y | N |

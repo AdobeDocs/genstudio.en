@@ -8,7 +8,7 @@ feature: Approval
 
 Review and approval processes that involve multiple reviewers can be time-consuming. The cycle of reviewing content, revising content in response to review comments, then reviewing changed content again can repeat many times. 
 
-GenStudio's generative AI capabilities accelerate these critical iterative phases of the content creation and review process. Content creators can respond to reviewer requests by using prompting capabilities to edit drafts quickly. In-product notifications immediately notify reviewers that the draft has been revised and can review changes. The more reviewers and review cycles that content development requires, the greater the advantages that GenStudio brings.
+GenStudio for Performance Marketers' generative AI capabilities accelerate these critical iterative phases of the content creation and review process. Content creators can respond to reviewer requests by using prompting capabilities to edit drafts quickly. In-product notifications immediately notify reviewers that the draft has been revised and can review changes. The more reviewers and review cycles that content development requires, the greater the advantages that GenStudio for Performance Marketers brings.
 
 ## Iterative draft editing
 
@@ -18,7 +18,7 @@ Creators can make in-process edits to content in response to review comments. Wh
 
 As a designated approver, you can access the content that you are asked to review and approve in several ways:
 
-* **Access the draft for review directly from the draft link in the approval request**. Click the draft link in either the approval request email notification or in-product notification. GenStudio opens a Canvas that displays the asset or experience. The _Asset_ details left panel includes an _Approval_ panel. 
+* **Access the draft for review directly from the draft link in the approval request**. Click the draft link in either the approval request email notification or in-product notification. GenStudio for Performance Marketers opens a Canvas that displays the asset or experience. The _Asset_ details left panel includes an _Approval_ panel. 
 
 * **Access the draft for review from the list of approval requests**. If you are asked to review multiple content drafts, your notification email includes a **[!UICONTROL View all notifications]** button. Click this button to navigate to a page that displays all your pending review requests.
 
@@ -28,7 +28,7 @@ You can approve content if you have received an approval request email. This ema
 
 **To review content**:
 
-1. Use the link in your in-production notification or request email to navigate to the content for review. GenStudio displays the content Canvas.
+1. Use the link in your in-production notification or request email to navigate to the content for review. GenStudio for Performance Marketers displays the content Canvas.
 
 1. The Asset Canvas includes a **[!UICONTROL Review & Approve]** button on the upper right. Click this button to open the _Approvals_ panel for this asset.
 
@@ -36,7 +36,7 @@ You can approve content if you have received an approval request email. This ema
 
 You can list suggested changes or ask questions about the draft from the content's _Approval_ panel. The **Needs work** draft status notifies the content creator that changes are requested.
 
-This process of reviewing, suggesting edits to the content creator, and then revising the content and re-sending for approval is highly iterative. It is in this part of the cycle that you see the time-saving abilities of GenStudio. 
+This process of reviewing, suggesting edits to the content creator, and then revising the content and re-sending for approval is highly iterative. It is in this part of the cycle that you see the time-saving abilities of GenStudio for Performance Marketers. 
 
 **To request changes**:
 

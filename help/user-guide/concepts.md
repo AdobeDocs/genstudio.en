@@ -1,14 +1,14 @@
 ---
-title: GenStudio concepts
-description: Learn Adobe GenStudio concepts and terminology.
+title: Adobe GenStudio for Performance Marketers concepts
+description: Learn Adobe GenStudio for Performance Marketers concepts and terminology.
 feature: Workflow, Generative AI
 ---
 
-# GenStudio concepts
+# Concepts
 
-GenStudio is a standalone enterprise product that embodies Adobe's content supply chain to streamline marketing campaigns. It is challenging to build personalized, brand-approved content at scale, monitor effectiveness, and adapt quickly to the ever-changing market. GenStudio brings Creative Cloud and Experience Cloud together in one application that leverages generative AI as a performance multiplier for enterprise marketing teams.
+GenStudio for Performance Marketers is a standalone enterprise product that embodies Adobe's content supply chain to streamline marketing campaigns. It is challenging to build personalized, brand-approved content at scale, monitor effectiveness, and adapt quickly to the ever-changing market. GenStudio for Performance Marketers brings Creative Cloud and Experience Cloud together in one application that leverages generative AI as a performance multiplier for enterprise marketing teams.
 
-With GenStudio you can:
+With GenStudio for Performance Marketers you can:
 
 - Create on-brand content using natural language prompts
 - Collaborate with stakeholders to review and approve generated content
@@ -17,13 +17,13 @@ With GenStudio you can:
 
 ## Generative AI technology
 
-GenStudio harnesses the power of generative AI to accelerate the content creation process and ensure high-quality content generation. The iterative lifecycle of your creative assets results in increasingly accurate and brand-aligned content that resonates with your target audience.
+GenStudio for Performance Marketers harnesses the power of generative AI to accelerate the content creation process and ensure high-quality content generation. The iterative lifecycle of your creative assets results in increasingly accurate and brand-aligned content that resonates with your target audience.
 
-Begin by effectively training GenStudio on your organization's branding, customer personas, and product descriptions through the powerful brand guidelines feature. See the [Guidelines overview](../user-guide/guidelines/overview.md) to learn how to prepare and upload these guidelines.
+Begin by effectively training GenStudio for Performance Marketers on your organization's branding, customer personas, and product descriptions through the powerful brand guidelines feature. See the [Guidelines overview](../user-guide/guidelines/overview.md) to learn how to prepare and upload these guidelines.
 
-## GenStudio content lifecycle
+## Content lifecycle
 
-The demand is high for quality experiences in multiple channels at a faster pace. GenStudio simplifies the content supply chain into a well-organized workflow for marketers. GenStudio leverages Adobe technology at each stage of the lifecycle.
+The demand is high for quality experiences in multiple channels at a faster pace. GenStudio for Performance Marketers simplifies the content supply chain into a well-organized workflow for marketers. GenStudio for Performance Marketers leverages Adobe technology at each stage of the lifecycle.
 
 <table style="table-layout:fixed">
 <tr style="border: 0;">
