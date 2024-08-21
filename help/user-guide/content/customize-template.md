@@ -9,8 +9,7 @@ feature: Templates, Content
 
 Adapt your HTML templates for Adobe GenStudio for Performance Marketers by using the _Handlebars_ templating language. The Handlebars syntax uses regular text with double braces as content placeholders. See [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
 
-<!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
--->If you do not have an HTML template ready to use in GenStudio for Performance Marketers, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
+If you do not have an HTML template ready to use in GenStudio for Performance Marketers, you can start by defining the structure of your template using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. The following is a basic email template that includes CSS styles to customize the appearance:
 
 ```html
 <!DOCTYPE html>
@@ -24,8 +23,6 @@ Adapt your HTML templates for Adobe GenStudio for Performance Marketers by using
 </body>
 </html>
 ```
-
-See [Template examples](#template-examples).
 
 >[!TIP]
 >
@@ -41,13 +38,11 @@ For example, you can use `{{ headline }}` to indicate where the headline of the 
 <div>{{ headline }}</div>
 ```
 
-### Field names
+### Recognized field names
 
 The maximum number of fields allowed in a custom template is twenty.
 
-#### Recognized field names
-
-The following table lists the field names that are recognized by GenStudio for Performance Marketers for population into templates.
+The following table lists the field names recognized by GenStudio for Performance Marketers for population into templates.
 
 | Field          | Role                   | Channel template     |
 | -------------- | ---------------------- | -------------------- |
@@ -57,12 +52,12 @@ The following table lists the field names that are recognized by GenStudio for P
 | `cta`          | Call to action         | email (recommended)<br>Meta ad |
 | `on_image_text`| On image text          | Meta ad (recommended) |
 | `image`        | Image                  | email (recommended)<br>Meta ad (recommended) |
-| `brand_logo`   | Logo of selected brand | email<br>Meta ad |
+| `brand_logo`   | Logo of selected brand<br>See [field name](#brand-logo-field-name) | email<br>Meta ad |
 
 GenStudio for Performance Marketers automatically populates certain fields in templates, so it is not necessary to include them in your template designs:
 
-* `subject` field (email template)
-* `headline`, `body`, and `CTA` fields (Meta ad template)
+- `subject` field (email template)
+- `headline`, `body`, and `CTA` fields (Meta ad template)
 
 >[!WARNING]
 >
@@ -70,55 +65,53 @@ GenStudio for Performance Marketers automatically populates certain fields in te
 
 #### Brand logo field name
 
-To add a brand logo into your template use one of the following methods to render the default logo.
+The following examples demonstrate two methods that conditionally render the Brand logo, verify the source, provide a default or alternative logo in case the brand logo is not available, and apply a style:
 
-_Example_:
+_Example_: in the HTML `img src` definition
 
-```bash
-<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default image>{{/if}}" alt="WKND" style="max-width: 88px; margin: 10px auto; display: block;"> 
+```html
+<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;"> 
 ```
 
-_Example_:
+_Example_: in a Handlebars condition
 
-```bash
+```handlebars
 {{#if brand_logo}}
-
-                    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
-
-                {{else}}
-
-                    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
-
-                {{/if}}
+    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+    {{else}}
+    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+{{/if}}
 ```
 
 #### Manual field names
 
-All other field names are treated as manually populated fields. If you want a section to be editable, add double brackets around the section you want to edit.
+All other field names are treated as manually populated fields. To create an editable section, add double brackets around the section you want to edit:
 
-_Example_: ``{{customVariable}}`` (`customVariable` is the manually editable section)
+```handlebars
+{{customVariable}}
+```
 
 ## Sections or groups
 
-_Sections_ inform GenStudio for Performance Marketers that fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches creative elements in the section.
+_Sections_ inform GenStudio for Performance Marketers that the fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section.
 
-Use a prefix of your choice in the field name to indicate a field is part of a section or group. 
+Use a prefix of your choice in the field name to indicate that a field is part of a section or group. 
 
 For example, you may want to spotlight content that appears in a highlighted area:
 
-* `spotlight_headline`
-* `spotlight_body`
+- `spotlight_headline`
+- `spotlight_body`
 
 Each section can have only one of each field type. In the above example, the `spotlight` prefix can only have one `spotlight_headline` field.
 
 A template can include up to three sections:
 
-* `headline`
-* `body`
-* `spotlight_headline`
-* `spotlight_body`
-* `news_headline`
-* `news_body`
+- `headline`
+- `body`
+- `spotlight_headline`
+- `spotlight_body`
+- `news_headline`
+- `news_body`
 
 GenStudio for Performance Marketers understands that `spotlight_headline` is more closely related to `spotlight_body` than to `news_body`.
 
@@ -257,7 +250,6 @@ The following is a basic example of a Meta ad template. The head contains inline
     <div class="ad-body">"{{ body }}"</div>
     <a href="(https://example.com)" class="ad-cta">"{{ CTA }}"</a>
 </div>
-
 </body>
 </html>
 ```
