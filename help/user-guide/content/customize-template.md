@@ -52,7 +52,7 @@ The following table lists the field names recognized by GenStudio for Performanc
 | `cta`          | Call to action         | email (recommended)<br>Meta ad |
 | `on_image_text`| On image text          | Meta ad (recommended) |
 | `image`        | Image                  | email (recommended)<br>Meta ad (recommended) |
-| `brand_logo`   | Logo of selected brand<br>See [field name](#brand-logo-field-name) | email<br>Meta ad |
+| `brand_logo`   | Logo of selected brand<br>See [field name](#brand-logo-field-name) for recommended usage. | email<br>Meta ad |
 
 GenStudio for Performance Marketers automatically populates certain fields in templates, so it is not necessary to include them in your template designs:
 
@@ -85,7 +85,7 @@ _Example_: in a Handlebars condition
 
 #### Manual field names
 
-All other field names are treated as manually populated fields. To create an editable section, add double brackets around the section you want to edit:
+All other field names are treated as manually populated fields. To create an editable section, add double brackets around the section name:
 
 ```handlebars
 {{customVariable}}
