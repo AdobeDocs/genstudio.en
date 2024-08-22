@@ -17,7 +17,7 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 
 * Videos cannot be played from _Assets_.  <!-- GS-3846 -->
 
-* Users must log in twice to a channel account when they are also logged in to Facebook. **Workaround**: Log out of Facebook before logging into a channel account. 
+* Users must log in twice to a channel Meta Ads account when they are also logged in to Facebook. **Workaround**: Log out of Facebook before logging into a channel Meta Ads account. 
 
 ## Previous beta releases
 
