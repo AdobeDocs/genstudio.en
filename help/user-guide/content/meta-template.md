@@ -31,7 +31,7 @@ GenStudio for Performance Marketers supports these aspect ratios for Meta ads:
 * Vertical (4:5): 1080 x 1350 pixels
 * Story (9:16): 1080 x 1920 pixels
 
-If the ad is not designed in one of the these aspect ratios, GenStudio for Performance Marketers automatically crops the image into the appropriate size.  
+If the ad is not designed in one of these aspect ratios, GenStudio for Performance Marketers automatically crops the image into the appropriate size.  
 
 ## Test a Meta ad template
 
@@ -46,18 +46,18 @@ Define the areas in your email template that should be dynamically populated wit
 To define generated content areas:
 
 * Identify the text elements in the template that GenStudio for Performance Marketers should auto-generate, such as the headline or CTA.
-* Adapt your HTML template by inserting placeholders within it using the Handblebars syntax.
+* Adapt your HTML template by inserting placeholders within it using the Handlebars syntax.
 
 See [Content placeholders](/help/user-guide/content/customize-template.md#content-placeholders).
 
 ## Preview the template
 
-Control the visibility of specific content areas by utilizing Built-In Helpers. For example, you can include tracking parameters to links in an exported template while maintaining clean preview links.
+Control the visibility of specific content areas with Built-In Helpers. For example, include tracking parameters to links in an exported template while maintaining clean preview links.
 
 See [Template preview](/help/user-guide/content/customize-template.md#template-preview).
 
 ## Upload and use template
 
-After your template is designed, coded, tested, and previewed, you can upload it to GenStudio for Performance Marketers for use in generating brand new marketing content.
+After your template is designed, coded, tested, and previewed, upload it to GenStudio for Performance Marketers for use in generating brand new marketing content.
 
 See [Working with templates](use-templates.md).

@@ -29,7 +29,7 @@ See [Template examples](/help/user-guide/content/customize-template.md#template-
 
 Use your email delivery or proofing platform to test your email and verify that it renders properly across different email clients and devices.
 
-Test to ensure your email template satisfies the following:
+Test to ensure that your email template satisfies the following:
 
 * Layout adjusts for different screen sizes using CSS media queries
 * Buttons are clickable and navigate to the intended place
@@ -42,13 +42,13 @@ Define the areas in your email template that should be dynamically populated wit
 To define generated content areas:
 
 * Identify the text elements in the template that GenStudio for Performance Marketers should auto-generate, such as the headline or CTA.
-* Adapt your HTML template by inserting placeholders within it using the Handblebars syntax.
+* Adapt your HTML template by inserting placeholders within it using the Handlebars syntax.
 
 See [Content placeholders](/help/user-guide/content/customize-template.md#content-placeholders).
 
 ## Preview the template
 
-Control the visibility of specific content areas by utilizing Built-In Helpers. For example, you can include tracking parameters to links in an exported template while maintaining clean preview links.
+Control the visibility of specific content areas with Built-In Helpers. For example, you can include tracking parameters to links in an exported template while maintaining clean preview links.
 
 See [Template preview](/help/user-guide/content/customize-template.md#template-preview).
 
