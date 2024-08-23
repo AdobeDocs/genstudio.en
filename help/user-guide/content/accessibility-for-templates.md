@@ -12,32 +12,38 @@ In GenStudio for Performance Marketers, you can upload assets and templates that
 
 Use the following recommendations to prepare your templates using optimal accessibility standards.
 
-- **Alternative text**: Provide text alternatives for non-textual content, such as images.
+## Alternative text
 
-   ```html
-   <img alt="Collage of ideas, books, man holding giant pencil, computer" src="card-create-assets.png">
-   ```
+Provide text alternatives for non-textual content, such as images.
 
-   ![Collage of ideas, books, man holding giant pencil, computer](../../assets/card-create-assets.png){width="400"}
+```html
+<img alt="Collage of ideas, books, man holding giant pencil, computer" src="card-create-assets.png">
+```
 
-- **Link Purpose (Link Only)**: Create clear link text that describes the purpose and location of the link.
+![Collage of ideas, books, man holding giant pencil, computer](../../assets/card-create-assets.png){width="400"}
 
-   For example, using link text such as "Click here" or "Read more" does not clearly describe the purpose of the link:
+## Link Purpose (Link Only)
 
-   ```html
-   <a href="product-site.html">Click here</a>
-   ```
+Create clear link text that describes the purpose and location of the link.
 
-   As a best practice, you should use text that clearly describes where the link goes. A better example might use the title of the link source and the purpose:
+For example, using link text such as "Click here" or "Read more" does not clearly describe the purpose of the link:
 
-   ```html
-   <a href="product-site.html">Explore Product Site</a>
-   ```
+```html
+<a href="product-site.html">Click here</a>
+```
 
-- **Language**: Many products and services use language in a creative or unique way. Avoid jargon, long sentences, and complex phrases. Use clear, concise, easy-to-read language compatible with your target audience.
+As a best practice, you should use text that clearly describes where the link goes. A better example might use the title of the link source and the purpose:
 
-   - Use clear descriptions, inline definitions, or relatable examples when possible. It can be difficult to translate a unique vernacular.
+```html
+<a href="product-site.html">Explore Product Site</a>
+```
 
-   - Spell out or link to a definition for the first instances of an acronym or abbreviation. It can be difficult to translate abbreviations.
+## Language
 
-   - Use visual elements to supplement text or complex ideas when possible.
+Many products and services use language in a creative or unique way. Avoid jargon, long sentences, and complex phrases. Use clear, concise, easy-to-read language compatible with your target audience.
+
+- Use clear descriptions, inline definitions, or relatable examples when possible. It can be difficult to translate a unique vernacular.
+
+- Spell out or link to a definition for the first instances of an acronym or abbreviation. It can be difficult to translate abbreviations.
+
+- Use visual elements to supplement text or complex ideas when possible.
