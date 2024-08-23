@@ -21,7 +21,7 @@ Three types of GenStudio for Performance Marketers user roles support this diver
 
 **The three user role types are**:
 
-* **Creators** use GenStudio for Performance Marketers' generative AI capabilities to create marketing campaign assets, request content review and approval, and publish approved  drafts of this content. All GensStudio users can access and use an asset once its creator has saved it to Content.
+* **Editors** use GenStudio for Performance Marketers' generative AI capabilities to create marketing campaign assets, request content review and approval, and publish approved  drafts of this content. All GensStudio users can access and use an asset once its creator has saved it to Content.
 
 * **Collaborators** are the widest range of GenStudio for Performance Marketers users. Collaborators can view and approve content and are an essential part of the workflow that ensures content you generate matches your organization's needs and standards.
 
@@ -38,7 +38,7 @@ Creators interact with GenStudio for Performance Marketers' generative AI techno
 
 See [Write effective prompts](effective-prompts.md).
 
-The following table displays the default creator permissions:
+The following table displays the default editor permissions:
 
 | Feature | Create  | Update | Delete | View |
 |-----------|----------------|----------------|----------------|----------------|
