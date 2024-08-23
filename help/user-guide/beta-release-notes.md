@@ -21,11 +21,11 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 
 ### Resolved known issues
 
-* The Prompt area ([!DNL Brands] dropdown menu displays a spinner at the end of the ([!DNL Brands] list during email creation. (fixed 8/22) <!-- GS-4077 -->
+* The Prompt area ([!DNL Brands] dropdown menu displays a spinner at the end of the ([!DNL Brands]) list during email creation. (fixed 8/22) <!-- GS-4077 -->
 
-## Previous beta releases
+## Previous Beta releases
 
-Previous beta releases included the following highlights and fixes. 
+Previous Beta releases included the following highlights and fixes. 
 
 ### Highlights
 
