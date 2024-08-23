@@ -9,7 +9,7 @@ These notes highlight significant Adobe GenStudio for Performance Marketers fixe
 
 ## Known issues
 
-The following known issues are scheduled for resolution in the GenStudio for Performance Marketers GA release. 
+The following known issues are scheduled for resolution in the GenStudio for Performance Marketers GA release.
 
 * Upload of brand guidelines fails due to issues with the ACP storage platform. <!-- GS-4369 -->
 
@@ -17,11 +17,11 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 
 * Videos cannot be played from _Assets_.  <!-- GS-3846 -->
 
-* Users must log in twice to a channel Meta Ads account when they are also logged in to Facebook. **Workaround**: Log out of Facebook before logging into a channel Meta Ads account. 
+* Users must log in twice to a channel Meta Ads account when they are also logged in to Facebook. **Workaround**: Log out of Facebook before logging into a channel Meta Ads account.
 
 ### Resolved known issues
 
-* The Prompt area ([!DNL Brands] dropdown menu displays a spinner at the end of the ([!DNL Brands]) list during email creation. (fixed 8/22) <!-- GS-4077 -->
+* The Prompt area ([!DNL Brands]) dropdown menu displays a spinner at the end of the ([!DNL Brands]) list during email creation. (fixed 8/22) <!-- GS-4077 -->
 
 ## Previous Beta releases
 
@@ -43,9 +43,9 @@ Previous Beta releases included the following highlights and fixes.
 
 ### Additional Enhancements and fixed issues
 
-* The _Experience Detail_ page feed placement name now specifies Facebook or Instagram feed. (8/16) 
+* The _Experience Detail_ page feed placement name now specifies Facebook or Instagram feed. (8/16)
 
-* Cropping of larger images and videos is now consistent when user navigates from the _Asset Overview_ view to the _Asset detail_ view.  (8/16) 
+* Cropping of larger images and videos is now consistent when user navigates from the _Asset Overview_ view to the _Asset detail_ view. (8/16)
 
 * The Attributes screen search result count no longer displays `0 of` before a user logs in.  (8/16) <!-- GS- 3665 -->
 
