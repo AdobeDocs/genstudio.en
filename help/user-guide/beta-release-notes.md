@@ -19,6 +19,10 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 
 * Users must log in twice to a channel Meta Ads account when they are also logged in to Facebook. **Workaround**: Log out of Facebook before logging into a channel Meta Ads account. 
 
+### Resolved known issues
+
+* The Prompt area ([!DNL Brands] dropdown menu displays a spinner at the end of the ([!DNL Brands] list during email creation. (fixed 8/22) <!-- GS-4077 -->
+
 ## Previous beta releases
 
 Previous beta releases included the following highlights and fixes. 
