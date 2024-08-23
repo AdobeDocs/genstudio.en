@@ -6,7 +6,7 @@ feature: Templates, Content
 
 # Create accessible templates
 
-Adobe is committed to providing an optimal experience for all audiences.
+Adobe is committed to providing an optimal experience for all audiences. See [Accessibility Initiatives at Adobe](https://www.adobe.com/trust/accessibility/initiatives.html) for further reading.
 
 In GenStudio for Performance Marketers, you can upload assets and templates that enable content creation for a variety of experiences. Adhering to accessibility standards helps your content reach your maximum intended audience.
 
@@ -15,20 +15,20 @@ Use the following recommendations to prepare your templates using optimal access
 - **Alternative text**: Provide text alternatives for non-textual content, such as images.
 
    ```html
-   <img alt="Ideas, books, pencil, computer" src="card-create-assets.png">
+   <img alt="Collage of ideas, books, man holding giant pencil, computer" src="card-create-assets.png">
    ```
 
-   ![Ideas, books, pencil, computer](../../assets/card-create-assets.png){width="400"}
+   ![Collage of ideas, books, man holding giant pencil, computer](../../assets/card-create-assets.png){width="400"}
 
 - **Link Purpose (Link Only)**: Create clear link text that describes the purpose and location of the link.
 
-   For example, using link text such as "Click here" does not clearly describe the purpose of the link:
+   For example, using link text such as "Click here" or "Read more" does not clearly describe the purpose of the link:
 
    ```html
    <a href="product-site.html">Click here</a>
    ```
 
-   A better example might use the title of the link source and the purpose:
+   As a best practice, you should use text that clearly describes where the link goes. A better example might use the title of the link source and the purpose:
 
    ```html
    <a href="product-site.html">Explore Product Site</a>
