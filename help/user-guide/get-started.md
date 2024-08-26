@@ -9,7 +9,7 @@ feature: Prompt, Brands Service, Personas Service, Products Service, Generative 
 
 GenStudio for Performance Marketers is a comprehensive platform for creating, evaluating, and managing marketing experiences that reflect and adhere to your brand identity.
 
-Stakeholder access to its many capabilities is controlled by assigned _user roles_. Your assigned user role determines the tasks you can perform within GenStudio for Performance Marketers. An Adobe system administrator assigns your permissions in the GenStudio for Performance Marketers product profile in the Adobe Admin Console. Your welcome email identifies your assigned role.
+Stakeholder access to its many capabilities is controlled by assigned _user roles_. Your assigned user role determines the tasks that you can perform within GenStudio for Performance Marketers. An Adobe system administrator assigns your permissions in the GenStudio for Performance Marketers product profile in the Adobe Admin Console. Your welcome email identifies your assigned role.
 
 If you are new to generative AI-based tools or are simply curious about GenStudio for Performance Marketers' core principles, see [Concepts](concepts.md) and [Write effective prompts](effective-prompts.md).
 
@@ -23,12 +23,12 @@ Three types of GenStudio for Performance Marketers user roles support this diver
 
 * **Editors** use GenStudio for Performance Marketers' generative AI capabilities to create marketing campaign assets, request content review and approval, and publish approved drafts of this content. All GenStudio users can access and use an asset once its creator has saved it to Content.
 
-* **Collaborators** are the widest range of GenStudio for Performance Marketers users. Collaborators can view and approve content and are an essential part of the workflow that ensures content you generate matches your organization's needs and standards.
+* **Collaborators** are the widest range of GenStudio for Performance Marketers users. Collaborators can view and approve content and are an essential part of the workflow that ensures that the content you generate matches your organization's needs and standards.
 
 * **System managers** have the broadest set of permissions within GenStudio for Performance Marketers. System managers perform the essential onboarding task of establishing the fundamental guardrails for campaign asset creation and deployment. System managers implement these guardrails by uploading brand and organizational-specific information such as [brand guidelines](/help/user-guide/guidelines/overview.md). GenStudio system managers have permission to create and publish brands, but have no user administration privileges.
 
 >[!NOTE]
->Before any users are provisioned into these roles, an Adobe system administrator must be designated in the Adobe Admin console to perform one-time set up tasks. This Adobe admin role operates only in the context of the Adobe Admin Console. It has no role in the GenStudio for Performance Marketers platform interface.
+>Before any users are provisioned into these roles, an Adobe system administrator must be designated in the Adobe Admin console to perform one-time setup tasks. This Adobe admin role operates only in the context of the Adobe Admin Console. It has no role in the GenStudio for Performance Marketers platform interface.
 
 ### GenStudio editors
 
@@ -88,13 +88,13 @@ The following table displays the default GenStudio system manager permissions:
 GenStudio system managers prepare their organization's GenStudio for Performance Marketers environment for editors and collaborators to create campaign assets. These preliminary set-up tasks include:
 
 1. [Add guidelines](./guidelines/overview.md) for [!DNL Brands], [!DNL Products], and [!DNL Personas]. Setting up the key building blocks of your organization's brand identity is an essential prerequisite for the work of creators and collaborators. You can either upload brand guideline documents or manually enter brand information.
-   * **Prepare your guidelines documents**. The more descriptive and comprehensive your brand guidelines, the better the output. Include brief examples of features that you consider essential to you brand and add descriptions of behavior you want to exclude from content creation. GenStudio for Performance Marketers extracts information from these uploaded documents and begins building your brand. Information such as brand voice, channel, and image guidelines, are populated as GenStudio for Performance Marketers assembles each guideline from your uploaded documents.
+   * **Prepare your guidelines documents**. The more descriptive and comprehensive your brand guidelines, the better the output. Include brief examples of features that you consider essential to your brand and add descriptions of behavior you want to exclude from content creation. GenStudio for Performance Marketers extracts information from these uploaded documents and begins building your brand. Information such as brand voice, channel, and image guidelines, are populated as GenStudio for Performance Marketers assembles each guideline from your uploaded documents.
    * **Edit or complete brand guideline fields as needed**. Comprehensive brand guidelines form the basis of GenStudio for Performance Marketers' understanding of your organization's brand. Once GenStudio for Performance Marketers has extracted the information it needs from your brand guideline documents, you are prompted to manually edit or complete fields of extracted information. Specify individual product focus areas for content creation by adding a [!DNL Product]. [!DNL Personas] guidelines help tailor content creation for defined customer segments.
 
    Although setting up an organization's brand guidelines can be a one-time action, you might need to revise and enhance these guidelines based on your organization's volatility, growth, and changing market circumstances.
 
-1. **[Upload templates](./content/use-templates.md)**. Templates provide shortcuts and accelerate content creation. A template contains approved features, such as headers and footers, and establishes guardrails for content creation. System managers typically upload and manage templates for their organization. Creators use templates to jumpstart the content creation process within the established boundaries of organizational brand.
+1. **[Upload templates](./content/use-templates.md)**. Templates provide shortcuts and accelerate content creation. A template contains approved features, such as headers and footers, and establishes guardrails for content creation. System managers typically upload and manage templates for their organization. Creators use templates to jumpstart the content creation process within the established boundaries of the organizational brand.
 
 1. **[Upload approved assets](./content/manage-assets.md)**. Approved assets in [!DNL Content] are available to all GenStudio for Performance Marketers creators. You can seed [!DNL Content] with assets that creators can use to create new experiences or assets. 
 
-1. **[Connect to a Meta (Facebook) account](./insights/connect-channel.md)**. You must configure a connection between GenStudio for Performance Marketers and your organization's social accounts to receive data from your active marketing campaigns, assets, and experiences. [[!DNL Insights]](./insights/overview.md) provides tools to analyze channel-derived data.
+1. **[Connect to a Meta (Facebook) account](./insights/connect-channel.md)**. Configure a connection between GenStudio for Performance Marketers and your organization's social accounts to receive data from your active marketing campaigns, assets, and experiences. [[!DNL Insights]](./insights/overview.md) provides tools to analyze channel-derived data.
