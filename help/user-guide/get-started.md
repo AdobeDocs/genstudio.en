@@ -28,7 +28,7 @@ Three types of GenStudio for Performance Marketers user roles support this diver
 * **System managers** have the broadest set of permissions within GenStudio for Performance Marketers. System managers perform the essential onboarding task of establishing the fundamental guardrails for campaign asset creation and deployment. System managers implement these guardrails by uploading brand and organizational-specific information such as [brand guidelines](/help/user-guide/guidelines/overview.md). GenStudio system managers have permission to create and publish brands, but have no user administration privileges.
 
 >[!NOTE]
->Before any users are provisioned into these roles, an Adobe system administrator must be designated in the Adobe Admin console to perform one-time setup tasks. This Adobe admin role operates only in the context of the Adobe Admin Console. It has no role in the GenStudio for Performance Marketers platform interface.
+>Before any users are provisioned into these roles, an Adobe system administrator must be designated in the Adobe Admin Console to perform one-time setup tasks. This Adobe admin role operates only in the context of the Adobe Admin Console. It has no role in the GenStudio for Performance Marketers platform interface.
 
 ### GenStudio editors
 
