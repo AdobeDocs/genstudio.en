@@ -30,9 +30,9 @@ If you do not have an HTML template ready to use in GenStudio for Performance Ma
 
 ## Content placeholders
 
-Within the head or body of a template, you can use Handlebars syntax to insert content placeholders where you require GenStudio for Performance Marketers to populate the template with actual content. GenStudio for Performance Marketers recognizes and interprets the content placeholders automatically based on the field name.
+Within the head or body of a template, you can use Handlebars syntax to insert content placeholders where you require GenStudio for Performance Marketers to populate the template with actual content. GenStudio for Performance Marketers recognizes and interprets the content placeholders automatically based on the _field_ name.
 
-For example, you can use `{{ headline }}` to indicate where the headline of the email should be placed:
+For example, you can use `{{ headline }}` with the Handlebars syntax to indicate where the headline of the email should be placed:
 
 ```handlebars
 <div>{{ headline }}</div>
@@ -40,24 +40,24 @@ For example, you can use `{{ headline }}` to indicate where the headline of the 
 
 ### Recognized field names
 
-The maximum number of fields allowed in a custom template is twenty.
+GenStudio for Performance Marketers recognizes certain [elements](use-templates.md#anatomy-of-a-template) within a template, but only if you identify them with a recognized field name.
 
 The following table lists the field names recognized by GenStudio for Performance Marketers for population into templates.
 
-| Field          | Role                   | Channel template     |
-| -------------- | ---------------------- | -------------------- |
-| `pre_header`   | Pre header             | email (recommended)       |
-| `headline`     | Headline               | email (recommended)<br>Meta ad |
-| `body`         | Body copy              | email (recommended)<br>Meta ad |
-| `cta`          | Call to action         | email (recommended)<br>Meta ad |
-| `on_image_text`| On image text          | Meta ad (recommended) |
-| `image`        | Image                  | email (recommended)<br>Meta ad (recommended) |
+| Field          | Role                   | Channel template               |
+| -------------- | ---------------------- | ------------------------------ |
+| `pre_header`   | Pre header             | email             |
+| `headline`     | Headline               | email  <br>Meta ad |
+| `body`         | Body copy              | email  <br>Meta ad |
+| `cta`          | Call to action         | email  <br>Meta ad |
+| `on_image_text`| On image text          | Meta ad            |
+| `image`        | Image                  | email  <br>Meta ad   |
 | `brand_logo`   | Logo of selected brand<br>See [field name](#brand-logo-field-name) for recommended usage. | email<br>Meta ad |
 
-GenStudio for Performance Marketers automatically populates certain fields in templates, so it is not necessary to include them in your template designs:
+GenStudio for Performance Marketers populates certain fields automatically in the following templates:
 
-- `subject` field (email template)
-- `headline`, `body`, and `CTA` fields (Meta ad template)
+- **Email template** does not require you to identify the `subject` field
+- **Meta Ads template** does not require you to identify the `headline`, `body`, and `CTA` fields
 
 >[!WARNING]
 >
@@ -65,15 +65,15 @@ GenStudio for Performance Marketers automatically populates certain fields in te
 
 #### Brand logo field name
 
-The following examples demonstrate two methods that conditionally render the Brand logo, verify the source, provide a default or alternative logo in case the brand logo is not available, and apply a style:
+At this time, you cannot select the brand logo for the template upload. The following examples demonstrate two methods that conditionally render the Brand logo, verify the source, provide a default or alternative logo in case the brand logo is not available, and apply a style:
 
-_Example_: in the HTML `img src` definition
+_Example_ uses the Handlebars Built-in condition in the HTML `img src` definition:
 
 ```html
-<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;"> 
+<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;">
 ```
 
-_Example_: in a Handlebars condition
+_Example_ uses the HTML `img src` definition in a Handlebars Built-in condition statement:
 
 ```handlebars
 {{#if brand_logo}}

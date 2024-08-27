@@ -69,4 +69,4 @@ When you save approved assets, [!DNL Content] maintains the rich metadata, gener
 
 ### Work with templates
 
-Templates speed up the creation process so that you can generate consistent content across multiple channels. Upload your custom templates for use as a starting point in the creation process with pre-configured layouts and design elements.
+Templates speed up the creation process so that you can generate consistent content across multiple channels. Upload your custom template for use as a starting point in the creation process with pre-configured layouts and design elements.
