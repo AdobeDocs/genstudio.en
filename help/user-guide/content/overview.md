@@ -33,11 +33,11 @@ GenStudio for Performance Marketers [!DNL Content] provides a central location t
       </p>
    </td>
    <td align="center" valign="top" width="100">
-      <a href="/help/user-guide/content/customize-template.md">
+      <a href="../content/customize-template.md">
          <img alt="lightening bolt on asset" src="../../assets/icons/icon-template.svg" width="35">
       </a>
       <p>
-         <a href="/help/user-guide/content/customize-template.md">
+         <a href="../content/customize-template.md">
          <strong>Customize a template</strong>
          </a>
       </p>
@@ -69,4 +69,4 @@ When you save approved assets, [!DNL Content] maintains the rich metadata, gener
 
 ### Work with templates
 
-Templates speed up the creation process so that you can generate consistent content across multiple channels. Templates provide a starting point in the creation process with pre-configured layouts and design elements.
+Templates speed up the creation process so that you can generate consistent content across multiple channels. Upload your custom templates for use as a starting point in the creation process with pre-configured layouts and design elements.
