@@ -44,7 +44,7 @@ GenStudio for Performance Marketers [!DNL Content] provides a central location t
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/use-templates.md">
-         <img alt="lightening bolt on asset with plus sign" src="../../assets/icons/icon-addtemplate.svg" width="35">
+         <img alt="lightening bolt on asset with plus sign" src="../../assets/icons/icon-addTemplate.svg" width="35">
       </a>
       <p>
          <a href="../content/use-templates.md#upload-a-template">
