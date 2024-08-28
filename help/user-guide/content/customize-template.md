@@ -52,7 +52,7 @@ The following table lists the field names recognized by GenStudio for Performanc
 | `cta`          | Call to action         | email  <br>Meta ad |
 | `on_image_text`| On image text          | Meta ad            |
 | `image`        | Image                  | email  <br>Meta ad   |
-| `brand_logo`   | Logo of selected brand<br>See [field name](#brand-logo-field-name) for recommended usage. | email<br>Meta ad |
+| `brand_logo`   | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name) for recommended usage. | email<br>Meta ad |
 
 GenStudio for Performance Marketers populates certain fields automatically in the following templates:
 
@@ -65,9 +65,9 @@ GenStudio for Performance Marketers populates certain fields automatically in th
 
 #### Brand logo field name
 
-At this time, you cannot select the brand logo for the template upload. The following examples demonstrate two methods that conditionally render the Brand logo, verify the source, provide a default or alternative logo in case the brand logo is not available, and apply a style:
+At this time, you cannot select the brand logo for the template upload. The following examples demonstrate two methods that conditionally render the Brand logo. Each method verifies the source, provides a default or alternative image in case the brand logo is not available, and applies a style:
 
-**Example 1**: Using Handlebars Built-in condition directly in the HTML `img src` attribute:
+**Example 1**: Using Handlebars Built-in Helpers condition directly in the HTML `img src` attribute:
 
 ```html
 <img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;">
