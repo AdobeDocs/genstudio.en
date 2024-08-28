@@ -1,11 +1,11 @@
 ---
-title: Customize templates
-description: Learn how to build a custom template for Adobe GenStudio for Performance Marketers.
+title: Customize a Template
+description: Learn how to personalize and optimize your template for Adobe GenStudio for Performance Marketers.
 level: Intermediate
 feature: Templates, Content
 ---
 
-# Customize templates
+# Customize a template
 
 Adapt your HTML templates for Adobe GenStudio for Performance Marketers by using the _Handlebars_ templating language. The Handlebars syntax uses regular text with double braces as content placeholders. See [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
 
@@ -67,13 +67,13 @@ GenStudio for Performance Marketers populates certain fields automatically in th
 
 At this time, you cannot select the brand logo for the template upload. The following examples demonstrate two methods that conditionally render the Brand logo, verify the source, provide a default or alternative logo in case the brand logo is not available, and apply a style:
 
-_Example_ uses the Handlebars Built-in condition in the HTML `img src` definition:
+**Example 1**: Using Handlebars Built-in condition directly in the HTML `img src` attribute:
 
 ```html
 <img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;">
 ```
 
-_Example_ uses the HTML `img src` definition in a Handlebars Built-in condition statement:
+**Example 2**: Using Handlebars Built-in condition statement to wrap the HTML `img` tag:
 
 ```handlebars
 {{#if brand_logo}}
