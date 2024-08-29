@@ -18,7 +18,7 @@ Within the head or body of a template, you can use Handlebars syntax to insert c
 For example, you can use `{{ headline }}` with the Handlebars syntax to indicate where the headline of the email should be placed:
 
 ```handlebars
-<div>{{ headline }}</div>
+<div>{{headline}}</div>
 ```
 
 ### Recognized field names
@@ -82,7 +82,7 @@ To create an editable section, add double brackets around the section name:
 {{customVariable}}
 ```
 
-## Sections or groups
+### Sections or groups
 
 _Sections_ inform GenStudio for Performance Marketers that the fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section.
 
