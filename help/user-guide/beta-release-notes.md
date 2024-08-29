@@ -7,11 +7,32 @@ description: Learn about the latest features and enhancements to Adobe GenStudio
 
 These notes highlight significant Adobe GenStudio for Performance Marketers fixes and enhancements for the week ending August 30.
 
+## Highlights
+
+* Instagram and Facebook channel guidelines have been combined into Meta brand guidelines.
+
+* Create Canvas navigation elements have been streamlined. The Create landing page displays the left navigation panel, but users now use a **[!UICONTROL Back]** button to navigate to this space from other Create work areas.  <!-- GS-1189 -->
+
+* Navigation elements have been enhanced to support user focus while performing tasks throughout the product, including these product areas:
+
+  * Asset, Experience, Template details in ([!DNL Content])
+  * Experience, Asset, Attribute detail in ([!DNL Insights])
+  * Brand details in ([!DNL Brands])
+  * Product and Persona details in ([!DNL Products]) and ([!DNL Personas]) <!-- GS-1189 -->
+
+* Users no longer need to click the **[!UICONTROL Refresh]** button to see updates to Experiences in ([!DNL Content]). <!-- GS-4218 -->
+
+* The Experience Details page now renders external asset thumbnails as HTML. <!-- GS-3092 -->
+
+* UI latency after adding or deleting Assets and Experiences has been improved. <!-- GS-3389 -->
+
+* Template previews now include more descriptive default text. <!-- GS-4028 -->
+
 ## Known issues
 
 The following known issues are scheduled for resolution in the GenStudio for Performance Marketers GA release.
 
-* Discrepancy exists between MetaAds Canvas previews and exported views. <!-- GS-4492 4401>
+* Discrepancy exists between MetaAds Canvas previews and exported views. <!-- GS-4492 4401 -->
 
 * Campaign thumbnails are missing from the ([!DNL Insights]) view. <!-- GS-4648 -->
 
