@@ -86,14 +86,12 @@ To create an editable section, add double brackets around the section name:
 
 _Sections_ inform GenStudio for Performance Marketers that the fields in this section require a high degree of coherence. Establishing this relationship helps the AI to generate content that matches the creative elements in the section.
 
-Use a prefix of your choice in the field name to indicate that a field is part of a section or group. 
-
-For example, you may want to spotlight content that appears in a highlighted area:
+Use a prefix of your choice in the field name to indicate that a field is part of a section or group. For example, you may want to spotlight content that appears in a highlighted area:
 
 - `spotlight_headline`
 - `spotlight_body`
 
-Each section can have only one of each field type. In the above example, the `spotlight` prefix can only have one `spotlight_headline` field.
+Each section can use only one of each field type. In the above example, the `spotlight` section can only use one `spotlight_headline` field.
 
 A template can include up to three sections:
 
@@ -108,7 +106,15 @@ GenStudio for Performance Marketers understands that `spotlight_headline` is mor
 
 ## Template preview
 
-Control the visibility of special content by using Built-in Helpers (special expressions in the Handlebars template language that perform certain actions). For example, you can add tracking parameters to links in the exported template while keeping the preview links clean.
+When you [upload a template](use-templates.md#upload-a-template), GenStudio for Performance Marketers scans the HTML file for recognized fields. You have an opportunity to review your [template elements](use-templates.md#template-elements) and confirm that you identified them properly with [recognized field names](#recognized-field-names).
+
+Example Preview for an email template:
+
+![Preview fields detected](../../assets/template-detected-fields.png){width="650"}
+
+### Control preview
+
+You can control the visibility of special content by using Built-in Helpers (special expressions in the Handlebars template language that perform certain actions). For example, you can add a conditional statement that adds tracking parameters to links in the exported template while keeping the preview links clean.
 
 The `_genStudio.browser` value is set when rendering a template, and the `genStudio.export` value is set when exporting a template. You may decide to include certain content at the top of an email using a conditional wrapper, for example, when the template is used for export:
 
@@ -118,7 +124,7 @@ The `_genStudio.browser` value is set when rendering a template, and the `genStu
 {{/if}}
 ```
 
-Another example may be to prevent the use of tracking codes when previewing a template in GenStudio. This example shows how to add tracking parameters to links in the exported template, while keeping the preview links clean:
+Another example may be to prevent the use of tracking codes when previewing a template in GenStudio for Performance Marketers. The following example shows how to add tracking parameters to links in the exported template, while keeping the preview links clean:
 
 ```handlebars
 <a class="button" {{#if _genStudio.browser }}
@@ -136,7 +142,6 @@ To ensure that these resources are available during the thumbnail generation pro
 1. **Use CORS headers**: The host server must send responses with an `Access-Control-Allow-Origin` header set to `https://experience.adobe.com` value for production environments. This method allows GenStudio for Performance Marketers to access and include the resources.
 
 1. **Use Data URLs**: Embed the external resources directly into the template using Data URLs. This method bypasses CORS restrictions and ensures that the resources are available during thumbnail generation.
-
 
 ## Template examples
 
