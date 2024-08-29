@@ -11,7 +11,7 @@ These notes highlight significant Adobe GenStudio for Performance Marketers fixe
 
 * Instagram and Facebook channel guidelines have been combined into Meta brand guidelines.
 
-* Create Canvas navigation elements have been streamlined. The Create landing page displays the left navigation panel, but users now use a **[!UICONTROL Back]** button to navigate to this space from other Create work areas.  <!-- GS-1189 -->
+* Create Canvas navigation elements have been streamlined. The ([!DNL Create]) landing page displays the left navigation panel, but users now use a **[!UICONTROL Back]** button to navigate to this space from other Create work areas.  <!-- GS-1189 -->
 
 * Navigation elements have been enhanced to support user focus while performing tasks throughout the product, including these product areas:
 
@@ -76,5 +76,5 @@ Previous Beta releases included the following highlights and fixes.
 
 * Upload of brand guidelines fails due to issues with the ACP storage platform. (fixed 8/22) <!-- GS-4369 -->
 
-* The Prompt area ([!DNL Brands]) dropdown menu displays a spinner at the end of the ([!DNL Brands]) list during email creation. (fixed 8/22) <!-- GS-4077 -->
+* The Prompt area ([!DNL Brands]) drop-down menu displays a spinner at the end of the ([!DNL Brands]) list during email creation. (fixed 8/22) <!-- GS-4077 -->
 
