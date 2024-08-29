@@ -21,7 +21,7 @@ If guidelines are not added to GenStudio for Performance Marketers, defaults are
 
 Typically, a designer creates the visual design of a template in a design program such as Adobe XD.
 
-See [Anatomy of a template](/help/user-guide/content/use-templates.md#anatomy-of-a-template) and [Template examples](/help/user-guide/content/customize-template.md#template-examples).
+See [Template elements](use-templates.md#template-elements) and [Template examples](/help/user-guide/content/customize-template.md#template-examples).
 
 ### Ad specifications
 
