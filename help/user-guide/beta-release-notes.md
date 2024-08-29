@@ -5,21 +5,25 @@ description: Learn about the latest features and enhancements to Adobe GenStudio
 
 # Adobe GenStudio for Performance Marketers Beta release notes
 
-These notes highlight significant Adobe GenStudio for Performance Marketers fixes and enhancements for the week ending August 23.
+These notes highlight significant Adobe GenStudio for Performance Marketers fixes and enhancements for the week ending August 30.
 
 ## Known issues
 
 The following known issues are scheduled for resolution in the GenStudio for Performance Marketers GA release.
 
-* Upload of brand guidelines fails due to issues with the ACP storage platform. <!-- GS-4369 -->
+* GenStudio displays an error when a user tries to enter credentials in the ([!DNL Insights]) view. (fixed 8/29) <!-- GS-4689 --> 
+
+* Discrepancy between MetaAds Canvas preview and exported view. <!-- GS-4492 4401>
+
+* Campaign thumbnails are missing from the ([!DNL Insights]) view. <!-- GS-4648 -->
 
 * Users can currently select small assets that require resizing, but enlarging those assets is not supported. <!-- GS-3131 -->
-
-* Videos cannot be played from _Assets_.  <!-- GS-3846 -->
 
 * Users must log in twice to a channel Meta Ads account when they are also logged in to Facebook. **Workaround**: Log out of Facebook before logging into a channel Meta Ads account.
 
 ### Resolved known issues
+
+* Upload of brand guidelines fails due to issues with the ACP storage platform. (fixed 8/22) <!-- GS-4369 -->
 
 * The Prompt area ([!DNL Brands]) dropdown menu displays a spinner at the end of the ([!DNL Brands]) list during email creation. (fixed 8/22) <!-- GS-4077 -->
 
