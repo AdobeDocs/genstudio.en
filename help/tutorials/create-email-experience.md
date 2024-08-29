@@ -16,7 +16,7 @@ To create an effective email experience, it is recommended that you [add guideli
 
 ## Choose a template
 
-To get started creating a new email experience, use an available template to provide the framework for your content.
+To create a new email experience, use an available template to provide the framework for your content.
 
 **To choose an email template**:
 
@@ -41,6 +41,10 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
    * Click **[!UICONTROL Select from content]** to select assets (images) already published to [!DNL Content]. Use the filters to further narrow your search results.
    * Click **[!UICONTROL Upload]** to browse your files and choose assets to use. Along with browsing your device, you can also import from Microsoft OneDrive or Dropbox.
    * Drag and drop assets into the _Content_ section.
+
+>[!NOTE]
+>
+>If you are using an email template with multiple sections, select [!DNL Products] and content (visual assets) for each email section in _Multi-section emails_. Multi-section emails support one visual asset per section.
 
 When you are finished adding parameters, you can collapse the prompt area by clicking the _Parameters_ icon again.
 
