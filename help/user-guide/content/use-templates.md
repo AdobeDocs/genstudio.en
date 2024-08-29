@@ -93,9 +93,17 @@ Use [Customize templates](customize-template.md) as a guide when preparing a tem
 
 1. In the _[!UICONTROL Add your approved template]_ pane, browse for the HTML template file or drag the HTML template file to the drop space. Click **[!UICONTROL Next]**.
 
-1. In the _[!UICONTROL Review structure detail]_ pane, verify that you are using the correct template and that all the details are as expected. Click **[!UICONTROL Next]**.
+1. In the _[!UICONTROL Review discovered fields]_ pane, review the detected fields. Verify that you are using the correct template and that all the details are as expected. Click **[!UICONTROL Next]**.
 
-1. In the _[!UICONTROL Add your template details]_ pane, name your template and select a **[!UICONTROL Channel]** type.
+   Example Preview for an email template:
+
+   ![Preview fields detected](../../assets/template-detected-fields.png)
+
+   >[!TIP]
+   >
+   >If the template is not correct, click **[!UICONTROL Back]** and return to the previous step. Upload the corrected template file.
+
+1. In the _[!UICONTROL Provide template details and upload]_ pane, name your template and select a **[!UICONTROL Channel]** type.
 
    Template name and channel type are required. Additional requirements may include:
 

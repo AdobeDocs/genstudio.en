@@ -9,24 +9,7 @@ feature: Templates, Content
 
 Adapt your HTML templates for Adobe GenStudio for Performance Marketers by using the _Handlebars_ templating language. The Handlebars syntax uses regular text with double braces as content placeholders. See [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
 
-If you do not have an HTML template ready to use in GenStudio for Performance Marketers, you can start by defining the structure of your template using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. The following is a basic email template that includes CSS styles to customize the appearance:
-
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Title</title>
-    <style>
-    </style>
-</head>
-<body>
-</body>
-</html>
-```
-
->[!TIP]
->
->In the next few sections, add content placeholders for email fields, see example templates, hide unnecessary elements from preview, and manage links to static content. Once your template is ready, you can [upload it to GenStudio for Performance Marketers](use-templates.md#upload-a-template) and start generating personalized emails based on your custom template.
+The next few sections explain how to add content placeholders, hide unnecessary elements from preview, and manage links to static content. Once your template is ready, you can [upload it to GenStudio for Performance Marketers](use-templates.md#upload-a-template) and start generating personalized emails based on your custom template.
 
 ## Content placeholders
 
@@ -40,7 +23,7 @@ For example, you can use `{{ headline }}` with the Handlebars syntax to indicate
 
 ### Recognized field names
 
-GenStudio for Performance Marketers recognizes certain [elements](use-templates.md#anatomy-of-a-template) within a template, but only if you identify them with a recognized field name.
+GenStudio for Performance Marketers recognizes certain [elements](use-templates.md#template-elements) within a template, but only if you identify them with a recognized field name.
 
 The following table lists the field names recognized by GenStudio for Performance Marketers for population into templates.
 
@@ -59,9 +42,15 @@ GenStudio for Performance Marketers populates certain fields automatically in th
 - **Email template** does not require you to identify the `subject` field
 - **Meta Ads template** does not require you to identify the `headline`, `body`, and `CTA` fields
 
+<!--
+- **Display Ads template** does not require you to idenitify the `CTA` field
+-->
+
 >[!WARNING]
 >
 >For Instagram ads, the generated headline does not appear in the final experience.
+
+There is a limit of 20 fields when uploading a template to GenStudio for Performance Marketers. Since the `subject` field is automatically generated in an email, it counts as one field. This means that there are 19 fields allowed in an email template.
 
 #### Brand logo field name
 
@@ -85,7 +74,9 @@ At this time, you cannot select the brand logo for the template upload. The foll
 
 #### Manual field names
 
-All other field names are treated as manually populated fields. To create an editable section, add double brackets around the section name:
+All other field names are treated as manually populated fields.
+
+To create an editable section, add double brackets around the section name:
 
 ```handlebars
 {{customVariable}}
@@ -114,6 +105,38 @@ A template can include up to three sections:
 - `news_body`
 
 GenStudio for Performance Marketers understands that `spotlight_headline` is more closely related to `spotlight_body` than to `news_body`.
+
+## Template preview
+
+Control the visibility of special content by using Built-in Helpers (special expressions in the Handlebars template language that perform certain actions). For example, you can add tracking parameters to links in the exported template while keeping the preview links clean.
+
+The `_genStudio.browser` value is set when rendering a template, and the `genStudio.export` value is set when exporting a template. You may decide to include certain content at the top of an email using a conditional wrapper, for example, when the template is used for export:
+
+```handlebars
+{{#if _genStudio.export}}
+<%@ include view='emailParent' %>
+{{/if}}
+```
+
+Another example may be to prevent the use of tracking codes when previewing a template in GenStudio. This example shows how to add tracking parameters to links in the exported template, while keeping the preview links clean:
+
+```handlebars
+<a class="button" {{#if _genStudio.browser }}
+   href="{{ link }}"{{/if}}{{#if _genStudio.export }}
+   href="{{ link }}?trackingid=<%=getTrackingId()%>&mv=email"{{/if}}
+   target="_blank">{{ cta }}</a>
+```
+
+## Static content
+
+Email and Meta templates often link to images and CSS files hosted outside GenStudio for Performance Marketers. When GenStudio for Performance Marketers generates thumbnails for these templates or the experiences derived from them, it may ignore these external resources if they do not have the correct Cross-Origin Resource Sharing (CORS) headers.
+
+To ensure that these resources are available during the thumbnail generation process, consider two options:
+
+1. **Use CORS headers**: The host server must send responses with an `Access-Control-Allow-Origin` header set to `https://experience.adobe.com` value for production environments. This method allows GenStudio for Performance Marketers to access and include the resources.
+
+1. **Use Data URLs**: Embed the external resources directly into the template using Data URLs. This method bypasses CORS restrictions and ensures that the resources are available during thumbnail generation.
+
 
 ## Template examples
 
@@ -256,32 +279,3 @@ The following is a basic example of a Meta ad template. The head contains inline
 
 +++
 
-## Template preview
-
-Control the visibility of special content by using Built-in Helpers (special expressions in the Handlebars template language that perform certain actions). For example, you can add tracking parameters to links in the exported template while keeping the preview links clean.
-
-The `_genStudio.browser` value is set when rendering a template, and the `genStudio.export` value is set when exporting a template. You may decide to include certain content at the top of an email using a conditional wrapper, for example, when the template is used for export:
-
-```handlebars
-{{#if _genStudio.export}}
-<%@ include view='emailParent' %>
-{{/if}}
-```
-
-Another example may be to prevent the use of tracking codes when previewing a template in GenStudio. This example shows how to add tracking parameters to links in the exported template, while keeping the preview links clean:
-
-```handlebars
-<a class="button" {{#if _genStudio.browser }}
-   href="{{ link }}"{{/if}}{{#if _genStudio.export }}
-   href="{{ link }}?trackingid=<%=getTrackingId()%>&mv=email"{{/if}}
-   target="_blank">{{ cta }}</a>
-```
-
-## Static content
-
-Email and Meta templates often link to images and CSS files hosted outside GenStudio for Performance Marketers. When GenStudio for Performance Marketers generates thumbnails for these templates or the experiences derived from them, it may ignore these external resources if they do not have the correct Cross-Origin Resource Sharing (CORS) headers.
-
-To ensure that these resources are available during the thumbnail generation process, consider two options:
-
-1. **Use CORS headers**: The host server must send responses with an `Access-Control-Allow-Origin` header set to `https://experience.adobe.com` value for production environments. This method allows GenStudio for Performance Marketers to access and include the resources.
-1. **Use Data URLs**: Embed the external resources directly into the template using Data URLs. This method bypasses CORS restrictions and ensures that the resources are available during thumbnail generation.
