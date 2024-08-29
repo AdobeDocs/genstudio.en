@@ -11,9 +11,7 @@ These notes highlight significant Adobe GenStudio for Performance Marketers fixe
 
 The following known issues are scheduled for resolution in the GenStudio for Performance Marketers GA release.
 
-* GenStudio displays an error when a user tries to enter credentials in the ([!DNL Insights]) view. (fixed 8/29) <!-- GS-4689 --> 
-
-* Discrepancy between MetaAds Canvas preview and exported view. <!-- GS-4492 4401>
+* Discrepancy exists between MetaAds Canvas previews and exported views. <!-- GS-4492 4401>
 
 * Campaign thumbnails are missing from the ([!DNL Insights]) view. <!-- GS-4648 -->
 
@@ -23,9 +21,7 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 
 ### Resolved known issues
 
-* Upload of brand guidelines fails due to issues with the ACP storage platform. (fixed 8/22) <!-- GS-4369 -->
-
-* The Prompt area ([!DNL Brands]) dropdown menu displays a spinner at the end of the ([!DNL Brands]) list during email creation. (fixed 8/22) <!-- GS-4077 -->
+* GenStudio displays an error when a user tries to enter credentials in the ([!DNL Insights]) view. (fixed 8/29) <!-- GS-4689 --> 
 
 ## Previous Beta releases
 
@@ -54,3 +50,10 @@ Previous Beta releases included the following highlights and fixes.
 * The Attributes screen search result count no longer displays `0 of` before a user logs in.  (8/16) <!-- GS- 3665 -->
 
 * Clicking the **[!UICONTROL [!DNL Insights]]**  > **[!UICONTROL Asset]** count field no longer clears search and filter settings. (8/16) <!-- GS-3476 -->
+
+### Known issues resolved in past Beta releases
+
+* Upload of brand guidelines fails due to issues with the ACP storage platform. (fixed 8/22) <!-- GS-4369 -->
+
+* The Prompt area ([!DNL Brands]) dropdown menu displays a spinner at the end of the ([!DNL Brands]) list during email creation. (fixed 8/22) <!-- GS-4077 -->
+
