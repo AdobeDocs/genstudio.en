@@ -97,7 +97,7 @@ Use [Customize templates](customize-template.md) as a guide when preparing a tem
 
    Example Preview for an email template:
 
-   ![Preview fields detected](../../assets/template-detected-fields.png){width="650}
+   ![Preview fields detected](../../assets/template-detected-fields.png){width="650"}
 
    >[!TIP]
    >
