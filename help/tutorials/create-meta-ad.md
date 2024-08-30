@@ -63,6 +63,8 @@ When generating a Meta ad, you can choose between Facebook or Instagram ads.
 
 Toggle the Meta ads channel option in the top menu bar to **Facebook** or **Instagram** to manage each channel's generated drafts.
 
+When [revising the Meta ads](#revise-generated-meta-ads), you can change the aspect ratio of Facebook and Instagram ads.
+
 ## Revise generated Meta ads
 
 Before selecting what to send for approval or publishing to [!DNL Content] you can edit the Meta ads or delete a variant from the set of generated ads.
@@ -75,7 +77,7 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
    The subject line and preheader only require a single click to edit, while the header and body copy require a double-click.
 
 * **To change or select the call to action**, click the call to action button and select from an available button.
-* **To change the size/aspect ratio**, click the resize button (left side of the Canvas) and select a new size/aspect ratio to be applied to all variants. The variants are duplicate and resized.
+* **To change the size/aspect ratio**, click the resize button (left side of the Canvas) and select a new size/aspect ratio to be applied to all variants. The variants are duplicated and resized.
 * **To delete an Meta ad**, click to select the ad title (for example, "Meta 4") and click **[!UICONTROL Delete variant]**.
 
 ## Verify brand alignment
