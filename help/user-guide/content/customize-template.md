@@ -52,6 +52,10 @@ GenStudio for Performance Marketers populates certain fields automatically in th
 
 There is a limit of 20 fields when uploading a template to GenStudio for Performance Marketers. Since the `subject` field is automatically generated in an email, it counts as one field. This means that there are 19 fields allowed in an email template.
 
+>[!TIP]
+>
+>You can verify your template using the [template preview](#template-preview) in GenStudio for Performance Marketers.
+
 #### Brand logo field name
 
 At this time, you cannot select the brand logo for the template upload. The following examples demonstrate two methods that conditionally render the brand logo. Each method verifies the source, provides a default or alternative image in case the brand logo is not available, and applies a style:
