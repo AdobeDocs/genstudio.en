@@ -7,15 +7,17 @@ feature: Templates, Content
 
 # Customize a template
 
-Adapt your HTML templates for Adobe GenStudio for Performance Marketers by using the _Handlebars_ templating language. The Handlebars syntax uses regular text with double braces as content placeholders. See [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
+Adapt your HTML templates for Adobe GenStudio for Performance Marketers by using the _Handlebars_ templating language. The [!DNL Handlebars] syntax uses regular text with double braces as content placeholders. See [`What is [!DNL Handlebars]?`](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
 
 The next few sections explain how to add content placeholders, hide unnecessary elements from preview, and manage links to static content. Once your template is ready, you can [upload it to GenStudio for Performance Marketers](use-templates.md#upload-a-template) and start generating personalized emails based on your custom template.
 
 ## Content placeholders
 
-Within the head or body of a template, you can use Handlebars syntax to insert content placeholders where you require GenStudio for Performance Marketers to populate the template with actual content. GenStudio for Performance Marketers recognizes and interprets the content placeholders automatically based on the _field_ name.
+GenStudio for Performance Marketers recognizes certain [elements](use-templates.md#template-elements) within a template, but only if you identify them with a recognized field name.
 
-For example, you can use `{{ headline }}` with the Handlebars syntax to indicate where the headline of the email should be placed:
+Within the head or body of a template, you can use the [!DNL Handlebars] syntax as a content placeholder where you require GenStudio for Performance Marketers to populate the template with actual content. GenStudio for Performance Marketers recognizes and interprets the content placeholders based on the [recognized _field_ name](#recognized-field-names).
+
+For example, you can use `{{ headline }}` with the [!DNL Handlebars] syntax to indicate where the headline of the email should be placed:
 
 ```handlebars
 <div>{{headline}}</div>
@@ -23,9 +25,7 @@ For example, you can use `{{ headline }}` with the Handlebars syntax to indicate
 
 ### Recognized field names
 
-GenStudio for Performance Marketers recognizes certain [elements](use-templates.md#template-elements) within a template, but only if you identify them with a recognized field name.
-
-The following table lists the field names recognized by GenStudio for Performance Marketers for population into templates.
+The following table lists the field names recognized by GenStudio for Performance Marketers for population into templates. Add these field names using the [!DNL Handlebars] syntax to your template where you need GenStudio for Performance Marketers to generate content.
 
 | Field          | Role                   | Channel template               |
 | -------------- | ---------------------- | ------------------------------ |
@@ -56,13 +56,13 @@ There is a limit of 20 fields when uploading a template to GenStudio for Perform
 
 At this time, you cannot select the brand logo for the template upload. The following examples demonstrate two methods that conditionally render the brand logo. Each method verifies the source, provides a default or alternative image in case the brand logo is not available, and applies a style:
 
-**Example 1**: Using Handlebars Built-in Helpers condition directly in the HTML `img src` attribute:
+**Example 1**: Using [!DNL Handlebars] Built-in Helpers condition directly in the HTML `img src` attribute:
 
 ```html
 <img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;">
 ```
 
-**Example 2**: Using Handlebars Built-in condition statement to wrap the HTML `img` tag:
+**Example 2**: Using [!DNL Handlebars] Built-in condition statement to wrap the HTML `img` tag:
 
 ```handlebars
 {{#if brand_logo}}
@@ -106,7 +106,7 @@ GenStudio for Performance Marketers understands that `spotlight_headline` is mor
 
 ## Template preview
 
-When you [upload a template](use-templates.md#upload-a-template), GenStudio for Performance Marketers scans the HTML file for recognized fields. You have an opportunity to review your [template elements](use-templates.md#template-elements) and confirm that you identified them properly with [recognized field names](#recognized-field-names).
+When you [upload a template](use-templates.md#upload-a-template), GenStudio for Performance Marketers scans the HTML file for recognized fields. Use the preview to review your [template elements](use-templates.md#template-elements) and confirm that you identified them properly with the [recognized field names](#recognized-field-names).
 
 Example Preview for an email template:
 
@@ -114,7 +114,7 @@ Example Preview for an email template:
 
 ### Control preview
 
-You can control the visibility of special content by using Built-in Helpers (special expressions in the Handlebars template language that perform certain actions). For example, you can add a conditional statement that adds tracking parameters to links in the exported template while keeping the preview links clean.
+You can control the visibility of special content by using Built-in Helpers (special expressions in the [!DNL Handlebars] template language that perform certain actions). For example, you can add a conditional statement that adds tracking parameters to links in the exported template while keeping the preview links clean.
 
 The `_genStudio.browser` value is set when rendering a template, and the `genStudio.export` value is set when exporting a template. You may decide to include certain content at the top of an email using a conditional wrapper, for example, when the template is used for export:
 
