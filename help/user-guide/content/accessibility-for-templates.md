@@ -1,6 +1,6 @@
 ---
 title: Create accessible templates
-description: Build templates that are capable of reaching all audiences for use in Adobe GenStudio for Performance Marketers.
+description: Build templates in Adobe GenStudio for Performance Marketers that are capable of reaching more of your audience and providing an optimal experience.
 feature: Templates, Content
 ---
 
