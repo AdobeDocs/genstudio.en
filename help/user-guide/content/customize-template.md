@@ -54,7 +54,7 @@ There is a limit of 20 fields when uploading a template to GenStudio for Perform
 
 #### Brand logo field name
 
-At this time, you cannot select the brand logo for the template upload. The following examples demonstrate two methods that conditionally render the Brand logo. Each method verifies the source, provides a default or alternative image in case the brand logo is not available, and applies a style:
+At this time, you cannot select the brand logo for the template upload. The following examples demonstrate two methods that conditionally render the brand logo. Each method verifies the source, provides a default or alternative image in case the brand logo is not available, and applies a style:
 
 **Example 1**: Using Handlebars Built-in Helpers condition directly in the HTML `img src` attribute:
 
