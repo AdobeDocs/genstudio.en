@@ -35,7 +35,7 @@ feature: Generative AI
     + [Manage assets](content/manage-assets.md)
     + Templates {#templates}
         + [Work with templates](content/use-templates.md)
-        + [Customize templates](content/customize-template.md)
+        + [Customize a template](content/customize-template.md)
         + [Create accessible templates](content/accessibility-for-templates.md)
         + [Prepare an email template](content/email-template.md)
         + [Prepare a Meta ad template](content/meta-template.md)

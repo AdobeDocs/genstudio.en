@@ -14,45 +14,43 @@ GenStudio for Performance Marketers [!DNL Content] provides a central location t
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md#search">
-      <img alt="magnifier" src="../../assets/icons/icon-search.svg" width="35">
+         <img alt="magnifier" src="../../assets/icons/icon-search-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/manage-assets.md#search">
          <strong>Find content</strong>
          </a>
-      </div>
+      </p>
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md">
-      <img alt="images with plus sign" src="../../assets/icons/icon-addContent.svg" width="35">
+         <img alt="images with plus sign" src="../../assets/icons/icon-addContent-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/manage-assets.md">
          <strong>Add assets</strong>
          </a>
-      </div>
+      </p>
    </td>
-<!--
    <td align="center" valign="top" width="100">
-      <a href="../content/manage-assets.md#search">
-      <img alt="sparkle and new asset" src="../../assets/icons/icon-AIVariation.svg" width="35">
+      <a href="../content/customize-template.md">
+         <img alt="lightening bolt on asset" src="../../assets/icons/icon-template-35.svg" width="35">
       </a>
-      <div>
-         <a href="../content/manage-assets.md#search">
-         <strong>Refresh content</strong>
+      <p>
+         <a href="../content/customize-template.md">
+         <strong>Customize a template</strong>
          </a>
-      </div>
+      </p>
    </td>
--->
    <td align="center" valign="top" width="100">
       <a href="../content/use-templates.md">
-      <img alt="lightening bolt on asset" src="../../assets/icons/icon-template.svg" width="35">
+         <img alt="lightening bolt on asset with plus sign" src="../../assets/icons/icon-addTemplate-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/use-templates.md#upload-a-template">
          <strong>Upload template</strong>
          </a>
-      </div>
+      </p>
    </td>
 </tr>
 </table>
@@ -71,4 +69,4 @@ When you save approved assets, [!DNL Content] maintains the rich metadata, gener
 
 ### Work with templates
 
-Templates speed up the creation process so that you can generate consistent content across multiple channels. Templates provide a starting point in the creation process with pre-configured layouts and design elements.
+Templates speed up the creation process so that you can generate consistent content across multiple channels. Upload your custom template for use as a starting point in the creation process with pre-configured layouts and design elements.
