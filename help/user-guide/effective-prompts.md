@@ -51,13 +51,7 @@ GenStudio for Performance Marketers guidelines help the generative AI to persona
 
 ## Try again
 
-Prompting is an iterative process. If the results are not meeting your expectations, review your prompt and make some changes or add more details. You can refine your prompt by providing a URL as an example or a source for further information.
-
-```bash
-Write an email to motivate infrequent users of Photoshop to follow an in-app tutorial that teaches them to combine elements of two photos into a beautiful work of art. Highlight the generative AI capabilities of Photoshop and use references to natural imagery.
-
-Use information from https://www.adobe.com/products/photoshop.html to inspire users with the latest features.
-```
+Prompting is an iterative process. If the results are not meeting your expectations, review your prompt and make some changes or add more details.
 
 Or, you can paste in sections from a campaign brief. You can even request that GenStudio for Performance Marketers avoid certain words, elements, or themes.
 
