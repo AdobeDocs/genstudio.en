@@ -49,4 +49,3 @@ feature: Generative AI
     + [Data columns](insights/data-columns.md)
 + Release notes {#release-notes}
     + [Beta release notes](beta-release-notes.md)
- 
