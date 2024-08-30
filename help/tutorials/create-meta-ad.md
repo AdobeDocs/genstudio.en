@@ -77,7 +77,7 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
    The subject line and preheader only require a single click to edit, while the header and body copy require a double-click.
 
 * **To change or select the call to action**, click the call to action button and select from an available button.
-* **To change the size/aspect ratio**, click the resize button (left side of the Canvas) and select a new size/aspect ratio to be applied to all variants. The variants are duplicated and resized.
+* **To change the size and aspect ratio**, click the _[!UICONTROL Resize]_ button (box with a button icon on the left side of the Canvas) and select a new size and aspect ratio to apply to all variants. The variants are duplicated and resized.
 * **To delete an Meta ad**, click to select the ad title (for example, "Meta 4") and click **[!UICONTROL Delete variant]**.
 
 ## Verify brand alignment
