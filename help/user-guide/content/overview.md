@@ -14,7 +14,7 @@ GenStudio for Performance Marketers [!DNL Content] provides a central location t
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md#search">
-         <img alt="magnifier" src="../../assets/icons/icon-search-35.svg" width="35">
+         <img alt="magnifier" src="../../assets/icons/icon-search.png" width="35">
       </a>
       <p>
          <a href="../content/manage-assets.md#search">
@@ -24,7 +24,7 @@ GenStudio for Performance Marketers [!DNL Content] provides a central location t
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md">
-         <img alt="images with plus sign" src="../../assets/icons/icon-addContent-35.svg" width="35">
+         <img alt="images with plus sign" src="../../assets/icons/icon-addContent.png" width="35">
       </a>
       <p>
          <a href="../content/manage-assets.md">
@@ -34,7 +34,7 @@ GenStudio for Performance Marketers [!DNL Content] provides a central location t
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/customize-template.md">
-         <img alt="lightening bolt on asset" src="../../assets/icons/icon-template-35.svg" width="35">
+         <img alt="lightening bolt on asset" src="../../assets/icons/icon-template.png" width="35">
       </a>
       <p>
          <a href="../content/customize-template.md">
@@ -44,7 +44,7 @@ GenStudio for Performance Marketers [!DNL Content] provides a central location t
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/use-templates.md">
-         <img alt="lightening bolt on asset with plus sign" src="../../assets/icons/icon-addTemplate-35.svg" width="35">
+         <img alt="lightening bolt on asset with plus sign" src="../../assets/icons/icon-addTemplate.png" width="35">
       </a>
       <p>
          <a href="../content/use-templates.md#upload-a-template">
