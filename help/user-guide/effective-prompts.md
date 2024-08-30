@@ -39,7 +39,7 @@ For [emails](/help/tutorials/create-email-experience.md), the prompt criteria mi
 
 >[!NOTE]
 >
->If guidelines are added in _Parameters_ in the prompt area, you do not need to include reference to those in your prompt. GenStudio for Performance Marketers will leverage those [!DNL Brands], [!DNL Products], and [!DNL Personas] in content generation.
+>If guidelines are added in _Parameters_ in the prompt area, you do not need to include reference to them in your prompt. GenStudio for Performance Marketers leverages those [!DNL Brands], [!DNL Products], and [!DNL Personas] in content generation.
 
 ### Guidelines
 
