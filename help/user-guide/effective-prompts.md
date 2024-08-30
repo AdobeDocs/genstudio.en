@@ -51,9 +51,7 @@ GenStudio for Performance Marketers guidelines help the generative AI to persona
 
 ## Try again
 
-Prompting is an iterative process. If the results are not meeting your expectations, review your prompt and make some changes or add more details.
-
-Or, you can paste in sections from a campaign brief. You can even request that GenStudio for Performance Marketers avoid certain words, elements, or themes.
+Prompting is an iterative process. If the results are not meeting your expectations, review your prompt and make some changes or add more details. Or, you can paste in sections from a campaign brief. You can even request that GenStudio for Performance Marketers avoid certain words, elements, or themes.
 
 ## Best practices
 
