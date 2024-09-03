@@ -2,19 +2,17 @@
 
 This pull request ...
 
-## Related Issues
+## Additional context
 
-Provide links to related issues or code:
+Links to related issues or code:
 
-<!-- 
-Provide links to any issues tracking this work.
+<!-- Provide links to any issues tracking this work.
 
 If you are fixing a GitHub issue, using the [GitHub keyword format](https://help.github.com/en/articles/closing-issues-using-keywords#closing-an-issue-in-a-different-repository) closes the issue when this pull request is merged. Example: `Fixes #1234`. -->
 
-## Additional Context
+Screenshots:
 
-Add any other context, such as screenshots or test results that demonstrate a fix.
+<!-- Add any other context, such as screenshots or test results that demonstrate a fix.
 
-<!--
 Thank you for taking the time to contribute to our documentation.
 -->

@@ -4,9 +4,9 @@ about: Report a bug issue if you encounter something wrong while browsing our do
 labels: 'bug'
 ---
 
-## Describe the bug
+# Describe the bug
 
-<!-- (REQUIRED) What is the issue or current behavior? -->
+<!-- (REQUIRED) What is the issue? Describe your experience with the current behavior. Provide as much detail and resources as you can. -->
 
 Be sure to:
 
@@ -14,12 +14,8 @@ Be sure to:
 - [ ] Add screenshots
 - [ ] Describe the expected outcome
 
-## Possible solutions
+## Propose a solution
 
-<!-- (OPTIONAL) What would a solution for this issue look like? -->
-
-## Additional information
-
-<!-- (OPTIONAL) What other information can you provide about this issue? -->
+<!-- (OPTIONAL) Describe your solution for this issue. -->
 
 <!-- Thank you for taking the time to report the issue. -->

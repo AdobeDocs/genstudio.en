@@ -4,9 +4,12 @@ about: Propose a new topic
 labels: 'enhancement'
 ---
 
-## Topic Title
+# New topic
 
-## Description
+Proposed title: ...
+Proposed TOC location: ...
+
+## Describe the new topic
 
 <!-- (REQUIRED) Describe the new content. Provide as much detail and as many resources as you can. -->
 
@@ -16,7 +19,5 @@ Include the following:
 - [ ] The topic provides steps for ____.
 - [ ] The topic contains code samples that show ____.
 - [ ] Other (please specify):
-
-## Additional Information
 
 <!-- Thank you for taking the time to report the issue. -->
