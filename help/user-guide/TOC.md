@@ -46,6 +46,7 @@ feature: Generative AI
 + Insights {#insights}
     + [Insights overview](insights/overview.md)
     + [Connect channel account](insights/connect-channel.md)
+    + [Channels](insights/channels.md)
     + [Data columns](insights/data-columns.md)
 + Release notes {#release-notes}
     + [Beta release notes](beta-release-notes.md)
