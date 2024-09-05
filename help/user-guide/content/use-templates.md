@@ -2,8 +2,8 @@
 title: Work with Templates
 description: Discover how to use templates effectively to streamline your creative process in Adobe GenStudio for Performance Marketers.
 feature: Templates, Content
+exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
 ---
-
 # Work with Templates
 
 GenStudio for Performance Marketers enables content creators to produce consistent on-brand marketing content quickly using _templates_. A template significantly reduces the time and effort required to generate new content by providing a starting point that includes pre-configured layouts and design elements.

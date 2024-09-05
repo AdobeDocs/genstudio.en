@@ -3,8 +3,8 @@ title: Get started with Adobe GenStudio for Performance Marketers
 description: Learn how to set up your GenStudio for Performance Marketers to generate new brand-aligned marketing content.
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
+exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
 ---
-
 # Get started with Adobe GenStudio for Performance Marketers
 
 GenStudio for Performance Marketers is a comprehensive platform for creating, evaluating, and managing marketing experiences that reflect and adhere to your brand identity.

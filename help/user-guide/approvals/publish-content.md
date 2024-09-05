@@ -2,8 +2,8 @@
 title: Publish approved content
 description: Learn how to publish approved content.
 feature: Approval, Content
+exl-id: 2bb93815-8a7f-40db-a56a-2aefda40a2f4
 ---
-
 # Publish approved content
 
 The final stage of creating brand-aligned, approved content is saving it to [!DNL Content] with appropriate metadata. You (the content creator) must finalize the approved asset by publishing, or saving it, to [!DNL Content].
@@ -34,4 +34,3 @@ All GenStudio for Performance Marketers users can access approved assets or expe
 * **Uploaded by**: Identifies the asset creator.
 
 Draft URLs are invalid after a draft asset or experience is saved to [!DNL Content].
-

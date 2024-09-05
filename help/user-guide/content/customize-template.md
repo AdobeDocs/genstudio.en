@@ -3,8 +3,8 @@ title: Customize a Template
 description: Learn how to personalize and optimize your template for Adobe GenStudio for Performance Marketers.
 level: Intermediate
 feature: Templates, Content
+exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
 ---
-
 # Customize a template
 
 Adapt your HTML templates for Adobe GenStudio for Performance Marketers by using the _Handlebars_ templating language. The [!DNL Handlebars] syntax uses regular text with double braces as content placeholders. See [`What is [!DNL Handlebars]?`](https://handlebarsjs.com/guide/#what-is-handlebars) in the _Handlebars language guide_ to learn how to prepare your template.
@@ -287,4 +287,3 @@ The following is a basic example of a Meta ad template. The head contains inline
 ```
 
 +++
-

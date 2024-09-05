@@ -2,8 +2,8 @@
 title: Overview of Adobe GenStudio for Performance Marketers [!DNL Content]
 description: Learn how to find, edit, reuse, and share brand-approved assets in one, intuitive portal.
 feature: Attributes, Content, Templates
+exl-id: e44e9c2d-33ee-4621-93a2-27f49478a8c9
 ---
-
 # Adobe GenStudio for Performance Marketers [!DNL Content]
 
 GenStudio for Performance Marketers [!DNL Content] provides a central location to store, find, and share all brand-approved assets, experiences, and templates. You can edit and remix content, gain insight on content usage and sentiment, and refresh and repurpose existing assets using generative AI.

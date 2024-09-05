@@ -2,8 +2,8 @@
 title: Adobe GenStudio for Performance Marketers concepts
 description: Learn Adobe GenStudio for Performance Marketers concepts and terminology.
 feature: Workflow, Generative AI
+exl-id: 7dd00b4c-f429-499b-851d-3606c82c09dc
 ---
-
 # Concepts
 
 GenStudio for Performance Marketers is a standalone enterprise product that embodies Adobe's content supply chain to streamline marketing campaigns. It is challenging to build personalized, brand-approved content at scale, monitor effectiveness, and adapt quickly to the ever-changing market. GenStudio for Performance Marketers brings Creative Cloud and Experience Cloud together in one application that leverages generative AI as a performance multiplier for enterprise marketing teams.

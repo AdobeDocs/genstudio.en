@@ -3,8 +3,8 @@ title: Prepare a Meta ad template for Adobe GenStudio for Performance Marketers
 description: Learn how to build a custom Meta ad template for Adobe GenStudio for Performance Marketers.
 level: Intermediate
 feature: Templates, Content
+exl-id: e69039b0-272d-4f39-b0e4-916be710fd5f
 ---
-
 # Prepare Meta ad template for Adobe GenStudio for Performance Marketers
 
 Creating a Meta ad template involves a structured approach tailored for social media. After a Meta ad template is designed and tested, you can prepare it for upload and use in GenStudio for Performance Marketers.
