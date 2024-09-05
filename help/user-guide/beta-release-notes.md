@@ -11,9 +11,9 @@ These notes highlight significant Adobe GenStudio for Performance Marketers fixe
 
 The following known issues are scheduled for resolution in the GenStudio for Performance Marketers GA release.
 
-* Editors occasionally encounter a "Something went wrong" error message  on the [!DNL Create] Canvas during image generation. **Workaround**: If the error repeats, the user can log out, then log back in to GenStudio and re-generate the image.  <!-- GS-4813 -->
+* Editors occasionally encounter a "Something went wrong" error message  on the [!DNL Create Canvas] during image generation. **Workaround**: If the error repeats, the user can log out, then log back in to GenStudio and regenerate the image.  <!-- GS-4813 -->
 
-* The Create Canvas renders images in Meta ads incorrectly. <!-- GS-4864 -->
+* The [!DNL Create Canvas] renders images in Meta ads incorrectly. <!-- GS-4864 -->
 
 * Assets without campaigns can be successfully uploaded into [!DNL Content] but may not be visible to users. <!-- GS-4815 -->
 
