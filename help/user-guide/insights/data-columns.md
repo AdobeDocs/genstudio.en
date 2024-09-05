@@ -11,7 +11,7 @@ recommendations: noDisplay
 
 Customize the table:
 
-- Click a column heading to access the shortcut menu with _resize_ and _sort_ options.
+- Click a column heading to access the shortcut menu with _Resize_ and _Sort_ options.
 - Click the settings (cog) icon on the right side above the table and open the _[!UICONTROL Configure table]_ menu to toggle viewable columns.
 
 ## Channels table view

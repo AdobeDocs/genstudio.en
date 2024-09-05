@@ -41,7 +41,7 @@ The following table provides definitions and insights for key digital marketing 
 
 | Metric      | Definition                    | Insight                          |
 | ----------- | ----------------------------- | -------------------------------- |
-| **[!UICONTROL Launch]** | The date that the campaign was released or published to the market. | A high impressions count may indicate that the ad is reaching the intended audience. |
+| **[!UICONTROL Launch]**      | The date that the campaign was released or published to the market. | A high impressions count may indicate that the ad is reaching the intended audience. |
 | **[!UICONTROL Impressions]** | Impressions are counted each time content loads on screen, regardless of interaction or viewing. | A high impression count can indicate broad visibility, but for true performance insight, consider with other engagement metrics. |
 | **[!UICONTROL Clicks]**      | Number of times users interact with a clickable element, such as a link or an ad. | A high click count indicates strong interest and engagement with the content, which may be effective and reaching the right audience. |
 | **[!UICONTROL CTR]**         | Percentage (%) of users who clicked on an ad, search result, or links within an email.<br>**Calculation**: `clicks` divided by `impressions` | A high click-through rate indicates that the content is highly relevant and motivating to the audience in the messaging and design, and is effectively targeting the audience's interests. |
