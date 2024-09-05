@@ -2,8 +2,8 @@
 title: Channels overview
 description: See an overview of customer engagement, performance, budget, and expenditures for marketing campaigns in Adobe GenStudio for Performance Marketers.
 feature: Insights, Channels
+exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
 ---
-
 # Channels overview
 
 The [!DNL Insights] _[!UICONTROL Channels]_ view shows a list of campaigns for the connected channel ad account.
