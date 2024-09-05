@@ -2,8 +2,8 @@
 title: Overview of [!DNL Insights]
 description: Learn how to optimize experiences based on real-time content performance metrics.
 feature: Attributes, Insights, Experiences, Assets, Channels
+exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
 ---
-
 # Adobe GenStudio for Performance Marketers [!DNL Insights]
 
 Adobe GenStudio for Performance Marketers [!DNL Insights] provides advanced analytics and insights into content performance that can help you make data-driven decisions.

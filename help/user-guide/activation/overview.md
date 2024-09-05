@@ -2,8 +2,8 @@
 title: Overview of Activation
 description: Learn how to activate content with Adobe Experience Cloud and third-party applications.
 feature: Assets, Approval, Experiences
+exl-id: 365fe253-d189-467e-a723-f54cd74ff60b
 ---
-
 # Adobe GenStudio for Performance Marketers Activation
 
 _Activation_ is the process of making Adobe GenStudio for Performance Marketers-generated assets and experiences available for delivery through your select channels and Adobe Experience Cloud products. You can easily export approved content from GenStudio for Performance Marketers in the optimal formats for the third-party applications you have included in Products.

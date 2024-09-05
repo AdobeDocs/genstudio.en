@@ -2,8 +2,8 @@
 title: Adobe GenStudio for Performance Marketers Reviews and Approvals
 description: Learn about the GenStudio for Performance Marketers review and approval process.
 feature: Approval
+exl-id: c83f47c0-e8ae-4c54-84b3-c50f67d6b3c2
 ---
-
 # Adobe GenStudio for Performance Marketers Reviews and Approvals
 
 GenStudio for Performance Marketers' review and approvals workflow ensures that all stakeholders— from creative teams to legal experts— can efficiently review and approve campaign components, including generative AI-produced brand assets.
@@ -49,4 +49,4 @@ GenStudio for Performance Marketers' in-product notifications update approvers a
 
 Actions taken by approval participants trigger automatic in-product notifications and email notifications. When you start an approval process, designated approvers receive both email and in-product notifications. You are kept in the loop with in-product notifications whenever an approver adds comments or approves. Notifications include links to the content draft.
 
-If you initiated the review and approval process for content, you are notified of all approvals and review comments. However, approvers are notified of only comments that include them with an `@mention`. 
+If you initiated the review and approval process for content, you are notified of all approvals and review comments. However, approvers are notified of only comments that include them with an `@mention`.

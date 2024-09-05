@@ -2,8 +2,8 @@
 title: GenStudio for Performance Marketers [!DNL Brands]
 description: GenStudio for Performance Marketers [!DNL Brands] are a comprehensive collection of brand assets—marketing copy, imagery, experiences, and more—to inform the creation of brand-aligned content.
 feature: Brands Service, Guidelines
+exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
 ---
-
 # GenStudio for Performance Marketers [!DNL Brands]
 
 A brand distinguishes an organization, product, service or concept from others. Some aspects of a brand are objective, like a logo, while others are subjective, like tone of voice.

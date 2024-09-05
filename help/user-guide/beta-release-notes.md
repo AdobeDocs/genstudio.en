@@ -1,40 +1,25 @@
 ---
 title: Adobe GenStudio for Performance Marketers Beta release notes
 description: Learn about the latest features and enhancements to Adobe GenStudio for Performance Marketers.
+exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
 ---
-
 # Adobe GenStudio for Performance Marketers Beta release notes
 
-These notes highlight significant Adobe GenStudio for Performance Marketers fixes and enhancements for the week ending August 30.
-
-## Highlights
-
-* Instagram and Facebook channel guidelines have been combined into Meta brand guidelines.
-
-* Create Canvas navigation elements have been streamlined. The [!DNL Create] landing page displays the left navigation panel, but users now use a **[!UICONTROL Back]** button to navigate to this space from other [!DNL Create] work areas.  <!-- GS-1189 -->
-
-* Navigation elements have been enhanced to support user focus while performing tasks throughout the product, including these product areas:
-
-  * Asset, Experience, Template details in [!DNL Content]
-  * Experience, Asset, Attribute detail in [!DNL Insights]
-  * Brand details in [!DNL Brands]
-  * Product and Persona details in [!DNL Products] and [!DNL Personas] <!-- GS-1189 -->
-
-* Users no longer need to click the **[!UICONTROL Refresh]** button to see updates to Experiences in [!DNL Content]. <!-- GS-4218 -->
-
-* The _Experience Details_ page now renders external asset thumbnails as HTML. <!-- GS-3092 -->
-
-* UI latency after adding or deleting Assets and Experiences has been improved. <!-- GS-3389 -->
-
-* Template previews now include more descriptive default text. <!-- GS-4028 -->
+These notes highlight significant Adobe GenStudio for Performance Marketers fixes and enhancements for the week ending September 6.
 
 ## Known issues
 
 The following known issues are scheduled for resolution in the GenStudio for Performance Marketers GA release.
 
+* Editors occasionally encounter a "Something went wrong" error message  on the [!DNL Create Canvas] during image generation. **Workaround**: If the error repeats, the user can log out, then log back in to GenStudio and regenerate the image.  <!-- GS-4813 -->
+
+* The [!DNL Create Canvas] renders images in Meta ads incorrectly. <!-- GS-4864 -->
+
+* Assets without campaigns can be successfully uploaded into [!DNL Content] but may not be visible to users. <!-- GS-4815 -->
+
 * Discrepancy exists between MetaAds Canvas previews and exported views. <!-- GS-4492 4401 -->
 
-* Campaign thumbnails are missing from the [!DNL Insights] view. <!-- GS-4648 -->
+* Campaign thumbnails are missing from [!DNL Insights]. <!-- GS-4648 -->
 
 * Users can currently select small assets that require resizing, but enlarging those assets is not supported. <!-- GS-3131 -->
 
@@ -77,4 +62,3 @@ Previous Beta releases included the following highlights and fixes.
 * Upload of brand guidelines fails due to issues with the ACP storage platform. (fixed 8/22) <!-- GS-4369 -->
 
 * The Prompt area [!DNL Brands] drop-down menu displays a spinner at the end of the [!DNL Brands] list during email creation. (fixed 8/22) <!-- GS-4077 -->
-

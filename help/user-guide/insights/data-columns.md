@@ -3,8 +3,8 @@ title: Data columns for [!DNL Insights]
 description: Understand what each column in an [!DNL Insights] table represents in GenStudio for Performance Marketers.
 feature: Attributes, Insights
 recommendations: noDisplay
+exl-id: 138ad192-b178-45c9-9293-96d89ed7f2aa
 ---
-
 # Data columns for [!DNL Insights]
 
 [!DNL Insights] displays customizable tables for each view: Channels, Experiences, Assets, and Attributes.
