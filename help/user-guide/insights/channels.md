@@ -1,7 +1,6 @@
 ---
 title: Channels overview
-description: See an overview of customer engagement, budget, and expenditures for marketing campaigns and asset performance in Adobe GenStudio for Performance Marketers.
-level: Intermediate
+description: See an overview of customer engagement, performance, budget, and expenditures for marketing campaigns in Adobe GenStudio for Performance Marketers.
 feature: Insights, Channels
 ---
 
@@ -36,15 +35,18 @@ Depending on your performance goals, Insights metrics can help you evaluate whet
 
 For example, if awareness is your objective, then an increase in the rate of `impressions` may indicate that you are expanding your reach. To understand if that is achieving your objective, you could look at metrics that indicate your content is engaging, such as `clicks` or `video plays`. How effectively is your audience interacting with your content? 
 
-### Channel metrics table
+### Metrics detail
+
+The following table provides definitions and insights for key digital marketing metrics in the Channels view. Each metric includes a brief definition as it relates to Channels, how the metric is calculated, and one or more insights to help understand its significance and impact on marketing campaigns.
 
 | Metric      | Definition                    | Insight                          |
 | ----------- | ----------------------------- | -------------------------------- |
-| Impressions | Impressions are counted each time content loads on screen, regardless of interaction or viewing. | High impressions can indicate broad visibility, but for true performance insight, consider with other engagement metrics. |
-| Clicks      | The number of times users interact with a clickable element, such as a link or an ad. | High clicks indicate strong interest and engagement with the content, which may be effective and reaching the right audience. |
-| CTR         | The percentage (%) of users who clicked on an ad, search result, or links within an email.<br>**Calculation**: `clicks` divided by `impressions` | A high click-through rate indicates that the content is highly relevant and motivating to the audience in the messaging and design, and is effectively targeting the audience's interests. |
-| CPM         | A performance measurement for cost ($) per thousand ad impressions.<br>**Calculation**: total amount `spent` divided by reach, then multiplied by 1000  | A low value can indicate cost-effective visibility, especially when paired with a high click-through rate. |
-| CPC         | The average cost ($) associated with each click in an experience.<br>**Calculation**: total amount `spent` divided by `clicks` | Low costs may indicate cost-efficient ad spend, especially when compared with a rise in conversions. |
-| Video Plays | Percentage of viewers who watched a video to the end. | High video plays indicate that the video is capturing attention, and can mean that the thumbnail, title, or placement is effectively drawing in viewers. High completion rates suggest that your video content is compelling and relevant. |
-| Budget      | The total funds allocated for an ad campaign to achieve campaign goals. | A high budget means more resources for broader reach and potentially greater impact. |
-| Spend       | The amount spent from the budget over a given period of time. | A high spend amount in a short period may indicate rapid usage, which could lead to early depletion of resources. Track the spend amount against key performance metrics to help monitor the overall return on investment. |
+| **[!UICONTROL Launch]** | The date that the campaign was released or published to the market. | A high impressions count may indicate that the ad is reaching the intended audience. |
+| **[!UICONTROL Impressions]** | Impressions are counted each time content loads on screen, regardless of interaction or viewing. | A high impression count can indicate broad visibility, but for true performance insight, consider with other engagement metrics. |
+| **[!UICONTROL Clicks]**      | Number of times users interact with a clickable element, such as a link or an ad. | A high click count indicates strong interest and engagement with the content, which may be effective and reaching the right audience. |
+| **[!UICONTROL CTR]**         | Percentage (%) of users who clicked on an ad, search result, or links within an email.<br>**Calculation**: `clicks` divided by `impressions` | A high click-through rate indicates that the content is highly relevant and motivating to the audience in the messaging and design, and is effectively targeting the audience's interests. |
+| **[!UICONTROL CPM]**         | Performance measurement for cost ($) per thousand ad impressions.<br>**Calculation**: total amount `spent` divided by reach, then multiplied by 1000  | A low value may indicate cost-effective visibility, especially when paired with a high click-through rate. |
+| **[!UICONTROL CPC]**         | Average cost ($) associated with each click in an experience.<br>**Calculation**: total amount `spent` divided by `clicks` | Lower average costs may indicate cost-efficient ad spend, especially when compared with a rise in conversions. |
+| **[!UICONTROL Video plays]** | Percentage of viewers who watched a video to the end. | A high count of video plays may indicate that the video is capturing attention, and can mean that the thumbnail, title, or placement is effectively drawing in viewers. High play completion rates suggest that your video content is compelling and relevant. |
+| **[!UICONTROL Budget]**      | Total funds ($) allocated for an ad campaign to achieve campaign goals. | A high budget means more resources for broader reach and potentially greater impact. |
+| **[!UICONTROL Spend]**       | The amount spent from the budget over a given period of time. | A high spend amount in a short period may indicate rapid usage, which could lead to early depletion of resources. Track the spend amount against key performance metrics to help monitor the overall return on investment. |
