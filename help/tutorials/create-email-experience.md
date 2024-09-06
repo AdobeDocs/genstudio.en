@@ -6,8 +6,8 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
+exl-id: 34446202-da98-45ff-869a-b43496a477f8
 ---
-
 # Create an email experience
 
 This tutorial demonstrates how to generate branded email experiences using GenStudio for Performance Marketers [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).

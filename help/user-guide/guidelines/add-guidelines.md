@@ -4,8 +4,8 @@ description: Learn how to add guidelines—[!DNL Brands], [!DNL Products], and [
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
+exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
 ---
-
 # Add guidelines
 
 [[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md), and [[!DNL Personas]](/help/user-guide/guidelines/personas.md) are user-defined guidelines in GenStudio for Performance Marketers that ensure any AI-generated content is customized to align with brand identity, enabling effective personalization of content.

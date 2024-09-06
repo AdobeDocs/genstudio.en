@@ -2,8 +2,8 @@
 title: Approve content
 description: Learn how to approve content.
 feature: Approval
+exl-id: f6458d8f-dff3-448e-9f08-6d192f8a91d9
 ---
-
 # Approve content
 
 Approvers receive both in-product and email notifications when their review and approval is needed. Both notifications provide a link to the Canvas that displays the content under review. 
@@ -19,4 +19,3 @@ If the content draft meets your organization's standards and your expectations, 
 1. Change draft status from **Needs work** to **Approved**. 
 
 Your work as an approver is done. GenStudio for Performance Marketers alerts the draft creator of your approval. See [Publish content](./publish-content.md) for an overview of the process of saving to [!DNL Content], or _publishing_.
-  

@@ -1,8 +1,8 @@
 ---
 title: Request reviews and approvals
 description: Request a review.
+exl-id: 4d5cb23c-457f-47b6-a265-a283afbc54d4
 ---
-
 # Request review and approval
 
 Ready to invite your coworkers to review an asset or experience that you created? You can invite stakeholders to contribute feedback on a draft of your content with the eventual goal of approval.
@@ -28,6 +28,3 @@ Optional: Add comments to guide approver focus to particular features of the dra
 If you are the content creator, your draft Canvas displays the **[!UICONTROL Manage approvals]** button. Use this button to open a popup from which you can remove or add approvers throughout the review and approval process.
 
 Approver names are listed in this view with a [!DNL Notified] status after the approval requests have launched. See [Approve content](./approve-content.md) for an overview of GenStudio for Performance Marketers approval tasks.
-
-
-

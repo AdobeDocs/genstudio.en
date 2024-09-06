@@ -2,8 +2,8 @@
 title: Overview of [!DNL Brands], [!DNL Products], and [!DNL Personas]
 description: Add [!DNL Brands], [!DNL Products], and [!DNL Personas] to GenStudio for Performance Marketers to create a comprehensive brand profile that includes all aspects of a brand's representation.
 feature: Guidelines, Brands Service, Personas Service, Products Service
+exl-id: 577c627b-0895-4958-a883-3133b4a3efde
 ---
-
 # GenStudio for Performance Marketers guidelines
 
 GenStudio for Performance Marketers guidelines—**[!DNL Brands]**, **[!DNL Products]**, and **[!DNL Personas]**—can be either uploaded or manually added to GenStudio for Performance Marketers, allowing users to establish brand guidelines that capture the essence of a brand's identity. This user-defined information helps ensure that any AI-generated content is tailored to align with the unique brand identity, enabling effective personalization of content.

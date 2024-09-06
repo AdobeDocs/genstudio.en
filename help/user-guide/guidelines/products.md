@@ -2,8 +2,8 @@
 title: GenStudio for Performance Marketers [!DNL Products]
 description: GenStudio for Performance Marketers [!DNL Products] incorporates all aspects of your product—imagery, descriptions, and value propositions—to create relevant content that highlights product strengths and maintains consistency in product messaging.
 feature: Products Service, Guidelines
+exl-id: a9aee814-cca6-4973-a6db-842de7622a8a
 ---
-
 # GenStudio for Performance Marketers [!DNL Products]
 
 GenStudio for Performance Marketers [!DNL Products] leverage deep understanding of product specifications, advantages, and differentiating factors to generate impactful content.

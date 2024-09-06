@@ -6,8 +6,8 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
+exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
 ---
-
 # Create a Meta ad experience
 
 This tutorial demonstrates how to generate branded Meta ad experiences using GenStudio for Performance Marketers [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).

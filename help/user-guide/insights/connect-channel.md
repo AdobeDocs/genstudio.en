@@ -3,8 +3,8 @@ title: Connect channel account
 description: Connect a channel account to monitor your Adobe GenStudio for Performance Marketers marketing campaigns and asset performance.
 level: Intermediate
 feature: Insights, Channels
+exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
 ---
-
 # Connect channel ad account
 
 The first time you open [!DNL Insights], you may see a banner to guide you to connect Adobe GenStudio for Performance Marketers with your channel accounts. This connection enables GenStudio for Performance Marketers to receive data from your active marketing campaigns, assets, and experiences. With [!DNL Insights], you have the tools to analyze the data and take action.

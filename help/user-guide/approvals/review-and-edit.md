@@ -2,8 +2,8 @@
 title: Review and edit content
 description: Learn how to review and edit content iteratively.
 feature: Approval
+exl-id: 9a3a15aa-355f-439e-9417-850704402f39
 ---
-
 # Review and edit content
 
 Review and approval processes that involve multiple reviewers can be time-consuming. The cycle of reviewing content, revising content in response to review comments, then reviewing changed content again can repeat many times. 
@@ -50,4 +50,4 @@ The content creator can continue their edits while receiving and responding to i
 
 If you are the content creator, your draft Canvas includes the **[!UICONTROL Manage approvals]** button. Use this button to remove or add approvers throughout the review and approval process.
 
-See [Request review and approval](./request-review.md). 
+See [Request review and approval](./request-review.md).

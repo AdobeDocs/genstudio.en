@@ -3,8 +3,8 @@ title: Prepare an email template for Adobe GenStudio for Performance Marketers
 description: Learn how to build a custom email template for Adobe GenStudio for Performance Marketers.
 level: Intermediate
 feature: Templates, Content
+exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
 ---
-
 # Prepare email template for Adobe GenStudio for Performance Marketers
 
 Typically, a designer creates the visual design of a template in a design program such as Adobe XD. After an email template is designed, coded, and tested, you can prepare it for upload and use in GenStudio for Performance Marketers.

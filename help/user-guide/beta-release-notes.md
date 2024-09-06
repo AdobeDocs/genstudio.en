@@ -1,8 +1,8 @@
 ---
 title: Adobe GenStudio for Performance Marketers Beta release notes
 description: Learn about the latest features and enhancements to Adobe GenStudio for Performance Marketers.
+exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
 ---
-
 # Adobe GenStudio for Performance Marketers Beta release notes
 
 These notes highlight significant Adobe GenStudio for Performance Marketers fixes and enhancements for the week ending September 6.
@@ -103,4 +103,3 @@ Previous Beta releases included the following highlights and fixes.
 * Upload of brand guidelines fails due to issues with the ACP storage platform. (fixed 8/22) <!-- GS-4369 -->
 
 * The Prompt area [!DNL Brands] drop-down menu displays a spinner at the end of the [!DNL Brands] list during email creation. (fixed 8/22) <!-- GS-4077 -->
-
