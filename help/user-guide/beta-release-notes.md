@@ -7,6 +7,12 @@ exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
 
 These notes highlight significant Adobe GenStudio for Performance Marketers fixes and enhancements for the week ending September 6.
 
+## New features
+
+* GenStudio now supports the option to preview media assets in [!DNL Insights]. Video thumbnails include a **Play** button with a mute option. <!-- GS-4398 -->
+
+* Assets can now be filtered in [!DNL Insights] by type `video`.  <!-- GS-4398 -->
+
 ## Known issues
 
 The following known issues are scheduled for resolution in the GenStudio for Performance Marketers GA release.
@@ -25,15 +31,48 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 
 * Users must log in twice to a channel Meta Ads account when they are also logged in to Facebook. **Workaround**: Log out of Facebook before logging into a channel Meta Ads account.
 
-### Resolved known issues
+* Uploaded images do not always include the expected smart tags. <!-- GS-4856 -->
 
-* GenStudio displays an error when a user tries to enter credentials in the [!DNL Insights] view. (fixed 8/29) <!-- GS-4689 --> 
+### Additional Enhancements and fixed issues
+
+* The _Add Assets_ popup is now localized as expected. <!-- GS-3834 -->
+
+* Issues with the scaling of the Meta ads experience template have been resolved. <!-- GS-4174 -->
+
+* Content fragment models created for templates can now be represented accurately in AEM. <!-- GS-4716 -->
+
+* Text fields in the CSV export file for multi-part emails are now ordered as expected. <!-- GS-4013 -->
+
+* The [!DNL Content] search field no longer disappears when a user repeatedly presses the **Backspace** key to erase search field text.  <!-- GS-4543 -->
+
+* GenStudio now loads users as expected when a collaborator adds an @ mention to a comment. Previously, GenStudio did not load users and displayed this error: `Unable to load users. Refresh the page`. <!-- GS-4113 -->
+
+* GenStudio no longer displays the **Something went wrong** message when an editor clicks **Select content** during email creation in the prompt area. <!-- GS-4879 -->
 
 ## Previous Beta releases
 
 Previous Beta releases included the following highlights and fixes. 
 
 ### Highlights
+
+* Instagram and Facebook channel guidelines have been combined into Meta brand guidelines.
+
+* [!DNL Create] Canvas navigation elements have been streamlined. The [!DNL Create] landing page displays the left navigation panel, but users now use a **[!UICONTROL Back]** button to navigate to this space from other [!DNL Create] work areas.
+
+* Navigation elements have been enhanced to support user focus while performing tasks throughout the product, including these product areas:
+
+  * Asset, Experience, Template details in [!DNL Content]
+  * Experience, Asset, Attribute detail in [!DNL Insights]
+  * Brand details in [!DNL Brands]
+  * Product and Persona details in Products and Personas
+
+* Users no longer need to click the **[!UICONTROL Refresh]** button to see updates to Experiences in [!DNL Content].
+
+* The _Experience Details_ page now renders external asset thumbnails as HTML.
+
+* UI latency after adding or deleting Assets and Experiences has been improved.
+
+* Template previews now include more descriptive default text. See [Customize a template](https://experienceleague.adobe.com/en/docs/genstudio/user-guide/content/templates/customize-template#template-preview). 
 
 * **Percentage-based validation score**: Brand validation now displays brand validation score as a percentage rather than a pass/fail value. (fixed 8/16)
 
@@ -45,7 +84,7 @@ Previous Beta releases included the following highlights and fixes.
 
 * **Meta Ads Resize**: Editors can resize Meta ad aspect ratios. (fixed 8/16)
 
-* **Limited Insights login accounts**: The Insights login now supports only one account per customer. (fixed 8/16)
+* **Limited [!DNL Insights] login accounts**: The [!DNL Insights] login now supports only one account per customer. (fixed 8/16)
 
 ### Additional Enhancements and fixed issues
 
@@ -58,6 +97,8 @@ Previous Beta releases included the following highlights and fixes.
 * Clicking the **[!UICONTROL [!DNL Insights]]**  > **[!UICONTROL Asset]** count field no longer clears search and filter settings. (fixed 8/16) <!-- GS-3476 -->
 
 ### Known issues resolved in past Beta releases
+
+* GenStudio displays an error when a user tries to enter credentials in the [!DNL Insights] view. (fixed 8/29) <!-- GS-4689 --> 
 
 * Upload of brand guidelines fails due to issues with the ACP storage platform. (fixed 8/22) <!-- GS-4369 -->
 
