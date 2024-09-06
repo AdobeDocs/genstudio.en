@@ -9,7 +9,9 @@ These notes highlight significant Adobe GenStudio for Performance Marketers fixe
 
 ## New features
 
-* Videos now play in [!DNL Insights] rather than being represented by a thumbnail image.  <!-- GS-4398 -->
+* GenStudio now supports the option to preview media assets in [!DNL Insights]. Video thumbnails include a **Play** button with a mute option. <!-- GS-4398 -->
+
+* Assets can now be filtered in [!DNL Insights] by type `video`.  <!-- GS-4398 -->
 
 ## Known issues
 
@@ -70,7 +72,7 @@ Previous Beta releases included the following highlights and fixes.
 
 * UI latency after adding or deleting Assets and Experiences has been improved.
 
-* Template previews now include more descriptive default text.
+* Template previews now include more descriptive default text. See [Customize a template](https://experienceleague.adobe.com/en/docs/genstudio/user-guide/content/templates/customize-template#template-preview). 
 
 * **Percentage-based validation score**: Brand validation now displays brand validation score as a percentage rather than a pass/fail value. (fixed 8/16)
 
