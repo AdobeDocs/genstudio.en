@@ -9,9 +9,7 @@ These notes highlight significant Adobe GenStudio for Performance Marketers fixe
 
 ## New features
 
-* GenStudio now supports the option to preview media assets in [!DNL Insights]. Video thumbnails include a **Play** button with a mute option. <!-- GS-4398 -->
-
-* Assets can now be filtered in [!DNL Insights] by type `video`.  <!-- GS-4398 -->
+* GenStudio now supports the option to preview media assets in [!DNL Insights] table and gallery views. Video thumbnails include a **Play** button with a mute option. <!-- GS-4398 -->
 
 ## Known issues
 
