@@ -19,7 +19,7 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 
 * The [!DNL Create Canvas] renders images in Meta ads incorrectly. <!-- GS-4864 -->
 
-* Assets without campaigns can be successfully uploaded into [!DNL Content] but may not be visible to users. <!-- GS-4815 -->
+* Templates can be uploaded but not seen. <!-- GS-4815 -->
 
 * Discrepancy exists between MetaAds Canvas previews and exported views. <!-- GS-4492 4401 -->
 
