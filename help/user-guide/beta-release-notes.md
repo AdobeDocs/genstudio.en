@@ -37,8 +37,6 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 
 * Issues with the scaling of the Meta ads experience template have been resolved. <!-- GS-4174 -->
 
-* Content fragment models created for templates can now be represented accurately in AEM. <!-- GS-4716 -->
-
 * Text fields in the CSV export file for multi-part emails are now ordered as expected. <!-- GS-4013 -->
 
 * The [!DNL Content] search field no longer disappears when a user repeatedly presses the **Backspace** key to erase search field text.  <!-- GS-4543 -->
