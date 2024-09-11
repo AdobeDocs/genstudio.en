@@ -16,7 +16,7 @@ The [!UICONTROL Channels] table is organized using the channel-based ad campaign
 
 ![Channel filter and table](../../assets/insights-channel-filter.png)
 
- When you select a campaign, the [!UICONTROL Experiences] tab opens to a list of ad names associated with that campaign.
+When you select a campaign, the [[!UICONTROL Experiences] tab](experiences.md) opens to a list of ad names associated with that campaign, which allows you to identify which experiences have contributed to its overall success.
 
 ## Objectives
 
