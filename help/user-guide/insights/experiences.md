@@ -20,7 +20,9 @@ The details view includes a metrics overall ad `click-through rate`, `cost per c
 
 ![Ad details with metrics and ad placements](../../assets/insights-ad-details.png)
 
-Below the [!UICONTROL Performance by ad placement] section is a list of attributes associated with the ad.
+### Text attributes
+
+Below the Ad preview is a list of **[!UICONTROL Text attributes]** associated with the ad. When assets and experiences are approved and stored in [!DNL Content], GenStudio for Performance Marketers generates tags based on their inherent features. See [Asset details](../content/asset-details.md#system-metadata) for details about system metadata.
 
 ### Ad placements
 
