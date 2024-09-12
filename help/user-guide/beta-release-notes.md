@@ -5,51 +5,59 @@ exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
 ---
 # Adobe GenStudio for Performance Marketers Beta release notes
 
-These notes highlight significant Adobe GenStudio for Performance Marketers fixes and enhancements for the week ending September 6.
+These notes highlight significant Adobe GenStudio for Performance Marketers fixes and enhancements for the week ending September 13.
 
 ## New features
 
-* GenStudio now supports the option to preview media assets in [!DNL Insights] table and gallery views. Video thumbnails include a **Play** button with a mute option. <!-- GS-4398 -->
+The first step of the Update Template workflow has been enhanced to include channel selection. <!-- GS-4029 -->
 
 ## Known issues
 
 The following known issues are scheduled for resolution in the GenStudio for Performance Marketers GA release.
 
-* Editors occasionally encounter a "Something went wrong" error message  on the [!DNL Create Canvas] during image generation. **Workaround**: If the error repeats, the user can log out, then log back in to GenStudio and regenerate the image.  <!-- GS-4813 -->
+* Intermittent latency issues affect some [!DNL Create] canvas operations. <!-- GS-5203 -->
 
-* The [!DNL Create Canvas] renders images in Meta ads incorrectly. <!-- GS-4864 -->
+* Email generation results in an incomplete email. **Workaround**: Refresh the page and regenerate. <!-- GS-5209 -->
 
 * Templates can be uploaded but not seen. <!-- GS-4815 -->
 
-* Discrepancy exists between MetaAds Canvas previews and exported views. <!-- GS-4492 4401 -->
-
 * Campaign thumbnails are missing from [!DNL Insights]. <!-- GS-4648 -->
 
-* Users can currently select small assets that require resizing, but enlarging those assets is not supported. <!-- GS-3131 -->
+* Users must log in twice to a channel Meta Ads account when they are also logged in to Facebook. **Workaround**: Log out of Facebook before logging into a channel Meta Ads account. <!-- GS-4806 -->
 
-* Users must log in twice to a channel Meta Ads account when they are also logged in to Facebook. **Workaround**: Log out of Facebook before logging into a channel Meta Ads account.
+### Known issues resolved this week
 
+* The [!DNL Create] canvas renders images in Meta ads incorrectly. <!-- GS-4864 -->
+* Discrepancy exists between MetaAds canvas previews and exported views. <!-- GS-4492 4401 -->
 * Uploaded images do not always include the expected smart tags. <!-- GS-4856 -->
 
 ### Additional Enhancements and fixed issues
 
-* The _Add Assets_ popup is now localized as expected. <!-- GS-3834 -->
+* Collaborators can now zoom in on and out of elements in the [!DNL Create] canvas. Collaborators can also download assets as expected.  <!-- GS-5244 -->
 
-* Issues with the scaling of the Meta ads experience template have been resolved. <!-- GS-4174 -->
+* The Meta ad export CSV file now contains images as expected. Previously, the ZIP file contained the CSV export file and NULL files instead of images.  <!-- GS-5107 -->
 
-* Text fields in the CSV export file for multi-part emails are now ordered as expected. <!-- GS-4013 -->
+* Users can now enter text into the Template Detail view **[!UICONTROL Uploaded by]** field as expected. Previously, the spinner loader icon prevented users from entering text. <!-- GS-4887 -->
 
-* The [!DNL Content] search field no longer disappears when a user repeatedly presses the **Backspace** key to erase search field text.  <!-- GS-4543 -->
+* Users are no longer redirected to the Detail view of a brand after the brand has been deleted. <!-- GS-2663 -->
 
-* GenStudio now loads users as expected when a collaborator adds an @ mention to a comment. Previously, GenStudio did not load users and displayed this error: `Unable to load users. Refresh the page`. <!-- GS-4113 -->
+* Editors no longer receive the following error when sending a canvas for review and approval: `You have no access to view comments on this Object`.  <!-- GS-5140 -->
 
-* GenStudio no longer displays the **Something went wrong** message when an editor clicks **Select content** during email creation in the prompt area. <!-- GS-4879 -->
+* Updated the email template used by the review and approvals workflow. <!-- GS-5239 -->
+
+* The _Delete draft_ popup can now be localized.  <!-- GS-4940 --> 
+
+* GenStudio now displays an error message when a network error occurs during template selector loading. <!-- GS-4682 -->
+
+* Resolved issues with navigating from an asset, experience, or template card to the selected object. <!-- GS-4390 -->
 
 ## Previous Beta releases
 
 Previous Beta releases included the following highlights and fixes. 
 
 ### Highlights
+
+* GenStudio now supports the option to preview media assets in [!DNL Insights] table and gallery views. Video thumbnails include a **Play** button with a mute option. <!-- GS-4398 -->
 
 * Instagram and Facebook channel guidelines have been combined into Meta brand guidelines.
 
@@ -83,6 +91,18 @@ Previous Beta releases included the following highlights and fixes.
 * **Limited [!DNL Insights] login accounts**: The [!DNL Insights] login now supports only one account per customer. (fixed 8/16)
 
 ### Additional Enhancements and fixed issues
+
+* The _Add Assets_ popup is now localized as expected. <!-- GS-3834 -->
+
+* Issues with the scaling of the Meta ads experience template have been resolved. <!-- GS-4174 -->
+
+* Text fields in the CSV export file for multi-part emails are now ordered as expected. <!-- GS-4013 -->
+
+* The [!DNL Content] search field no longer disappears when a user repeatedly presses the **Backspace** key to erase search field text.  <!-- GS-4543 -->
+
+* GenStudio now loads users as expected when a collaborator adds an @ mention to a comment. Previously, GenStudio did not load users and displayed this error: `Unable to load users. Refresh the page`. <!-- GS-4113 -->
+
+* GenStudio no longer displays the **Something went wrong** message when an editor clicks **Select content** during email creation in the prompt area. <!-- GS-4879 -->
 
 * The _Experience Detail_ page feed placement name now specifies Facebook or Instagram feed. (fixed 8/16)
 
