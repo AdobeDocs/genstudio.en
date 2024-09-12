@@ -24,7 +24,7 @@ The **[!UICONTROL Location]** list above the gallery on the right side allows yo
 
 The AEM repository is read-only, which means you cannot save drafts, new assets, or metadata to the AEM repository. All drafts and newly created assets save to the `GenStudio assets` repository with new [system metadata](asset-details.md#system-metadata).
 
-<!-- See [Connect an AEM repository](connect-aem-repo.md) for guidance on adding your AEM repository to GenStudio for Perfomance Marketers. -->
+See [Connect an AEM repository](connect-aem-repo.md) for guidance on adding your AEM repository to GenStudio for Perfomance Marketers.
 
 ## Asset management
 
