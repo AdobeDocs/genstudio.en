@@ -1,7 +1,7 @@
 ---
 title: Connect to an AEM content repository
 description: Learn how to connect GenStudio for Performance Marketers to an Adobe Experience Manager (AEM) repository and leverage existing approved content.
-level: Admin
+level: Experienced
 feature: Assets, Content
 ---
 # Connect to an AEM content repository
