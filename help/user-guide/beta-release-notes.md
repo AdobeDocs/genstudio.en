@@ -7,9 +7,9 @@ exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
 
 These notes highlight significant Adobe GenStudio for Performance Marketers fixes and enhancements for the week ending September 13.
 
-## New features
+## Enhancements
 
-The first step of the Update Template workflow has been enhanced to include channel selection. <!-- GS-4029 -->
+* The Create content selector has been refactored to improve asset loading. <!-- GS-2586 -->
 
 ## Known issues
 
@@ -33,8 +33,6 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 
 ### Additional Enhancements and fixed issues
 
-* Collaborators can now zoom in on and out of elements in the [!DNL Create] canvas. Collaborators can also download assets as expected.  <!-- GS-5244 -->
-
 * The Meta ad export CSV file now contains images as expected. Previously, the ZIP file contained the CSV export file and NULL files instead of images.  <!-- GS-5107 -->
 
 * Users can now enter text into the Template Detail view **[!UICONTROL Uploaded by]** field as expected. Previously, the spinner loader icon prevented users from entering text. <!-- GS-4887 -->
@@ -45,11 +43,14 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 
 * Updated the email template used by the review and approvals workflow. <!-- GS-5239 -->
 
-* The _Delete draft_ popup can now be localized.  <!-- GS-4940 --> 
-
 * GenStudio now displays an error message when a network error occurs during template selector loading. <!-- GS-4682 -->
 
 * Resolved issues with navigating from an asset, experience, or template card to the selected object. <!-- GS-4390 -->
+
+* The _Add Assets_ popup is now localized when opened from the Create canvas.  <!-- GS-4867 -->
+
+* Brand validation is now triggered for regenerated variants. Previously, if an editor regenerated variants of an existing draft, validation was not triggered. <!-- GS-3971 -->
+
 
 ## Previous Beta releases
 
