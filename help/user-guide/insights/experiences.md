@@ -16,9 +16,9 @@ The [!UICONTROL Experiences] table is organized using [!UICONTROL Ad names]. The
 
 When you select an ad name, you can view the ad performance metrics and attributes, which enable you to analyze an experience's metrics based on its ad placement within a specified date range.
 
-The details view includes a metrics overall ad `click-through rate`, `cost per click`, and how much of the budget has been `spent` on the ad. Since ads can have multiple placements, such as a feed or a banner, you can see a breakdown of the same metrics for each ad placement. Use the left and right arrows to cycle through the ad placements.
+The details view includes a metrics overall ad `click-through rate`, `cost per click`, and how much of the budget has been `spent` on the ad. Since ads can have multiple placements, such as a feed or a banner, you can see a breakdown of the same metrics for each ad placement. Use the left and right arrows under **[!UICONTROL Performance by ad placement]** to cycle through the ad placement metrics.
 
-![Ad details with metrics and ad placements](../../assets/insights-ad-placements.png)
+![Ad details with metrics and ad placements](../../assets/insights-ad-details.png)
 
 Below the [!UICONTROL Performance by ad placement] section is a list of attributes associated with the ad.
 
