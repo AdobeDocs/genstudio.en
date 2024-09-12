@@ -11,7 +11,7 @@ These are steps Sally takes to set up the connection between GenStudio and exist
 
 TBD
 
-<!-->
+<!--
 Deploy Content Hub for existing AEM repo (self-service in Cloud Manager) 
 After enabling Content Hub for Assets using Cloud Manager, there is a new instance created within AEM Assets as a Cloud Service on Admin Console with contenthub as the suffix
 Onboard GenStudio users:  
