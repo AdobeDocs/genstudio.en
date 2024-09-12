@@ -9,13 +9,13 @@ These notes highlight significant Adobe GenStudio for Performance Marketers fixe
 
 ## Enhancements
 
-* The Create content selector has been refactored to improve asset loading. <!-- GS-2586 -->
+* The [!DNL Create] content selector has been refactored to improve asset loading. <!-- GS-2586 -->
 
 ## Known issues
 
 The following known issues are scheduled for resolution in the GenStudio for Performance Marketers GA release.
 
-* Intermittent latency issues affect some [!DNL Create] canvas operations. <!-- GS-5203 -->
+* Intermittent latency issues affect some [!DNL Create] Canvas operations. <!-- GS-5203 -->
 
 * Email generation results in an incomplete email. **Workaround**: Refresh the page and regenerate. <!-- GS-5209 -->
 
@@ -27,19 +27,19 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 
 ### Known issues resolved this week
 
-* The [!DNL Create] canvas renders images in Meta ads incorrectly. <!-- GS-4864 -->
-* Discrepancy exists between MetaAds canvas previews and exported views. <!-- GS-4492 4401 -->
+* The [!DNL Create] Canvas renders images in Meta Ads incorrectly. <!-- GS-4864 -->
+* Discrepancy exists between Meta Ads Canvas previews and exported views. <!-- GS-4492 4401 -->
 * Uploaded images do not always include the expected smart tags. <!-- GS-4856 -->
 
-### Additional Enhancements and fixed issues
+### Additional enhancements and fixed issues
 
 * The Meta ad export CSV file now contains images as expected. Previously, the ZIP file contained the CSV export file and NULL files instead of images.  <!-- GS-5107 -->
 
-* Users can now enter text into the Template Detail view **[!UICONTROL Uploaded by]** field as expected. Previously, the spinner loader icon prevented users from entering text. <!-- GS-4887 -->
+* Users can now enter text into the Template Detail view **[!UICONTROL Uploaded by]** field as expected. Previously, the loading icon prevented users from entering text. <!-- GS-4887 -->
 
 * Users are no longer redirected to the Detail view of a brand after the brand has been deleted. <!-- GS-2663 -->
 
-* Editors no longer receive the following error when sending a canvas for review and approval: `You have no access to view comments on this Object`.  <!-- GS-5140 -->
+* Editors no longer receive the following error when sending variants for review and approval: `You have no access to view comments on this Object`.  <!-- GS-5140 -->
 
 * Updated the email template used by the review and approvals workflow. <!-- GS-5239 -->
 
@@ -47,10 +47,9 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 
 * Resolved issues with navigating from an asset, experience, or template card to the selected object. <!-- GS-4390 -->
 
-* The _Add Assets_ popup is now localized when opened from the Create canvas.  <!-- GS-4867 -->
+* The _Add Assets_ popup is now localized when opened from the Create Canvas.  <!-- GS-4867 -->
 
 * Brand validation is now triggered for regenerated variants. Previously, if an editor regenerated variants of an existing draft, validation was not triggered. <!-- GS-3971 -->
-
 
 ## Previous Beta releases
 
@@ -87,7 +86,7 @@ Previous Beta releases included the following highlights and fixes.
 
 * **Multi-section email creation**: Users can now create emails composed of separate headline, image, body, and CTA elements. (fixed 8/16)
 
-* **Meta Ads Resize**: Editors can resize Meta ad aspect ratios. (fixed 8/16)
+* **MetaAds Resize**: Editors can resize MetaAd aspect ratios. (fixed 8/16)
 
 * **Limited [!DNL Insights] login accounts**: The [!DNL Insights] login now supports only one account per customer. (fixed 8/16)
 
@@ -101,7 +100,7 @@ Previous Beta releases included the following highlights and fixes.
 
 * The [!DNL Content] search field no longer disappears when a user repeatedly presses the **Backspace** key to erase search field text.  <!-- GS-4543 -->
 
-* GenStudio now loads users as expected when a collaborator adds an @ mention to a comment. Previously, GenStudio did not load users and displayed this error: `Unable to load users. Refresh the page`. <!-- GS-4113 -->
+* GenStudio for Performance Marketers now loads users as expected when a collaborator adds an `@` mention to a comment. Previously, users were not loaded and an error displayed: `Unable to load users. Refresh the page`. <!-- GS-4113 -->
 
 * GenStudio no longer displays the **Something went wrong** message when an editor clicks **Select content** during email creation in the prompt area. <!-- GS-4879 -->
 
