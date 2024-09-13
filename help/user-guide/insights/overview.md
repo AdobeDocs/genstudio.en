@@ -36,7 +36,7 @@ The [!DNL Insights] _[!UICONTROL Channels]_ view is the default view and shows a
 
 ### Experiences
 
-The [!DNL Insights] _[!UICONTROL Experiences]_ view concentrates on evaluating the effectiveness of an experience. The [!UICONTROL Experiences] view enables you to analyze an experience's metrics based on its ad placement within a specified date range. By clicking on an _[!UICONTROL Ad name]_, you can access a list of assets used in the selected experience, allowing you to identify which components have contributed to its overall success.
+The [!DNL Insights] _[!UICONTROL Experiences]_ view concentrates on evaluating the effectiveness of an experience. The [!UICONTROL Experiences] view enables you to analyze an experience's metrics based on its ad placement within a specified date range. By clicking on an _[!UICONTROL Ad name]_, you can view the ad performance metrics, performance by ad placement, and attributes.
 
 ### Assets
 

@@ -14,9 +14,9 @@ The [!DNL Insights] _[!UICONTROL Channels]_ view shows a list of campaigns for t
 
 The [!UICONTROL Channels] table is organized using the channel-based ad campaign. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from the [!UICONTROL Account], [!UICONTROL Status], and [!UICONTROL Objective] lists to filter the campaigns in the table.
 
-![Channel filter and table](../../assets/insights-channel-filter.png)
+![Channels filter and table](../../assets/insights-channels-filter.png)
 
- When you select a campaign, the [!UICONTROL Experiences] tab opens to a list of ad names associated with that campaign.
+When you select a campaign, the [[!UICONTROL Experiences] tab](experiences.md) opens to a list of ad names associated with that campaign, which allows you to identify which experiences have contributed to its overall success.
 
 ## Objectives
 
