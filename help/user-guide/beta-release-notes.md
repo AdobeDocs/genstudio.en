@@ -19,7 +19,7 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 
 * Email generation results in an incomplete email. **Workaround**: Refresh the page and regenerate. <!-- GS-5209 -->
 
-* Templates can be uploaded but not seen. **Workaround**: Customers can assign the asset to a [!DNL Campaign] before uploading it. Then, upload the template again. (Assigning the asset to a [!DNL Campaign] adds [!DNL Campaign] metadata values.) <!-- GS-4815 --> 
+* Templates can be uploaded but not seen. **Workaround**: Create or upload an asset and enter an asset group name in the **[!UICONTROL Campaigns]** field. Assigning the asset to a [!DNL Campaign] adds the group name metadata value. Then, upload the template again. <!-- GS-4815 --> 
 
 * Campaign thumbnails are missing from [!DNL Insights]. <!-- GS-4648 -->
 
