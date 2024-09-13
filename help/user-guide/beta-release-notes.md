@@ -19,7 +19,7 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 
 * Email generation results in an incomplete email. **Workaround**: Refresh the page and regenerate. <!-- GS-5209 -->
 
-* Templates can be uploaded but not seen. <!-- GS-4815 -->
+* Templates can be uploaded but not seen. Workaround: Customers can upload the asset with its assigned metadata first before uploading the template again. <!-- GS-4815 -->
 
 * Campaign thumbnails are missing from [!DNL Insights]. <!-- GS-4648 -->
 
@@ -27,9 +27,9 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 
 ### Known issues resolved this week
 
-* The [!DNL Create] Canvas renders images in Meta Ads incorrectly. <!-- GS-4864 -->
-* Discrepancy exists between Meta Ads Canvas previews and exported views. <!-- GS-4492 4401 -->
-* Uploaded images do not always include the expected smart tags. <!-- GS-4856 -->
+* The [!DNL Create] Canvas renders images in Meta Ads incorrectly. **Fixed**<!-- GS-4864 -->
+* Although discrepancies can exist between Meta Ads Canvas previews and exported views, exported experiences work as expected. **Fixed** <!-- GS-4492 4401 -->
+* Uploaded images do not always include the expected smart tags. **Fixed** <!-- GS-4856 -->
 
 ### Additional enhancements and fixed issues
 
