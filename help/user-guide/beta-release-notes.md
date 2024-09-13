@@ -19,19 +19,19 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 
 * Email generation results in an incomplete email. **Workaround**: Refresh the page and regenerate. <!-- GS-5209 -->
 
-* Templates can be uploaded but not seen. Workaround: Customers can upload the asset with its assigned metadata first before uploading the template again. <!-- GS-4815 -->
+* Templates can be uploaded but not seen. **Workaround**: Customers can assign the asset to a [!DNL Campaign] before uploading it. Then, upload the template again. (Assigning the asset to a [!DNL Campaign] adds [!DNL Campaign] metadata values.) <!-- GS-4815 --> 
 
 * Campaign thumbnails are missing from [!DNL Insights]. <!-- GS-4648 -->
 
 * Users must log in twice to a channel Meta Ads account when they are also logged in to Facebook. **Workaround**: Log out of Facebook before logging into a channel Meta Ads account. <!-- GS-4806 -->
 
-### Known issues resolved this week
-
-* The [!DNL Create] Canvas renders images in Meta Ads incorrectly. **Fixed**<!-- GS-4864 -->
-* Although discrepancies can exist between Meta Ads Canvas previews and exported views, exported experiences work as expected. **Fixed** <!-- GS-4492 4401 -->
-* Uploaded images do not always include the expected smart tags. **Fixed** <!-- GS-4856 -->
-
 ### Additional enhancements and fixed issues
+
+* The [!DNL Create] Canvas renders images in Meta Ads incorrectly. <!-- GS-4864 -->
+
+* Although discrepancies can exist between Meta Ads Canvas previews and exported views, exported experiences work as expected. <!-- GS-4492 4401 -->
+
+* Uploaded images do not always include the expected smart tags. <!-- GS-4856 -->
 
 * The Meta ad export CSV file now contains images as expected. Previously, the ZIP file contained the CSV export file and NULL files instead of images.  <!-- GS-5107 -->
 
@@ -111,8 +111,6 @@ Previous Beta releases included the following highlights and fixes.
 * The Attributes screen search result count no longer displays `0 of` before a user logs in. (fixed 8/16) <!-- GS-3665 -->
 
 * Clicking the **[!UICONTROL [!DNL Insights]]**  > **[!UICONTROL Asset]** count field no longer clears search and filter settings. (fixed 8/16) <!-- GS-3476 -->
-
-### Known issues resolved in past Beta releases
 
 * GenStudio displays an error when a user tries to enter credentials in the [!DNL Insights] view. (fixed 8/29) <!-- GS-4689 --> 
 
