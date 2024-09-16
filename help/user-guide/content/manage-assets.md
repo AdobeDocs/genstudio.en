@@ -18,21 +18,23 @@ The following shows a search on the term `dog` in the [!UICONTROL Assets] galler
 
 ### Asset location
 
-By default, assets are stored in the `GenStudio assets` repository, such as assets that you add to [!DNL Content] through the [!DNL Create] process or through upload. The `GenStudio assets` repository is a read-write repository in GenStudio for Performance Marketers. This means that you can save, edit, and delete assets in the `GenStudio assets` repository.
+By default, assets that you add to [!DNL Content] through the [!DNL Create] process or through upload are stored in the `GenStudio assets` repository. The `GenStudio assets` repository is a read-write repository in GenStudio for Performance Marketers. This means that you can save, edit, and delete assets in the `GenStudio assets` repository.
 
-The **[!UICONTROL Location]** list above the gallery on the right side allows you to select from existing Adobe Experience Manager (AEM) repositories. When you select an AEM repository, the gallery shows an inventory of assets from that repository, allowing you to leverage approved assets from your AEM environment.
+The **[!UICONTROL Location]** list above the gallery on the right side allows you to select from existing Adobe Experience Manager (AEM) Content Hub repositories. When you select an AEM repository, the gallery shows an inventory of assets from that repository, allowing you to leverage approved assets from these repositories as inputs for content creation.
 
-The AEM repository is read-only, which means you cannot save drafts, new assets, or metadata to the AEM repository. All drafts and newly created assets save to the `GenStudio assets` repository with new [system metadata](asset-details.md#system-metadata).
+The AEM repository is read-only, which means you cannot save drafts, new assets, or metadata to the AEM repository. All drafts and final updates for assets, experiences, and templates save to the `GenStudio assets` repository with new [system metadata](asset-details.md#system-metadata).
 
-See [Connect an AEM repository](connect-aem-repo.md) for guidance on adding your AEM repository to GenStudio for Perfomance Marketers.
+See [Connect an AEM repository](connect-aem-repo.md) for guidance on adding your AEM Content Hub repository to GenStudio for Perfomance Marketers.
 
 ## Asset management
 
-In [!UICONTROL Content], Performance Marketers can easily store, retrieve, and manage their digital assets. By leveraging both the `GenStudio assets` repository and Adobe Experience Manager (AEM) repositories, users can ensure that their assets are well-organized and accessible for various marketing campaigns. This multi-repository approach provides flexibility and control over asset usage across environments, ensuring that only approved and up-to-date assets are used in marketing efforts.
+In [!UICONTROL Content], Performance Marketers can easily store, retrieve, and manage their digital assets. By leveraging both the `GenStudio assets` repository and AEM repositories, users can ensure that their assets are well-organized and accessible for various marketing campaigns. This multi-repository approach provides flexibility and control over asset usage across environments, ensuring that only approved and up-to-date assets are used in marketing efforts.
 
 ### Add assets
 
-When adding assets to [!DNL Content], they are by default stored in the `GenStudio assets` repository.
+When adding assets to [!DNL Content], they are by default stored in the `GenStudio assets` repository. The _[!UICONTROL Add assets]_ button is available only when the _[!UICONTROL Location]_ is the `GenStudio assets` repository.
+
+![Location field](../../assets/content-location.png){width="350" align="center"}
 
 **To add one or more assets**:
 
