@@ -27,13 +27,13 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 
 ### Additional enhancements and fixed issues
 
-* The [!DNL Create] Canvas renders images in Meta Ads incorrectly. <!-- GS-4864 -->
+* The [!DNL Create] Canvas now renders images in Meta Ads correctly. <!-- GS-4864 -->
 
 * Although discrepancies can exist between Meta Ads Canvas previews and exported views, exported experiences work as expected. <!-- GS-4492 4401 -->
 
-* Uploaded images do not always include the expected smart tags. <!-- GS-4856 -->
+* Uploaded images now include the expected smart tags. <!-- GS-4856 -->
 
-* The Meta ad export CSV file now contains images as expected. Previously, the ZIP file contained the CSV export file and NULL files instead of images.  <!-- GS-5107 -->
+* The Meta Ads export CSV file now contains images as expected. Previously, the ZIP file contained the CSV export file and NULL files instead of images.  <!-- GS-5107 -->
 
 * Users can now enter text into the Template Detail view **[!UICONTROL Uploaded by]** field as expected. Previously, the loading icon prevented users from entering text. <!-- GS-4887 -->
 
