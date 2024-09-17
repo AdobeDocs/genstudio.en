@@ -39,4 +39,4 @@ In _[!DNL Content Hub]_ configuration options, review each set of configuration 
 
 ## Step 5: Verify the connection
 
-TBD
+In GenStudio for Performance Marketers Content, the _[!UICONTROL Location]_ list is available above the gallery on the right side. The list is not available if you do not have access or your organization has not deployed and connected an AEM [!DNL Content Hub] repository.

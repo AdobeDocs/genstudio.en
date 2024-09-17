@@ -20,11 +20,11 @@ The following shows a search on the term `dog` in the [!UICONTROL Assets] galler
 
 By default, assets that you add to [!DNL Content] through the [!DNL Create] process or through upload are stored in the `GenStudio assets` repository. The `GenStudio assets` repository is a read-write repository in GenStudio for Performance Marketers. This means that you can save, edit, and delete assets in the `GenStudio assets` repository.
 
-The **[!UICONTROL Location]** list above the gallery on the right side allows you to select from existing Adobe Experience Manager (AEM) Content Hub repositories. When you select an AEM repository, the gallery shows an inventory of assets from that repository, allowing you to leverage approved assets from these repositories as inputs for content creation.
+The **[!UICONTROL Location]** list above the gallery on the right side allows you to select from connected Adobe Experience Manager (AEM) Content Hub repositories. When you select an AEM repository, the gallery shows an inventory of assets from that repository, allowing you to leverage approved assets from these repositories as inputs for content creation. The filter options change to reflect the categories configured in Content Hub.
 
 The AEM repository is read-only, which means you cannot save drafts, new assets, or metadata to the AEM repository. All drafts and final updates for assets, experiences, and templates save to the `GenStudio assets` repository with new [system metadata](asset-details.md#system-metadata).
 
-See [Connect an AEM repository](connect-aem-repo.md) for guidance on adding your AEM Content Hub repository to GenStudio for Perfomance Marketers.
+See [Connect an AEM repository](connect-aem-repo.md) for guidance on adding your AEM Content Hub repository to GenStudio for Performance Marketers.
 
 ## Asset management
 
@@ -64,13 +64,17 @@ In the future, need guidance on template upload errors. For now, the UI just say
 
 The [!DNL Content] search interface is quick and responsive, and provides a productive search-first experience.
 
-Apply filters and use metadata tags from asset details to narrow search results. For example, you may want to find an asset to help you build a new experience for your campaign.
+Apply filters and use metadata tags from asset details to narrow search results. For example, you may want to find an asset of a particular file type or subject matter to help you build a new experience for your campaign.
 
 **To search for content to reuse**:
 
 1. In _[!DNL Content]_, select the **[!UICONTROL Assets]** section.
 
 1. Select an asset repository from the **[!UICONTROL Location]** list, or verify that you are looking at the correct asset repository. `GenStudio assets` is the default repository.
+
+   >[!IMPORTANT]
+   >
+   >The _Location_ list is available only when you [connect to an AEM repository](connect-aem-repo.md).
 
 1. Click **[!UICONTROL Search]** (magnifying glass) to enter a keyword or description.
 

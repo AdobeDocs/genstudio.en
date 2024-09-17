@@ -10,7 +10,21 @@ Adobe GenStudio for Performance Marketers stores approved content with rich meta
 
 Each asset (including experiences and templates) has associated _details_ (metadata) that help to identify, track, use, and learn from content performance.
 
-Asset metadata types include [system metadata](#system-metadata) and [user-defined metadata](#user-defined-metadata).
+**To view asset details**:
+
+1. In _[!DNL Content]_, select an asset, experience, or template. Clicking on an asset opens a focused view of the asset.
+
+1. In the asset view, review the _[!UICONTROL Details]_ section on the right.
+
+   >[!TIP]
+   >
+   >If the _[!UICONTROL Details]_ section is not visible, click the **[!UICONTROL Information]** (i) icon.
+
+Asset details include metadata applied during the creation or upload process. Asset metadata types include [system metadata](#system-metadata) and [user-defined metadata](#user-defined-metadata).
+
+>[!NOTE]
+>
+>Assets from AEM repositories display different metadata. See [Configure asset visibility](connect-aem-repo.md#step-4-configure-asset-visibility) to learn how to configure AEM Content Hub asset details.
 
 ## System metadata
 
@@ -38,8 +52,8 @@ The following table details the metadata (asset details) you can define when cre
 
 | Field         | Description | Editable | Required |
 | ------------- | ----------- | -------- | -------- |
-| Campaign name (project name) | Default metadata captured and stored with the asset | Y | N |
-| Brand name    | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) added to GenStudio for Performance Marketers and published for use | Y | N |
+| Campaigns (project name) | Default metadata captured and stored with the asset | Y | N |
+| [!DNL Brands]    | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) added to GenStudio for Performance Marketers and published for use | Y | N |
 | [!DNL Products]      | [[!DNL Products]](/help/user-guide/guidelines/products.md) added to GenStudio for Performance Marketers for use | Y | N |
 | [!DNL Personas]      | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) added to GenStudio for Performance Marketers for use | Y | N |
 | Channels      | Content types in GenStudio for Performance Marketers the asset is used for, such as email and Meta ads | Y | N |
@@ -47,20 +61,6 @@ The following table details the metadata (asset details) you can define when cre
 | Region        | Regions for which the asset is used. Examples: `North America`, `APAC`, `Italy` | Y | N |
 | Language      | Languages for which the asset is used. Example: `Spanish` | Y | N |
 | Keywords      | Keywords used for further identification of asset characteristics and purpose | Y | N |
-
-## View asset details
-
-**To see asset details**:
-
-1. In _[!DNL Content]_, select an asset. It can be an asset, experience, or template.
-
-1. In the asset view, review the _[!UICONTROL Details]_ section on the right.
-
-   If the _[!UICONTROL Details]_ section is not visible, click the **[!UICONTROL Information]** (i) icon.
-
->[!TIP]
->
->You can view asset details from [!DNL Insights], too. [!DNL Insights] can provide usage statistics and performance context across experiences. In _[!DNL Insights]_, select the **[!UICONTROL Assets]** section.
 
 <!-- ## History
 
