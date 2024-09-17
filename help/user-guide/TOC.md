@@ -9,6 +9,8 @@ feature: Generative AI
 # Adobe GenStudio for Performance Marketers Guide {#user-guide}
 
 + [GenStudio for Performance Marketers Guide](home.md)
++ Release notes {#release-notes}
+    + [Beta release notes](beta-release-notes.md)
 + [Get started](get-started.md)
 + Introduction {#intro}
     + [Concepts](concepts.md)
@@ -49,5 +51,3 @@ feature: Generative AI
     + [Channels](insights/channels.md)
     + [Experiences](insights/experiences.md)
     + [Data columns](insights/data-columns.md)
-+ Release notes {#release-notes}
-    + [Beta release notes](beta-release-notes.md)
