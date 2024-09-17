@@ -5,11 +5,14 @@ exl-id: beae7802-09e6-4ca3-9ffa-b8494aea5ae4
 ---
 # Adobe GenStudio for Performance Marketers User Guide
 
-Adobe GenStudio for Performance Marketers is an AI-driven platform that empowers companies to autonomously generate and manage marketing content that adheres to their brand standards, complies with enterprise policies, and seamlessly supports an impactful marketing strategy.
+Adobe GenStudio for Performance Marketers is an AI-driven platform that empowers you to generate and manage marketing content that adheres to your brand standards and complies with your enterprise policies.
 
-With GenStudio for Performance Marketers, marketers and creatives can streamline the content creation process to create marketing content that is engaging, culturally relevant, and tailored to specific audiences, all while maintaining high quality and brand integrity.
+By leveraging Adobe AI technology, GenStudio for Performance Marketers provides a comprehensive suite of tools that simplify the complexities of content creation and management so that creatives can focus on innovation.
 
-By leveraging AI technology, GenStudio for Performance Marketers provides a comprehensive suite of tools that simplify the complexities of content creation and management so creatives can focus on innovation.
+## What's new
+
+- [[!DNL Insights Channels]](insights/channels.md) —New overview about customer engagement, performance, budget, and expenditures for marketing campaigns.
+- [[!DNL Insights Experiences]](insights/experiences.md) —New overview about insights related to experiences and ad performance.
 
 ## Explore capabilities
 
@@ -77,7 +80,7 @@ By leveraging AI technology, GenStudio for Performance Marketers provides a comp
          </a>
       </div>
       <p>
-         <em>Analyze content effectiveness of paid media channels.</em>
+         <em>Analyze the content effectiveness of paid media channels.</em>
       </p>
    </td>
 </tr>
