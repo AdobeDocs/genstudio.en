@@ -31,7 +31,7 @@ In the [!DNL Admin Console], add GenStudio users or user groups to the Content H
 
 ## Step 3: Approve assets
 
-Approve assets for use in [!DNL Content Hub], which in turn makes them available in GenStudio for Performance Marketers. See [Approve assets in Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) in the _AEM as a Cloud Service_ documentation.
+Approve assets for use in [!DNL Content Hub], which makes them available in GenStudio for Performance Marketers. See [Approve assets in Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) in the _AEM as a Cloud Service_ documentation.
 
 ## Step 4: Configure asset visibility
 

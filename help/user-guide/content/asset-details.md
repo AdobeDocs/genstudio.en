@@ -34,7 +34,7 @@ Default metadata that is stored and captured for an asset include the file's nam
 
 ### Generated tags
 
-When you store an approved asset in [!DNL Content], GenStudio for Performance Marketer uses Adobe's AI and machine learning capabilities to study the asset and apply tags based on the asset features. For example, a picture of a cat may result in smart tags like `pet photography` or `cat`, and color tags that identify the dominate colors the appear in the picture. You cannot edit tags.
+When you store an approved asset in [!DNL Content], GenStudio for Performance Marketers uses Adobe's AI and machine learning capabilities to study the asset and apply tags based on the asset features. For example, a picture of a cat may result in smart tags like `pet photography` or `cat`, and color tags that identify dominant colors in the picture. You cannot edit tags.
 
 ### Generated content metadata
 
