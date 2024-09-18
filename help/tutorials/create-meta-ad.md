@@ -62,7 +62,7 @@ By default, four variations—all fueled by the prompt, guidelines, and content 
 
 When generating a Meta ad, you can choose between Facebook or Instagram ads.
 
-Toggle the Meta ads channel option in the top menu bar to **Facebook** or **Instagram** to manage each channel's generated drafts.
+Toggle the Meta ads channel option—between **Facebook** and **Instagram**—in the right menu bar (Facebook and Instagram icons) to see and manage variants for each channel.
 
 When [revising the Meta ads](#revise-generated-meta-ads), you can change the aspect ratio of Facebook and Instagram ads.
 
@@ -77,7 +77,7 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 * **To change or select the call to action**, click the call to action button and select from the available button text options. In _[!UICONTROL Link]_, enter a link for the call-to-action text.
 * **To [change the size and aspect ratio of the ad](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**, click the _[!UICONTROL Resize]_ button (box with a button icon on the left side of the Canvas) and select a new size and aspect ratio to apply to all variants. The variants are duplicated and resized.
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
-* **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)** hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
+* **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
 * **To [delete an Meta ad](/help/user-guide/create/manage-variants.md#delete-variant)**, click to select the ad title (for example, "Meta 4") and click **[!UICONTROL Delete variant]**.
 
 ## Verify brand alignment

@@ -68,7 +68,7 @@ To maximize effectiveness of generated content and maintain consistent brand ide
 
    See a summary of how that specific variant performs—guidelines that pass brand validation and those that need review—when checked against your brand.
 
-1. To get the details of the sections and guidelines that need improvement, click **[!UICONTROL Review]** _or_ click the Brand validation icon in top menu bar to open the _Brand validation panel_.
+1. To get the details of the sections and guidelines that need improvement, click **[!UICONTROL Review]** _or_ the Brand validation icon in top menu bar to open the _Brand validation panel_.
 
    See all sections and brand guidelines that need your attention. The section highlighted in the panel corresponds to the section highlighted in the generated variant in the Canvas.
 

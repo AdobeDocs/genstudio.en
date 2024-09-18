@@ -41,7 +41,7 @@ Each channel has certain inherent guidelines that influence channel asset compos
 
 The following table shows each channel section, channels for which it is available, description of the section, guideline examples, and example results.
 
-| sections | Channels | Description | Best practices |
+| Sections | Channels | Description | Best practices |
 | ------------------| --------- | --------- | -------- |
 | General   | email, social ads | A second subject line or email preview text | Define overall tone/emotion to be consistent throughout email (2-5 guidelines).<br>_Examples_: "Maintain a friendly and approachable tone", "Avoid overly formal language"<br><br> |
 | Subject    | email | A compelling and interesting title to summarize the content of an email | Provide specific guidance (2-5 guidelines) on tone, length, etc. Add previously successful subject lines in _Examples_ section for better quality output.<br>_Example_: "Align subject with email body" |

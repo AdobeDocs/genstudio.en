@@ -12,11 +12,11 @@ When [creating experiences](/help/tutorials/tutorials.md), you can modify conten
 
 ## Change draft name
 
-Generated variant drafts are given a default name, shown at the top of the Canvas. Default draft names are prepended by the channel and include the date and time of generation.
+Generated variant drafts are given a default name, shown at the top of the Canvas. Default draft names are prepended by the channel name and include the date and time of generation.
 
 *Example*: "Meta: Untitled Draft - 09.5.24, 9:56 AM"
 
-**To change the default name of drafts to something more recognizable**:
+**To change the default name of drafts to more recognizable text**:
 
 1. After generating a set of variants, click into the default _Untitled Draft_ name at the top of the Canvas.
 1. Select text and enter a new name.
@@ -44,7 +44,7 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 1. (_Optional_) Enter a new prompt to change the focus of the regenerated content.
 1. Select a _[!UICONTROL Suggested edits]_ option—_[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, or _[!UICONTROL Lengthen]_.
 1. Click **[!UICONTROL Generate]**.
-1. If you want to regenerate results again, click the regenerate icon adjacent to _Results_.
+1. If you want to regenerate results, click the regenerate icon adjacent to _Results_.
 1. From the _Results_ that appear, select the desired option and click **[!UICONTROL Replace]**.
 
    The variant is updated with the revised text.
