@@ -24,7 +24,7 @@ Asset details include metadata applied during the creation or upload process. As
 
 >[!NOTE]
 >
->Assets from AEM repositories display different metadata. See [Configure asset visibility](connect-aem-repo.md#step-4-configure-asset-visibility) to learn how to configure AEM Content Hub asset details.
+>Assets from AEM repositories display different metadata. See [Configure asset visibility](connect-aem-repo.md#step-4-configure-asset-visibility) to learn how to configure AEM Assets Content Hub asset details.
 
 ## System metadata
 
@@ -50,17 +50,17 @@ When you [upload an asset](/help/user-guide/content/manage-assets.md#add-assets)
 
 The following table details the metadata (asset details) you can define when creating an asset.
 
-| Field         | Description | Editable | Required |
-| ------------- | ----------- | -------- | -------- |
-| Campaigns (project name) | Default metadata captured and stored with the asset | Y | N |
-| [!DNL Brands]    | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) added to GenStudio for Performance Marketers and published for use | Y | N |
-| [!DNL Products]      | [[!DNL Products]](/help/user-guide/guidelines/products.md) added to GenStudio for Performance Marketers for use | Y | N |
-| [!DNL Personas]      | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) added to GenStudio for Performance Marketers for use | Y | N |
-| Channels      | Content types in GenStudio for Performance Marketers the asset is used for, such as email and Meta ads | Y | N |
-| Timeframe     | Timeframe for which the asset it used, such as quarter, season, year, etc. Example: `Winter 2023` | Y | N |
-| Region        | Regions for which the asset is used. Examples: `North America`, `APAC`, `Italy` | Y | N |
-| Language      | Languages for which the asset is used. Example: `Spanish` | Y | N |
-| Keywords      | Keywords used for further identification of asset characteristics and purpose | Y | N |
+| Field         | Description |
+| ------------- | ----------- |
+| Campaigns (project name) | Default metadata captured and stored with the asset |
+| [!DNL Brands]    | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) added to GenStudio for Performance Marketers and published for use |
+| [!DNL Products]      | [[!DNL Products]](/help/user-guide/guidelines/products.md) added to GenStudio for Performance Marketers for use |
+| [!DNL Personas]      | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) added to GenStudio for Performance Marketers for use |
+| Channels      | Content types in GenStudio for Performance Marketers the asset is used for, such as email and Meta ads |
+| Timeframe     | Timeframe for which the asset it used, such as quarter, season, year, etc. Example: `Winter 2023` |
+| Region        | Regions for which the asset is used. Examples: `North America`, `APAC`, `Italy` |
+| Language      | Languages for which the asset is used. Example: `Spanish` |
+| Keywords      | Keywords used for further identification of asset characteristics and purpose |
 
 <!-- ## History
 
