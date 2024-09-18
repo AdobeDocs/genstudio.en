@@ -8,7 +8,33 @@ exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
 
 Adobe GenStudio for Performance Marketers [!DNL Content] simplifies and enhances the management of brand-approved assets for use and reuse in your digital marketing journey.
 
-## Add assets
+## Assets gallery
+
+The [!UICONTROL Assets] gallery shows an inventory of approved assets. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from many categories to filter the assets shown in the gallery. Click the search (magnifying glass) icon to use a keyword to find an asset.
+
+The following shows a search on the term `dog` in the [!UICONTROL Assets] gallery:
+
+![Assets view with search on dog](../../assets/content-assets.png)
+
+### Assets location
+
+By default, assets that you add to [!DNL Content] through the [!DNL Create] process or through upload are stored in the `GenStudio assets` repository. The `GenStudio assets` repository is a read-write repository in GenStudio for Performance Marketers. This means that you can save, edit, and delete assets in the `GenStudio assets` repository.
+
+The **[!UICONTROL Location]** list above the gallery on the right side allows you to select from connected Adobe Experience Manager (AEM) [!DNL Assets Content Hub] repositories. When you select an AEM repository, the gallery shows an inventory of assets from that repository, allowing you to leverage approved assets from these repositories as inputs for content creation. The filter options change to reflect the categories configured in [!DNL AEM Assets Content Hub].
+
+The AEM repository is read-only, which means you cannot save drafts, new assets, or metadata to the AEM repository. All drafts and final updates for assets, experiences, and templates save to the `GenStudio assets` repository with new [system metadata](asset-details.md#system-metadata).
+
+See [Connect an AEM repository](connect-aem-repo.md) for guidance on adding your [!DNL AEM Assets Content Hub] repository to GenStudio for Performance Marketers.
+
+## Assets management
+
+In [!UICONTROL Content], Performance Marketers can easily store, retrieve, and manage their digital assets. By leveraging both the `GenStudio assets` repository and AEM repositories, users can ensure that their assets are well-organized and accessible for various marketing campaigns. This multi-repository approach provides flexibility and control over asset usage across environments, ensuring that only approved and up-to-date assets are used in marketing efforts.
+
+### Add assets
+
+When adding assets to [!DNL Content], they are by default stored in the `GenStudio assets` repository. The _[!UICONTROL Add assets]_ button is available only when the _[!UICONTROL Location]_ is the `GenStudio assets` repository.
+
+![Location field](../../assets/content-location.png){width="350" align="center"}
 
 **To add one or more assets**:
 
@@ -34,15 +60,21 @@ Adobe GenStudio for Performance Marketers [!DNL Content] simplifies and enhances
 In the future, need guidance on template upload errors. For now, the UI just says error.
 -->
 
-## Search assets
+### Search assets
 
 The [!DNL Content] search interface is quick and responsive, and provides a productive search-first experience.
 
-Apply filters and use metadata tags from asset details to narrow search results. For example, you may want to find an asset to help you build a new experience for your campaign.
+Apply filters and use metadata tags from asset details to narrow search results. For example, you may want to find an asset of a particular file type or subject matter to help you build a new experience for your campaign.
 
 **To search for content to reuse**:
 
 1. In _[!DNL Content]_, select the **[!UICONTROL Assets]** section.
+
+1. Select an asset repository from the **[!UICONTROL Location]** list, or verify that you are looking at the correct asset repository. `GenStudio assets` is the default repository.
+
+   >[!IMPORTANT]
+   >
+   >The _Location_ list is available only when you [connect to an AEM repository](connect-aem-repo.md).
 
 1. Click **[!UICONTROL Search]** (magnifying glass) to enter a keyword or description.
 

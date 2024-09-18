@@ -33,8 +33,9 @@ feature: Generative AI
     + [Publish approved content](approvals/publish-content.md)
 + Content {#content}
     + [Content overview](content/overview.md)
-    + [Asset details](content/asset-details.md)
     + [Manage assets](content/manage-assets.md)
+    + [Connect an AEM repository](content/connect-aem-repo.md)
+    + [Asset details](content/asset-details.md)
     + Templates {#templates}
         + [Work with templates](content/use-templates.md)
         + [Customize a template](content/customize-template.md)
