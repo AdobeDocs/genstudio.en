@@ -12,11 +12,11 @@ When [creating experiences](/help/tutorials/tutorials.md), you can modify conten
 
 ## Change draft name
 
-Generated variant drafts are given a default name, shown at the top of the Canvas. Default draft names are prepended by the channel name and include the date and time of generation.
+Generated variant drafts have a default name shown at the top of the Canvas. Default draft names use the following convention that includes the channel type, date, and time of generation.
 
 *Example*: "Meta: Untitled Draft - 09.5.24, 9:56 AM"
 
-**To change the default name of drafts to more recognizable text**:
+**To change the default name**:
 
 1. After generating a set of variants, click into the default _Untitled Draft_ name at the top of the Canvas.
 1. Select text and enter a new name.
