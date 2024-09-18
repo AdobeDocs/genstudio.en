@@ -26,22 +26,22 @@ See [Improve brand alignment](#improve-brand-alignment).
 
 ## Brand validation panel
 
-The _Brand validation panel_  provides detailed brand validation information and illuminates opportunities for improvement for each variant fragment.
+The _Brand validation panel_  provides detailed brand validation information and illuminates opportunities for improvement for each variant section.
 
 The _Brand validation panel_ displays information for:
 
 * **Email**: 
-  * Subject line fragment
-  * Preheader fragment
-  * Header fragment
-  * Body fragment
-  * CTA (call to action) fragment
+  * Subject line section
+  * Preheader section
+  * Header section
+  * Body section
+  * CTA (call to action) section
   * Brand voice guidelines
 * **Meta ad**:
-  * Headline fragment
-  * Body copy fragment
-  * CTA (call to action) fragment
-  * On-image text fragment
+  * Headline section
+  * Body copy section
+  * CTA (call to action) section
+  * On-image text section
 
 See [Improve brand alignment](#improve-brand-alignment).
 
@@ -60,7 +60,7 @@ In the _Brand validation panel_ you can filter what guidelines are shown. Click 
 
 ## Improve brand alignment
 
-To maximize effectiveness of generated content and maintain consistent brand identity, use the _Brand guidelines check_ and the _Brand Validation panel_. You can manually modify specific fragments to align with your [brand guidelines](brands.md).
+To maximize effectiveness of generated content and maintain consistent brand identity, use the _Brand guidelines check_ and the _Brand Validation panel_. You can manually modify specific sections to align with your [brand guidelines](brands.md).
 
 **To improve brand alignment for generated content variants**:
 
@@ -68,24 +68,24 @@ To maximize effectiveness of generated content and maintain consistent brand ide
 
    See a summary of how that specific variant performs—guidelines that pass brand validation and those that need review—when checked against your brand.
 
-1. To get the details of the fragments and guidelines that need improvement, click **[!UICONTROL Review]** _or_ click the Brand validation icon in top menu bar to open the _Brand validation panel_.
+1. To get the details of the sections and guidelines that need improvement, click **[!UICONTROL Review]** _or_ click the Brand validation icon in top menu bar to open the _Brand validation panel_.
 
-   See all fragments and brand guidelines that need your attention. The fragment highlighted in the panel corresponds to the fragment highlighted in the generated variant in the Canvas.
+   See all sections and brand guidelines that need your attention. The section highlighted in the panel corresponds to the section highlighted in the generated variant in the Canvas.
 
    >[!NOTE]
    >
-   > The _Brand voice_ guideline noted in the _Brand validation panel_ applies to the entire variant, not an individual fragment. The whole content variant is highlighted for suggested improvement.
+   > The _Brand voice_ guideline noted in the _Brand validation panel_ applies to the entire variant, not an individual section. The whole content variant is highlighted for suggested improvement.
 
-1. Manually revise variant fragments to achieve the strongest alignment to your brand.
+1. Manually revise variant sections to achieve the strongest alignment to your brand.
 
 1. After making necessary revisions, click **[!UICONTROL Re-check]** to validate your changes and ensure they are more closely aligned with your brand identity.
 
-   The brand validation process will run again. If the fragment/guideline passes validation, a green checkmark appears for that fragment in the _Brand validation panel_. The percentage in the _Brand guideline check_ icon for the revised variant also shows your progress.
+   The brand validation process will run again. If the section/guideline passes validation, a green checkmark appears for that section in the _Brand validation panel_. The percentage in the _Brand guideline check_ icon for the revised variant also shows your progress.
 
-1. Continue revising fragments to ensure the entire variant passes brand validation.
+1. Continue revising sections to ensure the entire variant passes brand validation.
 
    Navigate between guidelines in the _Brand validation panel_ using the **[!UICONTROL Next]** and **[!UICONTROL Previous]** buttons.
 
-1. At the top of the _Brand validation panel_, navigate through each variant using the arrows (for instance, use the arrow to move from `Email 1` to `Email 2`) and continue revising fragments to better adhere to your brand.
+1. At the top of the _Brand validation panel_, navigate through each variant using the arrows (for instance, use the arrow to move from `Email 1` to `Email 2`) and continue revising sections to better adhere to your brand.
 
    See [Brand voice guidelines](/help/user-guide/guidelines/brands.md#brand-voice-guidelines) for more information on considered guidelines.

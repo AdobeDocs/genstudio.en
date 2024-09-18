@@ -1,7 +1,7 @@
 ---
 title: Create a Meta ad experience
-description: Learn how to create a new on-brand Meta ad experience—for Facebook or Instagram—with generative AI.
-feature: Content, Brands Service, Guidelines, Content Generation
+description: Learn how to create a new on-brand Meta ad experience—for Facebook or Instagram—with Adobe GenStudio for Performance Marketers.
+feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
@@ -41,6 +41,7 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
    * Click **[!UICONTROL Select from content]** to select assets (images) already published to [!DNL Content]. Use the filters to further narrow your search results.
    * Click **[!UICONTROL Upload]** to browse your files and choose assets to use. Along with browsing your device, you can also import from Microsoft OneDrive or Dropbox.
    * Drag and drop assets into the _Content_ section.
+1. Click **[!UICONTROL Use]**.
 
 When you are done adding parameters, you can collapse the prompt area by clicking the _Parameters_ icon again.
 
@@ -71,14 +72,13 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 
 **To revise generated variants**:
 
-* **To edit the Meta ad draft name**, click into the _Untitled Draft_ title at the top of the Canvas and enter a new title.
-* **To manually edit an Meta ad**, double-click into any of the ad fragments (such as the subject line, header, or body copy) and edit as needed.
-
-   The subject line and preheader only require a single click to edit, while the header and body copy require a double-click.
-
-* **To change or select the call to action**, click the call to action button and select from an available button.
-* **To change the size and aspect ratio**, click the _[!UICONTROL Resize]_ button (box with a button icon on the left side of the Canvas) and select a new size and aspect ratio to apply to all variants. The variants are duplicated and resized.
-* **To delete an Meta ad**, click to select the ad title (for example, "Meta 4") and click **[!UICONTROL Delete variant]**.
+* **To [edit the Meta ad draft name](/help/user-guide/create/manage-variants.md#change-draft-name)**, click into the _Untitled Draft_ title at the top of the Canvas and enter a new title.
+* **To [manually edit an Meta ad](/help/user-guide/create/manage-variants.md#manually-edit-text)**, double-click into any of the ad sections (such as the subject line, header, or body copy) and edit as needed.
+* **To change or select the call to action**, click the call to action button and select from the available button text options. In _[!UICONTROL Link]_, enter a link for the call-to-action text.
+* **To [change the size and aspect ratio of the ad](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**, click the _[!UICONTROL Resize]_ button (box with a button icon on the left side of the Canvas) and select a new size and aspect ratio to apply to all variants. The variants are duplicated and resized.
+<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
+* **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)** hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
+* **To [delete an Meta ad](/help/user-guide/create/manage-variants.md#delete-variant)**, click to select the ad title (for example, "Meta 4") and click **[!UICONTROL Delete variant]**.
 
 ## Verify brand alignment
 
@@ -87,7 +87,7 @@ To optimize the generated ads and ensure strict adherence to brand identity, lev
 **To verify brand alignment**:
 
 1. Click the [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) icon for a variant and see a summary of how that variant performs when checked against your brand.
-1. To get the details of the fragments and guidelines that need improvement, click **[!UICONTROL Review]** _or_ click the Brand validation icon in top menu bar to open the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel).
+1. To get the details of the sections and guidelines that need improvement, click **[!UICONTROL Review]** _or_ click the Brand validation icon in top menu bar to open the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel).
 
 1. Toggle through each ad to see how you can improve the generated content to be more brand-aligned.
 1. [Manually revise ads](#revise-generated-meta-ads) to ensure your ads are closely aligned with your brand.
