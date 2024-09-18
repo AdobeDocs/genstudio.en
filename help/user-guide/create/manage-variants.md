@@ -97,9 +97,9 @@ Available size/aspect ratios are:
 
 ## Delete variant
 
-You can delete any generated variants that you do not want to save or reuse.
+You can delete any generated variants that you do not plan to save or reuse.
 
-Deleting unneeded variants ensures that the working Canvas shows only the variants you are actively refining or using.
+Delete needless variants so that the working Canvas shows only the variants you are actively refining or using.
 
 **To delete a generated variant**:
 
@@ -113,6 +113,6 @@ Deleting unneeded variants ensures that the working Canvas shows only the varian
 
 ## Brand validation per variant
 
-Use the _[!UICONTROL Brand guidelines check]_ and the _[!UICONTROL Brand validation panel]_ to ensure brand alignment of variants to maintain consistent brand identity.
+Use the _[!UICONTROL Brand guidelines check]_ and the _[!UICONTROL Brand validation panel]_ to maintain consistent brand identity and alignment of variants.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment).
