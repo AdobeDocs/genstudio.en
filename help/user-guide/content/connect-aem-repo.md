@@ -18,13 +18,13 @@ The following steps require administrative access to Admin Console and AEM Asset
 
 ## Step 1: Enable [!DNL Content Hub]
 
-As part of the **Deploy Content Hub** self-service process, follow the steps to enable Content Hub for your existing AEM repository in Cloud Manager. See [Deploy [!DNL Content Hub]](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub) in the _AEM as a Cloud Service_ documentation.
+Follow the **Deploy Content Hub** self-service process to enable [!DNL Content Hub] for your existing AEM repository in Cloud Manager. See [Deploy [!DNL Content Hub]](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub) in the _AEM as a Cloud Service_ documentation.
 
 After you enable [!DNL Content Hub], you have a new instance with the `contenthub` suffix within [!DNL AEM Assets as a Cloud Service] on Admin Console.
 
 ## Step 2: Onboard GenStudio users
 
-In the [!DNL Admin Console], add GenStudio users or user groups to the Content Hub product profiles. [!DNL Content Hub] users can view assets but cannot add assets or modify existing assets.
+In the [!DNL Admin Console], add GenStudio users or user groups to the [!DNL Content Hub] product profiles. [!DNL Content Hub] users can view assets but cannot add assets or modify existing assets.
 
 - [Onboard [!DNL Content Hub] administrator](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-administrator)
 - [Onboard [!DNL Content Hub] users](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-users)
