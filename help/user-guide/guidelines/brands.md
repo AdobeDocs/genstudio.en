@@ -14,7 +14,7 @@ GenStudio for Performance Marketers uses the wealth of brand information from yo
 
 1. In the left navigation area, click **[!UICONTROL [!DNL Brands]]**.
 1. To see a brand's overview information, click to open a defined brand.
-1. To view individual details or modify a brand, click **[!UICONTROL [Brand voice guidelines](#brand-voice-guidelines)]**, **[!UICONTROL [Channel guidelines](#channel-guidelines)]**, **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
+1. To view individual details or modify a brand, click [**[!UICONTROL Brand voice guidelines]**](#brand-voice-guidelines), [**[!UICONTROL Channel guidelines]**](#channel-guidelines), **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
 
 You can upload brand guideline docs—up to three PDF or DOC files—to GenStudio for Performance Marketers to automatically create a brand. See [Add guidelines](add-guidelines.md) to learn how to add a brand to GenStudio for Performance Marketers, modify it, publish it, and more.
 
