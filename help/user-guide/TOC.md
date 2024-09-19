@@ -9,6 +9,8 @@ feature: Generative AI
 # Adobe GenStudio for Performance Marketers Guide {#user-guide}
 
 + [GenStudio for Performance Marketers Guide](home.md)
++ Release notes {#release-notes}
+    + [Beta release notes](beta-release-notes.md)
 + [Get started](get-started.md)
 + Introduction {#intro}
     + [Concepts](concepts.md)
@@ -23,6 +25,7 @@ feature: Generative AI
     + [Brand validation](guidelines/brand-validation.md)
 + Create {#create}
     + [[!DNL Create] overview](create/overview.md)
+    + [Manage variants](create/manage-variants.md)
 + Reviews & Approvals {#approve}
     + [Review and Approvals overview](approvals/overview.md)
     + [Request review and approval of content](approvals/request-review.md)
@@ -31,8 +34,9 @@ feature: Generative AI
     + [Publish approved content](approvals/publish-content.md)
 + Content {#content}
     + [Content overview](content/overview.md)
-    + [Asset details](content/asset-details.md)
     + [Manage assets](content/manage-assets.md)
+    + [Connect an AEM repository](content/connect-aem-repo.md)
+    + [Asset details](content/asset-details.md)
     + Templates {#templates}
         + [Work with templates](content/use-templates.md)
         + [Customize a template](content/customize-template.md)
@@ -49,5 +53,3 @@ feature: Generative AI
     + [Channels](insights/channels.md)
     + [Experiences](insights/experiences.md)
     + [Data columns](insights/data-columns.md)
-+ Release notes {#release-notes}
-    + [Beta release notes](beta-release-notes.md)
