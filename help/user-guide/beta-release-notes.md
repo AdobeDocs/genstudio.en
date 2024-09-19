@@ -9,13 +9,13 @@ These notes highlight significant Adobe GenStudio for Performance Marketers fixe
 
 ## New features and enhancements
 
-* **Integration with AEM assets**. Read-only access to AEM asset is now available. <!-- GS-2432 -->
+* **Integration with Adobe Experience Manager Assets**. Read-only access to Adobe Experience Manager Assets is now available. <!-- GS-2432 -->
 
-* **Enhancements to the Update Template workflow**.  Users updating templates now select the channel in which they want to use the template. <!-- GS-4029 -->
+* **Enhancements to the Update Template workflow**.  Users updating templates now select the channel for which they want to use the template. <!-- GS-4029 -->
 
-* **Improved Create page load performance**.  Unused dependencies have been removed from the page load process. <!-- GS-3630 -->
+* **Improved Create page load performance**. Unused dependencies have been removed from the page load process. <!-- GS-3630 -->
 
-* **Multi-section email support**. Editors can now generate emails that contain multiple sections and images. They can also regenerate specific fragments of a generated email (for example, headline). <!-- GS-2436 -->
+* **Multi-section email support**. Editors can now generate emails that contain multiple sections and images. They can also regenerate specific fragments of a generated email (for example, a headline). <!-- GS-2436 -->
 
 * **Toggle between desktop and mobile view during creation**. Users can now toggle between desktop and mobile view to preview email experience variants. <!-- GS-4314 -->
 
@@ -33,13 +33,13 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 
 * Email generation results in an incomplete email. **Workaround**: Refresh the page and regenerate. <!-- GS-5209 -->
 
-* Templates can be uploaded but not seen. **Workaround**: Create or upload an asset and enter an asset group name in the **[!UICONTROL Campaigns]** field. Assigning the asset to a [!DNL Campaign] adds the group name metadata value. Then, upload the template again. <!-- GS-4815 --> 
+* Templates can be uploaded but not seen. **Workaround**: Upload an asset with the **[!UICONTROL Campaigns]** field populated. Then, upload the template again. <!-- GS-4815 --> 
 
 * Users must log in twice to a channel Meta ads account when they are also logged in to Facebook. **Workaround**: Log out of Facebook before logging into a channel Meta ads account. <!-- GS-4806 -->
 
 ### Additional enhancements and fixed issues
 
-* Drag and drop now works as expected in the prompt area. <!-- GS-3977 -->
+* Drag-and-drop now works as expected in the prompt area. <!-- GS-3977 -->
 
 * Corrected issues with using the Tab key to navigate through elements on the left navigation bar. Previously, multiple clicks were needed to navigate from one element to the next active element.  <!-- GS-2639 -->
 
@@ -48,10 +48,7 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 * Users can now successfully edit an experience title. Previously, the title text defaulted to the original text after a user tried to edit it. <!-- GS-5246 -->
 * Selected images now render on the Canvas as expected during multi-part email creation. <!-- GS-5263 -->
 
-* Users can now select a different repository from [!DNL Content] if the first repository they choose fails. <!-- GS-5462 -->
-
 * All strings in the [!DNL Content] Experiences detail page are now localized. <!-- GS-5016 -->
-
 
 * Users can now delete a product whose Detail view is opened in [!DNL Products]. <!-- GS-5057 -->
 
@@ -59,7 +56,7 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 
 * `aria-label` attribute values for search filter values are now translated as expected. <!-- GS-5388 -->
 
-* Users can now delete duplicate assets in [!DNL Content] successfully.  <!-- GS-5233 -->
+* Users can now delete duplicate assets in the [!DNL Create] Canvas prompt area successfully.  <!-- GS-5233 -->
 
 * The Account filter now works as expected with experiences, assets, and attributes. <!-- GS-4812 -->
 
@@ -76,8 +73,6 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 * Users can now pick values for [!DNL Personas], [!DNL Brands], or [!DNL Products] only from the dropdown menu. Previously, the _Template upload_ dialog let users enter any [!DNL Persona], [!DNL Brand], or [!DNL Product] name. <!-- GS-5072 5071-->
 
 * The **[!UICONTROL Back]** button is now disabled during the Template upload process. <!-- GS-5358 -->
-
-* Users can now search within the Template area. <!-- GS-5469 -->
 
 * All strings in the [!DNL Create] Select template detail view are now localized. <!-- GS-5025 -->
 
@@ -134,7 +129,7 @@ Previous Beta releases included the following highlights and fixes.
 
 * Users can now enter text into the Template Detail view **[!UICONTROL Uploaded by]** field as expected. Previously, the loading icon prevented users from entering text. (fixed 9/13) <!-- GS-4887 -->
 
-* Users are no longer redirected to the Detail view of a brand after the brand has been deleted.(fixed 9/13)  <!-- GS-2663 -->
+* Users are no longer redirected to the Detail view of a brand after the brand has been deleted. (fixed 9/13)  <!-- GS-2663 -->
 
 * Editors no longer receive the following error when sending variants for review and approval: `You have no access to view comments on this Object`. (fixed 9/13)  <!-- GS-5140 -->
 
