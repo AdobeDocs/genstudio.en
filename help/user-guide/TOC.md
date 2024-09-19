@@ -25,6 +25,7 @@ feature: Generative AI
     + [Brand validation](guidelines/brand-validation.md)
 + Create {#create}
     + [[!DNL Create] overview](create/overview.md)
+    + [Manage variants](create/manage-variants.md)
 + Reviews & Approvals {#approve}
     + [Review and Approvals overview](approvals/overview.md)
     + [Request review and approval of content](approvals/request-review.md)

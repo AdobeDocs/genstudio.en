@@ -1,7 +1,7 @@
 ---
 title: Create an email experience
-description: Learn how to create email experiences in Adobe [!DNL GenStudio].
-feature: Content, Brands Service, Guidelines, Content Generation
+description: Learn how to create email experiences in Adobe [!DNL GenStudio] for Performance Marketers.
+feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
@@ -41,6 +41,7 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
    * Click **[!UICONTROL Select from content]** to select assets (images) already published to [!DNL Content]. Use the filters to further narrow your search results.
    * Click **[!UICONTROL Upload]** to browse your files and choose assets to use. Along with browsing your device, you can also import from Microsoft OneDrive or Dropbox.
    * Drag and drop assets into the _Content_ section.
+1. Click **[!UICONTROL Use]**.
 
 >[!NOTE]
 >
@@ -63,16 +64,20 @@ By default, four variations—all fueled by the prompt, guidelines, and content 
 
 ## Revise generated emails
 
-Before selecting what to send for approval or publishing to [!DNL Content] you can edit email fragments or delete a variant from the set of generated emails.
+Before selecting what to send for approval or publishing to [!DNL Content] you can edit email sections or delete a variant from the set of generated emails.
 
 **To revise generated variants**:
 
-* **To edit the email draft name**, click into the _Untitled Draft_ title at the top of the Canvas and enter a new title.
-* **To manually edit an email**, double-click into any of the email fragments (such as the subject line, header, or body copy) and edit as needed.
+* **To [edit the email draft name](/help/user-guide/create/manage-variants.md#change-draft-name)**, click into the _Untitled Draft_ title at the top of the Canvas and enter a new title.
+* **To [manually edit an email](/help/user-guide/create/manage-variants.md#manually-edit-text)**, double-click into any of the editable text fields (such as the subject line, header, or body copy) and edit as needed.
+<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
+* **To [delete an email](/help/user-guide/create/manage-variants.md#delete-variant)**, click to select the email title (for example, "Email 1/4") and click **[!UICONTROL Delete variant]**.
 
-   The subject line and preheader only require a single click to edit, while the header, body copy, and call to action require a double-click.
+## Preview for device
 
-* **To delete an email**, click to select the email title (for example, "Email 1/4") and click **[!UICONTROL Delete variant]**.
+When revising and preparing email experiences, you can toggle between previews for desktop and mobile views to ensure coherence and visual appeal of draft variants.
+
+**To preview variants for desktop and mobile devices**, toggle the device preview option—between **desktop** and **mobile**—in the right menu bar (computer and phone icons) to preview how variants appear.
 
 ## Verify brand alignment
 
@@ -81,7 +86,7 @@ To optimize the generated emails and ensure strict adherence to brand identity, 
 **To verify brand alignment**:
 
 1. Click the [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) icon for a variant and see a summary of how that variant performs when checked against your brand.
-1. To get the details of the fragments and guidelines that need improvement, click **[!UICONTROL Review]** _or_ click the Brand validation icon in top menu bar to open the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel).
+1. To get the details of the sections and guidelines that need improvement, click **[!UICONTROL Review]** _or_ click the Brand validation icon in top menu bar to open the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel).
 
 1. Toggle through each email to see how you can improve the generated content to be more brand-aligned.
 1. [Manually revise emails](#revise-generated-emails) to ensure your emails are closely aligned with your brand.

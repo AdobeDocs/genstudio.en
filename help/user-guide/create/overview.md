@@ -98,6 +98,12 @@ Solicit reviews, track review comments, and obtain approvals during the creation
 
 After you are done generating content variations, send your drafts for approval by stakeholders so they can be saved to [!DNL Content] and implemented in marketing efforts.
 
+### Manage variants
+
+GenStudio for Performance Marketers allows [comprehensive control over sections of individual variants](/help/user-guide/create/manage-variants.md).
+
+You can revise sections of a single variant, re-generate the content of individual sections and use suggested edits to improve the message, size assets, and more, all within the Canvas.
+
 ## Tutorials
 
 * [Create an email experience](/help/tutorials/create-email-experience.md)

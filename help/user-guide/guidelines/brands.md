@@ -14,7 +14,7 @@ GenStudio for Performance Marketers uses the wealth of brand information from yo
 
 1. In the left navigation area, click **[!UICONTROL [!DNL Brands]]**.
 1. To see a brand's overview information, click to open a defined brand.
-1. To view individual details or modify a brand, click **[!UICONTROL Brand voice guidelines]**, **[!UICONTROL Channel guidelines]**, **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
+1. To view individual details or modify a brand, click [**[!UICONTROL Brand voice guidelines]**](#brand-voice-guidelines), [**[!UICONTROL Channel guidelines]**](#channel-guidelines), **[!UICONTROL Image guidelines]**, or **[!UICONTROL Logos]** at the top.
 
 You can upload brand guideline docs—up to three PDF or DOC files—to GenStudio for Performance Marketers to automatically create a brand. See [Add guidelines](add-guidelines.md) to learn how to add a brand to GenStudio for Performance Marketers, modify it, publish it, and more.
 
@@ -39,9 +39,9 @@ The following table shows each category of brand voice guideline and guideline e
 
 Each channel has certain inherent guidelines that influence channel asset composition.
 
-The following table shows each channel fragment, channels for which it is available, description of the fragment, guideline examples, and example results.
+The following table shows each channel section, channels for which it is available, description of the section, guideline examples, and example results.
 
-| Fragments | Channels | Description | Best practices |
+| Sections | Channels | Description | Best practices |
 | ------------------| --------- | --------- | -------- |
 | General   | email, social ads | A second subject line or email preview text | Define overall tone/emotion to be consistent throughout email (2-5 guidelines).<br>_Examples_: "Maintain a friendly and approachable tone", "Avoid overly formal language"<br><br> |
 | Subject    | email | A compelling and interesting title to summarize the content of an email | Provide specific guidance (2-5 guidelines) on tone, length, etc. Add previously successful subject lines in _Examples_ section for better quality output.<br>_Example_: "Align subject with email body" |

@@ -20,6 +20,9 @@ To add a brand to GenStudio for Performance Marketers, you can [upload a brand g
 
 In the left navigation area, click **[!DNL Brands]**. In the _[!DNL Brands]_ panel, select **Add brand**.
 
+>[!TIP]
+>Each brand operates independently with no hierarchical relationships. To create sub-brands under a parent brand, include the parent brand's information during the creation process.
+
 ### Add brand via upload
 
 You can upload your own brand documents to populate a new brand in GenStudio for Performance Marketers.
