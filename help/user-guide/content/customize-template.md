@@ -95,6 +95,10 @@ Use a prefix of your choice in the field name to indicate that a field is part o
 - `spotlight_headline`
 - `spotlight_body`
 
+>[!NOTE]
+>
+>To create diverse content for each section of a multi-section email, utilize a [structured prompt](/help/user-guide/effective-prompts.md#structured-prompts). This approach allows you to generate specific content for each field name as outlined in your email template.
+
 Each section can use only one of each field type. In the above example, the `spotlight` section can only use one `spotlight_headline` field.
 
 A template can include up to three sections:
