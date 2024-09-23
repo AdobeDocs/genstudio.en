@@ -95,10 +95,6 @@ Use a prefix of your choice in the field name to indicate that a field is part o
 - `pod1_headline`
 - `pod1_body`
 
->[!NOTE]
->
->To create diverse content for each section of a multi-section email, utilize a [structured prompt](/help/user-guide/effective-prompts.md#structured-prompts). This approach allows you to generate specific content for each field name as outlined in your email template.
-
 Each section can use only one of each field type. In the above example, the `pod1` section can only use one `pod1_headline` field.
 
 A template can include up to three sections:
@@ -110,7 +106,22 @@ A template can include up to three sections:
 - `pod2_headline`
 - `pod2_body`
 
-GenStudio for Performance Marketers understands that `pod1_headline` is more closely related to `pod1_body` than to `pod2_body`.
+GenStudio for Performance Marketers understands that `pod1_headline` is more closely related to `pod1_body` than to `pod2_body`
+
+#### Multi-section emails
+
+To generate specific content per section in multi-section emails, marketers can utilize a [structured prompt](/help/user-guide/effective-prompts.md#structured-prompts).
+
+To enable structured prompts to deliver varying content per section, the associated email template must contain section names as referenced in the prompt used for content generation.
+
+*Example*: The sections in your email template are prefixed with `Pod`—`Pod1` and `Pod2`. The structured prompt for content generation should include specific directives for those pods:
+
+```bash
+Create a marketing email describing new features in suite of products for Creative Cloud.
+  
+Pod1: Describe how to easily edit text and swap images without switching to another application, all in just a few clicks.
+Pod2: Describe how the AI Assistant for Acrobat enables you to gain document insights and access one-click summaries to enhance productivity.
+```
 
 ## Template preview
 

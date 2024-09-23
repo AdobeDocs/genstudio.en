@@ -55,12 +55,21 @@ In GenStudio for Performance Marketing, you enter one prompt that initiates cont
 
 The structured prompt should:
 
-- Follow a natural language framework.
-- Follow the recommended rules/structure. If the prompt structure does not adhere to the provided format, the prompt will apply to *all* email sections and will still facilitate content generation.
-- Use section names as [defined in your email template](/help/user-guide/content/customize-template.md#sections-or-groups). When creating your structured prompt, you must use section names that match what is coded in your email template.
-- Be case insensitive. For instance, you can use `Pod` or `pod` in your email template and structured prompt.
+- Use one of the following as a section name in both the structured prompt and email template:
+  - Pod
+  - Group
+  - Section
+  - Module
 
-The following is a sample prompt that articulates the recommended prompt structure and leverages an email template that utilizes the identifying term `Pod`.
+  For instance, you can use `moduleA` or `Group-body` as a section name in the prompt as long as the matching section name is also used in the template.
+
+- Follow the recommended rules/structure. If the prompt structure does not adhere to the provided format, the prompt will apply to *all* email sections and will still facilitate content generation.
+- Use section names as [defined in your email template](/help/user-guide/content/customize-template.md#sections-or-groups). When creating your structured prompt, your prompt references must match the section names coded in your email template.
+- Be case insensitive. For instance, you can use `Pod` or `pod` in your email template and structured prompt.
+- Reference the generic user prompt first, and then the section-specific directives.
+- Use a colon, hyphen, comma, or other demarcation (`,:;#$!~|@=-%&*^_`) as a separation between the section name reference and directive. For instance, you can use the following as a section-specific prompt directive: `Pod1; Describe how to easily edit text and swap images.`
+
+The following is a sample prompt that articulates the recommended prompt structure and leverages an email template that utilizes the identifying term `Pod` as in `Pod1`, `Pod2`, and `Pod3`.
 
 ```bash
 Create a marketing email describing new features in suite of products for Creative Cloud.
