@@ -49,6 +49,27 @@ GenStudio for Performance Marketers guidelines help the generative AI to persona
 >
 >You control how and when GenStudio for Performance Marketers uses your [!DNL Brand] guidelines. See [Guidelines](/help/user-guide/guidelines/overview.md) to learn how to configure and manage your brand guidelines.
 
+## Structured prompting for multi-section emails
+
+In GenStudio for Performance Marketing, you enter one prompt that initiates content generation for an entire asset. For emails with multiple sections, you can structure your prompt to provide section-specific instructions. For instance, you can use specific verbiage in your prompt to instruct GenStudio for Performance Marketing to generate different content for each section in an email.
+
+Your prompt should:
+
+* Follow a natural language framework.
+* Follow the recommended rules/structure. If the prompt structure does not adhere to the provided format, the prompt will apply to *all* email sections and will still facilitate content generation.
+* Use terms [defined in your email template](/help/user-guide/content/customize-template.md#sections-or-groups). When creating your structured prompt, you must use terms that match what is coded in your email template.
+* Be case insensitive. For instance, you can use `Section` or `section` in your email template and structured prompt.
+
+The following is a sample prompt that articulates the recommended prompt structure.
+
+```bash
+Create a marketing email describing new features in suite of products for Creative Cloud.
+  
+Section1: Describe how to easily edit text and swap images without switching to another application, all in just a few clicks.
+Section2: Describe how the AI Assistant for Acrobat enables you to gain document insights and access one-click summaries to enhance productivity.
+Section3: Describe the generative fill capabilities in Adobe Photoshop.
+```
+
 ## Try again
 
 Prompting is an iterative process. If the results are not meeting your expectations, review your prompt and make some changes or add more details. Or, you can paste in sections from a campaign brief. You can even request that GenStudio for Performance Marketers avoid certain words, elements, or themes.
