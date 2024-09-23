@@ -92,25 +92,25 @@ _Sections_ inform GenStudio for Performance Marketers that the fields in this se
 
 Use a prefix of your choice in the field name to indicate that a field is part of a section or group. For example, you may want to spotlight content that appears in a highlighted area:
 
-- `spotlight_headline`
-- `spotlight_body`
+- `pod1_headline`
+- `pod1_body`
 
 >[!NOTE]
 >
 >To create diverse content for each section of a multi-section email, utilize a [structured prompt](/help/user-guide/effective-prompts.md#structured-prompts). This approach allows you to generate specific content for each field name as outlined in your email template.
 
-Each section can use only one of each field type. In the above example, the `spotlight` section can only use one `spotlight_headline` field.
+Each section can use only one of each field type. In the above example, the `pod1` section can only use one `pod1_headline` field.
 
 A template can include up to three sections:
 
 - `headline`
 - `body`
-- `spotlight_headline`
-- `spotlight_body`
-- `news_headline`
-- `news_body`
+- `pod1_headline`
+- `pod1_body`
+- `pod2_headline`
+- `pod2_body`
 
-GenStudio for Performance Marketers understands that `spotlight_headline` is more closely related to `spotlight_body` than to `news_body`.
+GenStudio for Performance Marketers understands that `pod1_headline` is more closely related to `pod1_body` than to `pod2_body`.
 
 ## Template preview
 
@@ -222,14 +222,18 @@ The following is the same HTML template in the example above, but with two more 
                 width="600" height="600"
                 border="0"/></p>
         <p>{{ body }}</p>
+    <!-- Pod1 -->
         <div class="pod">
-            <h2>{{ pod1_headline }}</h2>
-            <p>This is Pod 1 content.</p>
+            <h2>{{ pod1_header }}</h2>
+            <p>{{ pod1_body }}</p>
         </div>
+        <!-- End of Pod1 -->
+    <!-- Pod2 -->
         <div class="pod">
-            <h2>{{ pod2_headline }}</h2>
-            <p>This is Pod 2 content.</p>
+            <h2>{{ pod2_header }}</h2>
+            <p>{{ pod2_body }}</p>
         </div>
+        <!-- End of Pod2 -->
     </div>
 </body>
 </html>
