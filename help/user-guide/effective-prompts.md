@@ -79,7 +79,7 @@ Pod2: Describe how the AI Assistant for Acrobat enables you to gain document ins
 Pod3: Describe the generative fill capabilities in Adobe Photoshop.
 ```
 
-See [Customize template](/help/user-guide/content/customize-template.md#sections-or-groups).
+See [Customize template](/help/user-guide/content/customize-template.md#multi-section-emails).
 
 ## Try again
 

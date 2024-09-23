@@ -123,6 +123,8 @@ Pod1: Describe how to easily edit text and swap images without switching to anot
 Pod2: Describe how the AI Assistant for Acrobat enables you to gain document insights and access one-click summaries to enhance productivity.
 ```
 
+See [Structured prompts](/help/user-guide/effective-prompts.md#structured-prompts).
+
 ## Template preview
 
 When you [upload a template](use-templates.md#upload-a-template), GenStudio for Performance Marketers scans the HTML file for recognized fields. Use the preview to review your [template elements](use-templates.md#template-elements) and confirm that you identified them properly with the [recognized field names](#recognized-field-names).
