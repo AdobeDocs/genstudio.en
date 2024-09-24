@@ -110,14 +110,12 @@ GenStudio for Performance Marketers understands that `pod1_headline` is more clo
 
 #### Multi-section emails
 
-To generate specific content per section in multi-section emails, marketers can utilize a [structured prompt](/help/user-guide/effective-prompts.md#structured-prompts).
+With [structured prompts](/help/user-guide/effective-prompts.md#structured-prompts), you can deliver instructions to generate varying content based on the section name configured in the email template.
 
-To enable structured prompts to deliver varying content per section, the associated email template must contain section names as referenced in the prompt used for content generation.
-
-*Example*: The sections in your email template are prefixed with `Pod`—`Pod1` and `Pod2`. The structured prompt for content generation should include specific directives for those pods:
+For example, the sections in your email template are prefixed with `Pod`—`Pod1` and `Pod2`. The structured prompt for content generation should include specific directives for those pods:
 
 ```bash
-Create a marketing email describing new features in suite of products for Creative Cloud.
+Create a marketing email describing new features in a suite of products for Creative Cloud.
   
 Pod1: Describe how to easily edit text and swap images without switching to another application, all in just a few clicks.
 Pod2: Describe how the AI Assistant for Acrobat enables you to gain document insights and access one-click summaries to enhance productivity.
