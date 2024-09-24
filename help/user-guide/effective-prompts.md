@@ -76,7 +76,7 @@ The following is a sample prompt that articulates the recommended prompt structu
 ```properties
 Create a marketing email describing new features in suite of products for Creative Cloud.
 
-Pod1: Describe how to easily edit text and swap images without switching to another application, all in just a few clicks.
+Pod1: Describe how to easily edit text and swap images in Adobe Express without switching to another application, all in just a few clicks.
 Pod2: Describe how the AI Assistant for Acrobat enables you to gain document insights and access one-click summaries to enhance productivity.
 Pod3: Describe the generative fill capabilities in Adobe Photoshop.
 ```
