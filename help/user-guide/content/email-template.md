@@ -25,6 +25,14 @@ After a template is designed, it is coded using HTML and inline CSS. The code sh
 
 See [Template examples](/help/user-guide/content/customize-template.md#template-examples).
 
+### Multi-section emails
+
+You can use [Structured prompts](/help/user-guide/effective-prompts.md#structured-prompts) during content generation to deliver instructions for generating varying content based on section names configured in an email template.
+
+For example, the sections in your email template are prefixed with `Pod`—`Pod1` and `Pod2`. The structured prompt for content generation can include specific directives for those email sections. GenStudio for Performance Marketing matches the section-specific directive in your prompt to the related email section and generates content aligned with the directives.
+
+See [Structured prompts](/help/user-guide/effective-prompts.md#structured-prompts).
+
 ## Test an email template
 
 Use your email delivery or proofing platform to test your email and verify that it renders properly across different email clients and devices.
