@@ -108,21 +108,6 @@ A template can include up to three sections:
 
 GenStudio for Performance Marketers understands that `pod1_headline` is more closely related to `pod1_body` than to `pod2_body`
 
-#### Multi-section emails
-
-With [structured prompts](/help/user-guide/effective-prompts.md#structured-prompts), you can deliver instructions to generate varying content based on the section name configured in the email template.
-
-For example, the sections in your email template are prefixed with `Pod`—`Pod1` and `Pod2`. The structured prompt for content generation should include specific directives for those pods:
-
-```bash
-Create a marketing email describing new features in a suite of products for Creative Cloud.
-  
-Pod1: Describe how to easily edit text and swap images without switching to another application, all in just a few clicks.
-Pod2: Describe how the AI Assistant for Acrobat enables you to gain document insights and access one-click summaries to enhance productivity.
-```
-
-See [Structured prompts](/help/user-guide/effective-prompts.md#structured-prompts).
-
 ## Template preview
 
 When you [upload a template](use-templates.md#upload-a-template), GenStudio for Performance Marketers scans the HTML file for recognized fields. Use the preview to review your [template elements](use-templates.md#template-elements) and confirm that you identified them properly with the [recognized field names](#recognized-field-names).
