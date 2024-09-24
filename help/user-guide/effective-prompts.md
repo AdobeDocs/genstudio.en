@@ -61,7 +61,7 @@ The structured prompt should:
   - Section
   - Module
 
-  For instance, you can use `moduleA` or `Group-body` as a section name in the prompt as long as the matching section name is also used in the template.
+  For instance, you can use `moduleA` or `Group-3` as a section name in the prompt as long as the matching section name is also used in the template.
 
 - Follow the recommended rules/structure. If the prompt structure does not adhere to the provided format, the prompt will apply to *all* email sections and will still facilitate content generation.
 - Use section names as [defined in your email template](/help/user-guide/content/customize-template.md#sections-or-groups). When creating your structured prompt, your prompt references must match the section names coded in your email template.
