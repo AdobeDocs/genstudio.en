@@ -26,8 +26,6 @@ The [!DNL Insights] dashboard has a configurable table for each content type: [!
 
 Each view displays a corresponding table, which you can search by keyword, filtering, and date range. You can click the settings (cog) icon above the right side of the table to toggle the viewable column types. The _[!UICONTROL Summary]_ row may show totals or averages of a column.
 
-See [Data columns for [!DNL Insights]](data-columns.md) for a description of each column type in the table.
-
 [!UICONTROL Experiences], [!UICONTROL Assets], and [!UICONTROL Attributes] include a gallery view that enables you to scan and sort assets using cards with an image or video thumbnail. There is an option to display one of three key metrics on each card: `Click-through rate`, `Cost per click`, and `Spend`.
 
 ### Channels
