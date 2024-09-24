@@ -27,7 +27,7 @@ See [Template examples](/help/user-guide/content/customize-template.md#template-
 
 ### Multi-section emails
 
-You can use [Structured prompts](/help/user-guide/effective-prompts.md#structured-prompts) during content generation to instruct GenStudio for Performance Marketing to generate varying content per section of an email.
+You can use [structured prompts](/help/user-guide/effective-prompts.md#structured-prompts) during content generation to instruct GenStudio for Performance Marketing to generate varying content per section of an email.
 
 For example, if the sections in your email template are prefixed with `Pod`—`Pod1` and `Pod2`, the structured prompt for content generation can include specific directives for those email sections. GenStudio for Performance Marketing matches the section-specific directive in your prompt to the related email section and generates content aligned with the directives.
 
