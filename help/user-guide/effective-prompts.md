@@ -51,7 +51,7 @@ GenStudio for Performance Marketers guidelines help the generative AI to persona
 
 ### Structured prompts
 
-For multi-section emails, you can structure prompts to provide section-specific instructions to generate varying content for each section in an email. Structured prompts should directly reference [section names in the email template](/help/user-guide/content/email-template.md#multi-section-emails) so that the generated content can be matched to those sections and placed accordingly in the email.
+For multi-section emails, you can structure prompts to provide section-specific instructions to generate varying content for each section in an email. Structured prompts should directly reference [section names in the email template](/help/user-guide/content/email-template.md#multi-section-emails) so that the generated content can be inserted into the corresponding content placeholders.
 
 For instance, you can instruct GenStudio for Performance Marketing to generate content that promotes a new product in the first section of an email and generate content that details the cost-saving benefits of the product in the second email section.
 
@@ -65,17 +65,17 @@ The structured prompt should:
 
   For instance, if your template uses `moduleA` or `Group-3` as a section name, then you can reference those section names in the prompt.
 
-- Follow the recommended rules/structure. If the prompt structure does not adhere to the provided format, the prompt will apply to *all* email sections and will still facilitate content generation.
+- Follow the recommended rules/structure. If the prompt structure does not adhere to the provided format, the prompt applies to *all* email sections and still facilitates content generation.
 - Use section names as [defined in your email template](/help/user-guide/content/email-template.md#code-an-email-template). Prompt references must match the section names coded in your email template.
 - Be case insensitive. For instance, you can use `Pod` or `pod` in your email template and structured prompt.
 - Reference the generic user prompt first, and then the section-specific directives.
 - Use a colon, hyphen, comma, or other demarcation (`,:;#$!~|@=-%&*^_`) as a separation between the section name reference and directive. For instance, you can use the following as a section-specific prompt directive: `Pod1; Describe how to easily edit text and swap images.`
 
-The following is a sample prompt that articulates the recommended prompt structure and leverages an email template that utilizes the identifying term `Pod` as in `Pod1`, `Pod2`, and `Pod3`.
+The following is a sample prompt that articulates the recommended prompt structure and leverages an email template that uses the identifying term `Pod` as in `Pod1`, `Pod2`, and `Pod3`.
 
-```bash
+```properties
 Create a marketing email describing new features in suite of products for Creative Cloud.
-  
+
 Pod1: Describe how to easily edit text and swap images without switching to another application, all in just a few clicks.
 Pod2: Describe how the AI Assistant for Acrobat enables you to gain document insights and access one-click summaries to enhance productivity.
 Pod3: Describe the generative fill capabilities in Adobe Photoshop.
