@@ -1,6 +1,6 @@
 ---
 title: Channels overview
-description: See an overview of customer engagement, performance, budget, and expenditures for marketing campaigns in Adobe GenStudio for Performance Marketers.
+description: See an overview of customer engagement, performance, budget, and expenditures for marketing campaigns in Adobe GenStudio for Performance Marketing.
 feature: Insights, Channels
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
 ---
@@ -10,7 +10,7 @@ The [!DNL Insights] _[!UICONTROL Channels]_ view shows a list of campaigns for t
 
 >[!TIP]
 >
->GenStudio for Performance Marketers requires you to connect to a channel account to begin receiving data. See [Connect channel account](connect-channel.md).
+>GenStudio for Performance Marketing requires you to connect to a channel account to begin receiving data. See [Connect channel account](connect-channel.md).
 
 The _[!UICONTROL Channels]_ table is organized using the channel-based ad campaign. Click the settings (cog) icon above the right side of the table to toggle the viewable columns. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from the [!UICONTROL Account], [!UICONTROL Status], and [!UICONTROL Objective] lists to filter the campaigns in the table.
 
@@ -20,7 +20,7 @@ When you select a campaign, the [[!UICONTROL Experiences] tab](experiences.md) o
 
 ## Objectives
 
-At the time that you created a campaign with Meta Ads, you may have selected an objective that aligned with your business goals. There are six objectives from Meta Ads visible in GenStudio for Performance Marketers:
+At the time that you created a campaign with Meta ads, you may have selected an objective that aligned with your business goals. There are six objectives from Meta ads visible in GenStudio for Performance Marketing:
 
 1. **Awareness**: Reach out to the maximum audience and bring awareness to your business.
 1. **Traffic**: Increase traffic to your site or application.
@@ -41,10 +41,10 @@ The following table provides definitions and insights for key digital marketing 
 
 | Metric      | Definition                    | Insight                          |
 | ----------- | ----------------------------- | -------------------------------- |
-| **[!UICONTROL Meta campaign name]** | A list of campaign names for the connected channel account. Campaign status can be `Active`, `Paused`, `Deleted`, or `Archived`. Filter campaigns by status and objective. |  |
+| **[!UICONTROL Meta campaign name]** | A list of campaign names for the connected channel account. Campaign status can be `Active`, `Paused`, `Deleted`, or `Archived`. Filter campaigns by status and objective. | Sort the campaign list by clicking on any of the key metrics. |
 | **[!UICONTROL Launch]**      | The date that the campaign was released or published to the market. | A high impressions count may indicate that the ad is reaching the intended audience. |
-| **[!UICONTROL Impressions]** | Impressions are counted each time content loads on screen, regardless of interaction or viewing. | A high impression count can indicate broad visibility, but for true performance insight, consider with other engagement metrics. |
-| **[!UICONTROL Clicks]**      | Number of times users interact with a clickable element, such as a link or a call-to-action button. | A high click count indicates strong interest and engagement with the content, which may be effective and reaching the right audience. |
+| **[!UICONTROL Impressions]** | Impressions are counted each time content loads within the channel, regardless of interaction or viewing. | A high impression count can indicate broad visibility, but for true performance insight, consider with other engagement metrics. |
+| **[!UICONTROL Clicks]**      | Number of times users interact with a clickable element, such as a link or a call-to-action button, within the channel. | A high click count indicates strong interest and engagement with the content, which may be effective and reaching the right audience. |
 | **[!UICONTROL CTR]**         | Percentage (%) of users who clicked on an ad, search result, or links.<br>**Calculation**: (`clicks` divided by `impressions`) x 100 = % | A high click-through rate indicates that the content is highly relevant and motivating to the audience in the messaging and design, and is effectively targeting the audience's interests. |
 | **[!UICONTROL CPM]**         | Performance measurement for cost ($) for every one thousand ad impressions.<br>**Calculation**: (total amount `spent` divided by `impressions`) x 1000 = $ | A low value may indicate cost-effective visibility, especially when paired with a high click-through rate. |
 | **[!UICONTROL CPC]**         | Average cost ($) associated with each click in an experience.<br>**Calculation**: total amount `spent` divided by `clicks` = $ | Lower average costs may indicate cost-efficient ad spend, especially when compared with a rise in conversions. |

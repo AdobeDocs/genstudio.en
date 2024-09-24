@@ -4,9 +4,9 @@ description: Learn how to optimize experiences based on real-time content perfor
 feature: Attributes, Insights, Experiences, Assets, Channels
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
 ---
-# Adobe GenStudio for Performance Marketers [!DNL Insights]
+# Adobe GenStudio for Performance Marketing [!DNL Insights]
 
-Adobe GenStudio for Performance Marketers [!DNL Insights] provides advanced analytics and insights into content performance that can help you make data-driven decisions.
+Adobe GenStudio for Performance Marketing [!DNL Insights] provides advanced analytics and insights into content performance that can help you make data-driven decisions.
 
 From the [!DNL Insights] dashboard, you can:
 
@@ -16,7 +16,7 @@ From the [!DNL Insights] dashboard, you can:
 
 >[!TIP]
 >
->See the [Connect channel account](connect-channel.md) for steps to enable GenStudio for Performance Marketers to receive data from your current marketing campaigns, assets, and experiences.
+>See the [Connect channel account](connect-channel.md) for steps to enable GenStudio for Performance Marketing to receive data from your current marketing campaigns, assets, and experiences.
 
 ## Dashboard
 
