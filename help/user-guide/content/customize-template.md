@@ -106,7 +106,7 @@ A template can include up to three sections:
 - `pod2_headline`
 - `pod2_body`
 
-GenStudio for Performance Marketers understands that `pod1_headline` is more closely related to `pod1_body` than to `pod2_body`
+GenStudio for Performance Marketers understands that `pod1_headline` is more closely related to `pod1_body` than to `pod2_body`.
 
 ## Template preview
 
