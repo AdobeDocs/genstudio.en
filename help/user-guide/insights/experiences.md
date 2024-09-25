@@ -31,7 +31,7 @@ GenStudio for Performance Marketing supports ad formats, such as asset feeds, li
 
 | Instagram    | Facebook/Meta    | Messenger    | Audience Network |
 | --- | --- | --- | --- |
-| Explore<br>Explore Home<br>Explore Grid Home<br>Feed<br>Reels<br>Profile Feed<br>Search<br>Shop<br>Stories | Business Explore<br>Feed<br>In-stream video<br>Marketplace<br>Reels<br>Reels Overlay<br>Right-hand column<br>Search<br>Stories<br>Video Feeds<br>Ads on Facebook Reels | Inbox<br>Stories | Native, Banner and Interstitial<br>Native<br>Rewarded Video |
+| Explore<br>Explore Home<br>Explore Grid Home<br>Feed<br>Reels<br>Profile Feed<br>Search<br>Shop<br>Stories | Business Explore<br>Feed<br>In-stream video<br>Marketplace<br>Reels<br>Reels Overlay<br>Right column<br>Search results<br>Stories<br>Video Feeds<br>Ads on Facebook Reels | Inbox<br>Stories | Native, Banner and Interstitial<br>Rewarded Video |
 
 ## Metrics
 
