@@ -1,16 +1,16 @@
 ---
-title: GenStudio for Performance Marketers [!DNL Personas]
-description: GenStudio for Performance Marketers [!DNL Personas] are a true representation of your customer segments, capturing their interests, pain points, preferences, and behavioral traits.
+title: GenStudio for Performance Marketing [!DNL Personas]
+description: GenStudio for Performance Marketing [!DNL Personas] are a true representation of your customer segments, capturing their interests, pain points, preferences, and behavioral traits.
 feature: Personas Service, Guidelines
 exl-id: f8c86f0b-81fe-4b94-b3d1-438de411864a
 ---
-# GenStudio for Performance Marketers [!DNL Personas]
+# GenStudio for Performance Marketing [!DNL Personas]
 
 [!DNL Personas] provide an authentic portrayal of your customer segments, encompassing their information, interests, pain points, preferences, and behavioral traits.
 
-GenStudio for Performance Marketers leverages the power of guidelines—[[!DNL Brands], [!DNL Products], and [!DNL Personas]](overview.md)—and Adobe's generative AI technology to curate personalized marketing content for your target customers.​
+GenStudio for Performance Marketing leverages the power of guidelines—[[!DNL Brands], [!DNL Products], and [!DNL Personas]](overview.md)—and Adobe's generative AI technology to curate personalized marketing content for your target customers.​
 
-![[!DNL Personas] guidelines in GenStudio for Performance Marketers](/help/assets/personas-guidelines.png){width="650" zoomable="yes"}
+![[!DNL Personas] guidelines in GenStudio for Performance Marketing](/help/assets/personas-guidelines.png){width="650" zoomable="yes"}
 
 **To view or modify a persona**:
 
@@ -18,11 +18,11 @@ GenStudio for Performance Marketers leverages the power of guidelines—[[!DNL B
 1. To [view individual details or modify a persona](add-guidelines.md#manage-personas), click the _[!DNL Personas]_ action menu and select **Open**.
 1. Revise the personas guidelines by clicking into a guidelines category text field.
 
-See [Add guidelines](add-guidelines.md) to learn how to add or modify a persona in GenStudio for Performance Marketers.
+See [Add guidelines](add-guidelines.md) to learn how to add or modify a persona in GenStudio for Performance Marketing.
 
 ## [!DNL Personas] guidelines
 
-Individual persona guidelines give GenStudio for Performance Marketers a clear picture of your [!DNL Personas].
+Individual persona guidelines give GenStudio for Performance Marketing a clear picture of your [!DNL Personas].
 
 These guidelines detail each guidelines category and related examples. The examples are sample inputs that shape the output of generated content. Use them to inform your own [!DNL Personas] guidelines.
 
