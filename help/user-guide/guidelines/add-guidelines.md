@@ -91,7 +91,7 @@ In the _[!DNL Brands]_ home, you can click to **open an already-created brand** 
 
 ## Add [!DNL Products]
 
-To add a product to GenStudio for Performance Marketers, you can [upload a product guide](#upload-product-guidelines) or [manually create a product](#manually-add-product) by selecting guidelines and entering your product details. [Publish a product](#publish-products) to [!DNL Content] to make it available for use in future content generation.
+To add a product to GenStudio for Performance Marketers, you can [upload a product guide](#upload-product-guidelines) or [manually create a product](#manually-add-product) by selecting guidelines and entering your product details.
 
 In the left navigation area, click **[!DNL Products]**. In the _[!DNL Products]_ panel, select **Add product**.
 
@@ -134,12 +134,12 @@ You can manually add product details, instead of uploading existing product docu
 1. Select the **[!UICONTROL Add brand]** button and choose **[!UICONTROL Add manually]**.
 1. Click **[!UICONTROL Continue]**.
 
-   You can populate various optional guidelines and imagery to build out your brand.
+   You can populate various optional guidelines and imagery to build out your product.
 
 1. Click **[!UICONTROL New product name]** and enter a name for the [!DNL Product].
-1. Click into _Description_ and enter a description of this [!DNL Product].
+1. Click into _Description_ and enter a description of this [!DNL product].
 1. Click into _Value proposition_ and enter details about the product's value.
-Click into _Messaging preferences_ and enter messaging details for the [!DNL Product].
+Click into _Messaging preferences_ and enter messaging details for the [!DNL product].
 1. To edit the thumbnail, hover over the image thumbnail and from the Thumbnail actions menu select **[!UICONTROL Edit thumbnail]**.
    1. Upload a new image or remove the existing uploaded image in the _Upload_ tab.
    1. Choose an image from the gallery in the _Gallery_ tab.
@@ -149,7 +149,7 @@ Click into _Messaging preferences_ and enter messaging details for the [!DNL Pro
    1. Choose an image from the gallery in the _Gallery_ tab and click **[!UICONTROL Use image]**.
    1. To reposition the cover image click **[!UICONTROL Reposition]**, drag the image into the desired position, and click **[!UICONTROL Save]**.
 
-   To see your created [!DNL Products], click the back arrow near the top of the _Product_ view to navigate back to the _[!DNL Products]_ home.
+   To see your created [!DNL products], click the back arrow near the top of the _Product_ view to navigate back to the _[!DNL Products]_ home.
 
 ### Manage [!DNL Products]
 
@@ -175,7 +175,7 @@ See [[!DNL Personas]](/help/user-guide/guidelines/personas.md).
 
 1. Select the **[!UICONTROL Add persona]** button and choose **Upload PDFs**.
 1. Click **[!UICONTROL Continue]**.
-1. In the _Add your product_ popup, attach or drag in your product document.
+1. In the _Add your persona popup, attach or drag in your persona document.
 
    You can attach up to five PDF files with a maximum of 500 MG combined.
 
@@ -185,7 +185,7 @@ See [[!DNL Personas]](/help/user-guide/guidelines/personas.md).
 
    A popup appears showing the progress of the persona extraction from your documents.
 
-1. In the _Building personas popup that appears, delete extracted personas you do not want to use or rename personas as desired.
+1. In the _Building personas_ popup that appears, delete extracted personas you do not want to use or rename personas as desired.
 1. If a persona is missing, click **[!UICONTROL Add name]** and enter the name of the missing persona.
 1. Click **[!UICONTROL Confirm]**.
 
@@ -223,4 +223,4 @@ In _[!DNL Personas]_ home, you can **open an already-created [!DNL Persona]** to
 
 * Select **[!UICONTROL Open]** from the [!DNL Personas] action menu to revise and review an existing persona.
 * Select **[!UICONTROL Delete]** from the [!DNL Personas] action menu to **Delete** a persona.
-* * Select **[!UICONTROL Rename]** from the [!DNL Personas] action menu to **Rename** a persona.
+* Select **[!UICONTROL Rename]** from the [!DNL Personas] action menu to **Rename** a persona.
