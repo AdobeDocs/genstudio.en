@@ -91,7 +91,7 @@ In the _[!DNL Brands]_ home, you can click to **open an already-created brand** 
 
 ## Add [!DNL Products]
 
-To add a product to GenStudio for Performance Marketers, you can [upload a product guide](#upload-product-guidelines) or [manually create a product](#manually-add-product) by selecting guidelines and entering your product details.
+To add a product to GenStudio for Performance Marketers, you can [upload a product guide](#add-product-via-upload) or [manually create a product](#manually-add-product) by selecting guidelines and entering your product details.
 
 In the left navigation area, click **[!DNL Products]**. In the _[!DNL Products]_ panel, select **Add product**.
 
@@ -160,6 +160,10 @@ In _[!DNL Products]_ home, you can **open an already-created [!DNL Product]** to
 * * Select **[!UICONTROL Rename]** from the [!DNL Products] action menu to **Rename** a product.
 
 ## Add [!DNL Personas]
+
+To add a persona to GenStudio for Performance Marketers, you can [upload a persona guide](#add-persona-via-upload) or [manually create a persona](#manually-add-persona) by selecting guidelines and entering your persona details.
+
+In the left navigation area, click **[!DNL Personas]**. In the _[!DNL Personas]_ panel, select **Add persona**.
 
 You can add a [!DNL Persona] in GenStudio for Performance Marketers to help target the content you create to your ideal audience.
 
