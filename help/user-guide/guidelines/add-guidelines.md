@@ -91,21 +91,63 @@ In the _[!DNL Brands]_ home, you can click to **open an already-created brand** 
 
 ## Add [!DNL Products]
 
+To add a product to GenStudio for Performance Marketers, you can [upload a product guide](#upload-product-guidelines) or [manually create a product](#manually-add-product) by selecting guidelines and entering your product details. [Publish a product](#publish-products) to [!DNL Content] to make it available for use in future content generation.
+
+In the left navigation area, click **[!DNL Products]**. In the _[!DNL Products]_ panel, select **Add product**.
+
 You can add [!DNL Products] in GenStudio for Performance Marketers to specify individual product focus areas when creating content. <!-- Add Rename, display, reposition functionality -->
 
 See [[!DNL Products]](products.md).
 
-**To add a [!DNL Product]**:
+### Add product via upload
 
-1. Click **[!UICONTROL Create product]**.
-1. Click **[!UICONTROL Untitled]** and enter a name for the [!DNL Product].
+You can upload your own product documents to populate new products in GenStudio for Performance Marketers.
+
+See [[!DNL Products]](/help/user-guide/guidelines/products.md).
+
+**To upload product documents**:
+
+1. Select the **[!UICONTROL Add product]** button and choose **Upload PDFs**.
+1. Click **[!UICONTROL Continue]**.
+1. In the _Add your product_ popup, attach or drag in your product document.
+
+   You can attach up to five PDF files with a maximum of 500 MG combined.
+
+1. Select **[!UICONTROL Add products]**.
+
+   Using Adobe's generative AI technology, GenStudio for Performance Marketers extracts information from your uploaded documents and begins building your products.
+
+   A popup appears showing the progress of the product extraction from your documents.
+
+1. In the _Building products_ popup that appears, delete extracted products you do not want to use or rename products as desired.
+1. If a product is missing, click **[!UICONTROL Add name]** and enter the name of the missing product.
+1. Click **[!UICONTROL Confirm]**.
+
+   A popup reminds you to verify and review the extracted products.
+
+### Manually add product
+
+You can manually add product details, instead of uploading existing product documents, to populate a new [product](products.md) in GenStudio for Performance Marketers.
+
+**To manually add a product**:
+
+1. Select the **[!UICONTROL Add brand]** button and choose **[!UICONTROL Add manually]**.
+1. Click **[!UICONTROL Continue]**.
+
+   You can populate various optional guidelines and imagery to build out your brand.
+
+1. Click **[!UICONTROL New product name]** and enter a name for the [!DNL Product].
 1. Click into _Description_ and enter a description of this [!DNL Product].
 1. Click into _Value proposition_ and enter details about the product's value.
 Click into _Messaging preferences_ and enter messaging details for the [!DNL Product].
 1. To edit the thumbnail, hover over the image thumbnail and from the Thumbnail actions menu select **[!UICONTROL Edit thumbnail]**.
    1. Upload a new image or remove the existing uploaded image in the _Upload_ tab.
    1. Choose an image from the gallery in the _Gallery_ tab.
-1. Click **[!UICONTROL Use image]**.
+   1. Click **[!UICONTROL Use image]**.
+1. To edit the cover image, hover over the cover and from the Cover actions menu select **[!UICONTROL Edit cover]**.
+   1. Upload a new image or remove the existing uploaded image in the _Upload_ tab.
+   1. Choose an image from the gallery in the _Gallery_ tab and click **[!UICONTROL Use image]**.
+   1. To reposition the cover image click **[!UICONTROL Reposition]**, drag the image into the desired position, and click **[!UICONTROL Save]**.
 
    To see your created [!DNL Products], click the back arrow near the top of the _Product_ view to navigate back to the _[!DNL Products]_ home.
 
@@ -115,6 +157,7 @@ In _[!DNL Products]_ home, you can **open an already-created [!DNL Product]** to
 
 * Select **[!UICONTROL Open]** from the [!DNL Products] action menu to revise and review an existing product.
 * Select **[!UICONTROL Delete]** from the [!DNL Products] action menu to **Delete** a product.
+* * Select **[!UICONTROL Rename]** from the [!DNL Products] action menu to **Rename** a product.
 
 ## Add [!DNL Personas]
 
@@ -122,22 +165,62 @@ You can add a [!DNL Persona] in GenStudio for Performance Marketers to help targ
 
 See [[!DNL Personas]](personas.md).
 
-**To add a [!DNL Persona]**:
+### Add persona via upload
 
-1. Click **[!UICONTROL Create persona]**.
-1. Click **[!UICONTROL Untitled]** and enter a name for the [!DNL Persona].
+You can upload your own persona documents to populate new personas in GenStudio for Performance Marketers.
+
+See [[!DNL Personas]](/help/user-guide/guidelines/personas.md).
+
+**To upload persona documents**:
+
+1. Select the **[!UICONTROL Add persona]** button and choose **Upload PDFs**.
+1. Click **[!UICONTROL Continue]**.
+1. In the _Add your product_ popup, attach or drag in your product document.
+
+   You can attach up to five PDF files with a maximum of 500 MG combined.
+
+1. Select **[!UICONTROL Add personas]**.
+
+   Using Adobe's generative AI technology, GenStudio for Performance Marketers extracts information from your uploaded documents and begins building your personas.
+
+   A popup appears showing the progress of the persona extraction from your documents.
+
+1. In the _Building personas popup that appears, delete extracted personas you do not want to use or rename personas as desired.
+1. If a persona is missing, click **[!UICONTROL Add name]** and enter the name of the missing persona.
+1. Click **[!UICONTROL Confirm]**.
+
+   After extraction is complete, a popup reminds you to verify and review the extracted personas.
+
+### Manually add persona
+
+You can manually add persona details, instead of uploading existing persona documents, to populate a new [persona](personas.md) in GenStudio for Performance Marketers.
+
+**To manually add a persona**:
+
+1. Select the **[!UICONTROL Add persona]** button and choose **[!UICONTROL Add manually]**.
+1. Click **[!UICONTROL Continue]**.
+
+   You can populate various optional guidelines and imagery to build out your persona.
+
+1. Add information about your brand in the _Description_ section.
+1. Click **[!UICONTROL New persona name]** and enter a name for the [!DNL Persona].
 1. Click into _Description_ and enter a description of this [!DNL Persona].
 1. Click into _Messaging preferences_ and enter messaging details for the [!DNL Persona].
-1. To edit the thumbnail, hover over the image thumbnail and from the _Thumbnail actions_ menu select **[!UICONTROL Edit thumbnail]**.
+1. To edit the thumbnail, hover over the image thumbnail and from the Thumbnail actions menu select **[!UICONTROL Edit thumbnail]**.
    1. Upload a new image or remove the existing uploaded image in the _Upload_ tab.
    1. Choose an image from the gallery in the _Gallery_ tab.
-1. Click **[!UICONTROL Use image]**.
+   1. Click **[!UICONTROL Use image]**.
+1. To edit the cover image, hover over the cover and from the Cover actions menu select **[!UICONTROL Edit cover]**.
+   1. Upload a new image or remove the existing uploaded image in the _Upload_ tab.
+   1. Choose an image from the gallery in the _Gallery_ tab and click **[!UICONTROL Use image]**.
+   1. To reposition the cover image click **[!UICONTROL Reposition]**, drag the image into the desired position, and click **[!UICONTROL Save]**.
 
-  To see your created [!DNL Personas], click the back arrow near the top of the _Persona_ view to navigate back to the _[!DNL Personas]_ home.
+   To see your created [!DNL Personas], click the back arrow near the top of the _Persona_ view to navigate back to the _[!DNL Personas]_ home.
 
 ### Manage [!DNL Personas]
 
-In the _[!DNL Personas]_ home, you can **open an already-created [!DNL Persona]** to edit or review it or **delete a persona** from the list:
+In _[!DNL Personas]_ home, you can **open an already-created [!DNL Persona]** to edit or review it, or **delete a persona** from the list:
 
-* Select **[!UICONTROL Open]** from the [!DNL Personas] action menu to revise and review an existing [!DNL Persona].
-* Select **[!UICONTROL Delete]** from the [!DNL Personas] action menu to delete a [!DNL Persona].
+* Select **[!UICONTROL Open]** from the [!DNL Personas] action menu to revise and review an existing persona.
+* Select **[!UICONTROL Delete]** from the [!DNL Personas] action menu to **Delete** a persona.
+* * Select **[!UICONTROL Rename]** from the [!DNL Personas] action menu to **Rename** a persona.
