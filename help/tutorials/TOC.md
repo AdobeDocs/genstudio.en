@@ -1,14 +1,14 @@
 ---
-user-guide-title: Adobe [!DNL GenStudio] Tutorials
+user-guide-title: Adobe GenStudio for Performance Marketing tutorials
 breadcrumb-title: Tutorials
-user-guide-description: View Experience League tutorials on Adobe [!DNL GenStudio], an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation.
+user-guide-description: View tutorials for GenStudio for Performance Marketing, an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation.
 feature-set: GenStudio
 feature: Generative AI
 ---
 
-# Adobe [!DNL GenStudio] Tutorials {#learning}
+# Adobe GenStudio for Performance Marketing Tutorials {#learning}
 
-+ [[!DNL GenStudio] Tutorials](tutorials.md)
++ [GenStudio for Performance Marketing Tutorials](tutorials.md)
 + [Create an email experience](create-email-experience.md)
 + [Create a Meta ad experience](create-meta-ad.md)
-+ [[!DNL GenStudio] User Guide](https://experienceleague.adobe.com/docs/genstudio/user-guide/home.html)
++ [GenStudio for Performance Marketing User Guide](https://experienceleague.adobe.com/docs/genstudio/user-guide/home.html)
