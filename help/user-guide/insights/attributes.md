@@ -17,191 +17,26 @@ Attributes help to identify assets by their inherent details, such as color, com
 
 ### Images features
 
-<table style="table-layout:fixed">
-    <thead>
-        <tr>
-            <th>Type</th>
-            <th>Category</th>
-            <th>Values</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan="16">Image features</td>
-            <td>Background Colors</td>
-            <td>14 colors</td>
-        </tr>
-        <tr>
-            <td>Camera Position</td>
-            <td>
-                <ul>
-                    <li>low angle</li>
-                    <li>high angle</li>
-                    <li>dutch angle</li>
-                    <li>overhead view</li>
-                    <li>eye level</li>
-                    <li>bird's eye view</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>Camera Proximity</td>
-            <td>
-                <ul>
-                    <li>close up</li>
-                    <li>mid shot</li>
-                    <li>long shot</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>Camera Setting</td>
-            <td>
-                <ul>
-                    <li>fast shutter speed</li>
-                    <li>long exposure</li>
-                    <li>bokeh blur</li>
-                    <li>motion blur</li>
-                    <li>tilt-shift blur</li>
-                    <li>flash</li>
-                    <li>wide-angle</li>
-                    <li>black and white</li>
-                    <li>surreal</li>
-                    <li>double exposure</li>
-                    <li>macro</li>
-                    <li>normal mode</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>Foreground Colors</td>
-            <td>14 colors</td>
-        </tr>
-        <tr>
-            <td>Image Type</td>
-            <td>
-                <ul>
-                    <li>photograph</li>
-                    <li>sketch</li>
-                    <li>painting</li>
-                    <li>digital cartoon</li>
-                    <li>infographics</li>
-                    <li>graphic design</li>
-                    <li>collage</li>
-                    <li>screenshot</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>Lighting Condition</td>
-            <td>
-                <ul>
-                    <li>golden hour</li>
-                    <li>blue hour</li>
-                    <li>midday</li>
-                    <li>overcast</li>
-                    <li>night</li>
-                    <li>high-key</li>
-                    <li>low-key</li>
-                    <li>daylight</li>
-                    <li>incandescent</li>
-                    <li>fluorescent</li>
-                    <li>colorful</li>
-                    <li>studio</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>Objects</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Orientation</td>
-            <td>
-                <ul>
-                    <li>landscape</li>
-                    <li>portrait</li>
-                    <li>square</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>Overall Tone</td>
-            <td>
-                <ul>
-                    <li>warm</li>
-                    <li>cool</li>
-                    <li>neutral</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>People Categories</td>
-            <td>
-                <ul>
-                    <li>person</li>
-                    <li>man</li>
-                    <li>woman</li>
-                    <li>social group</li>
-                    <li>crowd</li>
-                    <li>people</li>
-                    <li>boy</li>
-                    <li>girl</li>
-                    <li>kid</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>Photography Styles</td>
-            <td>
-                <ul>
-                    <li></li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>Scenes</td>
-            <td>
-                <ul>
-                    <li></li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>Tags</td>
-            <td>
-                <ul>
-                    <li></li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>Visual Attention Spread</td>
-            <td>
-                <ul>
-                    <li>low</li>
-                    <li>high</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>Visual Content Density</td>
-            <td>
-                <ul>
-                    <li>low</li>
-                    <li>high</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="12">Video features</td>
-            <td>Audio Genre</td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
+| Category               | Values                              |
+| ---------------------- | ----------------------------------- |
+| Background Colors      | 14 colors |
+| Camera Position        | <ul><li>low angle</li><li>high angle</li><li>dutch angle</li><li>overhead view</li><li>eye level</li> <li>bird's eye view</li></ul> |
+| Camera Proximity       | <ul><li>close up</li><li>mid shot</li><li>long shot</li></ul> |
+| Camera Setting         | <ul><li>fast shutter speed</li><li>long exposure</li><li>bokeh blur</li><li>motion blur</li><li>tilt-shift blur</li><li>flash</li><li>wide-angle</li><li>black and white</li><li>surreal</li><li>double exposure</li><li>macro</li><li>normal mode</li></ul> |
+| Foreground Colors      | 14 colors |
+| Image Type             | <ul><li>photograph</li><li>sketch</li><li>painting</li><li>digital cartoon</li><li>infographics</li><li>graphic desing</li><li>collage</li><li>screenshot</li></ul> |
+| Lighting Condition     | <ul><li>golden hour</li><li>blue hour</li><li>midday</li><li>overcast</li><li>night</li><li>high-key</li><li>low-key</li><li>daylight</li><li>incandescent</li><li>fluorescent</li><li>colorful</li><li>studio</li></ul>|
+| Objects                | |
+| Orientation            | <ul><li>landscape</li><li>portrait</li><li>square</li></ul> |
+| Overall Tone           | <ul><li>warm</li><li>cool</li><li>neutral</li></ul> |
+| People Categories      | <ul><li>person</li><li>man</li><li>woman</li><li>social group</li><li>crowd</li><li>people</li><li>boy</li><li>girl</li><li>kid</li></ul> |
+| Photography Styles     | <ul><li></li></ul> |
+| Scenes                 | <ul><li></li></ul> |
+| Tags                   | <ul><li></li></ul> |
+| Visual Attention Spread| <ul><li>low</li><li>high</li></ul> |
+| Visual Content Density | <ul><li>low</li><li>high</li></ul> |
 
-### Video features
+### Videos features
 
 | Category               | Values                              |
 | ---------------------- | ----------------------------------- |
