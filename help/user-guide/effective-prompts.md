@@ -74,11 +74,15 @@ The structured prompt should:
 The following is a sample prompt that articulates the recommended prompt structure and leverages an email template that uses the identifying term `Pod` as in `Pod1`, `Pod2`, and `Pod3`.
 
 ```properties
-Create a marketing email describing new features in suite of products for Creative Cloud.
+Create an exciting multi-pod email focusing on Creative Cloud and its powerful generative AI capabilities.
 
-Pod1: Describe how to easily edit text and swap images in Adobe Express without switching to another application, all in just a few clicks.
-Pod2: Describe how the AI Assistant for Acrobat enables you to gain document insights and access one-click summaries to enhance productivity.
-Pod3: Describe the generative fill capabilities in Adobe Photoshop.
+Encourage customers to convert to Photoshop or use a free Photoshop trial. We want to better educate them about app features.
+
+Pod1: Focus on Adobe Photoshop and its new generative AI tools that enable creators to bring images to life in minutes.
+
+Pod2: Focus on Adobe Illustrator and its new generative AI tools, such as Generative Shape Fill, which allows you to quickly fill your vector outline and explore a variety of options that match the look and feel of your own artwork.
+
+Pod3: Focus on Adobe Acrobat Pro. Make users aware that with Acrobat Pro they can edit images and text inside a PDF.
 ```
 
 See [Prepare an email template](/help/user-guide/content/email-template.md#code-an-email-template).
