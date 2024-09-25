@@ -30,14 +30,14 @@ At the time that you created a campaign with Meta ads, you may have selected whe
 GenStudio for Performance Marketing supports ad formats, such as asset feeds, link ads, and single image or video. The following is a list of ad formats by platform:
 
 | Instagram    | Facebook/Meta    | Messenger    | Audience Network |
-| --- | --- | --- | --- |
+| ------------ | ---------------- | ------------ | ---------------- |
 | Explore<br>Explore Home<br>Explore Grid Home<br>Feed<br>Reels<br>Profile Feed<br>Search<br>Shop<br>Stories | Business Explore<br>Feed<br>In-stream video<br>Marketplace<br>Reels<br>Reels Overlay<br>Right column<br>Search results<br>Stories<br>Video Feeds<br>Ads on Facebook Reels | Inbox<br>Stories | Native, Banner and Interstitial<br>Rewarded Video |
 
 ## Metrics
 
 Insights metrics can help you evaluate which experiences contribute to the success of a campaign and which ad placements are most effective.
 
-For example, 
+<!-- For example, -->
 
 ### Metrics detail
 
