@@ -16,14 +16,14 @@ Adding guidelines to GenStudio for Performance Marketing is an important step in
 
 ## Add [!DNL Brands]
 
-To add a brand, [upload a brand guide](#upload-brand-guidelines) or [manually create a brand](#manually-add-brand) by selecting guidelines and entering your brand details. [Publish a brand](#publish-brand) to [!DNL Content] to make it available for use in future content generation.
+To add a brand, [upload a brand guide](#upload-a-brand) or [manually create a brand](#manually-add-brand) by selecting guidelines and entering your brand details. [Publish a brand](#publish-brand) to [!DNL Content] to make it available for use in future content generation.
 
 In the left navigation area, click **[!DNL Brands]**. In the _[!DNL Brands]_ panel, select **Add brand**.
 
 >[!TIP]
 >Each brand operates independently with no hierarchical relationships. To create sub-brands under a parent brand, include the parent brand's information during the creation process.
 
-### Add brand via upload
+### Upload a brand
 
 You can upload your own brand documents to populate a new brand.
 
@@ -91,7 +91,7 @@ In the _[!DNL Brands]_ home, you can click to **open an already-created brand** 
 
 ## Add [!DNL Products]
 
-To add a product, [upload a product guide](#add-product-via-upload) or [manually create a product](#manually-add-product) by selecting guidelines and entering your product details.
+To add a product, [upload a product guide](#upload-a-product) or [manually create a product](#manually-add-product) by selecting guidelines and entering your product details.
 
 In the left navigation area, click **[!DNL Products]**. In the _[!DNL Products]_ panel, select **Add product**.
 
@@ -99,7 +99,7 @@ You can add [!DNL Products] in GenStudio for Performance Marketing to specify in
 
 See [[!DNL Products]](products.md).
 
-### Add product via upload
+### Upload a product
 
 You can upload product documents to populate new products.
 
@@ -161,7 +161,7 @@ In _[!DNL Products]_ home, you can **open an already-created [!DNL Product]** to
 
 ## Add [!DNL Personas]
 
-To add a persona, [upload a persona guide](#add-persona-via-upload) or [manually create a persona](#manually-add-persona) by selecting guidelines and entering your persona details.
+To add a persona, [upload a persona guide](#upload-a-persona) or [manually create a persona](#manually-add-persona) by selecting guidelines and entering your persona details.
 
 In the left navigation area, click **[!DNL Personas]**. In the _[!DNL Personas]_ panel, select **Add persona**.
 
@@ -169,7 +169,7 @@ You can add a [!DNL Persona] in GenStudio for Performance Marketing to help targ
 
 See [[!DNL Personas]](personas.md).
 
-### Add persona via upload
+### Upload a persona
 
 You can upload your own persona documents to populate new personas.
 
