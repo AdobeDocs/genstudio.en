@@ -1,170 +1,97 @@
 ---
-title: Adobe GenStudio for Performance Marketers Beta release notes
-description: Learn about the latest features and enhancements to Adobe GenStudio for Performance Marketers.
+title: Adobe GenStudio for Performance Marketing Beta release notes
+description: Learn about the latest features and enhancements to Adobe GenStudio for Performance Marketing.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
 ---
-# Adobe GenStudio for Performance Marketers Beta release notes
+# Adobe GenStudio for Performance Marketing Beta release notes
 
-These notes highlight significant Adobe GenStudio for Performance Marketers fixes and enhancements for the week ending September 19.
+These notes highlight significant Adobe GenStudio for Performance Marketing fixes and enhancements for the week ending September 27.
 
 ## New features and enhancements
 
-* **Integration with Adobe Experience Manager Assets**. Read-only access to Adobe Experience Manager Assets is now available. <!-- GS-2432 -->
+* GenStudio can now extract persona and product information from an uploaded PDF and populate related fields. <!-- GS-3806 -->
 
-* **Enhancements to the Update Template workflow**.  Users updating templates now select the channel for which they want to use the template. <!-- GS-4029 -->
+* Users can now search [!DNL Content] for assets and experiences that have been uploaded by a particular user. <!-- GS-1808 --> 
 
-* **Improved Create page load performance**. Unused dependencies have been removed from the page load process. <!-- GS-3630 -->
+* Enhancements to Personas: 
 
-* **Multi-section email support**. Editors can now generate emails that contain multiple sections and images. They can also regenerate specific fragments of a generated email (for example, a headline). <!-- GS-2436 -->
-
-* **Toggle between desktop and mobile view during creation**. Users can now toggle between desktop and mobile view to preview email experience variants. <!-- GS-4314 -->
-
-* Content now generates images with crop dimensions that are relative to the original asset dimensions. <!-- GS-3150 -->
-
-* Users can now select generated image variants and use the Adjust crop feature to crop them during the creation workflow. <!-- GS-5538 2342 -->
-
-* The Details view of an approved experience now displays a thumbnail image and the status of all assets that are referenced in that experience. <!-- GS-3783 --> 
+  * The  [!DNL Additional details] section of the [!DNL Persona] detail page has been renamed to **messaging preferences**. <!-- GS-5133 5134 -->
+  * Added an [!DNL Add Personas] button. <!-- GS-5132 --> 
 
 ## Known issues
 
-The following known issues are scheduled for resolution in the GenStudio for Performance Marketers GA release.
+The following known issues are scheduled for resolution in the GenStudio for Performance Marketing GA release.
 
-* Intermittent latency issues affect some [!DNL Create] Canvas operations. <!-- GS-5203 -->
+* Templates can be uploaded but not seen. **Workaround**: Upload an asset with the **[!UICONTROL Campaigns]** field populated. Then, upload the template again. <!-- GS-4815 5650--> 
 
-* Email generation results in an incomplete email. **Workaround**: Refresh the page and regenerate. <!-- GS-5209 -->
+* Users cannot manually crop Meta ads after resizing them. <!-- GS-5871 --> 
 
-* Templates can be uploaded but not seen. **Workaround**: Upload an asset with the **[!UICONTROL Campaigns]** field populated. Then, upload the template again. <!-- GS-4815 --> 
+* Campaign names are not loading as expected in asset metadata. <!-- GS-5849 --> 
 
-* Users must log in twice to a channel Meta ads account when they are also logged in to Facebook. **Workaround**: Log out of Facebook before logging into a channel Meta ads account. <!-- GS-4806 -->
+* Users can currently create a Campaign from Content workflows. (This feature will be disabled.)  <!-- GS-5650 --> 
+
+* Users must log in twice to a channel Meta ads account when they are also logged in to Facebook. Workaround: Log out of Facebook before logging into a channel Meta ads account. <!-- GS-3009 --> 
 
 ### Additional enhancements and fixed issues
 
-* Drag-and-drop now works as expected in the prompt area. <!-- GS-3977 -->
+* Intermittent latency issues with some [!DNL Create] Canvas operations have been resolved. <!-- GS-5203 -->
 
-* Corrected issues with using the Tab key to navigate through elements on the left navigation bar. Previously, multiple clicks were needed to navigate from one element to the next active element.  <!-- GS-2639 -->
+* Users no longer need to log in twice to a channel Meta ads account when they are also logged in to Facebook. <!-- GS-4806 -->
 
-* GenStudio now saves experience names when users edit the name while the experience loads. <!-- GS-5242 -->
+* Email generation now longer results in an incomplete email. <!-- GS-5209 -->
 
-* Users can now successfully edit an experience title. Previously, the title text defaulted to the original text after a user tried to edit it. <!-- GS-5246 -->
-* Selected images now render on the Canvas as expected during multi-part email creation. <!-- GS-5263 -->
+* Creating a campaign in the template workflow now stores IDs as expected.  <!-- GS-4923 -->
 
-* All strings in the [!DNL Content] Experiences detail page are now localized. <!-- GS-5016 -->
+* The multi-repository selector now lists repositories in alphabetical order. <!-- GS-5553 -->
 
-* Users can now delete a product whose Detail view is opened in [!DNL Products]. <!-- GS-5057 -->
+* Issues with CSV export file formats for non-English languages have been resolved. <!-- GS-5141 -->
 
-* The message that GenStudio displays when a search yields no matching results has been improved. <!-- GS-4544 -->
+* Users can now click the [!DNL Create] _Recent work_ area **[!UICONTROL View all drafts]** button  while drafts are loading. Previously, clicking this button before all drafts had loaded resulted in only a few drafts being loaded, and the **[!UICONTROL View all drafts]** button became unavailable. <!-- GS-3938 -->
 
-* `aria-label` attribute values for search filter values are now translated as expected. <!-- GS-5388 -->
+* The [!DNL Create] Canvas now displays the **[!UICONTROL View all drafts]** button as expected when the Canvas displays more than four drafts. <!-- GS-5588 -->
 
-* Users can now delete duplicate assets in the [!DNL Create] Canvas prompt area successfully.  <!-- GS-5233 -->
+* Search now works as expected in the _Attributes_ tab. <!-- GS-5658 -->
 
-* The Account filter now works as expected with experiences, assets, and attributes. <!-- GS-4812 -->
+* Shimmer animation is now scaled properly during experience loading. <!-- GS-5574 -->
 
-* Font issues on Meta ad templates have been resolved to improve readability and accessibility. <!-- GS-5354 -->
+* Thumbnail previews for multi-part emails now render as expected in [!DNL Content]. <!-- GS-5258 -->
 
-* Changes to draft titles now persist as expected. Previously, titles reverted to the default name after editing. <!-- GS-2951 -->
+* Corrected a Workfront-related issue with the **[!UICONTROL Send for approval]** button. <!-- GS-5847 -->
 
-#### Template fixes
+* Updated the onboarding banner to meet legal requirements. <!-- GS-4934 -->
 
-* The resize feature now works as expected with multiple images in Meta ad templates. Previously, GenStudio did not resize images for all selected templates. <!-- GS-4696 -->
+* Corrected issues with loading shimmer on the [!DNL Create] Recent work view. <!-- GS-5589 -->
 
-* Deleting a template now refreshes the [!DNL Content] page as expected. <!-- GS-5397 -->
+* Entering a search term now results in only one search call as expected.  <!-- GS-2999 -->
 
-* Users can now pick values for [!DNL Personas], [!DNL Brands], or [!DNL Products] only from the dropdown menu. Previously, the _Template upload_ dialog let users enter any [!DNL Persona], [!DNL Brand], or [!DNL Product] name. <!-- GS-5072 5071-->
+* Corrected image rendering of Meta ad-generated images after export. <!-- GS-5749 -->
 
-* The **[!UICONTROL Back]** button is now disabled during the Template upload process. <!-- GS-5358 -->
+* The `%` symbol is now rendered correctly in DEU, FRA and ESP locales when users zoom in or zoom out of email variants in the C[!DNL Create] Canvas. <!-- GS-5007 -->
 
-* All strings in the [!DNL Create] Select template detail view are now localized. <!-- GS-5025 -->
 
-## Previous Beta releases
+#### Localization
 
-Previous Beta releases included the following highlights and fixes. 
+This release includes improvements to localization throughout the product interface, especially throughout [!DNL Create]. The following interface components have been localized: <!-- GS-5295 -->
 
-### Highlights
+* All strings in the _Prompt_ area (Parameters title, dropdown-menu option names, and prompt placeholder text) <!-- GS-5027 -->
 
-* The [!DNL Create] content selector has been refactored to improve asset loading. <!-- GS-2586 -->
+* All strings in the _Resize_ window for generated Meta ads in [!DNL Create] <!-- GS-5035 -->
 
-* GenStudio now supports the option to preview media assets in [!DNL Insights] table and gallery views. Video thumbnails include a **Play** button with a mute option. <!-- GS-4398 -->
+* All strings in the _Recent work_ area in [!DNL Create] <!-- GS-5037 -->
 
-* Instagram and Facebook channel guidelines have been combined into Meta brand guidelines.
+* The Brands, Personas, and Product Dropdown menu option strings in the Prompt area <!-- GS-5293 -->
 
-* [!DNL Create] Canvas navigation elements have been streamlined. The [!DNL Create] landing page displays the left navigation panel, but users now use a **[!UICONTROL Back]** button to navigate to this space from other [!DNL Create] work areas.
+* The **Zoom to fit to screen** string displayed during email and Meta ad generation <!-- GS-5063 -->
 
-* Navigation elements have been enhanced to support user focus while performing tasks throughout the product, including these product areas:
+* Date and time formats, **Untitled Draft** string, and error messages in Email and Meta ads names <!-- GS-5023 5022 5048-->
 
-  * Asset, Experience, Template details in [!DNL Content]
-  * Experience, Asset, Attribute detail in [!DNL Insights]
-  * Brand details in [!DNL Brands]
-  * Product and Persona details in Products and Personas
+* _Assets_ tab Tile view strings and percentage symbol (%)  <!-- GS-4983 4984-->
 
-* Users no longer need to click the **[!UICONTROL Refresh]** button to see updates to Experiences in [!DNL Content].
+* The percentage symbol (%) used in the Insights > Experiences click-through rate <!-- GS-4279 -->
 
-* The _Experience Details_ page now renders external asset thumbnails as HTML.
+* Error message displayed when a system error occurs during email or Meta ads creation<!-- GS-5061 -->
 
-* UI latency after adding or deleting Assets and Experiences has been improved.
+* Decimal separator for the "Word Count Per Sentence"  phrase Insights Experience details page <!-- GS-4986 -->
 
-* Template previews now include more descriptive default text. See [Customize a template](https://experienceleague.adobe.com/en/docs/genstudio/user-guide/content/templates/customize-template#template-preview). 
+* Strings in the Export menu for a Meta ad generated with a template. <!-- GS-5031 -->
 
-* **Percentage-based validation score**: Brand validation now displays brand validation score as a percentage rather than a pass/fail value. (fixed 8/16)
-
-* **Updated Brand extraction interface**: Brand extraction now shows completion of the extraction process as a percentage. (fixed 8/16)
-
-* **Incremental brand load during extraction**: Brand guidelines are now incrementally loaded in the user interface. (fixed 8/16)
-
-* **Multi-section email creation**: Users can now create emails composed of separate headline, image, body, and CTA elements. (fixed 8/16)
-
-* **Meta ads Resize**: Editors can resize Meta ad aspect ratios. (fixed 8/16)
-
-* **Limited [!DNL Insights] login accounts**: The [!DNL Insights] login now supports only one account per customer. (fixed 8/16)
-
-### Additional Enhancements and fixed issues
-
-* The [!DNL Create] Canvas now renders images in Meta ads correctly. (fixed 9/13) <!-- GS-4864 -->
-
-* Although discrepancies can exist between Meta ads Canvas previews and exported views, exported experiences work as expected. (fixed 9/13) <!-- GS-4492 4401 -->
-
-* Uploaded images now include the expected smart tags. (fixed 9/13) <!-- GS-4856 -->
-
-* The Meta ads export CSV file now contains images as expected. Previously, the ZIP file contained the CSV export file and NULL files instead of images. (fixed 9/13)  <!-- GS-5107 -->
-
-* Users can now enter text into the Template Detail view **[!UICONTROL Uploaded by]** field as expected. Previously, the loading icon prevented users from entering text. (fixed 9/13) <!-- GS-4887 -->
-
-* Users are no longer redirected to the Detail view of a brand after the brand has been deleted. (fixed 9/13)  <!-- GS-2663 -->
-
-* Editors no longer receive the following error when sending variants for review and approval: `You have no access to view comments on this Object`. (fixed 9/13)  <!-- GS-5140 -->
-
-* Updated the email template used by the review and approvals workflow. (fixed 9/13)  <!-- GS-5239 -->
-
-* GenStudio now displays an error message when a network error occurs during template selector loading. (fixed 9/13) <!-- GS-4682 -->
-
-* Resolved issues with navigating from an asset, experience, or template card to the selected object. (fixed 9/13)  <!-- GS-4390 -->
-
-* The _Add Assets_ popup is now localized when opened from the Create Canvas. (fixed 9/13)  <!-- GS-4867 -->
-
-* Brand validation is now triggered for regenerated variants. Previously, if an editor regenerated variants of an existing draft, validation was not triggered. (fixed 9/13)  <!-- GS-3971 -->
-
-* The _Add Assets_ popup is now localized as expected. (fixed 9/5) <!-- GS-3834 -->
-
-* Issues with the scaling of the Meta ads experience template have been resolved. (fixed 9/5) <!-- GS-4174 -->
-
-* Text fields in the CSV export file for multi-part emails are now ordered as expected. (fixed 9/5) <!-- GS-4013 -->
-
-* The [!DNL Content] search field no longer disappears when a user repeatedly presses the **Backspace** key to erase search field text. (fixed 9/5)  <!-- GS-4543 -->
-
-* GenStudio for Performance Marketers now loads users as expected when a collaborator adds an `@` mention to a comment. Previously, users were not loaded and an error displayed: `Unable to load users. Refresh the page`. (fixed 8/29) <!-- GS-4113 -->
-
-* GenStudio no longer displays the **Something went wrong** message when an editor clicks **Select content** during email creation in the prompt area. <!-- GS-4879 -->
-
-* The _Experience Detail_ page feed placement name now specifies Facebook or Instagram feed. (fixed 8/16)
-
-* Cropping of larger images and videos is now consistent when user navigates from the _Asset Overview_ view to the _Asset Detail_ view. (fixed 8/16)
-
-* The Attributes screen search result count no longer displays `0 of` before a user logs in. (fixed 8/16) <!-- GS-3665 -->
-
-* Clicking the **[!UICONTROL [!DNL Insights]]**  > **[!UICONTROL Asset]** count field no longer clears search and filter settings. (fixed 8/16) <!-- GS-3476 -->
-
-* GenStudio displays an error when a user tries to enter credentials in the [!DNL Insights] view. (fixed 8/29) <!-- GS-4689 --> 
-
-* Upload of brand guidelines fails due to issues with the ACP storage platform. (fixed 8/22) <!-- GS-4369 -->
-
-* The Prompt area [!DNL Brands] drop-down menu displays a spinner at the end of the [!DNL Brands] list during email creation. (fixed 8/22) <!-- GS-4077 -->
