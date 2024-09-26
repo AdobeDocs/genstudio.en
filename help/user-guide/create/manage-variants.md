@@ -6,7 +6,7 @@ feature: Content, Assets, Experiences
 
 # Manage variants
 
-Adobe GenStudio for Performance Marketers [!DNL Create] enables you to customize and enhance generated variants—emails, Meta ads, and more—for use in digital marketing initiatives.
+Adobe GenStudio for Performance Marketing [!DNL Create] enables you to customize and enhance generated variants—emails, Meta ads, and more—for use in digital marketing initiatives.
 
 When [creating experiences](/help/tutorials/tutorials.md), you can modify content and assets of generated variants individually or in a batch. The ability to manage variants at the individual micro level allows you to explicitly manage each piece of generated content.
 
@@ -34,7 +34,7 @@ You can edit the text fields in generated variants. Refine the text for your aud
 
 <!-- ## Re-generate sections
 
-GenStudio for Performance Marketers has the built-in functionality to regenerate single sections of generated variants using _[!UICONTROL Suggested edits]_ and fresh prompts.
+GenStudio for Performance Marketing has the built-in functionality to regenerate single sections of generated variants using _[!UICONTROL Suggested edits]_ and fresh prompts.
 
 For example, you can re-generate the headline section of one Meta ad variant to see how it looks with a specific background asset using the _[!UICONTROL Suggested edits]_ options—_[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, or _[!UICONTROL Lengthen]_—and entering a new prompt.
 
