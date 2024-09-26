@@ -38,7 +38,7 @@ See [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
 
 1. Select **[!UICONTROL Add brand]**.
 
-Using Adobe's generative AI technology, GenStudio for Performance Marketing extracts information from your uploaded documents and begins building your brand. You see brand information, such as brand voice, channel, and image guidelines populate as each guideline from your brand documents is assembled.
+Using Adobe's generative AI technology, GenStudio for Performance Marketing extracts information from your uploaded documents and begins building your brand. You see brand information, such as brand voice, channel, and image guidelines, populate as each guideline from your brand documents is assembled.
 
 A popup reminds you to review the extracted content before you [publish the brand](#publish-brand).
 
@@ -119,7 +119,7 @@ See [[!DNL Products]](/help/user-guide/guidelines/products.md).
 
    A popup appears showing the progress of the product extraction from your documents.
 
-1. In the _Building products_ popup that appears, delete extracted products you do not want to use or rename products as desired.
+1. In the _Building products_ popup, delete extracted products you do not want to use or rename products as desired.
 1. If a product is missing, click **[!UICONTROL Add name]** and enter the name of the missing product.
 1. Click **[!UICONTROL Confirm]**.
 
