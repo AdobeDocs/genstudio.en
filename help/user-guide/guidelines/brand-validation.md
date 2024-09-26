@@ -26,7 +26,7 @@ See [Improve brand alignment](#improve-brand-alignment).
 
 ## Brand validation panel
 
-The _Brand validation_ panel, which opens on the right side of the Canvas when clicked from the top menu bar _or_ from the _Brand guidelines check_ icon for a variant, provides detailed brand validation information and illuminates opportunities for improvement for each variant section.
+The _Brand validation_ panel opens on the right side of the Canvas when clicked from the top menu bar _or_ from the _Brand guidelines check_ icon for a variant. This panel provides detailed brand validation information and illuminates opportunities for improvement for each variant section.
 
 The _Brand validation_ panel displays information for:
 
@@ -75,7 +75,7 @@ To maximize effectiveness of generated content and maintain consistent brand ide
 
 1. After making necessary revisions, click **[!UICONTROL Check again]** to re-check and validate your changes to ensure they are more closely aligned with your brand identity.
 
-   The brand validation process will run again. If the section/guideline passes validation, a green banner appears at the bottom of the canvas to confirm "Brand guidelines score was updated". If there was no change after a re-check the banner will confirm "No change to the brand guideline score". The percentage in the _Brand guideline check_ icon for the revised variant also shows your progress.
+   The brand validation process runs again. If the section/guideline passes validation, a green banner appears at the bottom of the canvas to confirm "Brand guidelines score was updated". If there was no change after a re-check, the banner confirms "No change to the brand guideline score". The percentage in the _Brand guideline check_ icon for the revised variant also shows your progress.
 
 1. Continue revising sections to ensure the entire variant passes brand validation.
 
