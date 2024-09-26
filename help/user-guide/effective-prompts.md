@@ -49,6 +49,44 @@ GenStudio for Performance Marketers guidelines help the generative AI to persona
 >
 >You control how and when GenStudio for Performance Marketers uses your [!DNL Brand] guidelines. See [Guidelines](/help/user-guide/guidelines/overview.md) to learn how to configure and manage your brand guidelines.
 
+### Structured prompts
+
+For multi-section emails, you can structure prompts to provide section-specific instructions to generate varying content for each section in an email. Structured prompts should directly reference [section names in the email template](/help/user-guide/content/email-template.md#multi-section-emails) so that the generated content can be inserted into the corresponding content placeholders.
+
+For instance, you can instruct GenStudio for Performance Marketing to generate content that promotes a new product in the first section of an email and generate content that details the cost-saving benefits of the product in the second email section.
+
+The structured prompt should:
+
+- Use one of the following references to the section name in the email template:
+  - Pod
+  - Group
+  - Section
+  - Module
+
+  For instance, if your template uses `moduleA` or `Group-3` as a section name, then you can reference those section names in the prompt.
+
+- Follow the recommended rules/structure. If the prompt structure does not adhere to the provided format, the prompt applies to *all* email sections and still facilitates content generation.
+- Use section names as [defined in your email template](/help/user-guide/content/email-template.md#code-an-email-template). Prompt references must match the section names coded in your email template.
+- Be case insensitive. For instance, you can use `Pod` or `pod` in your email template and structured prompt.
+- Reference the generic user prompt first, and then the section-specific directives.
+- Use a colon, hyphen, comma, or other demarcation (`,:;#$!~|@=-%&*^_`) as a separation between the section name reference and directive. For instance, you can use the following as a section-specific prompt directive: `Pod1; Describe how to easily edit text and swap images.`
+
+The following is a sample prompt that articulates the recommended prompt structure and leverages an email template that uses the identifying term `Pod` as in `Pod1`, `Pod2`, and `Pod3`.
+
+```properties
+Create an exciting multi-pod email focusing on Creative Cloud and its powerful generative AI capabilities.
+
+Encourage customers to convert to Photoshop or use a free Photoshop trial. We want to better educate them about app features.
+
+Pod1: Focus on Adobe Photoshop and its new generative AI tools that enable creators to bring images to life in minutes.
+
+Pod2: Focus on Adobe Illustrator and its new generative AI tools, such as Generative Shape Fill, which allows you to quickly fill your vector outline and explore a variety of options that match the look and feel of your own artwork.
+
+Pod3: Focus on Adobe Acrobat Pro. Make users aware that with Acrobat Pro they can edit images and text inside a PDF.
+```
+
+See [Prepare an email template](/help/user-guide/content/email-template.md#code-an-email-template).
+
 ## Try again
 
 Prompting is an iterative process. If the results are not meeting your expectations, review your prompt and make some changes or add more details. Or, you can paste in sections from a campaign brief. You can even request that GenStudio for Performance Marketers avoid certain words, elements, or themes.
