@@ -24,7 +24,7 @@ Attributes help to identify assets by their inherent details, such as color, com
 | Camera Proximity       | <ul><li>close up</li><li>mid shot</li><li>long shot</li></ul> |
 | Camera Setting         | <ul><li>fast shutter speed</li><li>long exposure</li><li>bokeh blur</li><li>motion blur</li><li>tilt-shift blur</li><li>flash</li><li>wide-angle</li><li>black and white</li><li>surreal</li><li>double exposure</li><li>macro</li><li>normal mode</li></ul> |
 | Foreground Colors      | 14 colors |
-| Image Type             | <ul><li>photograph</li><li>sketch</li><li>painting</li><li>digital cartoon</li><li>infographics</li><li>graphic desing</li><li>collage</li><li>screenshot</li></ul> |
+| Image Type             | <ul><li>photograph</li><li>sketch</li><li>painting</li><li>digital cartoon</li><li>infographics</li><li>graphic design</li><li>collage</li><li>screenshot</li></ul> |
 | Lighting Condition     | <ul><li>golden hour</li><li>blue hour</li><li>midday</li><li>overcast</li><li>night</li><li>high-key</li><li>low-key</li><li>daylight</li><li>incandescent</li><li>fluorescent</li><li>colorful</li><li>studio</li></ul>|
 | Objects                | |
 | Orientation            | <ul><li>landscape</li><li>portrait</li><li>square</li></ul> |
@@ -73,21 +73,21 @@ Attributes help to identify assets by their inherent details, such as color, com
 
 ## Metrics
 
-Insights metrics can help you evaluate which attributes inspired more customer engagement.
+Insights metrics can help you evaluate which attributes inspire more customer engagement.
 
 ### Metrics detail
 
-The following table provides definitions and insights for key digital marketing metrics in the [!UICONTROL Assets] view. Each metric includes a brief definition as it relates to an asset, how the metric is calculated, and one or more insights to help understand its significance and impact on an asset.
+The following table provides definitions and insights for key digital marketing metrics in the [!UICONTROL Attributes] view. Each metric includes a brief definition as it relates to an asset, how the metric is calculated, and one or more insights to help understand its significance and impact on an ad campaign.
 
 | Metric                 | Definition                    | Insight                          |
 | ---------------------- | ----------------------------- | -------------------------------- |
-| **[!UICONTROL Attribute]**   |  |  |
-| **[!UICONTROL Category]**    |  |  |
-| **[!UICONTROL # of images]** |  |  |
-| **[!UICONTROL # of videos]** |  |  |
-| **[!UICONTROL Impressions]** | A count of each time the asset loads on screen, regardless of interaction or viewing. | A high impression count can indicate broad visibility, but for true performance insight, consider with other engagement metrics. |
-| **[!UICONTROL Clicks]**      | Number of times users interact with a clickable element in an ad. Clicks can include clicking a page profile or picture, post reaction, shares, comments, or to expand media to full screen. | A high click count indicates strong interest and engagement with the content, which may be effective and reaching the right audience. |
-| **[!UICONTROL CTR]**         | Percentage (%) of users who clicked on an ad.<br>**Calculation**: `clicks` divided by `impressions` | A high click-through rate indicates that the content is highly relevant and motivating to the audience in the messaging and design, and is effectively targeting the audience's interests. |
-| **[!UICONTROL CPM]**         | Performance measurement for cost ($) per thousand ad impressions.<br>**Calculation**: total amount `spent` divided by reach, then multiplied by 1000  | A low value may indicate cost-effective visibility, especially when paired with a high click-through rate. |
-| **[!UICONTROL CPC]**         | Average cost ($) associated with each click in an experience.<br>**Calculation**: total amount `spent` divided by `clicks` | Lower average costs may indicate cost-efficient ad spend, especially when compared with a rise in conversions. |
+| **[!UICONTROL Attribute]**   |  | Sort the table by clicking on the column heading for any of the key metrics. |
+| **[!UICONTROL Category]**    | The [category](#categories) that represents the inherent quality of an attribute. |  |
+| **[!UICONTROL # of images]** | A count of images with this attribute. |  |
+| **[!UICONTROL # of videos]** | A count of videos with this attribute. |  |
+| **[!UICONTROL Impressions]** | A count of each time an image or videos with this attribute loads in the channel, regardless of interaction or viewing. | A high impression count can indicate broad visibility, but for true performance insight, consider with other engagement metrics. |
+| **[!UICONTROL Clicks]**      | Number of times users interact with an image or video with this attribute. | A high click count indicates strong interest and engagement with the content, which may be effective and reaching the right audience. |
+| **[!UICONTROL CTR]**<br>_Click-through rate_ | Percentage (%) of impressions that resulted in clicks on images or videos with this attribute.<br>**Calculation**: `clicks` divided by `impressions` | A high click-through rate indicates that the content is highly relevant and motivating to the audience in the messaging and design, and is effectively targeting the audience's interests. |
+| **[!UICONTROL CPM]**<br>_Cost per thousand_ | Cost ($) for every one-thousand ad impressions of an image or video with this attribute.<br>**Calculation**: total amount `spent` divided by reach, then multiplied by 1000  | A low value may indicate cost-effective visibility, especially when paired with a high click-through rate. |
+| **[!UICONTROL CPC]**<br>_Cost per click_ | Average cost ($) associated with each click on images or videos with this attribute.<br>**Calculation**: total amount `spent` divided by `clicks` | Lower average costs may indicate cost-efficient ad spend, especially when compared with a rise in conversions. |
 | **[!UICONTROL Spend]**       | The amount ($) spent from the budget as it relates to attributes over a given period of time. | A high spend amount in a short period may indicate rapid usage, which could lead to early depletion of resources. Track the spend amount against key performance metrics to help monitor the overall return on investment. |
