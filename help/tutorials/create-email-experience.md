@@ -62,7 +62,7 @@ See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn mo
 
 By default, four variations—all fueled by the prompt, guidelines, and content you added—are generated and shown in the Canvas.
 
-Generated content loads progressively—as each section of the email experiences are generated they appear in the Canvas. See [Email experiences](/help/user-guide/create/meta-experiences.md) to learn how those changes are loaded in the Canvas.
+Generated content loads progressively—as each section of the email experiences are generated they appear in the Canvas. See [Email experiences](/help/user-guide/create/meta-experiences.md#progressive-loading) to learn how those changes are loaded in the Canvas.
 
 ## Revise generated emails
 
