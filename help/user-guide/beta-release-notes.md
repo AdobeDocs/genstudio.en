@@ -13,10 +13,11 @@ These notes highlight significant Adobe GenStudio for Performance Marketing fixe
 
 * Users can now search [!DNL Content] for assets and experiences that have been uploaded by a particular user. <!-- GS-1808 --> 
 
-* Enhancements to Personas: 
+* The Meta login flow now includes a **[!UICONTROL Refresh]**  button that allows users to unblock popups during login.  
 
-  * The  [!DNL Additional details] section of the [!DNL Persona] detail page has been renamed to **messaging preferences**. <!-- GS-5133 5134 -->
-  * Added an [!DNL Add Personas] button. <!-- GS-5132 --> 
+* The [!DNL Additional details] section of the [!DNL Persona] detail page has been renamed to **Messaging preferences**. <!-- GS-5133 5134 -->
+
+* Added an [!DNL Add Personas] button. <!-- GS-5132 --> 
 
 ## Known issues
 
@@ -28,7 +29,7 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 
 * Campaign names are not loading as expected in asset metadata. <!-- GS-5849 --> 
 
-* Users can currently create a Campaign from Content workflows. (This feature will be disabled.)  <!-- GS-5650 --> 
+* Users can currently create a Campaign from Content workflows. (This ability will be disabled by GA.)  <!-- GS-5650 --> 
 
 * Users must log in twice to a channel Meta ads account when they are also logged in to Facebook. Workaround: Log out of Facebook before logging into a channel Meta ads account. <!-- GS-3009 --> 
 
