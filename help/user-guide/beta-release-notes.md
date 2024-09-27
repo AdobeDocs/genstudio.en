@@ -13,10 +13,6 @@ These notes highlight significant Adobe GenStudio for Performance Marketing fixe
 
 * Users can now filter [!DNL Content] assets and experiences by the name of the user who uploaded the asset. <!-- GS-1808 --> 
 
-* The Meta login flow now includes a **[!UICONTROL Refresh]**  button that allows users to unblock popups during login. 
-
-* Removed the [!DNL Additional details] section from the [!DNL Persona] detail page. <!-- GS-5133 5134 -->
-
 * Renamed the [!DNL Additional details] section to [!DNL Messaging preferences] in the [!DNL Products] detail page. <!-- GS-5133 5134 -->
 
 * Added an [!DNL Add persona] button to the _Add your first persona_ page. <!-- GS-5132 -->
