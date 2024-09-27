@@ -62,31 +62,25 @@ GenStudio for Performance Marketing enables marketers to **create new marketing 
 
 [!DNL Create] integrates various components of GenStudio for Performance Marketing to assist users in generating content.
 
-### Drafts
-
-In the _Recent work_ section of [!DNL Create], access and manage all recent drafts. View and complete your previous work to ready it for publishing to [[!DNL Content]](/help/user-guide/content/overview.md).
-
-Drafts in progress are automatically saved. When you navigate back to the [!DNL Create] home, the _Recent work_ section is updated with your most recent drafts. For each draft, you can see whether it has been _Approved_ or is still in _Draft_ form.
-
 ### Templates
 
-After you select which content channel you want to produce in the _What do you want to create today?_ section, you can access brand-approved templates for use in content generation. Use templates to jumpstart the content creation process and stay aligned with a defined brand identity.
+After you select which channel you want to produce in the _What do you want to create today?_ section, you can access brand-approved templates for use in content generation. Use templates to jumpstart the content creation process and stay aligned with a defined brand identity.
 
 Templates are [uploaded and stored in [!DNL Content]](/help/user-guide/content/overview.md) and are accessible in [!DNL Create].
+
+### Parameters
+
+In the prompt area, you can add _Parameters_ such as [!DNL Brands], [!DNL Products], and [!DNL Personas] (guidelines) and [!DNL Content] (assets) to shape the generated experience.
+
+These added parameters inject [guidelines](/help/user-guide/guidelines/overview.md) and assets into the generation process, ensuring that the content is customized to align with a brand's comprehensive identity. It is recommended to add guidelines to your GenStudio for Performance Marketing and use them during the content generation process, as they greatly enhance the creation of suitable on-brand content.
+
+Content—uploaded or added image assets—in _Parameters_ are used in generated variants and inform the copy content (text) generated for variants. You can upload assets or select assets already present in [!DNL Content] or in any connected AEM Content Hub repositories.
 
 ### Prompts
 
 [Crafting effective prompts](/help/user-guide/effective-prompts.md) is an important part of the generation process in [!DNL Create].
 
 To create new AI-generated content, enter a [descriptive prompt](/help/user-guide/effective-prompts.md) that describes the context or experience you intend to generate, along with [guidelines](/help/user-guide/guidelines/overview.md) and [_Parameters_](#parameters), in the prompt area and click **[!UICONTROL Generate]**.
-
-### Parameters
-
-In the prompt area, you can add _Parameters_ such as [!DNL Brands], [!DNL Products], and [!DNL Personas] (guidelines) or assets to shape the generated experience.
-
-Uploaded images in _Parameters_ are used in generated variants and inform the copy content (text) generated for variants.
-
-These added parameters inject [guidelines](/help/user-guide/guidelines/overview.md) and assets into the generation process, ensuring that the content is customized to align with a brand's comprehensive identity. It is recommended to add guidelines to your GenStudio for Performance Marketing and use them during the content generation process, as they greatly enhance the creation of suitable on-brand content.
 
 ### Brand validation
 
@@ -97,6 +91,12 @@ GenStudio for Performance Marketing conducts brand validation on various aspects
 Solicit reviews, track review comments, and obtain approvals during the creation process with built-in [Reviews and approvals](/help/user-guide/approvals/overview.md) functionality.
 
 After you are done generating content variations, send your drafts for approval by stakeholders so they can be saved to [!DNL Content] and implemented in marketing efforts.
+
+### Drafts
+
+In the _Recent work_ section of [!DNL Create], access and manage all recent drafts. View and complete your previous work to ready it for publishing to [[!DNL Content]](/help/user-guide/content/overview.md).
+
+Drafts in progress are automatically saved. When you navigate back to the [!DNL Create] home, the _Recent work_ section is updated with your most recent drafts. For each draft, you can see whether it has been _Approved_ or is still in _Draft_ form.
 
 ### Manage variants
 
