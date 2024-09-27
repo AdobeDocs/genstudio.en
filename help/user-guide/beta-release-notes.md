@@ -11,7 +11,7 @@ These notes highlight significant Adobe GenStudio for Performance Marketing fixe
 
 * GenStudio can now extract persona and product information from an uploaded PDF and populate related fields. <!-- GS-3806 -->
 
-* Users can now search [!DNL Content] for assets and experiences that have been uploaded by a particular user. <!-- GS-1808 --> 
+* Users can now filter [!DNL Content] assets and experiences by the name of the user who uploaded the asset. <!-- GS-1808 --> 
 
 * The Meta login flow now includes a **[!UICONTROL Refresh]**  button that allows users to unblock popups during login. 
 
@@ -29,7 +29,7 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 
 * Users cannot manually crop Meta ads after resizing them. <!-- GS-5871 --> 
 
-* Users can create a new [!DNL Campaign] from [!DNL Content] workflows. (This feature will be disabled for GA.) <!-- GS-5650 --> 
+* Users can create a new [!DNL Campaign] from [!DNL Content] workflows. <!-- GS-5650 --> 
 
 * Users must log in twice to a channel Meta ads account when they are also logged in to Facebook. Workaround: Log out of Facebook before logging into a channel Meta ads account. <!-- GS-3009 --> 
 
@@ -59,8 +59,6 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 
 * Corrected a Workfront-related issue with the **[!UICONTROL Send for approval]** button. <!-- GS-5847 -->
 
-* Updated the onboarding banner to meet legal requirements. <!-- GS-4934 -->
-
 * Corrected issues with loading shimmer on the [!DNL Create] Recent work view. <!-- GS-5589 -->
 
 * Entering a search term now results in only one search call as expected.  <!-- GS-2999 -->
@@ -80,19 +78,19 @@ This release includes improvements to localization throughout the product interf
 
 * All strings in the _Recent work_ area in [!DNL Create] <!-- GS-5037 -->
 
-* The Brands, Personas, and Product Dropdown menu option strings in the Prompt area <!-- GS-5293 -->
+* The Brands, Personas, and Product dropdown menu option strings in the Prompt area <!-- GS-5293 -->
 
 * The **Zoom to fit to screen** string displayed during email and Meta ad generation <!-- GS-5063 -->
 
 * Date and time formats, **Untitled Draft** string, and error messages in Email and Meta ads names <!-- GS-5023 5022 5048-->
 
-* _Assets_ tab Tile view strings and percentage symbol (%)  <!-- GS-4983 4984-->
+* The [!DNL Content] _Assets_ tab gallery view strings and percentage symbol (%)  <!-- GS-4983 4984-->
 
 * The percentage symbol (%) used in the Insights > Experiences click-through rate <!-- GS-4279 -->
 
 * Error message displayed when a system error occurs during email or Meta ads creation<!-- GS-5061 -->
 
-* Decimal separator for the "Word Count Per Sentence"  phrase Insights Experience details page <!-- GS-4986 -->
+* Decimal separator for the "Word Count Per Sentence"  phrase on the Insights Experience details page <!-- GS-4986 -->
 
 * Strings in the Export menu for a Meta ad generated with a template. <!-- GS-5031 -->
 
