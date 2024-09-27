@@ -47,7 +47,7 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 1. If you want to regenerate results, click the regenerate icon adjacent to _Results_.
 1. From the _Results_ that appear, select the desired option and click **[!UICONTROL Replace]**.
 
-   The variant is updated with the revised text.
+   The variant is updated with the revised text. -->
 
 ## Crop assets
 
@@ -56,11 +56,11 @@ You can manually crop and reposition image assets in individual generated varian
 **To crop and reposition images in variants**:
 
 1. After generating a set of variants, hover over an image within a variant.
-1. Click **[!UICONTROL Apply Crop]**.
-1. Zoom in and out and drag the image into the desired position.
-1. Click **[!UICONTROL Apply]**.
+1. Click to crop icon that appears in the left corner of the image.
+1. Adjust the image bounding box and drag the image into the desired position.
+1. Click **[!UICONTROL Apply]** to apply the crop to a single image or **[!UICONTROL Apply to all images]** to apply to all images in the variants.
 
-   The cropped image is automatically saved and visible for the variant. -->
+   The cropped image is saved and visible for the variants.
 
 ## Change aspect ratio
 
