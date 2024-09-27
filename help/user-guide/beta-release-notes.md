@@ -27,7 +27,7 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 
 * Users cannot manually crop Meta ads after resizing them. <!-- GS-5871 --> 
 
-* Campaign names are not loading as expected in asset metadata. <!-- GS-5849 --> 
+* Users can create a new [!DNL Campaign] from [!DNL Content] workflows. (This feature will be disabled for GA.) <!-- GS-5650 --> 
 
 * Users must log in twice to a channel Meta ads account when they are also logged in to Facebook. Workaround: Log out of Facebook before logging into a channel Meta ads account. <!-- GS-3009 --> 
 
