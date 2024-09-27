@@ -80,9 +80,7 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 
 ## Preview for device
 
-When revising and preparing email experiences, you can toggle between previews for desktop and mobile views to ensure coherence and visual appeal of draft variants.
-
-**To preview variants for desktop and mobile devices**, toggle the device preview option—between **desktop** and **mobile**—in the right menu bar (computer and phone icons) to preview how variants appear.
+When revising and preparing email experiences, you can [toggle between previews for desktop and mobile views](/help/user-guide/create/manage-variants.md#preview-for-device) to ensure coherence and visual appeal of draft variants.
 
 ## Verify brand alignment
 

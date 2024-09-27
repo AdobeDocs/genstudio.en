@@ -10,8 +10,8 @@ GenStudio for Performance Marketing [!DNL Create] leverages the power of Adobe G
 
 With [!DNL Create], you can generate content for the following channels:
 
-* Emails
-* Meta ads
+* [Emails](email-experiences.md)
+* [Meta ads](meta-experiences.md)
 <!-- * Social media images and ads
 * Display ads -->
 

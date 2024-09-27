@@ -95,6 +95,12 @@ Available size/aspect ratios are:
    
    For instance, if you generate four variants in a 1:1 aspect ratio initially and then change the aspect ratio to 4:5, _eight_ total variants are now available on the Canvas.
 
+## Preview for device
+
+When revising and preparing email experiences, you can toggle between previews for desktop and mobile views to ensure coherence and visual appeal of draft variants.
+
+**To preview variants for desktop and mobile devices**, toggle the device preview option—between **desktop** and **mobile—in** the right menu bar (computer and phone icons) to preview how variants appear.
+
 ## Delete variant
 
 You can delete any generated variants that you do not plan to save or reuse.

@@ -8,9 +8,26 @@ level: Beginner
 
 # Email experiences
 
-<!-- ## Anatomy -->
+With GenStudio for Performance Marketing, you can use generative AI to streamline the [creation of high-impact email experiences](/help/tutorials/create-email-experience.md).
 
-## Progressive loading
+[!DNL Create] enables modern marketers to quickly use [guidelines](/help/user-guide/guidelines/overview.md), image assets, and a [well-crafted prompt](/help/user-guide/effective-prompts.md) to generate a suite of brand-aligned email variants.
+
+Editable sections of an email include:
+
+* Pre-header
+* Headline
+* Body
+* Call-to-action (CTA)
+* Image
+* Brand logo
+
+See [Create an email experience](/help/tutorials/create-email-experience.md).
+
+## Email capabilities
+
+### multi pod
+
+### Progressive loading
 
 When the content generation process starts, each section of generated content in variants progressively loads in the Canvas. Experiences, assets, and fields and sections within experiences, appear individually in the Canvas as they are generated.
 
