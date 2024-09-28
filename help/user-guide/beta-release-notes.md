@@ -25,8 +25,6 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 
 * Users cannot manually crop Meta ads after resizing them. <!-- GS-5871 --> 
 
-* Users can create a new [!DNL Campaign] from [!DNL Content] workflows. <!-- GS-5650 --> 
-
 * Users must log in twice to a channel Meta ads account when they are also logged in to Facebook. Workaround: Log out of Facebook before logging into a channel Meta ads account. <!-- GS-3009 --> 
 
 ### Additional enhancements and fixed issues
@@ -62,7 +60,6 @@ The following known issues are scheduled for resolution in the GenStudio for Per
 * Corrected image rendering of Meta ad-generated images after export. <!-- GS-5749 -->
 
 * The `%` symbol is now rendered correctly in DEU, FRA and ESP locales when users zoom in or zoom out of email variants in the C[!DNL Create] Canvas. <!-- GS-5007 -->
-
 
 #### Localization
 
