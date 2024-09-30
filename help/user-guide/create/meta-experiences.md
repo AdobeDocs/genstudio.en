@@ -8,7 +8,30 @@ level: Beginner
 
 # Meta experiences
 
-<!-- ## Anatomy -->
+With Adobe GenStudio for Performance Marketing, you can use generative AI to streamline the [creation of high-impact Meta experiences](/help/tutorials/create-meta-ad.md).
+
+[!DNL Create] enables content creators to use [guidelines](/help/user-guide/guidelines/overview.md), image assets, and a [well-crafted prompt](/help/user-guide/effective-prompts.md) to quickly [create Meta ad experiences](/help/tutorials/create-meta-ad.md).
+
+Editable sections of an email experience include:
+
+* Headline
+* Body
+* Call-to-action (CTA)
+* On-image text
+* Image
+* Brand logo
+
+See [Template elements](/help/user-guide/content/use-templates.md#template-elements).
+
+<!-- ## Meta ad capabilities
+
+Content creators and marketers can produce brand-consistent Meta ad experiences in GenStudio for Performance Marketing. -->
+
+## Meta ads channels
+
+When creating Meta ad experiences, you can generate variants for both Facebook and Instagram channels. Toggle back and forth between Facebook and Instagram ads to preview variants for each channel.
+
+See [Choose Meta ads channel](/help/tutorials/create-meta-ad.md#choose-meta-ads-channel).
 
 ## Progressive loading
 
