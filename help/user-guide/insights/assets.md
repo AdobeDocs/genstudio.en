@@ -11,15 +11,17 @@ The _[!UICONTROL Assets]_ gallery is the default view that shows a collage of as
 
 The _[!UICONTROL Assets]_ table is organized using [!UICONTROL Asset ID]. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from the [!UICONTROL Account], [!UICONTROL Campaign], [!UICONTROL Ads], and [!UICONTROL Asset types] lists to filter the assets in the table.
 
+![Assets filter and table](/help/assets/insights-assets-filter.png)
+
 You can toggle between the views using the view list (table) icon and the gallery view (grid) icon.
 
 ## Asset details
 
+An _asset_ is an image, video, text, or other creative content approved for use in your marketing initiatives.
+
 Select an asset and view the total asset performance, a list of experiences that use the asset, and attributes associated with the asset. In the details view, you can view metrics based on experiences that use the asset within a specified date range.
 
-### Asset attributes
-
-TBD
+![Asset details](/help/assets/insights-asset-details.png)
 
 ## Metrics
 
@@ -31,11 +33,11 @@ The following table provides definitions and insights for key digital marketing 
 
 | Metric                 | Definition                    | Insight                          |
 | ---------------------- | ----------------------------- | -------------------------------- |
-| **[!UICONTROL Asset ID]**  |  | Sort the table by clicking on the column heading for any of the key metrics. |
+| **[!UICONTROL Asset ID]**  | The name associated with this asset. | Sort the table by clicking on the column heading for any of the key metrics. |
 | **[!UICONTROL Impressions]** | A count of each time the asset loads in the channel, regardless of interaction or viewing. | A high impression count can indicate broad visibility, but for true performance insight, consider with other engagement metrics. |
 | **[!UICONTROL Clicks]**      | Number of times users interact with a clickable element, such as a link, on the asset. | A high click count indicates strong interest and engagement with the content, which may be effective and reaching the right audience. |
 | **[!UICONTROL CTR]**<br>_Click-through rate_ | Percentage (%) of impressions that resulted in asset clicks within an experience.<br>**Calculation**: `clicks` divided by `impressions` | A high click-through rate indicates that the content is highly relevant and motivating to the audience in the messaging and design, and is effectively targeting the audience's interests. |
 | **[!UICONTROL CPM]**<br>_Cost per thousand_ | Cost ($) for every one thousand ad impressions for the asset.<br>**Calculation**: total amount `spent` divided by reach, then multiplied by 1000  | A low value may indicate cost-effective visibility, especially when paired with a high click-through rate. |
 | **[!UICONTROL CPC]**<br>_Cost per click_ | Average cost ($) associated with each click on an asset.<br>**Calculation**: total amount `spent` divided by `clicks` | Lower average costs may indicate cost-efficient ad spend, especially when compared with a rise in conversions. |
 | **[!UICONTROL Spend]**       | The amount ($) spent from the budget as it relates to individual assets over a given period of time. | A high spend amount in a short period may indicate rapid usage, which could lead to early depletion of resources. Track the spend amount against key performance metrics to help monitor the overall return on investment. |
-| **[!UICONTROL Attributes]**  |  | |
+| **[!UICONTROL Attributes]**  | A list of attributes detected and applied to this asset. | |
