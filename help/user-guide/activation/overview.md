@@ -14,7 +14,7 @@ The GenStudio for Performance Marketers activate feature is natively integrated 
 
 1. Select the asset from [!DNL Content].
 
-1. Click the **[!UICONTROL Download]** button on the asset's Details view.
+1. Click the **[!UICONTROL Download]** (down arrow) icon above the _Details_ view.
 
    The asset is downloaded as a ZIP file to your local _Downloads_ folder.
 
@@ -22,7 +22,7 @@ The GenStudio for Performance Marketers activate feature is natively integrated 
 
 1. Select the experience from [!DNL Content] > [!DNL Experiences].
 
-1. Click the **[!UICONTROL Export for activation]** button on the experience's Details view. GenStudio for Performance Marketing displays the **[!UICONTROL Export for activation]** popup and provides two download formats: CSV and HTML. (Alternatively, you can access the *[!UICONTROL Export for activation]** button from the  )
+1. Click the **[!UICONTROL Export for activation]** button on the experience's Details view. GenStudio for Performance Marketing displays the **[!UICONTROL Export for activation]** popup and provides two download formats: CSV and HTML. (Alternatively, you can access the *[!UICONTROL Export for activation]** button from the _More options_ menu (represented by `...`)).
 
 1. Select your preferred download format by clicking the **[!UICONTROL Export CSV]** or **[!UICONTROL Export HTML]** button on the popup.
 
