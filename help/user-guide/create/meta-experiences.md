@@ -41,8 +41,8 @@ When you click **[!UICONTROL Generate]**, a loading indicator appears at the bot
 
 Each field and section of the Meta ad experiences are progressively loaded in this sequence:
 
-1. The primary text for all variations is progressively loaded.
-1. The calls-to-action and associated URLs are progressively loaded.
-1. The headlines are progressively loaded.
-1. On-image text is progressively loaded.
+1. Primary text for all variations
+1. Calls-to-action and associated URLs
+1. Headlines
+1. On-image text
 1. The brand validation process occurs and the [_Brand guidelines check_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) populates for each variant.
