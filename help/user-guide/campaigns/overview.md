@@ -4,7 +4,7 @@ description: Learn about centralized campaign planning and Campaign brief creati
 feature: Campaigns, Campaign Brief, Content
 exl-id: bbf66552-5a42-48d4-9bcd-944cf643e513
 ---
-# GenStudio for Performance Marketers [!DNL Campaigns] 
+# Adobe GenStudio for Performance Marketers [!DNL Campaigns] 
 
 The Adobe GenStudio for Performance Marketers [!DNL Campaigns] feature accelerates the development and deployment of marketing initiatives, or _campaigns_. The [!DNL Campaigns] workflow enhances the development of campaign assets that lend themselves to creation and management by AI-generated workflows, including brand-compliant images and text. It also provides transparency into campaign goals, brand-aligned content, and designated channels. 
 
