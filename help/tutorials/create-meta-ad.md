@@ -10,7 +10,7 @@ exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
 ---
 # Create a Meta ad experience
 
-This tutorial demonstrates how to generate branded Meta ad experiences using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
+This tutorial demonstrates how to generate branded [Meta ad experiences](/help/user-guide/create/meta-experiences.md) using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
 
 Before you begin generating a Meta ad experience, it is important to [incorporate guidelines](/help/user-guide/guidelines/add-guidelines.md) in GenStudio for Performance Marketing and become familiar with the basics of [creating a prompt](/help/user-guide/effective-prompts.md).
 

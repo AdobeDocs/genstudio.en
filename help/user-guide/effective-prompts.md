@@ -35,7 +35,7 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 In GenStudio for Performance Marketers [[!DNL Create]](/help/user-guide/create/overview.md), you can use **[!UICONTROL Prompt criteria]** ([_Parameters_](/help/user-guide/create/overview.md#parameters) and a prompt) in the prompt area to add details through selection to improve the AI interpretation.
 
-For [emails](/help/tutorials/create-email-experience.md), the prompt criteria might include adding [guidelines](/help/user-guide/guidelines/overview.md) in _Parameters_, upload of an asset to use in the email variants, and a descriptive prompt. For a [Meta ad](/help/tutorials/create-meta-ad.md), the prompt criteria might include a brand guideline in _Parameters_, selection or upload of an existing asset, settings related to images or assets such as aspect ratio, and a prompt. The real power begins with [configuring guidelines](/help/user-guide/guidelines/add-guidelines.md).
+For [emails](/help/user-guide/create/email-experiences.md), the prompt criteria might include adding [guidelines](/help/user-guide/guidelines/overview.md) in _Parameters_, upload of an asset to use in the email variants, and a descriptive prompt. For a [Meta ad](/help/tutorials/create-meta-ad.md), the prompt criteria might include a brand guideline in _Parameters_, selection or upload of an existing asset, settings related to images or assets such as aspect ratio, and a prompt. The real power begins with [configuring guidelines](/help/user-guide/guidelines/add-guidelines.md).
 
 >[!NOTE]
 >
@@ -51,7 +51,7 @@ GenStudio for Performance Marketers guidelines help the generative AI to persona
 
 ### Structured prompts
 
-For multi-section emails, you can structure prompts to provide section-specific instructions to generate varying content for each section in an email. Structured prompts should directly reference [section names in the email template](/help/user-guide/content/email-template.md#multi-section-emails) so that the generated content can be inserted into the corresponding content placeholders.
+For multi-section emails, you can structure prompts to provide section-specific instructions to generate varying content for each section in an [email](/help/user-guide/create/email-experiences.md). Structured prompts should directly reference [section names in the email template](/help/user-guide/content/email-template.md#multi-section-emails) so that the generated content can be inserted into the corresponding content placeholders.
 
 For instance, you can instruct GenStudio for Performance Marketing to generate content that promotes a new product in the first section of an email and generate content that details the cost-saving benefits of the product in the second email section.
 
