@@ -15,7 +15,7 @@ The filter (funnel) icon above the left side of the table opens the **[!UICONTRO
 
 Attributes help to identify assets by their inherent details, such as color, composition, visual elements, and other properties. GenStudio for Performance Marketing recognizes and tags the following categories.
 
-+++ Images features
++++ Image features
 
 | Category               | Values                              |
 | ---------------------- | ----------------------------------- |
@@ -36,7 +36,9 @@ Attributes help to identify assets by their inherent details, such as color, com
 | Visual Attention Spread| <ul><li>low</li><li>high</li></ul> |
 | Visual Content Density | <ul><li>low</li><li>high</li></ul> |
 
-+++ Videos features
++++ <!--End of Image features-->
+
++++ Video features
 
 | Category               | Values                              |
 | ---------------------- | ----------------------------------- |
@@ -52,6 +54,8 @@ Attributes help to identify assets by their inherent details, such as color, com
 | Tags (will be called Visual Tags in the future)  | |
 | Video Category  | |
 | Video Type  | |
+
++++ <!--End of Video features-->
 
 +++ Text features
 
@@ -70,6 +74,8 @@ Attributes help to identify assets by their inherent details, such as color, com
 | Tones  | <ul><li></li></ul> |
 | Words Count  | |
 | Words Count Per Sentence  | |
+
++++ <!--End of Text features-->
 
 ## Metrics
 
