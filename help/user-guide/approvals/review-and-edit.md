@@ -12,7 +12,7 @@ Adobe GenStudio for Performance Marketing generative AI capabilities accelerate 
 
 ## Iterative draft editing
 
-Editors can make in-process edits to content in response to review comments. While a draft is under revision, approvers can continue adding review comments but cannot change asset status. The editor can continue editing content on the Canvas while approvers continue their reviews.
+Content editors can make in-process edits to content in response to review comments. While a draft is under revision, approvers can continue adding review comments but cannot change asset status. The content editor can continue editing content on the Canvas while approvers continue their reviews.
 
 ## View approval requests
 

@@ -6,7 +6,7 @@ exl-id: c83f47c0-e8ae-4c54-84b3-c50f67d6b3c2
 ---
 # Adobe GenStudio for Performance Marketing Reviews and Approvals
 
-Adobe GenStudio for Performance Marketing review and approvals workflow ensures that all stakeholders— from creative teams to legal experts— can efficiently review and approve campaign assets and experiences, including generative AI-produced brand assets.
+The review and approvals workflow ensures that all stakeholders— from creative teams to legal experts— can efficiently review and approve campaign assets and experiences, including generative AI-produced brand assets.
 
 ## [!DNL Review and Approval] workflow advantages
 
@@ -35,7 +35,7 @@ _Drafts_ are preliminary versions of assets or experiences that have not undergo
 
 When a draft completes the review and approval process and is published to [!DNL Content], the draft ID expires, and GenStudio for Performance Marketing does not save associated comments and approval statuses. The draft URL is no longer valid.
 
-Draft status captures the state of the content draft as it moves through the review and approval process. The GenStudio for Performance Marketing editor who created the asset under review is notified of any requested changes to the draft or approvals. Approvers change draft status to indicate whether a draft needs further revision or can be approved. All designated approvers must approve an asset or experience before it can be published.
+Draft status captures the state of the content draft as it moves through the review and approval process. The GenStudio for Performance Marketing content editor who created the asset under review is notified of any requested changes to the draft or approvals. Approvers change draft status to indicate whether a draft needs further revision or can be approved. All designated approvers must approve an asset or experience before it can be published.
 
 Available draft statuses:
 
