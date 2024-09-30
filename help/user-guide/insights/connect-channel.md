@@ -8,11 +8,14 @@ exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
 # Connect channel ad account
 
 The first time you open [!DNL Insights], you may see a banner to guide you to connect Adobe GenStudio for Performance Marketing with your channel accounts. This connection enables GenStudio for Performance Marketing to receive data from your active marketing campaigns, assets, and experiences. With [!DNL Insights], you have the tools to analyze the data and take action.
-<!-- May need some assurance here that their data is safe. -->
 
-## Data ingestion and retention
+>[!BEGINSHADEBOX]
 
-The look-back window is 6 months and the retention period is 13 months (CJA default).
+**Data Ingestion and Retention Policy**
+
+GenStudio for Performance Marketing retains channel data for a period of 13 months. This includes an initial look-back period of 6 months, ensuring comprehensive historical data analysis and reporting.
+
+>[!ENDSHADEBOX]
 
 ## Meta ads connect
 
