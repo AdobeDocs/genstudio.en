@@ -12,14 +12,10 @@ If the content draft meets your organization's standards and your expectations, 
 
 **To approve a draft**:
 
-1. Access the draft from either the in-product or email notification. 
+1. Access the draft from either the in-product or email notification. This notification email includes a **[!UICONTROL View all notifications]** button. Click this button to see a linked list of all pending approval requests, which you can use to navigate to content you want to approve.
 
-View all notifications is always enabled for in-app notifications and not enabled for email. It has nothing to do with previous requests
+1. (_Optional_). Enter comments in the **[!UICONTROL Comments]** text field.
 
-If you have been asked to review more than one item, this email includes a **[!UICONTROL View all notifications]** button. Click this button to see a linked list of all pending approval requests, which you can use to navigate to content you want to approve.
+1. Select **[!UICONTROL Approved]**. 
 
-1. (_Optional_). Enter comments in the Comments text field.
-
-1. Select **Approved**. 
-
-Your work as an approver is done. GenStudio for Performance Marketing alerts the draft creator of your approval. See [Publish content](./publish-content.md) for an overview of the process of saving to [!DNL Content], or _publishing_.
+Your work as an approver is done. Adobe GenStudio for Performance Marketing alerts the draft creator of your approval. See [Publish content](./publish-content.md) for an overview of the process of saving to [!DNL Content], or _publishing_.

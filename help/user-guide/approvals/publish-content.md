@@ -6,11 +6,11 @@ exl-id: 2bb93815-8a7f-40db-a56a-2aefda40a2f4
 ---
 # Publish approved content
 
-The final stage of creating brand-aligned, approved content is saving it to [!DNL Content] with appropriate metadata. You (the content creator) can finalize the approved asset by publishing, or saving it, to [!DNL Content].
+The final stage of creating brand-aligned, approved content is saving it to [!DNL Content] with appropriate metadata. You (the content editor, or creator) can finalize the approved asset by publishing, or saving it, to [!DNL Content].
 
-When all designated approvers approve a draft, draft status changes to **Approved**. GenStudio for Performance Marketing displays the _Approved variants ready to publish_ pop-up on the creator's Canvas.
+When all designated approvers approve a draft, draft status changes to **Approved**. Adobe GenStudio for Performance Marketing displays the _Approved variants ready to publish_ pop-up on the editor's Canvas.
 
-You can then finalize the draft by publishing it to [!DNL Content] with appropriate metadata. The approved draft is not available to other GenStudio users until you publish the draft to [!DNL Content].
+You can then finalize the draft by publishing it to [!DNL Content] with appropriate metadata. The approved draft is not available to other GenStudio for Performance Marketing users until you publish the draft to [!DNL Content].
 
 **To publish approved content**:
 
@@ -18,9 +18,9 @@ You can then finalize the draft by publishing it to [!DNL Content] with appropri
 
 1. Click **[!UICONTROL Publish]** to save the asset or experience to [!DNL Content]. GenStudio for Performance Marketing displays the _Confirm details for your approved content_ window, which displays thumbnails of the approved assets. 
 
-1. Add information about the content as prompted by GenStudio. This information is saved as metadata, which adds value to [!DNL Content] filter and search operations. You can add the asset to a GenStudio campaign at this point in the publication process.
+1. Add information about the content as prompted by GenStudio for Performance Marketing. This information is saved as metadata, which adds value to [!DNL Content] filter and search operations. You can add the asset to a GenStudio for Performance Marketing campaign at this point in the publication process.
 
-1. After the content publication process has completed, GenStudio displays the _Approved variations have been published_ popup. From this popup window, you can:
+1. After the content publication process has completed, GenStudio for Performance Marketing displays the _Approved variations have been published_ popup. From this popup window, you can:
 
    * Click **[!UICONTROL Open in Content]** to view the published asset or experience.
 
@@ -31,7 +31,6 @@ You can then finalize the draft by publishing it to [!DNL Content] with appropri
 All GenStudio for Performance Marketing users can access approved assets or experiences in [!DNL Content]. The Asset details panel identifies the asset's upload and approval history. These attributes identify saved content:
 
 * **[!UICONTROL Created by]**: Identifies the GenStudio user who uploaded the asset or experience.
-* **[!UICONTROL Approval History]**: Describes the most recent approval action for this asset.
-* **[!UICONTROL Approved on date by Approver]**: Identifies the approval date and time and the approver. 
+* **[!UICONTROL Approval History]**: Identifies the approval date and time and the approver.
 
 Draft URLs are invalid after a draft asset or experience is saved to [!DNL Content].
