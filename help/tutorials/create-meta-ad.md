@@ -1,6 +1,6 @@
 ---
 title: Create a Meta ad experience
-description: Learn how to create on-brand Meta ad experiences—for Facebook or Instagram—with Adobe GenStudio for Performance Marketers.
+description: Learn how to create on-brand Meta ad experiences—for Facebook or Instagram—with Adobe GenStudio for Performance Marketing.
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
@@ -10,9 +10,9 @@ exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
 ---
 # Create a Meta ad experience
 
-This tutorial demonstrates how to generate branded Meta ad experiences using GenStudio for Performance Marketers [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
+This tutorial demonstrates how to generate branded Meta ad experiences using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
 
-Before you begin generating a Meta ad experience, it is important to [incorporate guidelines](/help/user-guide/guidelines/add-guidelines.md) in GenStudio for Performance Marketers and become familiar with the basics of [creating a prompt](/help/user-guide/effective-prompts.md).
+Before you begin generating a Meta ad experience, it is important to [incorporate guidelines](/help/user-guide/guidelines/add-guidelines.md) in GenStudio for Performance Marketing and become familiar with the basics of [creating a prompt](/help/user-guide/effective-prompts.md).
 
 ## Choose a template
 
@@ -35,7 +35,7 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
 1. Click the _Parameters_ icon to expand the prompt area.
 1. In the _Parameters_ section, select guidelines—[!DNL Brands], [!DNL Personas], and [!DNL Products]—to inform content creation.
 
-   If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketers](/help/user-guide/guidelines/add-guidelines.md).
+   If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Click **[!UICONTROL Select content]** to add content to be used in the experience *and* to influence content generation.
    * Click **[!UICONTROL Select from content]** to select assets (images) already published to [!DNL Content]. Use the filters to further narrow your search results.
@@ -119,6 +119,6 @@ See [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approv
 
 ## Connect Meta
 
-You can connect GenStudio for Performance Marketers to Meta to receive advanced analytics and [insights](/help/user-guide/insights/overview.md) into content performance.
+You can connect GenStudio for Performance Marketing to Meta to receive advanced analytics and [insights](/help/user-guide/insights/overview.md) into content performance.
 
 See [Connect channel account](/help/user-guide/insights/connect-channel.md) for more information.
