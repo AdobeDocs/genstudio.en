@@ -9,15 +9,17 @@ The [!DNL Insights] _[!UICONTROL Experiences]_ view shows a list of experiences 
 
 The _[!UICONTROL Experiences]_ table is organized using [!UICONTROL Ad names]. Click the settings (cog) icon above the right side of the table to toggle the viewable columns. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from the [!UICONTROL Account] and [!UICONTROL Campaign] lists to filter the ad names in the table.
 
-![Experiences filter and table](../../assets/insights-experiences-filter.png)
+![Experiences filter and table](/help/assets/insights-experiences-filter.png)
 
 ## Experience details
 
-Select an experience (ad name) and view the performance metrics and text attributes associated with the experience. In the details view, you can analyze an experience's metrics based on its ad placement within a specified date range.
+An _experience_ is a promotional asset that includes visual and interactive content intended for distribution to a specific audience as part of a marketing campaign.
+
+Select an experience (ad name) and view the performance metrics, text attributes, and placements associated with each ad. In the details view, you can analyze an experience's metrics based on its ad placement and marketing efforts within a specified date range.
 
 The details view includes a metrics overall ad `click-through rate`, `cost per click`, and how much of the budget has been `spent` on the ad. Since ads can have multiple placements, such as a feed or a banner, you can see a breakdown of the same metrics for each ad placement. Use the left and right arrows under **[!UICONTROL Performance by ad placement]** to cycle through the ad placement metrics.
 
-![Ad details with metrics and ad placements](../../assets/insights-ad-details.png)
+![Ad details with metrics and ad placements](/help/assets/insights-experience-details.png)
 
 ### Text attributes
 

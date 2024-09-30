@@ -42,7 +42,7 @@ The [!DNL Insights] _[!UICONTROL Assets]_ view is designed to help you analyze t
 
 Clicking on an asset provides further context about its performance across different experiences:
 
-![Asset view](/help/assets/insights-asset-view.png){width="600" zoomable="yes"}
+![Asset details](/help/assets/insights-asset-details.png){width="600" zoomable="yes"}
 
 In the asset view, the left side shows a thumbnail of the asset and a list of attributes. There are three highlighted metrics: `Click-through rate`, `Cost per click`, and `Spend`. The performance highlights show how actual values (solid line) compare to the average value (dotted line) over the selected time period (default is `Last 30 days`).
 
