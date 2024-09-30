@@ -1,13 +1,13 @@
 ---
-title: Adobe GenStudio for Performance Marketers Tutorials
-description: Learn how to complete an end-to-end process, such as creating an email experience, by following GenStudio for Performance Marketers tutorials.
+title: Adobe GenStudio for Performance Marketing Tutorials
+description: Learn how to complete an end-to-end process, such as creating an email experience, by following GenStudio for Performance Marketing tutorials.
 exl-id: f4afb6c8-67d0-4499-84e8-0ab819543b59
 ---
-# Adobe GenStudio for Performance Marketers tutorials
+# Adobe GenStudio for Performance Marketing tutorials
 
-Adobe GenStudio for Performance Marketers tutorials follows basic step-by-step workflows that contain links to deeper concepts in the user guide.
+Adobe GenStudio for Performance Marketing tutorials follows basic step-by-step workflows that contain links to deeper concepts in the user guide.
 
-The tutorials in this guide detail concepts, prerequisites, best practices, and the individual steps needed to successfully generate high-quality marketing content in GenStudio for Performance Marketers.
+The tutorials in this guide detail concepts, prerequisites, best practices, and the individual steps needed to successfully generate high-quality marketing content in GenStudio for Performance Marketing.
 
 <table style="table-layout:fixed">
 <td valign="top">

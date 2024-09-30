@@ -1,6 +1,6 @@
 ---
 title: Create an email experience
-description: Learn how to create email experiences in Adobe [!DNL GenStudio] for Performance Marketers.
+description: Learn how to create email experiences in Adobe GenStudio for Performance Marketing.
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
@@ -10,9 +10,9 @@ exl-id: 34446202-da98-45ff-869a-b43496a477f8
 ---
 # Create an email experience
 
-This tutorial demonstrates how to generate branded email experiences using GenStudio for Performance Marketers [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
+This tutorial demonstrates how to generate branded email experiences using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
 
-To create an effective email experience, it is recommended that you [add guidelines to GenStudio for Performance Marketers](/help/user-guide/guidelines/add-guidelines.md) and brush up on the [basics of crafting a prompt](/help/user-guide/effective-prompts.md) before you begin.
+To create an effective email experience, it is recommended that you [add guidelines to GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md) and brush up on the [basics of crafting a prompt](/help/user-guide/effective-prompts.md) before you begin.
 
 ## Choose a template
 
@@ -35,7 +35,7 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
 1. Click the _Parameters_ icon to expand the prompt area.
 1. In the _Parameters_ section, select guidelines—[!DNL Brands], [!DNL Personas], and [!DNL Products]—to inform content creation.
 
-   If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketers](/help/user-guide/guidelines/add-guidelines.md).
+   If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Click **[!UICONTROL Select content]** to add content to be used in the experience *and* to influence content generation.
    * Click **[!UICONTROL Select from content]** to select assets (images) already published to [!DNL Content]. Use the filters to further narrow your search results.
