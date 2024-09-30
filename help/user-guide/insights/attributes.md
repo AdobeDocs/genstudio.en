@@ -11,7 +11,7 @@ The _[!UICONTROL Attributes]_ table is organized using the [!UICONTROL Attribute
 
 The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from the [!UICONTROL Account] and [!UICONTROL Attribute category] to filter the attributes in the table. The following example shows a list of attributes in the `Lighting Condition` category.
 
-![Attributes filter and table](/help/assets/insights-attributes-filter.png)
+![Attributes filter and table](/help/assets/insights-attributes-filter.png){zoomable="yes"}
 
 ## Attribute details
 
@@ -19,7 +19,7 @@ Attributes help to identify assets by their inherent details, such as color, com
 
 Select an attribute and view the performance metrics. In the details view, you can view metrics based on assets that use the attribute within a specified date range.
 
-![Attribute performance metrics](/help/assets/insights-attribute-details.png)
+![Attribute performance metrics](/help/assets/insights-attribute-details.png){zoomable="yes"}
 
 ## Categories
 

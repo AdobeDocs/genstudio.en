@@ -11,7 +11,7 @@ The _[!UICONTROL Assets]_ gallery is the default view that shows a collage of as
 
 The _[!UICONTROL Assets]_ table is organized using [!UICONTROL Asset ID]. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from the [!UICONTROL Account], [!UICONTROL Campaign], [!UICONTROL Ads], and [!UICONTROL Asset types] lists to filter the assets in the table.
 
-![Assets filter and table](/help/assets/insights-assets-filter.png)
+![Assets filter and table](/help/assets/insights-assets-filter.png){zoomable="yes"}
 
 You can toggle between the views using the view list (table) icon and the gallery view (grid) icon.
 
@@ -21,7 +21,7 @@ An _asset_ is an image, video, text, or other creative content approved for use 
 
 Select an asset and view the total asset performance, a list of experiences that use the asset, and attributes associated with the asset. In the details view, you can view metrics based on experiences that use the asset within a specified date range.
 
-![Asset details](/help/assets/insights-asset-details.png)
+![Asset details](/help/assets/insights-asset-details.png){zoomable="yes"}
 
 ## Metrics
 
