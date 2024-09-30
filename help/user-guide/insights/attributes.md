@@ -7,34 +7,44 @@ feature: Insights, Assets
 
 The [!DNL Insights] _[!UICONTROL Attributes]_ view shows a list of attributes used in ad campaigns for the selected channel account.
 
-The _[!UICONTROL Attributes]_ table is organized by the [!UICONTROL Attribute] name. You can toggle between the list types using the **[!UICONTROL Images]** button and the **[!UICONTROL Video]** button. Click the settings (cog) icon above the right side of the table to toggle the viewable columns.
+The _[!UICONTROL Attributes]_ table is organized using the [!UICONTROL Attribute] name. You can toggle between the list types using the **[!UICONTROL Images]** button and the **[!UICONTROL Video]** button. Click the settings (cog) icon above the right side of the table to toggle the viewable columns.
 
-The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from the [!UICONTROL Account] and [!UICONTROL Attribute category] to filter the attributes in the table.
+The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from the [!UICONTROL Account] and [!UICONTROL Attribute category] to filter the attributes in the table. The following example shows a list of attributes in the `Lighting Condition` category.
+
+![Attributes filter and table](/help/assets/insights-attributes-filter.png)
+
+## Attribute details
+
+Attributes help to identify assets by their inherent details, such as color, composition, visual elements, and other properties. GenStudio for Performance Marketing detects certain features and applies the appropriate attribute as a tag. See [Categories](#categories) to see examples of these tags.
+
+Select an attribute and view the performance metrics. In the details view, you can view metrics based on assets that use the attribute within a specified date range.
+
+![Attribute performance metrics](/help/assets/insights-attribute-details.png)
 
 ## Categories
 
-Attributes help to identify assets by their inherent details, such as color, composition, visual elements, and other properties. GenStudio for Performance Marketing recognizes and tags the following categories.
+ GenStudio for Performance Marketing recognizes and tags categories for images, videos, and text features. Select any of the following to open a detailed list of attribute categories:
 
 +++**Image features**
 
 | Category               | Values                              |
 | ---------------------- | ----------------------------------- |
 | Background Colors      | 14 colors |
-| Camera Position        | <ul><li>low angle, high angle, dutch angle</li><li>overhead view</li><li>eye level</li> <li>bird's eye view</li></ul> |
-| Camera Proximity       | <ul><li>close up</li><li>mid shot</li><li>long shot</li></ul> |
-| Camera Setting         | <ul><li>fast shutter speed</li><li>long exposure</li><li>bokeh blur</li><li>motion blur</li><li>tilt-shift blur</li><li>flash</li><li>wide-angle</li><li>black and white</li><li>surreal</li><li>double exposure</li><li>macro</li><li>normal mode</li></ul> |
+| Camera Position        | - `low angle`, `high angle`, `dutch angle`<br>- `overhead view`, `eye level`,`bird's eye view` |
+| Camera Proximity       | `close up`, `mid shot`, `long shot` |
+| Camera Setting         | - `fast shutter speed`, `long exposure`, `double exposure`<br>- `normal mode`, `flash`, `macro`, `wide-angle`<br>- `black and white`, `surreal`<br>- `bokeh blur`, `motion blur`, `tilt-shift blur` |
 | Foreground Colors      | 14 colors |
-| Image Type             | <ul><li>photograph</li><li>sketch</li><li>painting</li><li>digital cartoon</li><li>infographics</li><li>graphic design</li><li>collage</li><li>screenshot</li></ul> |
-| Lighting Condition     | <ul><li>golden hour</li><li>blue hour</li><li>midday</li><li>overcast</li><li>night</li><li>high-key</li><li>low-key</li><li>daylight</li><li>incandescent</li><li>fluorescent</li><li>colorful</li><li>studio</li></ul>|
-| Objects                | |
-| Orientation            | <ul><li>landscape</li><li>portrait</li><li>square</li></ul> |
-| Overall Tone           | <ul><li>warm</li><li>cool</li><li>neutral</li></ul> |
-| People Categories      | <ul><li>person</li><li>man</li><li>woman</li><li>social group</li><li>crowd</li><li>people</li><li>boy</li><li>girl</li><li>kid</li></ul> |
-| Photography Styles     | <ul><li></li></ul> |
-| Scenes                 | <ul><li></li></ul> |
-| Tags                   | <ul><li></li></ul> |
-| Visual Attention Spread| <ul><li>low</li><li>high</li></ul> |
-| Visual Content Density | <ul><li>low</li><li>high</li></ul> |
+| Image Type             | `photograph`, `sketch`, `painting`, `digital cartoon`, `infographics`, `graphic design`, `collage`, `screenshot` |
+| Lighting Condition     | golden hour, blue hour, midday, overcast, night, high-key, low-key, daylight, incandescent, fluorescent, colorful, studio |
+| Objects                | The items, entities, and elements that are visible, such as `lighthouse`, `orchid`, or `tunnel`. |
+| Orientation            | Examples: `landscape`, `portrait`, `square` |
+| Overall Tone           | `warm`, `cool`, `neutral` |
+| People Categories      | Examples: `person`, `social group`, `people`, `kid` |
+| Photography Styles     | `aerial photography`, `aerial photography`, `architectural photography`, `astrophotography`, `black and white photography`, `business photography`, `cityscape photography`, `commercial photography`, `composite photography`, `creative photography`, `editorial photography`, `event photography`, `family photography`, `fashion photography`, `fine art photography`, `food photography`, `holiday photography`, `indoor photography`, `landscape photography`, `lifestyle photography`, `macro photography`, `minimalist photography`, `night photography`, `outdoor photography`, `pet photography`, `portrait photography`, `product photography`, `real estate photography`, `seascape photography`, `sports photography`, `still-life photography`, `street photography`, `travel photography`, `underwater photography`, `wildlife photography` |
+| Scenes                 | Examples: `city`, `island`, `living room` |
+| Tags                   | Examples: `gaming`, `law`, `yoga` |
+| Visual Attention Spread| The level of viewer attention spread across an image: `high`, `low` |
+| Visual Content Density | The amount of information or detail in an image: `high`, `low` |
 
 +++
 
@@ -53,7 +63,7 @@ Attributes help to identify assets by their inherent details, such as color, com
 | People Categories  | |
 | Scenes  | |
 | Styles  | |
-| Tags (will be called Visual Tags in the future)  | |
+| Tags   | |
 | Video Category  | |
 | Video Type  | |
 
@@ -67,10 +77,10 @@ Attributes help to identify assets by their inherent details, such as color, com
 | ---------------------- | ----------------------------------- |
 | Emojis Count  | |
 | HashTags Count  | |
-| Keywords (will be called Text Tags in the future)  | |
+| Keywords  | |
 | Marketing Emotions  | |
-| Narratives  | <ul><li></li></ul> |
-| Persuasion Strategies  | <ul><li></li></ul> |
+| Narratives  |  |
+| Persuasion Strategies  |  |
 | Readability  | |
 | Sentences Count  | |
 | Stop Words Ratio  | |
@@ -93,7 +103,7 @@ The following table provides definitions and insights for key digital marketing 
 
 | Metric                 | Definition                    | Insight                          |
 | ---------------------- | ----------------------------- | -------------------------------- |
-| **[!UICONTROL Attribute]**   |  | Sort the table by clicking on the column heading for any of the key metrics. |
+| **[!UICONTROL Attribute]**   | The attribute name. | Sort the table by clicking on the column heading for any of the key metrics. |
 | **[!UICONTROL Category]**    | The [category](#categories) that represents the inherent quality of an attribute. |  |
 | **[!UICONTROL # of images]** | A count of images with this attribute. |  |
 | **[!UICONTROL # of videos]** | A count of videos with this attribute. |  |
