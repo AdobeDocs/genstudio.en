@@ -15,12 +15,12 @@ The filter (funnel) icon above the left side of the table opens the **[!UICONTRO
 
 Attributes help to identify assets by their inherent details, such as color, composition, visual elements, and other properties. GenStudio for Performance Marketing recognizes and tags the following categories.
 
-### Images features
++++ Images features
 
 | Category               | Values                              |
 | ---------------------- | ----------------------------------- |
 | Background Colors      | 14 colors |
-| Camera Position        | <ul><li>low angle</li><li>high angle</li><li>dutch angle</li><li>overhead view</li><li>eye level</li> <li>bird's eye view</li></ul> |
+| Camera Position        | <ul><li>low angle, high angle, dutch angle</li><li>overhead view</li><li>eye level</li> <li>bird's eye view</li></ul> |
 | Camera Proximity       | <ul><li>close up</li><li>mid shot</li><li>long shot</li></ul> |
 | Camera Setting         | <ul><li>fast shutter speed</li><li>long exposure</li><li>bokeh blur</li><li>motion blur</li><li>tilt-shift blur</li><li>flash</li><li>wide-angle</li><li>black and white</li><li>surreal</li><li>double exposure</li><li>macro</li><li>normal mode</li></ul> |
 | Foreground Colors      | 14 colors |
@@ -36,7 +36,7 @@ Attributes help to identify assets by their inherent details, such as color, com
 | Visual Attention Spread| <ul><li>low</li><li>high</li></ul> |
 | Visual Content Density | <ul><li>low</li><li>high</li></ul> |
 
-### Videos features
++++ Videos features
 
 | Category               | Values                              |
 | ---------------------- | ----------------------------------- |
@@ -53,7 +53,7 @@ Attributes help to identify assets by their inherent details, such as color, com
 | Video Category  | |
 | Video Type  | |
 
-### Text features
++++ Text features
 
 | Category               | Values                              |
 | ---------------------- | ----------------------------------- |
