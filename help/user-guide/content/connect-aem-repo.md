@@ -1,12 +1,12 @@
 ---
-title: Connect to an AEM Assets Content Hub repository
-description: Learn how to connect GenStudio for Performance Marketers to an Adobe Experience Manager (AEM) Content Hub repository and leverage existing approved content.
+title: "Connect to an [!DNL AEM Assets Content Hub] repository"
+description: Learn how to connect Adobe GenStudio for Performance Marketing to an Adobe Experience Manager (AEM) [!DNL Content Hub] repository and leverage existing approved content.
 level: Experienced
 feature: Assets, Content
 ---
 # Connect to an [!DNL AEM Assets Content Hub] repository
 
-If you have assets in Adobe Experience Manager (AEM), you can follow these steps to make them accessible in GenStudio for Performance Marketers.
+If you have assets in Adobe Experience Manager (AEM), you can follow these steps to make them accessible in GenStudio for Performance Marketing.
 
 >[!BEGINSHADEBOX]
 
@@ -31,7 +31,7 @@ In the [!DNL Admin Console], add GenStudio users or user groups to the [!DNL AEM
 
 ## Step 3: Approve assets
 
-Approve assets for use in [!DNL AEM Assets Content Hub], which makes them available in GenStudio for Performance Marketers. See [Approve assets in Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) in the _AEM as a Cloud Service_ documentation.
+Approve assets for use in [!DNL AEM Assets Content Hub], which makes them available in GenStudio for Performance Marketing. See [Approve assets in Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) in the _AEM as a Cloud Service_ documentation.
 
 ## Step 4: Configure asset visibility
 
@@ -39,4 +39,4 @@ In _[!DNL AEM Assets Content Hub]_ configuration options, review each set of con
 
 ## Step 5: Verify the connection
 
-In GenStudio for Performance Marketers Content, the _[!UICONTROL Location]_ list is available above the gallery on the right side. The list is not available if you do not have access or your organization has not deployed and connected an [!DNL AEM Assets Content Hub] repository.
+In GenStudio for Performance Marketing Content, the _[!UICONTROL Location]_ list is available above the gallery on the right side. The list is not available if you do not have access or your organization has not deployed and connected an [!DNL AEM Assets Content Hub] repository.

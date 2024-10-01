@@ -1,12 +1,12 @@
 ---
 title: Work with Templates
-description: Discover how to use templates effectively to streamline your creative process in Adobe GenStudio for Performance Marketers.
+description: Discover how to use templates effectively to streamline your creative process in Adobe GenStudio for Performance Marketing.
 feature: Templates, Content
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
 ---
 # Work with Templates
 
-GenStudio for Performance Marketers enables content creators to produce consistent on-brand marketing content quickly using _templates_. A template significantly reduces the time and effort required to generate new content by providing a starting point that includes pre-configured layouts and design elements.
+GenStudio for Performance Marketing enables content creators to produce consistent on-brand marketing content quickly using _templates_. A template significantly reduces the time and effort required to generate new content by providing a starting point that includes pre-configured layouts and design elements.
 
 ## Template elements
 
@@ -65,17 +65,17 @@ The following is a list of elements that are used in templates and some details 
 
 >[!TIP]
 >
->See the [recognized field names](customize-template.md#recognized-field-names) that GenStudio for Performance Marketers supports for templates of each Channel type.
+>See the [recognized field names](customize-template.md#recognized-field-names) that GenStudio for Performance Marketing supports for templates of each Channel type.
 
 ## Configure channel guidelines
 
-It is a best practice to configure [channel guidelines](../guidelines/brands.md#channel-guidelines) for each brand before using templates in GenStudio for Performance Marketers. The channel guidelines directly influence the type of content generated when using the template. For example, you can set character limits on the body of an email.
+It is a best practice to configure [channel guidelines](../guidelines/brands.md#channel-guidelines) for each brand before using templates in GenStudio for Performance Marketing. The channel guidelines directly influence the type of content generated when using the template. For example, you can set character limits on the body of an email.
 
 ![Body specifications](/help/assets/channel-email-body.png)
 
 ## Customize template
 
-You [customize your template](customize-template.md) for use in GenStudio for Performance Marketers by inserting content placeholders, or fields, that the generative AI uses to insert content. GenStudio for Performance Marketers recognizes certain fields, such as the `body` field, and adheres to the channel guidelines configured for the selected brand.
+You [customize your template](customize-template.md) for use in GenStudio for Performance Marketing by inserting content placeholders, or fields, that the generative AI uses to insert content. GenStudio for Performance Marketing recognizes certain fields, such as the `body` field, and adheres to the channel guidelines configured for the selected brand.
 
 >[!TIP]
 >
@@ -83,7 +83,7 @@ You [customize your template](customize-template.md) for use in GenStudio for Pe
 
 ## Upload a template
 
-Use [Customize templates](customize-template.md) as a guide when preparing a template for GenStudio for Performance Marketers. See [accessibility guidelines for templates](accessibility-for-templates.md) for guidance on providing a better experience for all audiences.
+Use [Customize templates](customize-template.md) as a guide when preparing a template for GenStudio for Performance Marketing. See [accessibility guidelines for templates](accessibility-for-templates.md) for guidance on providing a better experience for all audiences.
 
 **To add a template**:
 
@@ -116,7 +116,7 @@ Use [Customize templates](customize-template.md) as a guide when preparing a tem
 
 ## Create with a template
 
-Find and use an existing template in GenStudio for Performance Marketers to create more experiences.
+Find and use an existing template in GenStudio for Performance Marketing to create more experiences.
 
 **To create an experience with a template**:
 
