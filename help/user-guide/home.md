@@ -1,13 +1,13 @@
 ---
 title: Adobe GenStudio User Guide
-description: Enable marketers and supercharge creatives with GenStudio for Performance Marketers, Adobe's AI-first application that provides self-service access to on-brand content with enterprise guardrails and governance for high-performing experiences.
+description: Enable marketers and supercharge creatives with GenStudio for Performance Marketing, Adobe's AI-first application that provides self-service access to on-brand content with enterprise guardrails and governance for high-performing experiences.
 exl-id: beae7802-09e6-4ca3-9ffa-b8494aea5ae4
 ---
-# Adobe GenStudio for Performance Marketers User Guide
+# Adobe GenStudio for Performance Marketing User Guide
 
-Adobe GenStudio for Performance Marketers is an AI-driven platform that empowers you to generate and manage marketing content that adheres to your brand standards and complies with your enterprise policies.
+Adobe GenStudio for Performance Marketing is an AI-driven platform that empowers you to generate and manage marketing content that adheres to your brand standards and complies with your enterprise policies.
 
-By leveraging Adobe AI technology, GenStudio for Performance Marketers provides a comprehensive suite of tools that simplify the complexities of content creation and management so that creatives can focus on innovation.
+By leveraging Adobe AI technology, GenStudio for Performance Marketing provides a comprehensive suite of tools that simplify the complexities of content creation and management so that creatives can focus on innovation.
 
 ## What's new
 
@@ -97,7 +97,7 @@ By leveraging Adobe AI technology, GenStudio for Performance Marketers provides 
       </a>
    </div>
    <p>
-      <em>Learn how to add guidelines—Brands, Products, and Personas—to GenStudio for Performance Marketers.</em>
+      <em>Learn how to add guidelines—Brands, Products, and Personas—to GenStudio for Performance Marketing.</em>
    </p>
 </td>
 <td valign="top">
