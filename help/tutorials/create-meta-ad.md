@@ -78,7 +78,11 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 * **To [change the size and aspect ratio of the ad](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**, click the _[!UICONTROL Resize]_ button (box with a button icon on the left side of the Canvas) and select a new size and aspect ratio to apply to all variants. The variants are duplicated and resized.
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
 * **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
-* **To [delete a Meta ad](/help/user-guide/create/manage-variants.md#delete-variant)**, click the ad title (for example, "Meta 4") and click **[!UICONTROL Delete variant]**.
+* **To [delete a Meta ad](/help/user-guide/create/manage-variants.md#delete-variant)**, click the options icon (three dots) for a variant and click **[!UICONTROL Delete]**.
+
+## Submit generation feedback
+
+**To [submit feedback](/help/user-guide/create/manage-variants.md#generation-feedback) about the quality of the generation output**, click the options icon (three dots) and select **[!UICONTROL Good output]** or **[!UICONTROL Poor output]**.
 
 ## Verify brand alignment
 
