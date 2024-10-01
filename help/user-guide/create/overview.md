@@ -80,7 +80,7 @@ Content—uploaded or added image assets—in _Parameters_ are used in generated
 
 [Crafting effective prompts](/help/user-guide/effective-prompts.md) is an important part of the generation process in [!DNL Create].
 
-To create new AI-generated content, enter a [descriptive prompt](/help/user-guide/effective-prompts.md) that describes the context or experience you intend to generate, along with [guidelines](/help/user-guide/guidelines/overview.md) and [_Parameters_](#parameters), in the prompt area and click **[!UICONTROL Generate]**.
+To create AI-generated content, enter a [descriptive prompt](/help/user-guide/effective-prompts.md) that describes the context or experience you intend to generate, along with [guidelines](/help/user-guide/guidelines/overview.md) and [_Parameters_](#parameters), in the prompt area and click **[!UICONTROL Generate]**.
 
 ### Brand validation
 

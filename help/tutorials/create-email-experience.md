@@ -38,11 +38,11 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Click **[!UICONTROL Select content]** to add content to be used in the experience *and* to influence content generation.
-   * To select assets (images) already published to [!DNL Content], click **[!UICONTROL Select from content]** and click to select the desired images. Use the filters to further narrow your search results.
+   * To select assets (images) from your [!DNL Content] repository, click **[!UICONTROL Select from content]**. Filter and select one or more images.
 
-      If you want to use assets already present in a connected AEM Content Hub repository, select the applicable location from the _Location_ dropdown menu and click to select the desired images.
+      To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ dropdown menu. Filter and select one or more images.
 
-   * Click **[!UICONTROL Upload]** to browse your files and choose assets to use. Along with browsing your device, you can also import from Microsoft OneDrive or Dropbox. Click to select the desired images.
+   * To upload one or more new assets, click **[!UICONTROL Upload]**, browse your files, and choose assets to use. Along with browsing your device, you can import from Microsoft OneDrive or Dropbox. Click to select the desired images.
    * Drag and drop assets into the _Content_ section.
 1. Click **[!UICONTROL Use]**.
 
