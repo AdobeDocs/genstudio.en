@@ -24,7 +24,7 @@ Asset details include metadata applied during the creation or upload process. As
 
 >[!NOTE]
 >
->Assets from AEM repositories display different metadata. See [Configure asset visibility](connect-aem-repo.md#step-4-configure-asset-visibility) to learn how to configure AEM Assets Content Hub asset details.
+>Assets from AEM repositories display different metadata. See [Configure asset visibility](connect-aem-repo.md#step-4-configure-asset-visibility) to learn how to configure [!DNL AEM Assets Content Hub] asset details.
 
 ## System metadata
 
