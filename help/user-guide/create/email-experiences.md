@@ -1,5 +1,5 @@
 ---
-title: Learn about email experiences
+title: Email experiences
 description: Learn about email experiences in Adobe GenStudio for Performance Marketing.
 feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
 role: User

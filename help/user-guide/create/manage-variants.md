@@ -56,7 +56,7 @@ You can manually crop and reposition image assets in individual generated varian
 **To crop and reposition images in variants**:
 
 1. After generating a set of variants, hover over an image within a variant.
-1. Click to crop icon that appears in the left corner of the image.
+1. Click the crop icon that appears in the left corner of the image.
 1. Adjust the image bounding box and drag the image into the desired position.
 1. Click **[!UICONTROL Apply]** to apply the crop to a single image or **[!UICONTROL Apply to all images]** to apply to all images in the variants.
 
