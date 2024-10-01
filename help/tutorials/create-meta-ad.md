@@ -82,7 +82,7 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 
 ## Submit generation feedback
 
-**To [submit feedback](/help/user-guide/create/manage-variants.md#generation-feedback) about the quality of the generation output**, click the options icon (three dots) and select **[!UICONTROL Good output]** or **[!UICONTROL Poor output]**.
+To [submit feedback](/help/user-guide/create/manage-variants.md#generation-feedback) about the quality of the generation output, click the options icon (three dots) and select **[!UICONTROL Good output]** or **[!UICONTROL Poor output]**.
 
 ## Verify brand alignment
 
