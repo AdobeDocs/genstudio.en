@@ -64,7 +64,7 @@ In the future, need guidance on template upload errors. For now, the UI just say
 
 ### Search content
 
-The [!DNL Content] filter and search interface is quick and responsive, and provides a productive search-first experience. Each [!DNL Content] view provides Filter options to narrow your search for the ideal asset, experience, or template. For assets and experiences, you can select a campaign and specific guidelines, such as content made for a specific product.
+The filter and search interface is quick and responsive, and provides a productive search-first experience. Each [!DNL Content] view provides Filter options to narrow your search for the ideal asset, experience, or template. For assets and experiences, you can select a campaign and specific guidelines, such as content made for a specific product.
 
 There are filters based on [keywords](asset-details.md#user-defined-metadata) and [attributes](/help/user-guide/insights/attributes.md) to narrow search results. For example, you may want to find an asset of a particular file type or subject matter to help you build a new experience for your campaign.
 
