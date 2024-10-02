@@ -21,11 +21,16 @@ In the attribute details view, you can see which experiences use the selected at
 
 ![Attribute performance metrics](/help/assets/insights-attribute-details.png){zoomable="yes"}
 
-GenStudio for Performance Marketing detects certain features and applies the appropriate attribute to an asset as a tag. See [Categories](#categories) to see examples of these tags. To see all the attributes associated with an experience, click the settings (cog) icon above the right side of the table to select the **[!UICONTROL Attributes]** column.
+GenStudio for Performance Marketing detects certain features and applies the appropriate attribute to an asset or experience as a tag. See [Categories](#categories) to see examples of these tags. To see all the attributes associated with an experience, click the settings (cog) icon above the right side of the table to select the **[!UICONTROL Attributes]** column.
 
 ## Categories
 
- GenStudio for Performance Marketing recognizes and tags categories for images, videos, and text features. Select any of the following to open a detailed list of attribute categories:
+GenStudio for Performance Marketing recognizes certain features of images, videos, and text and applies a feature tag to the asset. A _category_ is a set of features that share a specific characteristic. An example value of _image orientation_ is `landscape`.
+
+Attributes that are detected and automatically applied cannot be edited.
+
+<!--
+Select any of the following to open a detailed list of feature categories:
 
 +++**Image features**
 
@@ -50,8 +55,6 @@ GenStudio for Performance Marketing detects certain features and applies the app
 
 +++
 
-<!--End of Image features-->
-
 +++**Video features**
 
 | Category               | Values                              |
@@ -71,8 +74,6 @@ GenStudio for Performance Marketing detects certain features and applies the app
 
 +++
 
-<!--End of Video features-->
-
 +++**Text features**
 
 | Category               | Values                              |
@@ -87,13 +88,13 @@ GenStudio for Performance Marketing detects certain features and applies the app
 | Sentences Count  | |
 | Stop Words Ratio  | |
 | Text Quotes Count  | |
-| Tones  | <ul><li></li></ul> |
+| Tones  | |
 | Words Count  | |
 | Words Count Per Sentence  | |
 
 +++
 
-<!--End of Text features-->
+-->
 
 ## Attribute metrics
 
