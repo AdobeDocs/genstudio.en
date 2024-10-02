@@ -52,4 +52,5 @@ feature: Generative AI
     + [Connect channel account](insights/connect-channel.md)
     + [Channels](insights/channels.md)
     + [Experiences](insights/experiences.md)
-    + [Data columns](insights/data-columns.md)
+    + [Assets](insights/assets.md)
+    + [Attributes](insights/attributes.md)
