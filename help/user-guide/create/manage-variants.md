@@ -106,11 +106,11 @@ You can add or swap images in generated variants right from the Canvas.
    If the variant does not currently have a placed image asset, click the image asset area.
 
 1. To select an image asset already published to [!DNL Content]:
-   * Click **[!UICONTROL Select from content]**. Use the filters to further narrow your search results.
-   * Click **[!UICONTROL Use]**
+   1. Click **[!UICONTROL Select from content]**. Use the filters to further narrow your search results.
+   1. Click **[!UICONTROL Use]**
 1. To upload an image asset:
-   * Click **[!UICONTROL Upload New Image]** to browse your files and choose assets to use. Along with browsing your device, you can also import from Microsoft OneDrive or Dropbox.
-   * Click **[!UICONTROL Add Assets]**.
+   1. Click **[!UICONTROL Upload New Image]** to browse your files and choose assets to use. Along with browsing your device, you can also import from Microsoft OneDrive or Dropbox.
+   1. Click **[!UICONTROL Add Assets]**.
 
    The images are added or swapped into the applicable variant.
 
