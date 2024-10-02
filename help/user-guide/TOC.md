@@ -1,7 +1,7 @@
 ---
 user-guide-title: Adobe GenStudio for Performance Marketing User Guide
 breadcrumb-title: User Guide
-user-guide-description: Learn how to quickly find and generate on-brand assets, create variations, and optimize experiences based on real-time content performance insights.
+user-guide-description: Learn how to quickly create on-brand assets, generate variations, and optimize experiences.
 feature-set: GenStudio
 feature: Generative AI
 ---
