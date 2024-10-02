@@ -1,1 +1,1 @@
-# GenStudio for Performance Marketers snippets
+# GenStudio for Performance Marketing snippets
