@@ -1,15 +1,19 @@
 ---
 title: Assets overview
-description: Learn about evaluating asset performance in Adobe GenStudio for Performance Marketing.
+description: Learn how to evaluate asset performance in Adobe GenStudio for Performance Marketing.
 feature: Insights, Assets
 ---
 # Assets overview
 
 The [!DNL Insights] _[!UICONTROL Assets]_ view shows a list of assets used in experiences and ad campaigns for the selected channel account.
 
-The _[!UICONTROL Assets]_ gallery is the default view that shows a collage of asset previews and a metric, such as click-through rate. Click the settings (cog) icon above the right side of the gallery to toggle one of three viewable metrics: `click-through rate` (CTR), `cost per click` (CPC), or `spend`.
+The _[!UICONTROL Assets]_ gallery is the default view that shows a collage of asset previews and a metric, such as click-through rate. Click the settings (cog) icon above the right side of the gallery to toggle one of three viewable metrics:
 
-The _[!UICONTROL Assets]_ table is organized using [!UICONTROL Asset ID]. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from the [!UICONTROL Account], [!UICONTROL Campaign], [!UICONTROL Ads], and [!UICONTROL Asset types] lists to filter the assets in the table.
+- `click-through rate` (CTR)
+- `cost per click` (CPC)
+- `spend`
+
+The _[!UICONTROL Assets]_ table is organized using [!UICONTROL Asset ID]. The filter (funnel) icon above the left side of the table opens the **[!UICONTROL Filter]** menu where you can select from multiple lists.
 
 ![Assets filter and table](/help/assets/insights-assets-filter.png){zoomable="yes"}
 
@@ -19,7 +23,7 @@ You can toggle between the views using the view list (table) icon and the galler
 
 An _asset_ is an image, video, text, or other creative content approved for use in your marketing initiatives.
 
-Select an asset and view the total asset performance, a list of experiences that use the asset, and attributes associated with the asset. In the details view, you can view metrics based on experiences that use the asset within a specified date range.
+In the asset details view, you can see which experiences use the selected asset. Details include total asset performance, user-defined attributes, and AI-detected features associated with the asset.
 
 ![Asset details](/help/assets/insights-asset-details.png){zoomable="yes"}
 

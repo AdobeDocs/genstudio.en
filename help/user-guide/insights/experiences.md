@@ -1,6 +1,6 @@
 ---
 title: Experiences overview
-description: See an overview of customer engagement, budget, and expenditures for experiences and ad performance in Adobe GenStudio for Performance Marketing.
+description: See an overview of customer engagement, budget, and expenditures for experiences and ad placement performance in Adobe GenStudio for Performance Marketing.
 feature: Insights, Experiences
 ---
 # Experiences overview

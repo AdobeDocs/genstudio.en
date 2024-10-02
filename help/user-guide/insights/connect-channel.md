@@ -7,7 +7,9 @@ exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
 ---
 # Connect channel ad account
 
-The first time you open [!DNL Insights], you may see a banner to guide you to connect Adobe GenStudio for Performance Marketing with your channel accounts. This connection enables GenStudio for Performance Marketing to receive data from your active marketing campaigns, assets, and experiences. With [!DNL Insights], you have the tools to analyze the data and take action.
+The first time you open [!DNL Insights], you may see a banner to guide you to connect Adobe GenStudio for Performance Marketing with your channel accounts.
+
+This connection enables GenStudio for Performance Marketing to receive statistical data from your active marketing campaigns, assets, and experiences. Initially, GenStudio for Performance Marketing ingests the last 6 months of data so that you have the tools to analyze the latest data and take action.
 
 >[!BEGINSHADEBOX]
 

@@ -1,6 +1,6 @@
 ---
 title: Attributes overview
-description: Learn about evaluating the performance of mart tags and attributes in Adobe GenStudio for Performance Marketing.
+description: Learn how to evaluate the performance of specific attributes in Adobe GenStudio for Performance Marketing.
 feature: Insights, Assets
 ---
 # Attributes overview
@@ -15,11 +15,13 @@ The filter (funnel) icon above the left side of the table opens the **[!UICONTRO
 
 ## Attribute details
 
-Attributes help to identify assets by their inherent details, such as color, composition, visual elements, and other properties. GenStudio for Performance Marketing detects certain features and applies the appropriate attribute as a tag. See [Categories](#categories) to see examples of these tags.
+Attributes help to identify assets by their inherent details, such as color, composition, visual elements, and other properties.
 
-Select an attribute and view the performance metrics. In the details view, you can view metrics based on assets that use the attribute within a specified date range.
+In the attribute details view, you can see which experiences use the selected attribute. Details include total attribute performance and a breakdown of the performance metrics related to each experience.
 
 ![Attribute performance metrics](/help/assets/insights-attribute-details.png){zoomable="yes"}
+
+GenStudio for Performance Marketing detects certain features and applies the appropriate attribute to an asset as a tag. See [Categories](#categories) to see examples of these tags. To see all the attributes associated with an experience, click the settings (cog) icon above the right side of the table to select the **[!UICONTROL Attributes]** column.
 
 ## Categories
 
