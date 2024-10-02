@@ -53,18 +53,22 @@ When adding assets to [!DNL Content], they are by default stored in the `GenStud
    See [Metadata details](/help/user-guide/content/asset-details.md#system-metadata).
 
 1. Click **[!UICONTROL Add assets]**.
+
 1. When the asset upload is completed, click **Done**.
+
 1. To view your new uploaded assets, click **[!UICONTROL Refresh]** from the _New assets available_ notification at the bottom of the Canvas.
 
 <!-- 
 In the future, need guidance on template upload errors. For now, the UI just says error.
 -->
 
-### Search assets
+### Search content
 
-The [!DNL Content] search interface is quick and responsive, and provides a productive search-first experience.
+The [!DNL Content] filter and search interface is quick and responsive, and provides a productive search-first experience. Each [!DNL Content] view provides Filter options to narrow your search for the ideal asset, experience, or template. For assets and experiences, you can select a campaign and specific guidelines, such as content made for a specific product.
 
-Apply filters and use metadata tags from asset details to narrow search results. For example, you may want to find an asset of a particular file type or subject matter to help you build a new experience for your campaign.
+There are filters based on [keywords](asset-details.md#user-defined-metadata) and [attributes](/help/user-guide/insights/attributes.md) to narrow search results. For example, you may want to find an asset of a particular file type or subject matter to help you build a new experience for your campaign.
+
+When searching for _Experiences_, you can use the **[!UICONTROL Created by]** filter to limit the list to show only the experiences created by you or a specific person.
 
 **To search for content to reuse**:
 
