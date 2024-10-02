@@ -29,7 +29,7 @@ At the time that you created a campaign with Meta ads, you may have selected an 
 1. **App promotion**: Promote your application.
 1. **Sales**: Focus on reaching the people mostly likely to use your product.
 
-## Metrics
+## Channels metrics
 
 Depending on your performance goals, Insights metrics can help you evaluate whether you are achieving your objective.
 

@@ -93,7 +93,7 @@ Select an attribute and view the performance metrics. In the details view, you c
 
 <!--End of Text features-->
 
-## Metrics
+## Attribute metrics
 
 Insights metrics can help you evaluate which attributes inspire more customer engagement.
 

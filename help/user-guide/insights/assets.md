@@ -23,7 +23,7 @@ Select an asset and view the total asset performance, a list of experiences that
 
 ![Asset details](/help/assets/insights-asset-details.png){zoomable="yes"}
 
-## Metrics
+## Asset metrics
 
 Insights metrics can help you evaluate which assets contribute to the success of a campaign and which asset attributes are most effective.
 
