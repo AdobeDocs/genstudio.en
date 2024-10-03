@@ -36,9 +36,9 @@ You can edit image assets (JPG or PNG) directly within GenStudio for Performance
 
 1. In the _[!UICONTROL Powered by Adobe Express]_ Canvas, use the Express controls on the left panel to enhance your image.
 
-1. When you are happy with the updated image, click **[!UICONTROL Save copy]** in the upper right.
+1. When you are happy with the updated image, click **[!UICONTROL Save a copy]** in the upper right.
 
-1. Select the file format—JPG or PNG—and click **[!UICONTROL Save copy]**.
+1. Select the file format—JPG or PNG—and click **[!UICONTROL Save a copy]**.
 
 1. In the _[!UICONTROL Save a copy of asset]_ popup, update the **[!UICONTROL Asset name]**.
 
