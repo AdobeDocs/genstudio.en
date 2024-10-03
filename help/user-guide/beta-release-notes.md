@@ -19,6 +19,8 @@ These notes highlight significant Adobe GenStudio for Performance Marketing fixe
 
 * Issues with resizing and duplicating templates have been resolved. <!-- GS-4895 --> 
 
+* Brand validation now explains the reasoning underlying a validation failure during the validation process.
+
 ## Known issue
 
 * An error occurs during email load when a content editor uses a new or revised prompt to regenerate a specific section of an email. <!-- GS-5913 -->
