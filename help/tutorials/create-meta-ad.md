@@ -10,7 +10,7 @@ exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
 ---
 # Create a Meta ad experience
 
-This tutorial demonstrates how to generate branded Meta ad experiences using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
+This tutorial demonstrates how to generate branded [Meta ad experiences](/help/user-guide/create/meta-experiences.md) using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
 
 Before you begin generating a Meta ad experience, it is important to [incorporate guidelines](/help/user-guide/guidelines/add-guidelines.md) in GenStudio for Performance Marketing and become familiar with the basics of [creating a prompt](/help/user-guide/effective-prompts.md).
 
@@ -38,8 +38,11 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Click **[!UICONTROL Select content]** to add content to be used in the experience *and* to influence content generation.
-   * Click **[!UICONTROL Select from content]** to select assets (images) already published to [!DNL Content]. Use the filters to further narrow your search results.
-   * Click **[!UICONTROL Upload]** to browse your files and choose assets to use. Along with browsing your device, you can also import from Microsoft OneDrive or Dropbox.
+   * To select assets (images) already published to [!DNL Content], click **[!UICONTROL Select from content]** and click to select the desired images. Use the filters to further narrow your search results.
+
+      If you want to use assets already present in a connected AEM Content Hub repository, select the applicable location from the _Location_ dropdown menu and click to select the desired images.
+
+   * Click **[!UICONTROL Upload]** to browse your files and choose assets to use. Along with browsing your device, you can also import from Microsoft OneDrive or Dropbox. Click to select the desired images.
    * Drag and drop assets into the _Content_ section.
 1. Click **[!UICONTROL Use]**.
 
@@ -57,6 +60,8 @@ See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn mo
 1. Click **[!UICONTROL Generate]**.
 
 By default, four variations—all fueled by the prompt, guidelines, and content you added—are generated and shown in the Canvas.
+
+Generated content loads progressively—as each section of the Meta experiences are generated they appear in the Canvas. See [Meta experiences](/help/user-guide/create/meta-experiences.md#progressive-loading) to learn how those changes are loaded in the Canvas.
 
 ## Choose Meta ads channel
 
@@ -76,8 +81,8 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 * **To [manually edit a Meta ad](/help/user-guide/create/manage-variants.md#manually-edit-text)**, double-click into any of the ad sections (such as the subject line, header, or body copy) and edit as needed.
 * **To change or select the call to action**, click the call-to-action button and select from the available button text options. In _[!UICONTROL Link]_, enter a URL for the call-to-action text.
 * **To [change the size and aspect ratio of the ad](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**, click the _[!UICONTROL Resize]_ button (box with a button icon on the left side of the Canvas) and select a new size and aspect ratio to apply to all variants. The variants are duplicated and resized.
-<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
-* **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
+<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
+* **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click the crop icon that appears, and adjust the image size and placement.
 * **To [delete a Meta ad](/help/user-guide/create/manage-variants.md#delete-variant)**, click the ad title (for example, "Meta 4") and click **[!UICONTROL Delete variant]**.
 
 ## Verify brand alignment

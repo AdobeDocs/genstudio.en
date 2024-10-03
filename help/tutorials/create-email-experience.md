@@ -10,7 +10,7 @@ exl-id: 34446202-da98-45ff-869a-b43496a477f8
 ---
 # Create an email experience
 
-This tutorial demonstrates how to generate branded email experiences using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
+This tutorial demonstrates how to generate branded [email experiences](/help/user-guide/create/email-experiences.md) using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon in the left navigation area).
 
 To create an effective email experience, it is recommended that you [add guidelines to GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md) and brush up on the [basics of crafting a prompt](/help/user-guide/effective-prompts.md) before you begin.
 
@@ -38,8 +38,11 @@ Adding [guidelines](/help/user-guide/guidelines/overview.md) and assets in _Para
    If there are no brands, personas, or products available from these menus, [add guidelines to your GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Click **[!UICONTROL Select content]** to add content to be used in the experience *and* to influence content generation.
-   * Click **[!UICONTROL Select from content]** to select assets (images) already published to [!DNL Content]. Use the filters to further narrow your search results.
-   * Click **[!UICONTROL Upload]** to browse your files and choose assets to use. Along with browsing your device, you can also import from Microsoft OneDrive or Dropbox.
+   * To select assets (images) from your [!DNL Content] repository, click **[!UICONTROL Select from content]**. Filter and select one or more images.
+
+      To use assets from a connected [!DNL AEM Assets Content Hub] repository, choose a repository from the _Location_ dropdown menu. Filter and select one or more images.
+
+   * To upload one or more new assets, click **[!UICONTROL Upload]**, browse your files, and choose assets to use. Along with browsing your device, you can import from Microsoft OneDrive or Dropbox. Click to select the desired images.
    * Drag and drop assets into the _Content_ section.
 1. Click **[!UICONTROL Use]**.
 
@@ -62,6 +65,8 @@ See [Write effective prompts](/help/user-guide/effective-prompts.md) to learn mo
 
 By default, four variations—all fueled by the prompt, guidelines, and content you added—are generated and shown in the Canvas.
 
+Generated content loads progressively—as each section of the email experiences are generated they appear in the Canvas. See [Email experiences](/help/user-guide/create/meta-experiences.md#progressive-loading) to learn how those changes are loaded in the Canvas.
+
 ## Revise generated emails
 
 Before selecting what to send for approval or publishing to [!DNL Content] you can edit email sections or delete a variant from the set of generated emails.
@@ -75,9 +80,7 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 
 ## Preview for device
 
-When revising and preparing email experiences, you can toggle between previews for desktop and mobile views to ensure coherence and visual appeal of draft variants.
-
-**To preview variants for desktop and mobile devices**, toggle the device preview option—between **desktop** and **mobile**—in the right menu bar (computer and phone icons) to preview how variants appear.
+When revising and preparing email experiences, you can [toggle between previews for desktop and mobile views](/help/user-guide/create/manage-variants.md#preview-for-device) to ensure coherence and visual appeal of draft variants.
 
 ## Verify brand alignment
 

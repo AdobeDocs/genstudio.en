@@ -6,7 +6,7 @@ feature: Content, Assets, Experiences
 
 # Manage variants
 
-Adobe GenStudio for Performance Marketing [!DNL Create] enables you to customize and enhance generated variants—emails, Meta ads, and more—for use in digital marketing initiatives.
+Adobe GenStudio for Performance Marketing [!DNL Create] enables you to customize and enhance generated variants—[emails](/help/user-guide/create/email-experiences.md), [Meta ads](/help/user-guide/create/meta-experiences.md), and more—for use in digital marketing initiatives.
 
 When [creating experiences](/help/tutorials/tutorials.md), you can modify content and assets of generated variants individually or in a batch. The ability to manage variants at the individual micro level allows you to explicitly manage each piece of generated content.
 
@@ -47,7 +47,7 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 1. If you want to regenerate results, click the regenerate icon adjacent to _Results_.
 1. From the _Results_ that appear, select the desired option and click **[!UICONTROL Replace]**.
 
-   The variant is updated with the revised text.
+   The variant is updated with the revised text. -->
 
 ## Crop assets
 
@@ -56,11 +56,11 @@ You can manually crop and reposition image assets in individual generated varian
 **To crop and reposition images in variants**:
 
 1. After generating a set of variants, hover over an image within a variant.
-1. Click **[!UICONTROL Apply Crop]**.
-1. Zoom in and out and drag the image into the desired position.
-1. Click **[!UICONTROL Apply]**.
+1. Click the crop icon that appears in the left corner of the image.
+1. Adjust the image bounding box and drag the image into the desired position.
+1. Click **[!UICONTROL Apply]** to apply the crop to a single image or **[!UICONTROL Apply to all images]** to apply to all images in the variants.
 
-   The cropped image is automatically saved and visible for the variant. -->
+   The cropped image is saved and visible for the variants.
 
 ## Change aspect ratio
 
@@ -94,6 +94,12 @@ Available size/aspect ratios are:
   [!DNL Create] builds a copy of each variant based on the new selected aspect ratio. All variants, including ones in the initial aspect ratio, are present in the Canvas.
    
    For instance, if you generate four variants in a 1:1 aspect ratio initially and then change the aspect ratio to 4:5, _eight_ total variants are now available on the Canvas.
+
+## Preview for device
+
+When revising and preparing email experiences, you can toggle between previews for desktop and mobile views to ensure coherence and visual appeal of draft variants.
+
+**To preview variants for desktop and mobile devices**, toggle the device preview option—between **desktop** and **mobile**—in the right menu bar (computer and phone icons) to preview how variants appear.
 
 ## Delete variant
 
