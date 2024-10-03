@@ -91,9 +91,28 @@ Available size/aspect ratios are:
 
 1. Click **[!UICONTROL Duplicate and resize]**.
 
-  [!DNL Create] builds a copy of each variant based on the new selected aspect ratio. All variants, including ones in the initial aspect ratio, are present in the Canvas.
+   [!DNL Create] builds a copy of each variant based on the new selected aspect ratio. All variants, including ones in the initial aspect ratio, are present in the Canvas.
    
    For instance, if you generate four variants in a 1:1 aspect ratio initially and then change the aspect ratio to 4:5, _eight_ total variants are now available on the Canvas.
+
+## Swap image
+
+You can add or swap images in generated variants right from the Canvas.
+
+**To add or swap images in a variant**:
+
+1. After generating a set of variants, click an image asset.
+
+   If the variant does not currently have a placed image asset, click the image asset area.
+
+1. To select an image asset already published to [!DNL Content]:
+   1. Click **[!UICONTROL Select from content]**. Use the filters to further narrow your search results.
+   1. Click **[!UICONTROL Use]**
+1. To upload an image asset:
+   1. Click **[!UICONTROL Upload New Image]** to browse your files and choose assets to use. Along with browsing your device, you can import from Microsoft OneDrive or Dropbox.
+   1. Click **[!UICONTROL Add Assets]**.
+
+   The images are added or swapped into the applicable variant.
 
 ## Preview for device
 
@@ -113,7 +132,7 @@ Delete needless variants so that the working Canvas shows only the variants you 
 
    The variant is highlighted and a shortcut menu appears.
 
-1. Select **[!UICONTROL Delete]** from the available menu options.
+1. Select **[!UICONTROL Delete]** from the available options.
 
    The variant is deleted.
 
