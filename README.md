@@ -1,6 +1,6 @@
-# GenStudio for Performance Marketers documentation
+# GenStudio for Performance Marketing documentation
 
-This site contains the latest documentation for the GenStudio for Performance Marketers product.
+This site contains the latest documentation for the GenStudio for Performance Marketing product.
 
 ## Adobe Open Source Code of Conduct
 
