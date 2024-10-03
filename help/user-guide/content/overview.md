@@ -54,11 +54,11 @@ GenStudio for Performance Marketing [!DNL Content] provides a central location t
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/asset-details.md#edit-in-express">
-         <img alt="Adobe A" src="../../assets/icons/icon-editExpress.png">
+         <img alt="Edit in Adobe Express" src="../../assets/icons/icon-editExpress.png">
       </a>
       <p>
          <a href="../content/asset-details.md#edit-in-express">
-         <strong>Edit asset in Adobe Express</strong>
+         <strong>Edit assets in Adobe Express</strong>
          </a>
       </p>
    </td>

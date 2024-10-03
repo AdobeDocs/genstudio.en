@@ -28,13 +28,13 @@ Each asset (including experiences and templates) has associated _details_ (metad
 
 ## Edit in Express
 
-You can edit image assets (JPG or PNG) directly within GenStudio for Performance Marketing using Adobe Express. The _[!UICONTROL Powered by Adobe Express]_ canvas provides convenient features to enhance your images without leaving the GenStudio application. You can easily remove backgrounds, apply generative fills, adjust effects, and crop images.
+You can edit image assets (JPG or PNG) directly within GenStudio for Performance Marketing using Adobe Express. The _[!UICONTROL Powered by Adobe Express]_ Canvas provides convenient features to enhance your images without leaving the GenStudio application. You can easily remove backgrounds, apply generative fills, adjust effects, and crop images.
 
 1. In _[!DNL Content]_, select an image asset. Clicking on an asset opens a focused view of the asset.
 
 1. In the asset view, click the **[!UICONTROL Edit in Adobe Express]** icon in the upper right.
 
-1. In the _[!UICONTROL Powered by Adobe Express]_ canvas, use the Express controls on the left panel to enhance your image.
+1. In the _[!UICONTROL Powered by Adobe Express]_ Canvas, use the Express controls on the left panel to enhance your image.
 
 1. When you are happy with the updated image, click **[!UICONTROL Save copy]** in the upper right.
 
