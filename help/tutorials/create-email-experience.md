@@ -74,9 +74,13 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 **To revise generated variants**:
 
 * **To [edit the email draft name](/help/user-guide/create/manage-variants.md#change-draft-name)**, click into the _Untitled Draft_ title at the top of the Canvas and enter a new title.
-* **To [manually edit an email](/help/user-guide/create/manage-variants.md#manually-edit-text)**, double-click into any of the editable text fields (such as the subject line, header, or body copy) and edit as needed.
+* **To [manually edit an email](/help/user-guide/create/manage-variants.md#manually-edit-text)**, double-click into any of the editable text fields (such as the subject line, header, or body copy) and edit as needed
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
-* **To [delete an email](/help/user-guide/create/manage-variants.md#delete-variant)**, click to select the email title (for example, "Email 1/4") and click **[!UICONTROL Delete variant]**.
+* **To [delete an email](/help/user-guide/create/manage-variants.md#delete-variant)**, click the options icon (three dots) for a variant and click **[!UICONTROL Delete]**.
+
+## Submit generation feedback
+
+To [submit feedback](/help/user-guide/create/manage-variants.md#generation-feedback) about the quality of the generation output, click the options icon (three dots) and select **[!UICONTROL Good output]** or **[!UICONTROL Poor output]**.
 
 ## Preview for device
 

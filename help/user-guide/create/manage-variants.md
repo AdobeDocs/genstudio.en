@@ -109,7 +109,7 @@ Delete needless variants so that the working Canvas shows only the variants you 
 
 **To delete a generated variant**:
 
-1. After generating a set of variants, click on the name above a variant.
+1. After generating a set of variants, click the options icon (three dots) above a variant.
 
    The variant is highlighted and a shortcut menu appears.
 
@@ -122,3 +122,27 @@ Delete needless variants so that the working Canvas shows only the variants you 
 Use the _[!UICONTROL Brand guidelines check]_ and the _[!UICONTROL Brand validation panel]_ to maintain consistent brand identity and alignment of variants.
 
 See [Brand validation](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment).
+
+## Generation feedback
+
+Feedback on the quality of generated brand-aligned assets can be submitted to improve the content generation process. Indicating whether the results are of high or poor quality helps enhance the overall content quality and user safety of GenStudio for Performance Marketing.
+
+Generation feedback is applicable to an individual variant, not for the collected set of variants.
+
+**To submit generation feedback**:
+
+1. After generating a set of variants, click the options icon (three dots) above a variant.
+
+   The variant is highlighted and a shortcut menu appears.
+
+1. Select **[!UICONTROL Good output]** or **[!UICONTROL Poor output]**.
+
+   A feedback popup appears to collect further information. Generated content and prompt information is included in your feedback.
+
+1. Add the following information in the feedback popup:
+   1. Select the _[!UICONTROL Also include your reference content and layer data]_ option to include that extra reference information in the collected feedback.
+   1. From the _[!UICONTROL What worked well?]_ or _[!UICONTROL What went wrong?]_ section, select the options that describe what makes the content generation high or poor quality.
+   1. Add any other helpful or related information in the _[!UICONTROL Notes]_ field.
+1. Click **[!UICONTROL Submit]**.
+
+   A banner appears to confirm you submitted feedback.

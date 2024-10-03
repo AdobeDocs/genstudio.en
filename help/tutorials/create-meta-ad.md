@@ -85,6 +85,10 @@ Before selecting what to send for approval or publishing to [!DNL Content] you c
 * **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click the crop icon that appears, and adjust the image size and placement.
 * **To [delete a Meta ad](/help/user-guide/create/manage-variants.md#delete-variant)**, click the ad title (for example, "Meta 4") and click **[!UICONTROL Delete variant]**.
 
+## Submit generation feedback
+
+To [submit feedback](/help/user-guide/create/manage-variants.md#generation-feedback) about the quality of the generation output, click the options icon (three dots) and select **[!UICONTROL Good output]** or **[!UICONTROL Poor output]**.
+
 ## Verify brand alignment
 
 To optimize the generated ads and ensure strict adherence to brand identity, leverage the power of the [_Brand guidelines check_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check)—providing a summary of brand alignment for a variant—and the [_Brand validation_ panel](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)—displaying comprehensive brand validation details and illuminating improvement areas.
