@@ -84,7 +84,7 @@ When revising and preparing email experiences, you can [toggle between previews 
 
 ## Verify brand alignment
 
-To optimize the generated emails and ensure strict adherence to brand identity, leverage the power of the [_Brand guidelines check_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check)—providing a summary of brand alignment for a variant—and the [_Brand validation panel_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)—displaying comprehensive brand validation details and illuminating improvement areas.
+To optimize the generated emails and ensure strict adherence to brand identity, leverage the power of the [_Brand guidelines check_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check)—providing a summary of brand alignment for a variant—and the [_Brand validation_ panel](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)—displaying comprehensive brand validation details and illuminating improvement areas.
 
 **To verify brand alignment**:
 

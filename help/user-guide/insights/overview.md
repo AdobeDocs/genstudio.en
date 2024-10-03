@@ -4,9 +4,9 @@ description: Learn how to optimize experiences based on real-time content perfor
 feature: Attributes, Insights, Experiences, Assets, Channels
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
 ---
-# Adobe GenStudio for Performance Marketers [!DNL Insights]
+# Adobe GenStudio for Performance Marketing [!DNL Insights]
 
-Adobe GenStudio for Performance Marketers [!DNL Insights] provides advanced analytics and insights into content performance that can help you make data-driven decisions.
+Adobe GenStudio for Performance Marketing [!DNL Insights] provides advanced analytics and insights into content performance that can help you make data-driven decisions.
 
 From the [!DNL Insights] dashboard, you can:
 
@@ -16,7 +16,7 @@ From the [!DNL Insights] dashboard, you can:
 
 >[!TIP]
 >
->See the [Connect channel account](connect-channel.md) for steps to enable GenStudio for Performance Marketers to receive data from your current marketing campaigns, assets, and experiences.
+>See the [Connect channel account](connect-channel.md) for steps to enable GenStudio for Performance Marketing to receive data from your current marketing campaigns, assets, and experiences.
 
 ## Dashboard
 
@@ -25,8 +25,6 @@ The [!DNL Insights] dashboard has a configurable table for each content type: [!
 ![[!DNL Insights] dashboard](/help/assets/insights-dashboard.png)
 
 Each view displays a corresponding table, which you can search by keyword, filtering, and date range. You can click the settings (cog) icon above the right side of the table to toggle the viewable column types. The _[!UICONTROL Summary]_ row may show totals or averages of a column.
-
-See [Data columns for [!DNL Insights]](data-columns.md) for a description of each column type in the table.
 
 [!UICONTROL Experiences], [!UICONTROL Assets], and [!UICONTROL Attributes] include a gallery view that enables you to scan and sort assets using cards with an image or video thumbnail. There is an option to display one of three key metrics on each card: `Click-through rate`, `Cost per click`, and `Spend`.
 
@@ -44,7 +42,7 @@ The [!DNL Insights] _[!UICONTROL Assets]_ view is designed to help you analyze t
 
 Clicking on an asset provides further context about its performance across different experiences:
 
-![Asset view](/help/assets/insights-asset-view.png){width="600" zoomable="yes"}
+![Asset details](/help/assets/insights-asset-details.png){width="600" zoomable="yes"}
 
 In the asset view, the left side shows a thumbnail of the asset and a list of attributes. There are three highlighted metrics: `Click-through rate`, `Cost per click`, and `Spend`. The performance highlights show how actual values (solid line) compare to the average value (dotted line) over the selected time period (default is `Last 30 days`).
 
