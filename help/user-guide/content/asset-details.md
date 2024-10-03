@@ -20,11 +20,37 @@ Each asset (including experiences and templates) has associated _details_ (metad
    >
    >If the _[!UICONTROL Details]_ section is not visible, click the **[!UICONTROL Information]** (i) icon.
 
-Asset details include metadata applied during the creation or upload process. Asset metadata types include [system metadata](#system-metadata) and [user-defined metadata](#user-defined-metadata).
+   Asset details include metadata applied during the creation or upload process. Asset metadata types include [system metadata](#system-metadata) and [user-defined metadata](#user-defined-metadata).
 
 >[!NOTE]
 >
 >Assets from AEM repositories display different metadata. See [Configure asset visibility](connect-aem-repo.md#step-4-configure-asset-visibility) to learn how to configure [!DNL AEM Assets Content Hub] asset details.
+
+## Edit in Express
+
+You can edit image assets (JPG or PNG) directly within GenStudio for Performance Marketing using Adobe Express. The _[!UICONTROL Powered by Adobe Express]_ Canvas provides convenient features to enhance your images without leaving the GenStudio application. You can easily remove backgrounds, apply generative fills, adjust effects, and crop images.
+
+1. In _[!DNL Content]_, select an image asset. Clicking on an asset opens a focused view of the asset.
+
+1. In the asset view, click the **[!UICONTROL Edit in Adobe Express]** icon in the upper right.
+
+1. In the _[!UICONTROL Powered by Adobe Express]_ Canvas, use the Express controls on the left panel to enhance your image.
+
+1. When you are happy with the updated image, click **[!UICONTROL Save a copy]** in the upper right.
+
+1. Select the file format—JPG or PNG—and click **[!UICONTROL Save a copy]**.
+
+1. In the _[!UICONTROL Save a copy of asset]_ popup, update the **[!UICONTROL Asset name]**.
+
+   - Select **[!UICONTROL Same details as original asset]** to carry over the asset details to the new image.
+
+   - Expand the **[!UICONTROL More details]** section to update the Campaign, Guidelines, and other metadata.
+
+   >[!TIP]
+   >
+   >The more details that you provide, the more you experience the robust capabilities of GenStudio for Performance Marketing. Select one or more details from the list, or enter a new one where applicable, such as with keywords. Each detail you add appears below the list. Click **`x`** to remove a detail.
+
+1. Click **[!UICONTROL Save]**.
 
 ## System metadata
 
