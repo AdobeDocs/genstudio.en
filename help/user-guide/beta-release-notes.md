@@ -79,4 +79,4 @@ This release includes improvements to localization throughout the product interf
 
 ## Known issue
 
-* An error occurs during email load when a content editor uses a new or revised prompt to regenerate a specific section of an email. <!-- GS-5913 -->
+* Regenerated email fragments do not appear in thr variant after selection. (However, variants appear after the draft is reopened.) <!-- GS-5913 -->
