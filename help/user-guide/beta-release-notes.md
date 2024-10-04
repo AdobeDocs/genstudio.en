@@ -5,85 +5,78 @@ exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
 ---
 # Adobe GenStudio for Performance Marketing Beta release notes
 
-These notes highlight significant Adobe GenStudio for Performance Marketing fixes and enhancements for the week ending September 27.
+These notes highlight significant Adobe GenStudio for Performance Marketing fixes and enhancements for the week ending October 4.
 
 ## New features and enhancements
 
-* GenStudio can now extract persona and product information from an uploaded PDF and populate related fields. <!-- GS-3806 -->
+* Filtering capability across the product has been enhanced. Issues with filtering by age and gender in [!DNL Insights] have been resolved.  <!-- GS-1198 -->
 
-* Users can now filter [!DNL Content] assets and experiences by the name of the user who uploaded the asset. <!-- GS-1808 --> 
+* You can edit image assets (JPG or PNG) directly using Adobe Express. Content editors can use the _[!UICONTROL Powered by Adobe Express]_ Canvas to remove backgrounds, apply generative fills, adjust effects, and crop images without leaving GenStudio for Performance Marketing. <!-- GS-4615 -->
 
-* Renamed the [!DNL Additional details] section to [!DNL Messaging preferences] in the [!DNL Products] detail page. <!-- GS-5133 5134 -->
+* Improved the experience of progressive loading for generated variants, generated email, and contextual messaging. <!-- GS-4651 3062-->
 
-* Added an [!DNL Add persona] button to the _Add your first persona_ page. <!-- GS-5132 -->
+* Content editors can now use the adjust crop feature to crop rendered images in variants. <!-- GS-2342 -->
 
-## Known issues
+* Issues with resizing and duplicating templates have been resolved. <!-- GS-4895 -->
 
-The following known issues are scheduled for resolution in the GenStudio for Performance Marketing GA release.
+* Brand validation now explains the cause of failures that occur during validation.
 
-* Templates can be uploaded but not seen. **Workaround**: Upload an asset with the **[!UICONTROL Campaigns]** field populated. Then, upload the template again. <!-- GS-4815 5650--> 
+* Template previews now display on-image text as expected. <!-- GS-5917 -->
 
-* Users cannot manually crop Meta ads after resizing them. <!-- GS-5871 --> 
+## Additional enhancements and fixed issues
 
-* Users must log in twice to a channel Meta ads account when they are also logged in to Facebook. Workaround: Log out of Facebook before logging into a channel Meta ads account. <!-- GS-3009 --> 
+* The [!DNL Create] Canvas now renders custom fonts from templates as expected. <!-- GS-3415 -->
 
-### Additional enhancements and fixed issues
+* The correct font is now applied during Meta ad export. <!-- GS-5875 -->
 
-* Intermittent latency issues with some [!DNL Create] Canvas operations have been resolved. <!-- GS-5203 -->
+* Issues with template upload that resulted in successful upload but lack of visibility in the product interface have been resolved. <!-- GS-4815 5650-->
 
-* Users no longer need to log in twice to a channel Meta ads account when they are also logged in to Facebook. <!-- GS-4806 -->
+* Users can now manually crop Meta ads after resizing them. <!-- GS-5871 -->
 
-* Email generation now longer results in an incomplete email. <!-- GS-5209 -->
+* Users no longer need to log in twice to a channel Meta ads account when they are also logged in to Facebook. <!-- GS-3009 -->
 
-* Creating a campaign in the template workflow now stores IDs as expected.  <!-- GS-4923 -->
+* The Canvas view of assets and experiences now remains consistent across the content creation, review, and approval process. <!-- GS-5877 -->
 
-* The multi-repository selector now lists repositories in alphabetical order. <!-- GS-5553 -->
+* The Canvas now displays only four variants when regenerating after a resize operation. <!-- GS-5869 -->
 
-* Issues with CSV export file formats for non-English languages have been resolved. <!-- GS-5141 -->
+* Browser-based spellcheck now works as expected in the [!DNL Create] Canvas. <!-- GS-5760 -->
 
-* Users can now click the [!DNL Create] _Recent work_ area **[!UICONTROL View all drafts]** button  while drafts are loading. Previously, clicking this button before all drafts had loaded resulted in only a few drafts being loaded, and the **[!UICONTROL View all drafts]** button became unavailable. <!-- GS-3938 -->
+* Display Ads are now exported as PNG files when **[!UICONTROL Export as PNG]** is selected. Previously, display ads were exported as JPEG when PNG format was selected. <!-- GS-5545 -->
 
-* The [!DNL Create] Canvas now displays the **[!UICONTROL View all drafts]** button as expected when the Canvas displays more than four drafts. <!-- GS-5588 -->
+* Padding has been increased between the **[!UICONTROL Manual crop]** button and **[!UICONTROL Generate]** button. Previously, the **[!UICONTROL Manual crop]** button was partially obscured. <!-- GS-6084 -->
 
-* Search now works as expected in the _Attributes_ tab. <!-- GS-5658 -->
+* Template previews now display Google fonts as expected. <!-- GS-5946 -->
 
-* Shimmer animation is now scaled properly during experience loading. <!-- GS-5574 -->
+* Imported TypeKit and Google fonts are now loaded as expected during export. <!-- GS-5948 -->
 
-* Thumbnail previews for multi-part emails now render as expected in [!DNL Content]. <!-- GS-5258 -->
+* Resolved issues with generating content with custom templates. Previously, when a content editor tried to generate an asset using a custom template, the generation popup was not displayed, and the console displayed errors. <!-- GS-5262 -->
 
-* Corrected a Workfront-related issue with the **[!UICONTROL Send for approval]** button. <!-- GS-5847 -->
+* The DisplayAds draft Canvas now maintains its position when a user right-clicks the Canvas before left-clicking out of the context menu. Previously, the Canvas shifted when the user left-clicked, which rendered the draft content partially inaccessible.  <!-- GS-5687 -->
 
-* Corrected issues with loading shimmer on the [!DNL Create] Recent work view. <!-- GS-5589 -->
+* Loading shimmer effects now persist until image regeneration is complete.  <!-- GS-5811 -->
 
-* Entering a search term now results in only one search call as expected.  <!-- GS-2999 -->
+* Brand validation scores are no longer invalidated after a user makes edits to generated email, Meta ads, or display ads. Previously, this score was hidden. <!-- GS-5379 -->
 
-* Corrected image rendering of Meta ad-generated images after export. <!-- GS-5749 -->
+* Templates that have CSS styles attached to their `body` element are now leveraged as expected during export of experiences. <!-- GS-5947 -->
 
-* The `%` symbol is now rendered correctly in DEU, FRA and ESP locales when users zoom in or zoom out of email variants in the C[!DNL Create] Canvas. <!-- GS-5007 -->
+* Corrected issues with the manual crop of large dimension images. <!-- GS-6039 -->
 
-#### Localization
+* Only one pop-up message now appears when a user adds a new asset in [!DNL Content]. <!-- GS-5020 -->
 
-This release includes improvements to localization throughout the product interface, especially throughout [!DNL Create]. The following interface components have been localized: <!-- GS-5295 -->
+* Improved Canvas performance during text editing.  <!-- GS-5118 -->
 
-* All strings in the _Prompt_ area (Parameters title, dropdown-menu option names, and prompt placeholder text) <!-- GS-5027 -->
+* Added missing spaces between strings on the [!DNL Create] Email or Meta ad Canvas. <!-- GS-5019 -->
 
-* All strings in the _Resize_ window for generated Meta ads in [!DNL Create] <!-- GS-5035 -->
+* Editors can now save a file with names that contain special characters after editing in Express. <!-- GS-6131 -->
 
-* All strings in the _Recent work_ area in [!DNL Create] <!-- GS-5037 -->
+### Localization
 
-* The Brands, Personas, and Product dropdown menu option strings in the Prompt area <!-- GS-5293 -->
+This release includes improvements to localization throughout the product interface, including these interface areas:
 
-* The **Zoom to fit to screen** string displayed during email and Meta ad generation <!-- GS-5063 -->
+* The URL for the **[!UICONTROL Learn more]** option destination in the [!DNL Create] prompt menu. <!-- GS-5029 -->
 
-* Date and time formats, **Untitled Draft** string, and error messages in Email and Meta ads names <!-- GS-5023 5022 5048-->
+* Number formats adjacent to the [!DNL Insights] > [!DNL Experience] search input fields. <!-- GS-4494 -->
 
-* The [!DNL Content] _Assets_ tab gallery view strings and percentage symbol (%)  <!-- GS-4983 4984-->
+## Known issue
 
-* The percentage symbol (%) used in the Insights > Experiences click-through rate <!-- GS-4279 -->
-
-* Error message displayed when a system error occurs during email or Meta ads creation<!-- GS-5061 -->
-
-* Decimal separator for the "Word Count Per Sentence"  phrase on the Insights Experience details page <!-- GS-4986 -->
-
-* Strings in the Export menu for a Meta ad generated with a template. <!-- GS-5031 -->
-
+* Regenerated email fragments do not appear in the variant after selection. (However, variants appear after the draft is reopened.) <!-- GS-5913 -->
