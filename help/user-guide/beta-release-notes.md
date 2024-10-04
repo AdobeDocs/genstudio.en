@@ -21,6 +21,9 @@ These notes highlight significant Adobe GenStudio for Performance Marketing fixe
 
 * Brand validation now explains the reasoning underlying a validation failure during the validation process.
 
+* Template previews now display on-image text as expected. <!-- GS-5917 -->
+
+
 ## Known issue
 
 * An error occurs during email load when a content editor uses a new or revised prompt to regenerate a specific section of an email. <!-- GS-5913 -->
@@ -68,6 +71,9 @@ These notes highlight significant Adobe GenStudio for Performance Marketing fixe
 * Improved Canvas performance during text editing.  <!-- GS-5118 --> 
 
 * Added missing spaces between strings on the [!DNL Create] Email or Meta ad Canvas. <!-- GS-5019 --> 
+
+* Editors can now save a file with names that contain special characters after editing in Express. <!-- GS-6131 -->
+
 
 #### Localization
 
