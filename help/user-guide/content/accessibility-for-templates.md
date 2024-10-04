@@ -1,6 +1,6 @@
 ---
 title: Create accessible templates
-description: Build templates in Adobe GenStudio for Performance Marketers that are capable of reaching more of your audience and providing an optimal experience.
+description: Build templates in Adobe GenStudio for Performance Marketing that are capable of reaching more of your audience and providing an optimal experience.
 feature: Templates, Content
 exl-id: eaaa5d9f-ad45-4fd0-826d-c250deb6d238
 ---
@@ -8,7 +8,7 @@ exl-id: eaaa5d9f-ad45-4fd0-826d-c250deb6d238
 
 Adobe is committed to providing an optimal experience for all audiences. See [Accessibility Initiatives at Adobe](https://www.adobe.com/trust/accessibility/initiatives.html) for further reading.
 
-In GenStudio for Performance Marketers, you can upload assets and templates that enable content creation for a variety of experiences. Adhering to accessibility standards helps your content reach your maximum intended audience.
+In GenStudio for Performance Marketing, you can upload assets and templates that enable content creation for a variety of experiences. Adhering to accessibility standards helps your content reach your maximum intended audience.
 
 Use the following recommendations to prepare your templates using optimal accessibility standards.
 
