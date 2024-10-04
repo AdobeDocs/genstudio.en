@@ -79,4 +79,4 @@ This release includes improvements to localization throughout the product interf
 
 ## Known issue
 
-* Regenerated email fragments do not appear in thr variant after selection. (However, variants appear after the draft is reopened.) <!-- GS-5913 -->
+* Regenerated email fragments do not appear in the variant after selection. (However, variants appear after the draft is reopened.) <!-- GS-5913 -->
