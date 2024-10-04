@@ -26,7 +26,7 @@ index: false
   </td>
   <td>
     <a href="https://genstudioacademy.adobelearningmanager.com/">
-    <img alt="Log-in to Adobe GenStudio Academy" src="/help/assets/card-manage-content.png" />
+    <img alt="Log in to Adobe GenStudio Academy" src="/help/assets/card-manage-content.png" />
     </a>
     <div>
     <a href="https://genstudioacademy.adobelearningmanager.com/">
@@ -34,7 +34,7 @@ index: false
     </a>
     </div>
     <p>
-    <em>Already have an account at Adobe GenStudio Academy?  Log-in, and start learning!</em>
+    <em>Already have an account at Adobe GenStudio Academy? Log in, and start learning!</em>
     </p>
   </td>
 </tr>
@@ -45,4 +45,4 @@ index: false
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434938?autoplay=true&end=replay)
 
-Adobe GenStudio Academy is an intuitive way to enhance your learning about Adobe GenStudio.   Adobe GenStudio, coming soon, is an intuitive product that collects the top tools marketers need to deliver on cross-channel campaigns. Built on generative AI, it empowers any team member to quickly find and generate assets, create variations, and optimize experiences based on real-time content performance insights. It’s built for small businesses to large enterprises and designed to be used by marketers or agencies. With GenStudio, it’s never been easier to deliver high-value experiences to your customers.
+Adobe GenStudio Academy is an intuitive way to enhance your learning about Adobe GenStudio. Adobe GenStudio, coming soon, is an intuitive product that collects the top tools marketers need to deliver on cross-channel campaigns. Built on generative AI, it empowers any team member to quickly find and generate assets, create variations, and optimize experiences based on real-time content performance insights. It is built for small businesses to large enterprises and designed to be used by marketers or agencies. With GenStudio, it has never been easier to deliver high-value experiences to your customers.
