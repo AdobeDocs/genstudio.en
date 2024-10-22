@@ -1,6 +1,6 @@
 ---
 cloud: Experience Cloud
-solution: GenStudio
+solution: GenStudio for Performance Marketing
 type: Documentation
 git-repo: https://github.com/AdobeDocs/genstudio.en
 mini-toc-levels: 2
