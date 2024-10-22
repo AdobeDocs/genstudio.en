@@ -8,8 +8,9 @@ feature: Generative AI
 
 # Adobe GenStudio for Performance Marketing Guide {#user-guide}
 
-+ [GenStudio for Performance Marketing Guide](home.md)
-+ Release notes {#release-notes}
++ [GenStudio for Performance Marketing Guide](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home)
+
+<!-- + Release notes {#release-notes}
   + [Beta release notes](beta-release-notes.md)
 + [Get started](get-started.md)
 + Introduction {#intro}
@@ -57,3 +58,4 @@ feature: Generative AI
   + [Assets](insights/assets.md)
   + [Attributes](insights/attributes.md)
 + [GenStudio Academy - Hidden](genstudioacademy.md)
+ -->
