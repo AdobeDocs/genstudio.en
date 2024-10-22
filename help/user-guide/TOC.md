@@ -6,7 +6,7 @@ user-guide-description: Explore the capabilities of Adobe GenStudio for Performa
 
 # Adobe GenStudio for Performance Marketing Guide {#user-guide}
 
-+ [GenStudio for Performance Marketing Guide](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home)
++ [GenStudio for Performance Marketing Guide](home.md)
 
 <!-- + Release notes {#release-notes}
   + [Beta release notes](beta-release-notes.md)
