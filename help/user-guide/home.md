@@ -4,4 +4,4 @@ description: Explore the capabilities of Adobe GenStudio for Performance Marketi
 ---
 # Adobe GenStudio for Performance Marketing User Guide
 
-This content has moved to the [GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing) documentation home.
+This content has moved to the [GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing) documentation page.
